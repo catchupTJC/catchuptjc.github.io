@@ -12,9 +12,7 @@ layout: default
   {% endif %}
 
   {% if page.hymns %}
-  {% for hymn in page.hymns %}
-    <div class="post-hymn">Hymn No:{{ pages.hymns }}#{{ hymn | slugify }}</div>
-  {% endfor %}
+    <div class="post-hymn">Hymn No :{{ pages.hymns }}#{{ hymn | slugify }}</div>
   {% endif %}
   
   <div class="entry">
