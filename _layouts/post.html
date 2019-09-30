@@ -11,10 +11,9 @@ layout: default
   {% endfor %}
   {% endif %}
 
-  {% if page.hymns %}
   <p>Hymn No:</p>
-  <div class="post-hymn">{{ pages.hymns | slugify }}
-  </div>
+  {% if page.hymns %}
+  <div class="post-hymn">{{ pages.hymns | slugify }}</div>
   {% endif %}
   
   <div class="entry">
