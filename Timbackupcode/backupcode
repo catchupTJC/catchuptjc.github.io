@@ -1,0 +1,11 @@
+
+
+---
+Background Music in website
+
+Layout , Default
+
+add codes into default layout near disqus {% include disqus.html %}
+{% include music.html %}
+
+---

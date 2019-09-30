@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- fonts awesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    {% if page.tipue_search_active or layout.tipue_search_active %}
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+    <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+    {% endif %}
+    
+  </head>
+ 
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/98453676b04598ca697f21a3c385f7c36777d17a/index" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/98453676b04598ca697f21a3c385f7c36777d17a/index">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav>
+            <a href="{{ site.baseurl }}/categories/categories">Category</a>
+            <a href="{{ site.baseurl }}/categories/tags">Tags</a>
+            <a href="{{ site.baseurl }}/search">Search</a>            
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+ 
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
+    </div>
+    
+      {% include analytics.html %}
+
+    <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+    
+  </body>
+</html>

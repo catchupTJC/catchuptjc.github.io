@@ -1,0 +1,44 @@
+
+//
+// VARIABLES
+
+//Post Tag
+.post-tag {
+    display: inline-block;
+    background: rgba(106,159,181,0.15);
+    padding: 0 .5rem;
+    margin-right: .5rem;
+    border-radius: 4px;
+    font-family: "PT Sans",Helvetica,Arial,sans-serif;
+    font-size: 90%;
+    transition: all 0.1s ease-in-out;
+}
+
+.post-tag:before {
+    font-family: FontAwesome;
+    content: "\f02b";
+    padding-right: .5em;
+}
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
