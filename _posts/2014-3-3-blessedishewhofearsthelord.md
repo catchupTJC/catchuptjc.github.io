@@ -2,10 +2,9 @@
 layout: post
 title: Blessed Is He Who Fears The Lord (1) 敬畏神的人有福的（一）
 category: Sermon(SG)
-tags: [Feargod]
-hymns:
+tags: [Fear God]
+hymns: [227]
 ---
-227: Oh, How Happy Are They
 
 Deut 10:12-13
 Moses asked the people of God, “What does the Lord your God require of you? To fear Him.”
