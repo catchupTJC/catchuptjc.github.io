@@ -61,11 +61,10 @@ tag_page: '/categories/tags/'
 category_page: '/categories/categories/'
 
 # paginate
-#ifgoterror check here
 gems:
   - jekyll-paginate
 paginate: 5
-paginate_path: '/categories/page:num'
+paginate_path: '/98453676b04598ca697f21a3c385f7c36777d17a/page:num'
 
 #
 # !! You don't need to change any of the configuration flags below !!
