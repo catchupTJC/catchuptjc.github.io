@@ -32,17 +32,19 @@ title: Category
   {% endfor %}
 </div>
 
+'//change "/98453676b04598ca697f21a3c385f7c36777d17a/" when change file location   
+ 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}{{paginate_path_index }}page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}/98453676b04598ca697f21a3c385f7c36777d17a/page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}{{paginate_path_index }}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/98453676b04598ca697f21a3c385f7c36777d17a/">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}{{paginate_path_index }}page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}/98453676b04598ca697f21a3c385f7c36777d17a/page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
