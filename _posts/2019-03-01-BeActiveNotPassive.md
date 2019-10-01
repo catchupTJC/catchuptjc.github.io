@@ -2,7 +2,7 @@
 layout: post
 title: Be Active Not Passive 我要做而不是要我做
 category: Sermon(SG)2019
-tags: [Reflection]
+tags: [Service,Conviction]
 hymns: [282 To The Work,'288 Work, for the Night Is Coming']
 ---
 Active VS Passive
