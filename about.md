@@ -6,11 +6,6 @@ permalink: /about/
 
 This is a simple sermon note repositary for loving church members who wants to share God's words.
 
-### More about our church
-
-### [Find a Church near you](https://tjc.org/find-a-church/)
-### [Our Basic Beliefs](https://tjc.org/intro-to-basic-beliefs/#top)
-
 ### Contact me
 
 [catchuptjc@gmail.com](mailto:catchuptjc@gmail.com)
