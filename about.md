@@ -6,10 +6,6 @@ permalink: /about/
 
 This is a simple sermon note repositary for loving church members who wants to share God's words.
 
-### Contact me
-
-[catchuptjc@gmail.com](mailto:catchuptjc@gmail.com)
-
 ### More Sermon Notes to share
 
 If you have any additional sermon notes to share, kindly post in the comments/discussion section below in the following format:
