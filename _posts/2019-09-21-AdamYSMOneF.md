@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YSM Saturday afternoon: One Flesh-Marriage(2) 一体-婚姻（二）
+title: One Flesh-Marriage(2) 一体-婚姻（二）
 category: Sermon(SG)2019
 tags: []
 hymns: ['333: Safely Through Another Week‘, ‘299: Come, Let Us Gather with Rejoicing’]
