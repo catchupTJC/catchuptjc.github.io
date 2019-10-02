@@ -2,10 +2,9 @@
 layout: post
 title: YSM Saturday afternoon: One Flesh-Marriage(2) 一体-婚姻（二）
 category: Sermon(SG)2019
-tags: []
+tags: 
 hymns: ['333: Safely Through Another Week‘, ‘299: Come, Let Us Gather with Rejoicing’]
 ---
-
 
 How do we maintain and manage our marriage? In the morning we mentioned about preparation, which is to depart from your parents, and then the two shall become one. The adjustment one needs to have in marriage is to be one with your wife. In the morning the speaker talked about how in marriage two shall become one, how to live in harmony with your wife and how the two need to communicate. 
 
