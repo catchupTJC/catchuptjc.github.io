@@ -12,7 +12,7 @@ This is a simple sermon note repositary for loving church members who wants to s
 
 ### More Sermon Notes to share
 
-If you have any additional sermon notes to include kindly share them in the comment section below in the following format:
+If you have any additional sermon notes to share, kindly share it in the comments/discussion section below in the following format:
 <p> *Editable section</p>
  
 <p>---</p>
