@@ -12,21 +12,21 @@ This is a simple sermon note repositary for loving church members who wants to s
 
 ### More Sermon Notes to share
 
-If you have any additional sermon notes to include kindly share them in the comment section below in the following template:
- *Editable section
+If you have any additional sermon notes to include kindly share them in the comment section below in the following format:
+<p> *Editable section</p>
  
----
-layout: post
-title: *SermonTitle
-category: *SermonCatagory
-tags: [*tag1,*tag2]
-hymns: [*hymn1,*hymn2]
----
-*SermonContent
+<p>---</p>
+<p>layout: post</p>
+<p>title: *SermonTitle</p>
+<p>category: *SermonCatagory</p>
+<p>tags: [*tag1,*tag2]</p>
+<p>hymns: [*hymn1,*hymn2]</p>
+<p>---</p>
+<p>*SermonContent</p>
 
 
-----
-****
+<p>----</p>
+<p>****</p>
 
 
   {% include disqus.html %}
