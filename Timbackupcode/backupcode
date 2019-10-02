@@ -9,3 +9,6 @@ add codes into default layout near disqus {% include disqus.html %}
 {% include music.html %}
 
 ---
+To see traffic, login google: richard
+
+https://analytics.google.com/analytics/web/#/report-home/a143102966w204400277p197795880
