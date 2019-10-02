@@ -2,7 +2,7 @@
 layout: post
 title: One Flesh-Marriage(2) 一体-婚姻（二）
 category: Sermon(SG)2019
-tags: []
+tags: [Marriage]
 hymns: [333,299]
 ---
  : Safely Through Another Week
