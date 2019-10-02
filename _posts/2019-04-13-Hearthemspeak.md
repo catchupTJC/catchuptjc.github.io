@@ -2,7 +2,7 @@
 layout: post
 title: Hear Them Speak (1) 听听它们说(一) 
 category: Sermon(SG)2019
-tags: [Learn from Nature]
+tags: [Learn From Nature, Unedited]
 hymns: [129,127]
 ---
 The Chinese ‘它们’ refers to an object or an animal, or food. 
