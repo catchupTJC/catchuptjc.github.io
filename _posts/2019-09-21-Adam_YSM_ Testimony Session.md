@@ -2,7 +2,7 @@
 layout: post
 title: Testimony of Hoong Wu and Rachel
 category: Sermon(SG)2019
-tags: [Testimony,Marriage,Courtship]
+tags: [Testimony,Courtship]
 hymns: []
 ---
 
