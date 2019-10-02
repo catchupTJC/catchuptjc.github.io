@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Be Active Not Passive 我要做而不是要我做
+title: Attention, Not Just Attendance 聚会印聚情会神
 category: Sermon(SG)2019
 tags: [Service,Conviction]
-hymns: [282 To The Work,'288 Work, for the Night Is Coming']
+hymns: ['26: The Quiet Hour','389: Nearer, Still Nearer']
 ---
 
 Eccl 5:1-2
