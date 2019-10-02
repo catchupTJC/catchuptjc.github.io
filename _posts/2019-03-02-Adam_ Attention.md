@@ -3,7 +3,7 @@ layout: post
 title: Attention, Not Just Attendance 聚会印聚情会神
 category: Sermon(SG)2019
 tags: []
-hymns: [26: The Quiet Hour‘,‘’]
+hymns: ['26: The Quiet Hour‘,‘389: Nearer, Still Nearer’]
 ---
 
 Eccl 5:1-2
@@ -101,7 +101,7 @@ Psa 25:5
 We’re here to receive God’s guidance, to be guided into God’s truth. The psalmist says here to be guided the truth, he was willing to wait the whole day. 
 
 We should come early and wait on God. It shouldn’t be God waiting for us. It shouldn’t be us walking in 15min late. We should instead come perhaps 30min early. Pray. And attend the hymnal session, which is a biblical way to prepare ourselves. The hymns we sing before the sermons is an important preparatory stage. So we have to come early and wait on God. 
-389: Nearer, Still Nearer
+
 
 ----
 ****
