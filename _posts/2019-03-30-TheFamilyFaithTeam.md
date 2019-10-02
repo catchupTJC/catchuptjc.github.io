@@ -2,7 +2,7 @@
 layout: post
 title: The Family Faith Team 家庭信仰小组
 category: Sermon(SG)2019
-tags: [Reflection]
+tags: [Family,Faith]
 hymns: [115,105]
 ---
 
