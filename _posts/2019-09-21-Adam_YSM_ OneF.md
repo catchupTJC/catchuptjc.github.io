@@ -5,7 +5,6 @@ category: Sermon(SG)2019
 tags: []
 hymns: ['333: Safely Through Another Week‘,‘299: Come, Let Us Gather with Rejoicing’]
 ---
-
 How do we maintain and manage our marriage? In the morning we mentioned about preparation, which is to depart from your parents, and then the two shall become one. The adjustment one needs to have in marriage is to be one with your wife. In the morning the speaker talked about how in marriage two shall become one, how to live in harmony with your wife and how the two need to communicate. 
 
 Each couple has an invisible emotional bank. This is a bank you need to often make deposits to. How do you do so? When your wife pours you a cup of tea, don’t be stingy. You should say, “Thank you, dear, you’re so kind.” When your wife cuts you fruits, even if the mango is sour, you should thank your wife. If we don’t allow this emotional bank to increase in its value, it’ll be bankrupt one day. Let us keep investing and deposit more into this bank. Every argument and conflict will cause the value of the bank to diminish, until the bank finally bankrupts. The marriage will also go bankrupt, resulting in a divorce. Is divorce the solution? A divorce is but a shortcut, not a solution to problems within the couple. 
