@@ -2,7 +2,7 @@
 layout: post
 title: Who Holds the Missing Peace? 遗失的平安在谁手中？
 category: Sermon(SG)2019
-tags: [Reflection]
+tags: [Search]
 hymns: [36,70]
 ---
 
