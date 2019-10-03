@@ -42,18 +42,7 @@ layout: default
 </div>
 
 <h2>Related Posts</h2>	
-<ul>
-  {% for post in site.posts %}
-    {% if post.url != page.url %}	
-      {% for tag in page.tags %} 
-        {% if post.tags contains tag %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a><br /></li>
-          {% break %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-</ul>
+
   	<h6>1 Thess 5:11 Therefore encourage one another and build one another up, just as you are doing.</h6>
 	<p><font size="3">The purpose of the comments section below is for us to share our thoughts and spur each other toward God,
 	    kindly note that any comments that is continously flagged will be automatically removed from the discussion thread.</p>
