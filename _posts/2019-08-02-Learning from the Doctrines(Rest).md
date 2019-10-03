@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning from the Doctrines: Rest 从教义中学习：休息
+title: Learning from the Doctrines(Rest) 从教义中学习：休息
 category: Sermon(SG)2019
 tags: [Doctrine,Rest,Still,Sabbath]
 hymns: [318,171]
