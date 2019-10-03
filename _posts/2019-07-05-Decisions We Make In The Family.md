@@ -2,7 +2,7 @@
 layout: post
 title: Decisions We Make In The Family 家中做的决定
 category: Sermon(SG)2019
-tags: [Family,Decision,Family Altar,Nurture Next Generation]
+tags: [Family,Decision,Family Altar,Nurture Next Generation,Parents,Children]
 hymns: [344,398]
 ---
 
