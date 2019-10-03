@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning from the Doctrines: Truth 从教义中学习：真理
+title: Learning from the Doctrine (Truth) 从教义中学习：真理
 category: Sermon(SG)2019
 tags: [Reflection]
 hymns: [382,67]
