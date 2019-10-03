@@ -26,7 +26,7 @@ layout: default
   </div>
 
   <div class="related">
-  <h2>Related Posts</h2>
+  <h2>Latest Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
     <li>
@@ -41,6 +41,19 @@ layout: default
   </ul>
 </div>
 
+<h2>Related Posts</h2>	
+<ul>
+  {% for post in site.posts %}
+    {% if post.url != page.url %}	
+      {% for tag in page.tags %} 
+        {% if post.tags contains tag %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a><br /></li>
+          {% break %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
   	<a>#1 Thess 5:11 Therefore encourage one another and build one another up, just as you are doing.</a>
 	<font size="3">The purpose of the comments section below is for us to share our thoughts and spur each other toward God,
 	    kindly note that any comments that is continously flagged will be automatically removed from the discussion thread.
