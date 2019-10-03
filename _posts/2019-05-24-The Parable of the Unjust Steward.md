@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 119: All for Jesus
+title: The Parable of the Unjust Steward 不义管家的比喻
 category: Sermon(SG)2019
-tags: []
-hymns: [‘‘,‘’]
-The Parable of the Unjust Steward 不义管家的比喻
+tags: [Parable,World Possession]
+hymns: [119,228]
+---
+
 Luke 16:1-8
 v1
 A rich man had a steward who was working for him. In those days, the rich would have stewards to help manage their vast estates. A steward is given a wide range of executive powers to act on behalf of the master. v1 tells us that instead of working for the good of the master, this steward was serving his own interest. He was wasting his master’s goods. In today’s context, he was probably flying first class, or dining at lavish restaurants all charged to the company’s accounts. 
@@ -132,9 +133,6 @@ Luke 16:13
 This is clearly brought out by the unjust steward on the Bible. He served his own interest to the detriment of the master. Hence, no servant can serve two masters. 
 
 Sometimes we think we OWN money. But Jesus tells us its money that owns us. Mammon is the master and we are the servants. If we serve mammon, it’s a deadly decision a Christian needs to make. Jesus knows mammon is an important thing in our lives. This parable and all the teachings tells us to think carefully who we serve ultimately. There’re two masters. Which do we choose? God or mammon. Who do we serve? May God help us. 
-
-228: All for Jesus 
----
 
 ----
 ****
