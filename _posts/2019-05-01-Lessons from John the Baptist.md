@@ -2,7 +2,7 @@
 layout: post
 title: Lessons from John the Baptist 从施洗约翰所得的教训
 category: Sermon(SG)2019
-tags: [Reflection]
+tags: [Reflection,Purpose Driven Life]
 hymns: [371,331]
 ---
 
