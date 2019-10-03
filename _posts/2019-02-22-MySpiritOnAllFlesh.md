@@ -2,7 +2,7 @@
 layout: post
 title: My Spirit On All Flesh 我的灵浇灌凡有血气的 
 category: Sermon(SG)2019
-tags: [HolySpirit]
+tags: [Holy Spirit]
 hymns: [249,331]
 ---
 
