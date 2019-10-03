@@ -2,7 +2,7 @@
 layout: post
 title: Hear Them Speak (2) 听听它们说（二）
 category: Sermon(SG)2019
-tags: [Learn From Nature, Unedited]
+tags: [Parable, Unedited]
 hymns: [184,60]
 ---
 
