@@ -2,8 +2,8 @@
 layout: post
 title: Desire, Difficulties, Determination 渴慕，艰难，决心
 category: Sermon(SG)2019
-tags: []
-hymns: [‘163: It Is Well with My Soul‘,‘498: I Have Decided to Follow Jesus’]
+tags: [Desire,Trial,Will]
+hymns: [163,498]
 ---
 
 This sermon is a reflection on the speaker’s recent trip to Myanmar. Two weeks ago, he was over there for a week to assist in the youth Bible camp. 
