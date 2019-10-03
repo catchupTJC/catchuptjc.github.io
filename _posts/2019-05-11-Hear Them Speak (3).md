@@ -2,7 +2,7 @@
 layout: post
 title: Hear Them Speak (3) 听听它们说（三）
 category: Sermon(SG)2019
-tags: []
+tags: [Parable,Unedited]
 hymns: [380,436]
 ---
 
