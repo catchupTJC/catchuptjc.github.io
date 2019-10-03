@@ -5,8 +5,6 @@ category: Sermon(SG)2019
 tags: [Marriage]
 hymns: [333,299]
 ---
- : Safely Through Another Week
- Come, Let Us Gather with Rejoicing
 
 How do we maintain and manage our marriage? In the morning we mentioned about preparation, which is to depart from your parents, and then the two shall become one. The adjustment one needs to have in marriage is to be one with your wife. In the morning the speaker talked about how in marriage two shall become one, how to live in harmony with your wife and how the two need to communicate. 
 
