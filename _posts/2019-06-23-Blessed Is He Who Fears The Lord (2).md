@@ -2,7 +2,7 @@
 layout: post
 title: Blessed Is He Who Fears The Lord (2) 敬畏神的人有福的（二）
 category: SpiritualMeeting(SG)2019
-tags: [Blessing,Fear God]
+tags: [Blessing,Fear God,God is up there]
 hymns: [228,246]
 ---
 We know that blessed is he who fears the Lord. We also know the reasons why we should fear God.
