@@ -2,10 +2,9 @@
 layout: post
 title: Hard Talk or Heart Talk? 强硬的话或贴心的话？
 category: Sermon(SG)2019
-tags: []
-hymns: [‘333: Safely Through Another Week‘,‘’]
+tags: [Speech]
+hymns: [333,445]
 ---
-
 Col 4:6
 The Bible tells us about paying attention to how we speak. Indeed, this is a key part of our Christian spiritual nurture. If we look at ourselves in the mirror and record the things we say, or maybe just video ourselves, what will we think about ourselves when we look at our countenance/face as we speak and listen to the content/tone when we speak. What impression would we give ourselves?
 
@@ -96,7 +95,6 @@ Consider whether it’s good and necessary for edification and whether it’ll i
 
 Does our speech impart grace? May God help us. 
 
-445: Grace Greater Than Our Sin
 
 
 ----
