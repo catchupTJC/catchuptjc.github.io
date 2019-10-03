@@ -2,7 +2,7 @@
 layout: post
 title: Blessed Is He Who Fears The Lord (1) 敬畏神的人有福的（一）
 category: SpiritualMeeting(SG)2019
-tags: [Blessing,Fear God]
+tags: [Blessing,Fear God,God is up there]
 hymns: [227]
 ---
 Deut 10:12-13
