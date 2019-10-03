@@ -2,7 +2,7 @@
 layout: post
 title: The Parable of the Unjust Steward 不义管家的比喻
 category: Sermon(SG)2019
-tags: [Parable,World Possession]
+tags: [Parable,Worldy Possession]
 hymns: [119,228]
 ---
 
