@@ -2,7 +2,7 @@
 layout: post
 title: Be Someone Able to Return Home (2) 做一个可以回家的人 （二）
 category: Sermon(SG)2019
-tags: [Reflection]
+tags: [Home]
 hymns: [417,434]
 ---
 
