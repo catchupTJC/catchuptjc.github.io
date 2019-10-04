@@ -2,7 +2,7 @@
 layout: post
 title: Riding the Waves of Modern Age 乘驾现代的浪潮
 category: Sermon(SG)2019
-tags: [Life on Earth]
+tags: [Life on Earth,Overcome the World]
 hymns: [69,395]
 ---
 
