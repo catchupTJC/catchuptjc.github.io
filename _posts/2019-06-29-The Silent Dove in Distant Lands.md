@@ -2,7 +2,7 @@
 layout: post
 title: The Silent Dove in Distant Lands 远方无声鸽
 category: Sermon(SG)2019
-tags: [Distressed,Helplessness,Prayer,Help,Psalms,Trust,Deliverance]
+tags: [Distressed,Prayer,Help,Psalms,Trust God,Deliverance]
 hymns: [379,81]
 ---
 
