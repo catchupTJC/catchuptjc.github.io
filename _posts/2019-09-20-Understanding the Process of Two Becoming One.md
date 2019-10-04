@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the Process of Two Become One (2) 从二人到一体的认识
+title: Understanding the Process of Two Becoming One (2) 从二人到一体的认识
 category: YouthSpiritualMeeting(SG)2019
 tags: [Relationship,Marriage,Courtship]
 hymns: [391,373]
