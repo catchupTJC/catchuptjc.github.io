@@ -2,7 +2,7 @@
 layout: post
 title: Jonathan-A Friend Indeed 约拿单-忠实的朋友
 category: Sermon(SG)2019
-tags: [Relationship,Friendship,True]
+tags: [Relationship,Friendship]
 hymns: [122,396]
 ---
 
@@ -82,7 +82,7 @@ But there’s a friend who sticks close to a brother.
 Friends who’re brothers and sisters are very important. These friends can also be your spouse. Actually it’s important that your spouse is your friend. 
 
 Today is the speaker’s 27th wedding anniversary, so he wrote a poem to his wife:
-Twenty seven years, how they fly - 
+Twenty seven years, how they fly  
 Hand in hand, side by side. 
 Tear and laughter, rapture and sigh;
 Made good with God beside.
