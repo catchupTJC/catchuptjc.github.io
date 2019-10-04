@@ -2,7 +2,7 @@
 layout: post
 title: Those Who Receive Grace 蒙神恩典的人
 category: Sermon(SG)2019
-tags: [Reflection]
+tags: [Sufficient Grace,Faith]
 hymns: [332,492]
 ---
 
