@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jonathan - A Friend Indeed 约拿单 - 忠实的朋友
+title: Jonathan-A Friend Indeed 约拿单-忠实的朋友
 category: Sermon(SG)2019
 tags: [Relationship,Friendship,True]
 hymns: [122,396]
