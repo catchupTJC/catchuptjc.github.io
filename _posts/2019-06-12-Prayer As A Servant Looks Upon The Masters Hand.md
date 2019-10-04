@@ -2,7 +2,7 @@
 layout: post
 title: Prayer As A Servant Looks Upon The Master’s Hand 祈祷如仆人仰望主人的手
 category: Sermon(SG)2019
-tags: [Prayer,Longing]
+tags: [Prayer,God is up there,Persistence]
 hymns: [379,152]
 ---
 
