@@ -7,7 +7,6 @@ hymns: [380,244]
 ---
 
 Turn to Romans 6:4; 
-
 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.'
 
 This passage talks about us being baptised into Jesus Christ. Being baptised is to be baptised into Jesus and to be resurrected with Him. V1-2; “shall we continue in sin that grace may abound?” 2; “how shall we who died in sin live no longer in it?” It continues to say that we are baptised into Jesus Christ and into His death. 
