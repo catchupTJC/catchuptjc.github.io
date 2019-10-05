@@ -2,7 +2,7 @@
 layout: post
 title: Forget, Remember
 category: Sermon(SJ)2019
-tags: [Forgiveness,love,sin]
+tags: [Forgiveness,Love,Sin]
 hymns: [263,264]
 ---
 Deuteronomy 6:1-3
