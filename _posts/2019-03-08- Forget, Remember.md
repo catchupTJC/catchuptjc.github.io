@@ -14,8 +14,11 @@ In our life, who can we not forget even until the day we die?
 First is the person who always helps us and another is the person that left the negative impression to us the most.
 
 3 people that we cannot forget
+
 -1 Kings 2:5-Joab, commander of the Israel army, he killed 2 of David’s men as he wanted revenge.
+
 -1 Kings 2:7-Shimei
+
 -1 Kings 2:8-Basilai
 
 David fled barefoot, because of his sins, his kingdom would be destroyed.
