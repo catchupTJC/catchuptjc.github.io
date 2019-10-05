@@ -1,10 +1,10 @@
 ---
 layout: post
 title: A Happy Marriage
-category: Sermon(SJ)2018
+category: Sermon(SJ)2019
 tags: [Relationship,Marriage,Spouse]
 hymns: [501,134]
----                               								Date: 13/4/19
+---                               								
 What is the most important factor in marriage?
 We have to have direction.
 What does direction mean in this case?
