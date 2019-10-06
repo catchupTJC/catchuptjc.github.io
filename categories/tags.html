@@ -11,7 +11,7 @@ title: Tags
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in tag_words %}
-    <li><a href="#{{ tag | cgi_escape }}" class="post-tag">{{ tag }}<span>{{ site.tags[tag] | size }}</span></a></li>
+    <a href="#{{ tag | cgi_escape }}" class="post-tag">{{ tag }}<span>{{ site.tags[tag] | size }}</span></a>
     {% endfor %}
   </div>
   <hr/>
