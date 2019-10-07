@@ -50,16 +50,16 @@ layout: default
 
     {% if sameTagCount >= minCommonTags %}
       <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }} class="post-tag"</a></h5>
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5><a class="post-tag" >{{ commonTags }}</a> 
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
       {% endif %}
     {% endif %}
-
   {% endfor %}
-
+	
+	
 </div>
 	<font size="3">
   	<h6>1 Thess 5:11 Therefore encourage one another and build one another up, just as you are doing.</h6>
