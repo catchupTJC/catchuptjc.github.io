@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year Resolution
-category: Sermon(SJ)2019
+category: Sermon(SJ)2013
 tags: [New Year,Relationship,Family,Joy]
 hymns: []
 ---
