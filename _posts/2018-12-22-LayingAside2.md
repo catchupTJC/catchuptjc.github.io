@@ -2,7 +2,7 @@
 layout: post
 title: Laying Aside (2) 放下（二）
 category: Sermon(SG)2018
-tags: [LettingGo,Desire]
+tags: [Entrust,Desire]
 hymns:
 ---
 
