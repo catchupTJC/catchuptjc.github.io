@@ -2,7 +2,7 @@
 layout: post
 title: Abraham - Life of Building Altars 亚伯拉罕 - 筑坛的生活
 category: Sermon(SG)2019
-tags: [Abraham,Altar,Life on Earth,Worship,Remembering God,Faith]
+tags: [Life on Earth,Worship,Remembering God,Faith]
 hymns: [436,398]
 ---
 
