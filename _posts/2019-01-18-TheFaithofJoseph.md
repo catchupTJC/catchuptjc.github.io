@@ -2,7 +2,7 @@
 layout: post
 title: The Faith of Joseph 约瑟的信心
 category: Sermon(SG)2019
-tags: [Faith,Faithful,Trials]
+tags: [Faith,Trials]
 hymns: [351,492]
 ---
 
