@@ -2,7 +2,7 @@
 layout: post
 title: The Shining Bride
 category: Sermon(SJ)2014
-tags: [Reflection]
+tags: [Church,Hope,Faith]
 hymns: [212,219]
 ---
 -Rev 19:6-19 The fine linen stands for the righteous acts of the saints. 
