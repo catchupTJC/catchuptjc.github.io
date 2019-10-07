@@ -2,7 +2,7 @@
 layout: post
 title: Helping Youth to Love The Truth 帮助青年爱慕真理
 category: Sermon(SG)2019
-tags: [Nurture Next Generation,Parents,God's Word,Youth]
+tags: [Nurture Next Generation,God's Word,Youth]
 hymns: [333,364]
 ---
 How can we help our youths to love the truth? Firstly, love cannot be forced. Even if you force someone to perform an act, we know it’s not truly done out of love. Even if you force youths to do something, if they don’t love the truth; even if they know it’s important, they won’t be able to love it. 
