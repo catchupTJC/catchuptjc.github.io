@@ -12,6 +12,7 @@ Our character will change according to time, environment, education.
 -Let’s study the bible characters in the bible. 
 
 1) Jonah
+
 -Jonah 1: 1-3 The word of God came to Jonah. God told him to preach to the people of Nineveh. However Jonah flee to Tarshish 
 as he did not want to preach to the enemies and did not want to follow God’s command.
 
@@ -38,6 +39,7 @@ chastisement.
 -We have to reflect whether we are like Jonah where we do not want to follow God’s commands.
 
 2) Moses
+
 -Ex 3:7-10,11 When God called Moses, God wanted Moses to bring the Israelites out of Egypt. When he was young, he had the zeal to deliver the people of Israelites. 
 
 -Because he killed an Egyptian, he  had to flee from Egypt and flee to the wilderness. After 40 years in the wilderness, he had totally changed.
@@ -57,7 +59,8 @@ chastisement.
 -Eg there was a faithful deacon who did not reject a last minute work given to him to give seminar in the IY camp . This shows the good attitude of receiving any work without rejecting.
 
 3) Jacob
-Genesis 25:21 The twins struggled within the womb of Rebecca. When they were born, the younger twin baby grabbed hold of the heel of his older brother. His name was called Jacob which means to grab hold.
+
+-Genesis 25:21 The twins struggled within the womb of Rebecca. When they were born, the younger twin baby grabbed hold of the heel of his older brother. His name was called Jacob which means to grab hold.
 
 -Gen 25:29-34 The first thing that Jacob wanted to grab hold was his brother’s birthright which entitled him to blessings from his father. 
 
