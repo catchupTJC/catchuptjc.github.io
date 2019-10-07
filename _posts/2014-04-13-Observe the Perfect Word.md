@@ -2,7 +2,7 @@
 layout: post
 title: Observe the Perfect Word	
 category: Sermon(SJ)2014
-tags: [God's Word,Anger,Speech]
+tags: [God's Word,Obedience,Love Others,Anger,Speech]
 hymns: []
 ---
 -As True Jesus Church (TJC) has the complete truth, it is important that the believers must also be complete.
