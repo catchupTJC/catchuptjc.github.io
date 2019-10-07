@@ -2,7 +2,7 @@
 layout: post
 title: Growing as a Family (1) - Family and Me 合家一齐成长（一）- 家庭与我 
 category: SpiritualMeeting(SG)2019
-tags: [Family,Growth,Persuit]
+tags: [Family,Growth,Pursuit]
 hymns: [162]
 ---
 
