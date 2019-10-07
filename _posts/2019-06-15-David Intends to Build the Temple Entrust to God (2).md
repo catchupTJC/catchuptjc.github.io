@@ -2,7 +2,7 @@
 layout: post
 title: David Intends to Build the Temple - Entrust to God (2) 大卫起意建圣殿 - 当交托给神（二）
 category: Sermon(SG)2019
-tags: [Desire,Dedication,Service]
+tags: [Willing,Heart to Serve,Dedication,Service]
 hymns: [439,363]
 ---
 
