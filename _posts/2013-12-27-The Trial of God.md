@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Trial of God
-category: Sermon(SJ)2019
+category: Sermon(SJ)2013
 tags: [Trials,God is up there,God's Love]
 hymns: []
 ---
