@@ -2,7 +2,7 @@
 layout: post
 title: Walk Within My House With A Perfect Heart 存完全的心在我家中
 category: Sermon(SG)2019
-tags: [Pure Heart,Psalms,Heart,Integrity,Upright,God is up there]
+tags: [Pure,Psalms,Heart,Integrity,God is up there]
 hymns: [67,396]
 ---
 
