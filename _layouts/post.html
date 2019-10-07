@@ -42,7 +42,7 @@ layout: default
       {% if post.url != page.url %}
         {% if page.tags contains tag %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span>{% endcapture %}
           {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
       {% endif %}
@@ -50,7 +50,7 @@ layout: default
 
     {% if sameTagCount >= minCommonTags %}
       <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<span class="post-tag" >{{ commonTags }}</span></a></h5> 
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<b class="post-tag" >{{ commonTags }}</b></a></h5> 
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
