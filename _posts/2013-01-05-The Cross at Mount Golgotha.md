@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cross at Mount Golgotha
-category: Sermon(SJ)2019
+category: Sermon(SJ)2013
 tags: [Holy Communion,Love Other,God's Love]
 hymns: []
 ---
