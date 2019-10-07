@@ -2,7 +2,7 @@
 layout: post
 title: Laying Aside (1) 放下（一） 
 category: Sermon(SG)2018
-tags: [LettingGo,Burden,Anger,Worry]
+tags: [Entrust,Anger,Worry]
 hymns:
 ---
 
