@@ -2,7 +2,7 @@
 layout: post
 title: Praying the Psalms (9) Fright? Flight? Fight? 以诗篇做祷告（九）惧怕？逃亡？争斗 ？ 
 category: Sermon(SG)2019
-tags: [Prayer,Psalm,Fear,God is up there,Trust God]
+tags: [Prayer,Psalms,Fear,God is up there,Trust God]
 hymns: [5,171]
 ---
 
