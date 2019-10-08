@@ -1,8 +1,8 @@
 ---
 layout: post
 title: From Starting a Relationship to Before Marriage (1) 成为-开始恋爱到婚前（一）
-category: YouthSpiritualMeeting(SG)2019
-tags: [Unedited,Relationship,Courtship,Marriage]
+category: youthspiritualmeeting2019singapore
+tags: [unedited,relationship,courtship,marriage]
 hymns: [26]
 ---
 
