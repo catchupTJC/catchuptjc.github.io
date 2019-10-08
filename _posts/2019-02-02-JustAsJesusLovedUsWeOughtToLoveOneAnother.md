@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just As Jesus Loved Us, We Ought To Love One Another 耶稣怎样爱我们，我们也怎样相爱
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [loveothers]
 hymns: [131,126]
 ---
