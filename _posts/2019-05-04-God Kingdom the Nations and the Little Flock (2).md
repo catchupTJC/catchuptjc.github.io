@@ -1,7 +1,7 @@
 ---
 layout: post
 title: God’s Kingdom, the Nations, and the Little Flock (2) 神国，列邦，小群（二）
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [kingdomofgod]
 hymns: [316,453]
 ---
