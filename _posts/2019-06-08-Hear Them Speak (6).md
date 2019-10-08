@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hear Them Speak (6) 听听它们说（六）
-category: Sermon(SG)2019
-tags: [Parable]
+category: sermon(sg)2019
+tags: [parable]
 hymns: [184,351]
 ---
 
