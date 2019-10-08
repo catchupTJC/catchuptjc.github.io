@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Learn From Our Lord
-category: Sermon(SJ)2013
-tags: [Obedience,Willing,Entrust]
+category: sermon(SJ)2013
+tags: [obedience,willing,entrust]
 hymns: []
 ---
 -Mt 11:28-30 Come to me all who labour and are heavy laden and I will give you rest. Take my yoke upon you and learn from me for I am gentle and lowly in heart and you will find rest for your souls. For my yoke is easy and my burden is light.
