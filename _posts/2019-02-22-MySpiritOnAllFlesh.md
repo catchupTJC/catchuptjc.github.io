@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Spirit On All Flesh 我的灵浇灌凡有血气的 
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [holyspirit]
 hymns: [249,331]
 ---
