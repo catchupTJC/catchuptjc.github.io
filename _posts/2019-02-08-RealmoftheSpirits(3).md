@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Realm of the Spirits (3) 灵界（三）
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [spiritualwarfare]
 hymns: [67,68]
 ---
