@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Live Out the Fragance of Christ
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [prayer,loveothers,preach]
 hymns: []
 ---
