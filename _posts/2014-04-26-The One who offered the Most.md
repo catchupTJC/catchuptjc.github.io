@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The One who offered the Most
-category: Sermon(SJ)2014
-tags: [Offering,Heart]
+category: sermon(SJ)2014
+tags: [offering,heart]
 hymns: []
 ---
 -Mk 12: 41-44 The Passover is held esteemed by the Jews and they will congregate in Jerusalem to observe. Jesus was welcomed warmly by the Jews hailing “Hosanna” and some of them laid garments. 
