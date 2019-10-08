@@ -2,7 +2,7 @@
 layout: post
 title: Facing Life’s Giants
 category: Sermon(SG)2019
-tags: [Trials,Trust God]
+tags: [trial,believe]
 hymns: [198,485]
 ---
 
