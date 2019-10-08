@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Defend the truth(1)
-category: Audio Sermon(SJ)
-tags: [Doctrine, God's Word]
+category: audiosermon2019subang
+tags: [doctrine,wordofgod]
 hymns: []
 ---
 
