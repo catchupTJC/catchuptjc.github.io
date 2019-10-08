@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Family In The Book Of Ruth 路得记谈家庭
-category: Sermon(SG)2019
-tags: [Family,Ruth,Faith,Blessing,Turn to God,Fear God,God is up there]
+category: sermon2019singapore
+tags: [family,ruth,faith,blessing,remembergod,feargod,godisupthere]
 hymns: [333,394]
 ---
 
