@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tamar Who Held Fast to the Promise 抓住应许的她玛
-category: Sermon(SG)2019
-tags: [Promise]
+category: sermon(SG)2019
+tags: [promise]
 hymns: [96,363]
 ---
 
