@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Facing Life’s Giants
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [trial,believe]
 hymns: [198,485]
 ---
