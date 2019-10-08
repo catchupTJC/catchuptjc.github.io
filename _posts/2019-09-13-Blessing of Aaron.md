@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Blessing of Aaron 亚伦的祝福
-category: Sermon(SG)2019
-tags: [Blessing]
+category: sermon2019singapore
+tags: [blessing]
 hymns: [460,255]
 ---
 
