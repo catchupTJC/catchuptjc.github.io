@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Take Heed & Build 谨慎建造
-category: Sermon(SG)2019
-tags: [Strengthen Others,Church Unity]
+category: sermon2019singapore
+tags: [strengthenothers,church,growth]
 hymns: [376,227]
 ---
 
