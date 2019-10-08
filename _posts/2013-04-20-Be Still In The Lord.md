@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be Still In The Lord
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [still,godisupthere,entrust]
 hymns: []
 ---
