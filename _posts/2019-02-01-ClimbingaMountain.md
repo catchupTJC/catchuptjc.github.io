@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Climbing a Mountain 爬一座山
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [reflection]
 hymns: [129,288]
 ---
