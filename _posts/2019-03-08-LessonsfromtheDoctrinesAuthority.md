@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Lessons from the Doctrines(Authority) 从教义学习：权力
-category: Sermon(SG)2019
-tags: [Doctrine]
+category: sermon(SG)2019
+tags: [doctrine,wordofgod]
 hymns: [67,239]
 ---
 
