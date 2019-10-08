@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rebuild the Relationship with God 重建神的关系
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [relationship,knowgod]
 hymns: [243,453]
 ---
