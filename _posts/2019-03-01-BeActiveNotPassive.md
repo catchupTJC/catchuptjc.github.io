@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be Active Not Passive 我要做而不是要我做
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [service,dedication]
 hymns: [282,288]
 ---
