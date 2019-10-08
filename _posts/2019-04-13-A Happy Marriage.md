@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Happy Marriage
-category: Sermon(SJ)2019
-tags: [Relationship,Marriage,Spouse]
+category: sermon(SJ)2019
+tags: [relationship,marriage]
 hymns: [501,134]
 ---                               								
 What is the most important factor in marriage?
