@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Prayer As A Servant Looks Upon The Master’s Hand 祈祷如仆人仰望主人的手
-category: Sermon(SG)2019
-tags: [Prayer,God is up there,Persistence]
+category: sermon2019singapore
+tags: [prayer,godisupthere,persistence]
 hymns: [379,152]
 ---
 
