@@ -1,7 +1,7 @@
 ---
 layout: post
 title: David’s Self-Reproach 大卫自责
-category: Sermon(SG)2018
+category: sermon2018singapore
 tags: [reflection,godisupthere]
 hymns:
 ---
