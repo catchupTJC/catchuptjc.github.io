@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Faith of Joseph 约瑟的信心
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [faith,trial]
 hymns: [351,492]
 ---
