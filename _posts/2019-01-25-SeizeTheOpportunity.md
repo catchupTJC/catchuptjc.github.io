@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seize The Opportunity 把握机会
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [opportunity]
 hymns: [441,497]
 ---
