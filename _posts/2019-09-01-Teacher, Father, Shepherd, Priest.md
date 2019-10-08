@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Teacher, Father, Shepherd, Priest 教师，父亲，牧人，祭司
-category: Sermon(SG)2019
-tags: [Service,Reflection]
+category: sermon2019singapore
+tags: [service,reflection,nurturenextgeneration]
 hymns: [415]
 ---
 
