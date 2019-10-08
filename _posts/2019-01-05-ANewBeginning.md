@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New Beginning 全新的开始
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [startagain]
 hymns: [493,441]
 ---
