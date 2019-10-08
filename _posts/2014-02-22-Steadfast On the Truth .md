@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Steadfast On the Truth  
-category: Sermon(SJ)2014
-tags: [Faith,Persevere,God's Word,Reflection]
+category: sermon(SJ)2014
+tags: [faith,persevere,wordofgod,reflection]
 hymns: []
 ---
 -What is the biggest problem in the Sabah church? 
