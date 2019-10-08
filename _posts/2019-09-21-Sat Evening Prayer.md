@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sat Evening Prayer 
-category: YouthSpiritualMeeting(SG)2019
-tags: [Prayer Service,Prayer,Relationship,Marriage]
+category: youthspiritualmeeting2019singapore
+tags: [worship,prayer,relationship,marriage]
 hymns:
 ---
 1 Cor 6:16
