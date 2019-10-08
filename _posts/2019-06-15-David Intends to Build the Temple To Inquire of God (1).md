@@ -1,8 +1,8 @@
 ---
 layout: post
 title: David Intends to Build the Temple - To Inquire of God (1) 大卫起意建圣殿 - 当求问神（一）
-category: Sermon(SG)2019
-tags: [Willing,Dedication,Service]
+category: sermon2019singapore
+tags: [willing,dedication,service]
 hymns: [67,339]
 ---
 
