@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Church & Me
-category: sermon(SJ)2015
+category: sermon2015subang
 tags: [church]
 hymns: []
 ---
