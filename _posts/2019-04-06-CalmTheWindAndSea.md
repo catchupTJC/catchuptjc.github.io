@@ -2,7 +2,7 @@
 layout: post
 title: Calm the Wind and Sea 平静风和海
 category: Sermon(SG)2019
-tags: [Still,Storms of Life]
+tags: [still,trial]
 hymns: [69,382]
 ---
 
