@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Torah - Core of the Old Testament Bible 托拉- 旧约圣经的核心 
-category: Sermon(SG)2019
-tags: [God's Word]
+category: sermon2019singapore
+tags: [wordofgod]
 hymns: [364,363]
 ---
 
