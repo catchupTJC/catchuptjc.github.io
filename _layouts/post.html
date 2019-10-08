@@ -48,7 +48,7 @@ layout: default
       {% if post.url != page.url %}
         {% if page.tags contains tag %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="post-tag">{{ tag }}</span>{% endcapture %}
+          {% capture tagmarkup %} <a class="post-tag">{{ tag }}</a>{% endcapture %}
           {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
       {% endif %}
