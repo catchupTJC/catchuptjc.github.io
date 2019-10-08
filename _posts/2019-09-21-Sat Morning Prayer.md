@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sat Morning Prayer
-category: YouthSpiritualMeeting(SG)2019
-tags: [Prayer,Prayer Service]
+category: youthspiritualmeeting2019singapore
+tags: [prayer,worship]
 hymns: [464]
 ---
 
