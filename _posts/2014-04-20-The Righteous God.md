@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Righteous God
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [honorgod,godisupthere,righteousness]
 hymns: [87,208]
 ---
