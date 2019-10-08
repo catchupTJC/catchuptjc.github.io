@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Lord’s Proclamation to the Seven Churches (2) 主对七教会的自称（二）
-category: Sermon(SG)2019
-tags: [Warning,Second Coming,Fear God,Judgement,Revelation]
+category: sermon2019singapore
+tags: [warning,secondcoming,feargod,judgement,revelation]
 hymns: [9,87]
 ---
 The previous sermon discussed the way Jesus proclaimed Himself to the first church Ephesus. This sermon will continue to discuss the way Jesus proclaimed Himself to the second church Smyrna.
