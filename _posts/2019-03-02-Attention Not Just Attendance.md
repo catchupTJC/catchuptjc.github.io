@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Attention, Not Just Attendance 聚会印聚情会神
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [worship]
 hymns: [26,389]
 ---
