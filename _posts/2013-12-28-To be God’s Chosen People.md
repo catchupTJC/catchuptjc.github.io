@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To be God’s Chosen People
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [entrust,loveofgod]
 hymns: []
 ---
