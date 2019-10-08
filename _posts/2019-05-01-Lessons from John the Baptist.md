@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons from John the Baptist 从施洗约翰所得的教训
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [reflection,purpose]
 hymns: [371,331]
 ---
