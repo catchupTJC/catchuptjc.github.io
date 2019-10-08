@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Memory and Faith 回忆与信仰
-category: Sermon(SG)2019
-tags: [Faith,Memories,Love Others]
+category: sermon2019singapore
+tags: [faith,memories,loveothers]
 hymns: [468,136]
 ---
 
