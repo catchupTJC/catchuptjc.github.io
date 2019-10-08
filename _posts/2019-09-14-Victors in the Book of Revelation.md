@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Victors in the Book of Revelation 启示录的得胜者
-category: Sermon(SG)2019
-tags: [Revelation,Overcome the World]
+category: sermon2019singapore
+tags: [revelation,overcometheworld]
 hymns: [104,381]
 ---
 
