@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hard Talk or Heart Talk? 强硬的话或贴心的话？
-category: Sermon(SG)2019
-tags: [Speech]
+category: sermon(SG)2019
+tags: [speech]
 hymns: [333,445]
 ---
 Col 4:6
