@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Those Who Sleep 睡了的人
-category: Sermon(SG)2019
-tags: [Sleep]
+category: sermon(SG)2019
+tags: [rest,watchful]
 hymns: [111,405]
 ---
 
