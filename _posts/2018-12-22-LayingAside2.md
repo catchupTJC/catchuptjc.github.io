@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laying Aside (2) 放下（二）
-category: sermon(SG)2018
+category: sermon2018singapore
 tags: [entrust,desire]
 hymns:
 ---
