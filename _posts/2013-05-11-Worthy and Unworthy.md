@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Worthy & Unworthy
-category: Sermon(SJ)2013
-tags: [Service, Reflection,Values]
+category: sermon(SJ)2013
+tags: [service,reflection,values]
 hymns: []
 ---
 Luke 15:11-12 Parable of the prodigal son. The younger son  asked his father to give his share of property. The share of the property prepared by his father is based on the love for his son. 
