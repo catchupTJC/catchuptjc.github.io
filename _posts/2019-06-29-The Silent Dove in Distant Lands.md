@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Silent Dove in Distant Lands 远方无声鸽
-category: Sermon(SG)2019
-tags: [Distressed,Prayer,Help,Psalms,Trust God,Deliverance]
+category: sermon2019singapore
+tags: [distress,prayer,help,psalms,entrust,believe,deliverance]
 hymns: [379,81]
 ---
 
