@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laying Aside (1) 放下（一） 
-category: Sermon(SG)2018
+category: sermon2018singapore
 tags: [entrust,anger,worry]
 hymns:
 ---
