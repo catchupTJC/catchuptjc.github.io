@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Always Filled With 常满
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [blessing]
 hymns: [70,437]
 ---
