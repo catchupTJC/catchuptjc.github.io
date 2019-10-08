@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Is It Right To Be Angry?
-category: Sermon(SG)2019
-tags: [Anger]
+category: sermon(SG)2019
+tags: [anger]
 hymns: [405,224]
 ---
 
