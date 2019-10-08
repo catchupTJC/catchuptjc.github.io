@@ -1,8 +1,8 @@
 ---
 layout: post
 title: To be God’s Chosen People
-category: Sermon(SJ)2013
-tags: [Entrust,God's Love]
+category: sermon(SJ)2013
+tags: [entrust,Loveofgod]
 hymns: []
 ---
 -Deut 7:6-11 God chose the Israelites as his chosen people. Yet they were not perfect as they worshipped to idols, they were a stubborn nation who did not obey God’s commands. Why did God choose them? 
