@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paul and the Cross保罗与十字架
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [holycommunion,willing,remembergod,lifeonearth]
 hymns: [131,192]
 ---
