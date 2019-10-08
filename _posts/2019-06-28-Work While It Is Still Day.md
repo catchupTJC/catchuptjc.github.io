@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Work While It Is Still Day 趁着白日，赶快工作 
-category: Sermon(SG)2019
-tags: [Service,Opportunity]
+category: sermon2019singapore
+tags: [service,opportunity]
 hymns: [288,226]
 ---
 
