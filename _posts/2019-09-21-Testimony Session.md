@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Testimony of Hoong Wu and Rachel
-category: Sermon(SG)2019
-tags: [Testimony,Courtship,Prayer]
+category: youthspiritualmeeting2019singapore
+tags: [testimony,courtship,prayer]
 hymns: []
 ---
 
