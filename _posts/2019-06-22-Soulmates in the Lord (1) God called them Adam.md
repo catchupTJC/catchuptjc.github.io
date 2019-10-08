@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Soulmates in the Lord (1) God called them Adam 主内的灵魂陪侣（一）神称他们为亚当
-category: SpiritualMeeting(SG)2019
-tags: [Marriage,Spouse,Relationship]
+category: spiritualmeeting2019singapore
+tags: [marriage,relationship]
 hymns: [431]
 ---
 “God called THEM Adam” sounds strange because of the plural pronoun.
