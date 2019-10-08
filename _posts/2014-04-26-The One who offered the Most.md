@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The One who offered the Most
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [offering,heart]
 hymns: []
 ---
