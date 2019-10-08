@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Honour and Aid the Old 敬老与助老 (Senior Members’ Day)
-category: Sermon(SG)2019
-tags: [Respect,Senior Member]
+category: sermon2019singapore
+tags: [respect]
 hymns: [271,351]
 ---
 
