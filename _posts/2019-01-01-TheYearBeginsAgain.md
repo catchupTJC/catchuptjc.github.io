@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Year Begins Again 又是一年岁首时
-category: Sermon(SG)2019
-tags: [Reflection, Start Again]
+category: sermon(SG)2019
+tags: [reflection,startagain]
 hymns: [309,351]
 ---
 
