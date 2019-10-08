@@ -1,7 +1,7 @@
 ---
 layout: post
 title: As Your Days, So Shall Your Strength Be 你的日子如何，你的力量也如何
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [believe]
 hymns: [382,351]
 ---
