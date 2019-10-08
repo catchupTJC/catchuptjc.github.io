@@ -2,7 +2,7 @@
 layout: post
 title: Moses Struck the Rock 
 category: Sermon(SJ)2013
-tags: [Honor God,Obedience,Anger]
+tags: [honorgod,obedience,anger]
 hymns: []
 ---
 -There are 2 incidents whereby Moses strucked the rock.
