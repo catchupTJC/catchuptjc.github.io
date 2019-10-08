@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Walk in the Newness of Life 活出新生的样式
-category: Sermon(SG)2019
-tags: [Start Again]
+category: sermon2019singapore
+tags: [startagain,strength,newman]
 hymns: [380,244]
 ---
 
