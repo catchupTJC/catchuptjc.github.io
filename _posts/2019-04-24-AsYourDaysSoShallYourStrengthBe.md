@@ -1,8 +1,8 @@
 ---
 layout: post
 title: As Your Days, So Shall Your Strength Be 你的日子如何，你的力量也如何
-category: Sermon(SG)2019
-tags: [Trust God]
+category: sermon(SG)2019
+tags: [believe]
 hymns: [382,351]
 ---
 
