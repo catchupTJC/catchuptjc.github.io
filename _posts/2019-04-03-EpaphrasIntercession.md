@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Epaphras’ Intercession 以巴弗的代祷
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [intercession]
 hymns: [405,406]
 ---
