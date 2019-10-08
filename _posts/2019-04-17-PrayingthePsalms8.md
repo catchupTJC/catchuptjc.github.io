@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Praying the Psalms (8) Heart of the Wicked, Ear of God 以诗篇做祷告（八）恶人的心，真神的耳
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [prayer,psalms]
 hymns: [145,66]
 ---
