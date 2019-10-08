@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transformation In Christ
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [pursuit,spiritualmaturity,faith,growth,strength]
 hymns: []
 ---
