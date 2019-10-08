@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Become an Enemy of God 不要成为神的敌人
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [warning,nahum]
 hymns: [87,344]
 ---
