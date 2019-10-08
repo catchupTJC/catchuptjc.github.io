@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Faith and Life
-category: Sermon(SJ)2013
-tags: [Faith,Obedience,Christian Living,God's Word]
+category: sermon(SJ)2013
+tags: [faith,obedience,christianliving,wordofgod]
 hymns: []
 ---
 
