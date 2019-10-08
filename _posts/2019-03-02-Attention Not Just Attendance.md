@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Attention, Not Just Attendance 聚会印聚情会神
-category: Sermon(SG)2019
-tags: [Worship]
-hymns: ['26: The Quiet Hour','389: Nearer, Still Nearer']
+category: sermon(SG)2019
+tags: [worship]
+hymns: [26,389]
 ---
 
 Eccl 5:1-2
