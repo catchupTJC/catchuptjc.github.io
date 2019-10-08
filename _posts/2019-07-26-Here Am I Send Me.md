@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Here Am I! Send Me 我在这里，请差遣我
-category: Sermon(SG)2019
-tags: [Service,Willing,Send Me,Love God]
+category: sermon2019singapore
+tags: [service,willing,sendme,lovegod]
 hymns: [392,281]
 ---
 
