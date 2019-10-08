@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Transformation In Christ
-category: Sermon(SJ)2013
-tags: [Pursuit,Spiritual Maturity,Faith,Growth,Strength]
+category: sermon(SJ)2013
+tags: [pursuit,spiritualmaturity,faith,growth,strength]
 hymns: []
 ---
 -To stop bad habits such as smoking is a gradual process. 
