@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Life is a Road (2) 人生是一条路 （二）
-category: Sermon(SG)2019
-tags: [Life on Earth,Trial,God is up there,Faith,Grace,Fear God]
+category: sermon2019singapore
+tags: [lifeonearth,trial,godisupthere,faith,grace,feargod]
 hymns: [402,436]
 ---
 
