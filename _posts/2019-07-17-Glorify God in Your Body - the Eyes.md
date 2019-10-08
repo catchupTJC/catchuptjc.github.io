@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Glorify God in Your Body - the Eyes 在你们身子上荣耀神 - 眼睛
-category: Sermon(SG)2019
-tags: [Honor God,Eyes,Desire,Anger]
+category: sermon2019singapore
+tags: [honorgod,eyes,desire,anger]
 hymns: [379,257]
 ---
 
