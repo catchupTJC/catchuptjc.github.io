@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Tears of Joseph and Jacob
-category: sermon(SG)2018
+category: sermon2018singapore
 tags: [relationship,loveothers]
 hymns:
 ---
