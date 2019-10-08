@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Seah of Fine Flour for a Shekel 一细亚细面卖一舍容勒
-category: Sermon(SG)2019
-tags: [Faith,Reflection]
+category: sermon2019singapore
+tags: [faith,reflection]
 hymns: [185,394]
 ---
 
