@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calm the Wind and Sea 平静风和海
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [still,trial]
 hymns: [69,382]
 ---
