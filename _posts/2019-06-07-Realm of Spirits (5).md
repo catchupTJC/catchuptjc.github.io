@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Realm of Spirits (5) 灵界（五）
-category: Sermon(SG)2019
-tags: [Spiritual Warfare, Unedited]
+category: sermon(SG)2019
+tags: [spiritualwarfare,unedited]
 hymns: [177,442]
 ---
 
