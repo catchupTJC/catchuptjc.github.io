@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Realm of the Spirits (4) 灵界（四）
-category: Sermon(SG)2019
-tags: [Spritual Realm]
+category: sermon(SG)2019
+tags: [spritualwarefare]
 hymns: [380,177]
 ---
 
