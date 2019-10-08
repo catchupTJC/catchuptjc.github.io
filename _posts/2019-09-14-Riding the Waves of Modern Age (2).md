@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Riding the Waves of Modern Age (2) 乘驾现代的浪潮 （二）
-category: Sermon(SG)2019
-tags: [Life on Earth,Overcome the World]
+category: sermon2019singapore
+tags: [lifeonearth,overcometheworld]
 hymns: [470,422]
 ---
 We are living in a very exciting time where many things seem to excite us. It appears that we are also like this person surfing the waves as shown in the picture flashed on the screen. We are living in the 21st century, in the development of a society where it has already reached the stage of the fourth industrial revolution. In this 4th industrial revolution, what is the technology we’re facing? The older folks may not be familiar with the terms used in this sermon, but the younger ones would probably encounter this daily.
