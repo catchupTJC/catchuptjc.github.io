@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desire, Difficulties, Determination 渴慕，艰难，决心
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [trial,will,seekgod]
 hymns: [163,498]
 ---
