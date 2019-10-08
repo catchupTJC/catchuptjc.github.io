@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Understanding the Process of Two Becoming One (2) 从二人到一体的认识
-category: YouthSpiritualMeeting(SG)2019
-tags: [Relationship,Marriage,Courtship]
+category: youthspiritualmeeting2019singapore
+tags: [relationship,marriage,courtship]
 hymns: [391,373]
 ---
 How the YSM theme was decided on:
