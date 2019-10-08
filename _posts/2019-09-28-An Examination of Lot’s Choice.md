@@ -1,8 +1,8 @@
 ---
 layout: post
 title: An Examination of Lot’s Choice 检视罗得的选择
-category: YouthSpiritualMeeting(SG)2019
-tags: [Decision]
+category: sermon2019singapore
+tags: [decision]
 hymns: [470,471]
 ---
 
