@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Faith That Pleases God 蒙神喜悦的信心
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [faith,seekgod]
 hymns: [333,378]
 ---
