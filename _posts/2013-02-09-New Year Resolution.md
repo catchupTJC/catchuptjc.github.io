@@ -1,8 +1,8 @@
 ---
 layout: post
 title: New Year Resolution
-category: Sermon(SJ)2013
-tags: [Relationship,Family,Joy]
+category: sermon(SJ)2013
+tags: [relationship,family,joy]
 hymns: []
 ---
 -As Christians we should have clear goals in the Lord and ultimately our goal is to enter the heavenly kingdom.
