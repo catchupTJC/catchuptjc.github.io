@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Growing as a Family (2) - The Church and I 合家一齐成长（二）- 教会与我
-category: SpiritualMeeting(SG)2019
-tags: [Family,Growth,Church]
+category: spiritualmeeting2019singapore
+tags: [family,growth,church]
 hymns: [182,176]
 ---
 
