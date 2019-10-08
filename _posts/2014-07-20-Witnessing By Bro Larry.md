@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Witnessing By Bro Larry
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [testimony]
 hymns: []
 ---
