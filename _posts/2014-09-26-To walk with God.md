@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To walk with God
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [worship,pursuit,spiritualmaturity,faith,growth]
 hymns: [156,157]
 ---
