@@ -2,7 +2,7 @@
 layout: post
 title: Religious education (RE) at home
 category: Sermon(SJ)2013
-tags: [Family,Nurture Next Generation,Family Altar]
+tags: [family,nurturenextgeneration,FamilyAltar]
 hymns: []
 ---
 -The children in one of our TJC will come to church and once they arrive in church, they will first kneel down and pray. In the house, they have daily prayers together as a family and have daily bible reading together. 
