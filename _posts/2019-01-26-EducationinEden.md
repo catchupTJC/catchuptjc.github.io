@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Education in Eden 伊甸园的教育
-category: Sermon(SG)2019
-tags: [Prayer]
+category: sermon(SG)2019
+tags: [prayer]
 hymns: [405,518]
 ---
 
