@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What is Truth? 真理是什么呢？
-category: Sermon(SG)2019
-tags: [God's Word]
+category: sermon2019singapore
+tags: [wordofgod]
 hymns: [67,364]
 ---
 What is truth?
