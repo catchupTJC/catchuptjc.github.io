@@ -2,7 +2,7 @@
 layout: post
 title: To Always Have (3) 常存（三）
 category: Sermon(SG)2019
-tags: [Love God]
+tags: [lovegod]
 hymns: [127,517]
 ---
 
