@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Faith of Noami 
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [temptation,watchful,sin,remembergod]
 hymns: []
 ---
