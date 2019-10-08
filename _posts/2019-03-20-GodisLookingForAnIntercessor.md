@@ -1,7 +1,7 @@
 ---
 layout: post
 title: God is Looking For An Intercessor 神在寻找待祷者
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [intercession]
 hymns: [412]
 ---
