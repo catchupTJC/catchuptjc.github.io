@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Live Out the Fragance of Christ
-category: Sermon(SJ)2014
-tags: [Prayer,Love Others,Preach]
+category: sermon(SJ)2014
+tags: [prayer,loveothers,preach]
 hymns: []
 ---
 -Jesus told the disciples to be the light of the world which represents our good conduct for all to see. 
