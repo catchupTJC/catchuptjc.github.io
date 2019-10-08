@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Family Faith Team 家庭信仰小组
-category: Sermon(SG)2019
-tags: [Family,Faith]
+category: sermon(SG)2019
+tags: [family,faith]
 hymns: [115,105]
 ---
 
