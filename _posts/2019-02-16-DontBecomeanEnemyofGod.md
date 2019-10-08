@@ -2,7 +2,7 @@
 layout: post
 title: Don’t Become an Enemy of God 不要成为神的敌人
 category: Sermon(SG)2019
-tags: [Nineveh]
+tags: [warning,nahum]
 hymns: [87,344]
 ---
 
