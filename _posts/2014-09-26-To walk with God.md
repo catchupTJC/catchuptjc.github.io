@@ -1,8 +1,8 @@
 ---
 layout: post
 title: To walk with God
-category: Sermon(SJ)2014
-tags: [Worship,Pursuit,Spiritual Maturity,Faith,Growth]
+category: sermon(SJ)2014
+tags: [worship,pursuit,spiritualmaturity,faith,growth]
 hymns: [156,157]
 ---
 -Is attending services or doing divine service walking with God?
