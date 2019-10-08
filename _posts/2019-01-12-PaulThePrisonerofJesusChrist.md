@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Paul, The Prisoner of Jesus Christ 被耶稣基督所囚的保罗
-category: Sermon(SG)2019
-tags: [Dedication,Conviction]
+category: sermon(SG)2019
+tags: [dedication,conviction]
 hymns: [131,496]
 ---
 
