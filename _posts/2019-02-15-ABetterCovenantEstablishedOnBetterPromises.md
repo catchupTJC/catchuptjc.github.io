@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Better Covenant Established On Better Promises 更美之约原是凭更美之应许立的
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [promise]
 hymns: [363,364]
 ---
