@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Man’s view and God’s view 
-category: Sermon(SJ)2013
-tags: [Heart,Reflection]
+category: sermon(SJ)2013
+tags: [heart,reflection]
 hymns: []
 ---
 Is 55:8-9 For my thoughts are not your thoughts neither are your ways my ways. For heavens are higher than the earth so are my ways higher than your ways, so my thoughts than your thoughts.
