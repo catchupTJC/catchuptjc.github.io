@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Isaac Marries Rebekah
-category: sermon(SJ)2018
+category: sermon2018subang
 tags: [marriage,love]
 hymns: []
 ---
