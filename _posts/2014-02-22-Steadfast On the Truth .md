@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steadfast On the Truth  
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [faith,persevere,wordofgod,reflection]
 hymns: []
 ---
