@@ -1,7 +1,7 @@
 ---
 layout: post
 title: God’s Instrument For Noble Purposes
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [service,willing,heart]
 hymns: []
 ---
