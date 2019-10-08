@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Fight the Good Fight
-category: Sermon(SJ)2014
-tags: [Faith,Entrust,Strength,Persevere]
+category: sermon(SJ)2014
+tags: [faith,entrust,strength,persevere]
 hymns: [129,168]
 ---
 
