@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Love Thinks No Evil 爱是不计算的恶
-category: Sermon(SG)2019
-tags: [Love Others,Love Enemy,Forgiveness,Enemy,Hurt,God is up there]
+category: sermon2019singapore
+tags: [loveothers,loveenemy,forgiveness,godisupthere]
 hymns: [62,55]
 ---
 
