@@ -1,8 +1,8 @@
 ---
 layout: post
 title: From Whence Comes My Help (1) 我的帮助从何而来（一）
-category: Sermon(SG)2019
-tags: [Psalms,Trials,Help,Strength,Faith]
+category: sermon2019singapore
+tags: [psalms,trial,help,strength,faith]
 hymns: [344,151]
 ---
 
