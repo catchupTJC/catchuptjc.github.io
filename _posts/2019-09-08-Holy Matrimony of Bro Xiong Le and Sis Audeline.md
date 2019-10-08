@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Holy Matrimony of Bro Xiong Le and Sis Audeline
-category: Sermon(SG)2019
-tags: [Event,Marriage]
+category: sermon2019singapore
+tags: [event,marriage]
 hymns: [298,300]
 ---
 We turn to Genesis 2:21-24; 
