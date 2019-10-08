@@ -2,7 +2,7 @@
 layout: post
 title: Realm of the Spirits (4) 灵界（四）
 category: Sermon(SG)2018
-tags: [Spiritual Warfare,Lies]
+tags: [spiritualwarfare]
 hymns: [380,177]
 ---
 
