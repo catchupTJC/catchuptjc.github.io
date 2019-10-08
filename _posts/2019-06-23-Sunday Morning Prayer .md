@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sunday Morning Prayer 
-category: SpiritualMeeting(SG)2019
-tags: [Prayer,Prayer Service]
+category: spiritualmeeting2019singapore
+tags: [prayer,worship]
 hymns: [525]
 ---
 Family is a blessing God gives to us. It’s through them we learn how to live with one another. Through our family, the worst as well as the best is brought out of us. 
