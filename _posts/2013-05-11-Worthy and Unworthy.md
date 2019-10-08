@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Worthy & Unworthy
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [service,reflection,values]
 hymns: []
 ---
