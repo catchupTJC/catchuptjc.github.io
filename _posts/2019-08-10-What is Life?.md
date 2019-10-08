@@ -1,8 +1,8 @@
 ---
 layout: post
 title: What is Life? 何谓人生？ 
-category: Sermon(SG)2019
-tags: [Life on Earth,Purpose,Eternity]
+category: sermon2019singapore
+tags: [lifeonearth,purpose,eternity]
 hymns: [438,524]
 ---
 
