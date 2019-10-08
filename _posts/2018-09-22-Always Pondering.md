@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Always Pondering 常想
-category: sermon(SG)2018
+category: sermon2018singapore
 tags: [reflection,wordofgod]
 hymns: 
 ---
