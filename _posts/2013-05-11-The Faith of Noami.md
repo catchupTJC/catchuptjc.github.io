@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Faith of Noami 
-category: Sermon(SJ)2013
-tags: [Temptation,Watchful,Sin,Remembering God]
+category: sermon(SJ)2013
+tags: [temptation,watchful,sin,remembergod]
 hymns: []
 ---
 -Ruth 1:1-2 The family shifted to Moab from Bethlehem due to famine. Bethlehem is the land of promise from God to the Israelites. The fact that they shifted from the promise land of God, Bethlehem to Moab has to do with their faith. When they shifted to Moab, situation grew worse.
