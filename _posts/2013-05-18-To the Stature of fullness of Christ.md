@@ -1,8 +1,8 @@
 ---
 layout: post
 title: To the Stature of fullness of Christ
-category: Sermon(SJ)2013
-tags: [Church,Growth,Spiritual Maturity]
+category: sermon(SJ)2013
+tags: [church,growth,spiritualmaturity]
 hymns: []
 ---
 -It is a normal process for those believing in Jesus Christ to continue to improve in their behaviour. This improvement is important and is part of our Christian growth
