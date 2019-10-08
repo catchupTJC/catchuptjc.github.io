@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Those Who Sleep 睡了的人
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [rest,watchful]
 hymns: [111,405]
 ---
