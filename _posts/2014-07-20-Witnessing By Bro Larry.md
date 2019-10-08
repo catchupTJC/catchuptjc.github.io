@@ -2,7 +2,7 @@
 layout: post
 title: Witnessing By Bro Larry
 category: sermon2014subang
-tags: [testimony]
+tags: [testimony,event]
 hymns: []
 ---
 
