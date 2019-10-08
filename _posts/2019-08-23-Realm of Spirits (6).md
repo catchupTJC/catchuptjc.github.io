@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Realm of Spirits (6) 灵界（六）
-category: Sermon(SG)2019
-tags: [Spiritual Warefare]
+category: sermon2019singapore
+tags: [spiritualwarfare]
 hymns: [166,379]
 ---
 
