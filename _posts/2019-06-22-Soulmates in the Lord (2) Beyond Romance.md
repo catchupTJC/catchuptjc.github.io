@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Soulmates in the Lord (2) Beyond Romance 主内的灵魂伴侣你（二）超越恋爱
-category: SpiritualMeeting(SG)2019
-tags: [Marriage,Spouse,Relationship]
+category: spiritualmeeting2019singapore
+tags: [marriage,relationship]
 hymns: [388]
 ---
 
