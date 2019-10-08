@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transfiguration at High Mountain
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [faith,growth,relationship]
 hymns: []
 ---
