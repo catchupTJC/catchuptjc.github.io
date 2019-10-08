@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Must We Pray? 为什么要祷告？
-category: sermon(SG)2018
+category: sermon2018singapore
 tags: [prayer]
 hymns:
 ---
