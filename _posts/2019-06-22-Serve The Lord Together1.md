@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Serve The Lord Together 一起事奉主（一）
-category: SpiritualMeeting(SG)2019
-tags: [Service,Love of God]
+category: spiritualmeeting2019singapore
+tags: [service,loveofgod]
 hymns: [496,248]
 ---
 
