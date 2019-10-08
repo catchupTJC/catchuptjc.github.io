@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Trial of God
-category: Sermon(SJ)2013
-tags: [Trials,God is up there,God's Love]
+category: sermon(SJ)2013
+tags: [trial,godisupthere,loveofgod]
 hymns: []
 ---
 -If tomorrow if Jesus were to judge us individually are we able to give a good results based on our performance based on the tests that Jesus has given.
