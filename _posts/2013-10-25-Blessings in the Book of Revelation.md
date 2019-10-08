@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blessings in the Book of Revelation
-category: Sermon(SJ)2013
+category: sermon2013subang
 tags: [blessing,revelation]
 hymns: []
 ---
