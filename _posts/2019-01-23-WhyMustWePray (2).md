@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Must We Pray (2) 为什么要祷告（二）
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [prayer]
 hymns: [405,406]
 ---
