@@ -2,7 +2,7 @@
 layout: post
 title: Are You Like Them?
 category: sermon(SJ)2014
-tags: [reflection,grace,obedience,chastisement,#FamilyAltar]
+tags: [reflection,grace,obedience,chastisement,FamilyAltar]
 hymns: []
 ---
 
