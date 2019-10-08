@@ -7,7 +7,7 @@ layout: default
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.category %} | 
   {% for tag in page.category %}
-    <a href="{{ site.baseurl }}{{ site.category_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+    <a href="{{ site.baseurl }}{{ site.category_page }}#{{ tag | slugify }}" class="cat-tag">{{ tag }}</a>
   {% endfor %}
   {% endif %}
 	
