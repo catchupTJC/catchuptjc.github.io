@@ -2,6 +2,32 @@
 //
 // VARIABLES
 
+//Cat Tag
+.cat-tag {
+    display: inline-block;
+    background: rgba(144, 156, 161,0.15);
+    padding: 0 .5rem;
+    margin-right: .5rem;
+    border-radius: 4px;
+    font-family: "PT Sans",Helvetica,Arial,sans-serif;
+    font-size: 90%;
+    transition: all 0.1s ease-in-out;
+}
+
+.cat-tag span {
+    vertical-align: super;
+    font-size: 10px;
+    font-size: 0.625rem;
+}
+  
+
+.cat-tag:before {
+    font-family: FontAwesome;
+    content: "\f02b";
+    padding-right: .5em;
+}
+
+
 //Post Tag
 .post-tag {
     display: inline-block;
