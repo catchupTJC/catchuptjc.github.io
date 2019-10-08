@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Guard against the yeast of Pharisees
-category: Sermon(SJ)2013
-tags: [Hypocrisy,Heart,Pure]
+category: sermon(SJ)2013
+tags: [hypocrisy,heart,pure]
 hymns: []
 ---
 
