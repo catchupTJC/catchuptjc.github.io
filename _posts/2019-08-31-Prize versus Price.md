@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Prize versus Price 奖励与代价
-category: Sermon(SG)2019
-tags: [Values,Obedience]
+category: sermon2019singapore
+tags: [values,obedience]
 hymns: [471,470]
 ---
 
