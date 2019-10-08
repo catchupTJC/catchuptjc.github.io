@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Be Active Not Passive 我要做而不是要我做
-category: Sermon(SG)2019
-tags: [Service,Conviction]
-hymns: [282 To The Work,'288 Work, for the Night Is Coming']
+category: sermon(SG)2019
+tags: [service,dedication]
+hymns: [282,288]
 ---
 Active VS Passive
 Being active means you will go and do it. Being passive means you’d do it if someone asks you to do it, but won’t if someone doesn’t. 
