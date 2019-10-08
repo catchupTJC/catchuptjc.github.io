@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Observe the Perfect Word	
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [wordofgod,obedience,loveothers,anger,speech]
 hymns: []
 ---
