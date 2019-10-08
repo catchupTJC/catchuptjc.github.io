@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handling Injustice 面对不平 
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [godisupthere,anger]
 hymns: [333,485]
 ---
