@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Preparation from One to Two 从一人到二人的准备 
-category: YouthSpiritualMeeting(SG)2019
-tags: [Unedited,Relationship,Courtship,Marriage]
+category: youthspiritualmeeting2019singapore
+tags: [unedited,relationship,courtship,marriage]
 hymns: [364,377]
 ---
 Why two and not one? Along the way if we have a wrong concept towards this matter and go against the will of God regarding Creation; we talked about how animals aren’t able to be companions to Man; how material goods can’t satisfy us. God created Man and Woman not Man and Man, and Woman and Woman. The world carries many concepts of marriage that go against the concept of Creation. We hence ought to have the right understand. The Bible tells us an important concept when He created Man and Woman in the beginning: it’s not good for Man to be alone. Human beings are social creatures that require another person to fulfil the needs of the heart. If a man were to stay up in a mountain alone, his mental capacity will be affected after a while. Two becoming one will also give off godly offspring; to learn reverence; to learn about loyalty towards your partner and towards God. This will affect how the next generation moves forward as well. Therefore two becoming one grooms the next generation to continue on. 
