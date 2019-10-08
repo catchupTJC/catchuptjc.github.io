@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Jesus in the Garden of Gethsemane 客西马内园的耶稣
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [prayer,distress,strength]
 hymns: [333,379]
 ---
