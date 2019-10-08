@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year Resolution
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [relationship,family,joy]
 hymns: []
 ---
