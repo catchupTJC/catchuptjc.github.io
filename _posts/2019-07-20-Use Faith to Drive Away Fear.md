@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Use Faith to Drive Away Fear 用信心赶走恐惧
-category: Sermon(SG)2019
-tags: [Fear,Faith,God is up there]
+category: sermon2019singapore
+tags: [fear,faith,godisupthere]
 hymns: [356,370]
 ---
 Psa 56 is a Micheal of David when the Philistines captured him in Gath. It is set to “The Silent Dove in Distant Lands” - he was truly alone. 
