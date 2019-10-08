@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Forum/Q&A (Marriage Facilitators)
-category: YouthSpiritualMeeting(SG)2019
-tags: [Q & A,Relationship,Courtship,Marriage,Spouse]
+category: youthspiritualmeeting2019singapore
+tags: [qanda,relationship,courtship,marriage]
 hymns:
 ---
 
