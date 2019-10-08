@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Kingdom of God - Joy In The Holy Spirit 神的国 - 圣灵中的喜乐
-category: Sermon(SG)2019
-tags: [Holy Spirit]
+category: sermon(SG)2019
+tags: [holyspirit]
 hymns: [204,35]
 ---
 
