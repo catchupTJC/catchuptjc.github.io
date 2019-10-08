@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Lord’s Proclamation of the Seven Churches (1) 主对七教会的自称（一）
-category: Sermon(SG)2019
-tags: [Warning,Second Coming,Fear God,Judgement,Revelation]
+category: sermon2019singapore
+tags: [warning,secondcoming,feargod,judgement,revelation]
 hymns: [388,318]
 ---
 
