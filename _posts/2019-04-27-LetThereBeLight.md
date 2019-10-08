@@ -2,7 +2,7 @@
 layout: post
 title: Let There Be Light 要有光
 category: Sermon(SG)2019
-tags: [Creation]
+tags: [creation]
 hymns: [160,284]
 ---
 
