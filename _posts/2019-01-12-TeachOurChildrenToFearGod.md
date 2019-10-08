@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teach Our Children To Fear God 教导孩童当敬畏真神
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [feargod,family]
 hymns: [3,51]
 ---
