@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The thorn in the flesh of Paul
-category: Sermon(SJ)2013
-tags: [Grace,Strength,Humility,Entrust]
+category: sermon(SJ)2013
+tags: [grace,strength,humility,entrust]
 hymns: []
 ---
 - 2 Cor 12:7-10 “My grace is sufficient for you, for my power is made perfect in weakness.” I will all the more gladly boast of my weaknesses that the power of Christ may rest upon me. 
