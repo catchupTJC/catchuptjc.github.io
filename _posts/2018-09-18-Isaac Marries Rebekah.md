@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Isaac Marries Rebekah
-category: sermon2018subang
+category: sermon2018singapore
 tags: [marriage,love]
 hymns: []
 ---
