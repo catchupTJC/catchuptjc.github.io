@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Climbing a Mountain 爬一座山
-category: Sermon(SG)2019
-tags: [Reflection]
+category: sermon(SG)2019
+tags: [reflection]
 hymns: [129,288]
 ---
 This sermon will be based on the speaker’s experience of climbing a mountain in Japan. Because the speaker and his wife wanted to experience nature and exercise, they decided to climb Mount Atago - close to Kyoto. 
