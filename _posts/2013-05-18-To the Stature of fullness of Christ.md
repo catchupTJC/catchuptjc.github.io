@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To the Stature of fullness of Christ
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [church,growth,spiritualmaturity]
 hymns: []
 ---
