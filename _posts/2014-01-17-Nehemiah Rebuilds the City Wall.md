@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Nehemiah Rebuilds the City Wall
-category: Sermon(SJ)2014
-tags: [Heart,Service,Willing]
+category: sermon(SJ)2014
+tags: [heart,service,willing]
 hymns: []
 ---
 -The book of Nehemiah was written by Nehemiah himself.
