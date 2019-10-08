@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Blessed Family 蒙福的家庭 
-category: SpiritualMeeting(SG)2019
-tags: [Family,Blessing]
+category: sermon2019singapore
+tags: [family,blessing]
 hymns: [252,421]
 ---
 
