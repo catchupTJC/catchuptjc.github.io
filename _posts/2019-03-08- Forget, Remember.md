@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forget, Remember
-category: sermon(SJ)2019
+category: sermon2019singapore
 tags: [forgiveness,love,sin]
 hymns: [263,264]
 ---
