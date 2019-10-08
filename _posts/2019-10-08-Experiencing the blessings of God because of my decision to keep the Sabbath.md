@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Experiencing the blessings of God because of my decision to keep the Sabbath
-category: Sharing(TJC)
-tags: [Testimony,Decision,Sabbath]
+category: sharing2019tjc
+tags: [testimony,decision,sabbath]
 hymns: []
 ---
 In the name of Jesus I testify. I’m Sister Yu Pei Qin from Madrid church in Spain. 
