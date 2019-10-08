@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Our Choices Determine Our End 我们的抉择决定我们的结局
-category: Sermon(SG)2019
-tags: [Decision,Reflection]
+category: sermon2019singapore
+tags: [decision,reflection]
 hymns: [87,88]
 ---
 Our life is full of choices. This morning we chose what clothes to wear, what food to have for lunch and dinner. When buying, we also choose what brand to buy. We choose where to go for holiday. 
