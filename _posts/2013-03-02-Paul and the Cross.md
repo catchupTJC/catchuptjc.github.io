@@ -2,7 +2,7 @@
 layout: post
 title: Paul and the Cross保罗与十字架
 category: sermon(SJ)2013
-tags: [holycommunion,willing,rememberinggod,lifeonearth]
+tags: [holycommunion,willing,remembergod,lifeonearth]
 hymns: [131,192]
 ---
 -Holy communion is to remember Jesus Christ's death
