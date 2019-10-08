@@ -2,7 +2,7 @@
 layout: post
 title: Be Still In The Lord
 category: Sermon(SJ)2013
-tags: [Still,God is up there,Entrust]
+tags: [still,godisupthere,entrust]
 hymns: []
 ---
 In our life there are times when we face a lot of problems and we struggle to find solutions to overcome the problems which seems to have no end. But it is at this time, we should learn to be still.
