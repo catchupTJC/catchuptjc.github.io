@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Man’s view and God’s view 
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [heart,reflection]
 hymns: []
 ---
