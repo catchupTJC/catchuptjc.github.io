@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Decisions We Make In The Family (2) 我们在家里所做的选择（二）
-category: Sermon(SG)2019
-tags: [Family,Decision,Service,Nurture Next Generation]
+category: sermon2019singapore
+tags: [family,decision,service,nurturenextgeneration]
 hymns: [496,416]
 ---
 Part (1) of this sermon mentioned how God is key in building our families, good/bad decisions lead to good/bad outcomes. Abraham was brought up as a good example, and we should emulate him in building altars, leading a life of worship, and persevering in our journey even when things get difficult. Because of the good decisions he made, his family was blessed. 
