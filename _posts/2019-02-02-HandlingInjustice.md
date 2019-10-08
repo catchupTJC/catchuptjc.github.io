@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Handling Injustice 面对不平 
-category: Sermon(SG)2019
-tags: [Justice,Revenge]
+category: sermon(SG)2019
+tags: [godisupthere,anger]
 hymns: [333,485]
 ---
 
