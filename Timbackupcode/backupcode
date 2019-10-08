@@ -1,3 +1,21 @@
+---------------------
+Caps on first letter (Tag)
+
+//Post Tag
+.post-tag {
+    display: inline-block;
+    background: rgba(106,159,181,0.15);
+    padding: 0 .5rem;
+    margin-right: .5rem;
+    border-radius: 4px;
+    font-family: "PT Sans",Helvetica,Arial,sans-serif;
+    font-size: 90%;
+    transition: all 0.1s ease-in-out;
+    text-transform: capitalize;
+}
+
+
+
 
 -----
 tags html change
