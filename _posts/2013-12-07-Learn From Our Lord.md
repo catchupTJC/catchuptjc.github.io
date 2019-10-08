@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn From Our Lord
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [obedience,willing,entrust]
 hymns: []
 ---
