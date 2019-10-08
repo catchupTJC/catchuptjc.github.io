@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jonathan-A Friend Indeed 约拿单-忠实的朋友
-category: Sermon(SG)2019
-tags: [Relationship,Friendship]
+category: sermon2019singapore
+tags: [relationship,friend]
 hymns: [122,396]
 ---
 
