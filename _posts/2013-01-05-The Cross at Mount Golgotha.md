@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cross at Mount Golgotha
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [holycommunion,loveothers,loveofgod]
 hymns: []
 ---
