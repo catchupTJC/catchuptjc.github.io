@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Year Begins Again 又是一年岁首时
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [reflection,startagain]
 hymns: [309,351]
 ---
