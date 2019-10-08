@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Serve The Lord Together (2) 一起事奉主（二）
-category: SpiritualMeeting(SG)2019
-tags: [Service,Family,Nurture Next Generation]
+category: spiritualmeeting2019singapore
+tags: [service,family,nurturenextgeneration]
 hymns: [497]
 ---
 
