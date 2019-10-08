@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fear and Trembling 恐惧与战兢
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [feargod]
 hymns: [25,262]
 ---
