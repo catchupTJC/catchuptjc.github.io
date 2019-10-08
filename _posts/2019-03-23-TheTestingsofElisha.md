@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Testings of Elisha 以利沙的考验
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [trial]
 hymns: [112,392]
 ---
