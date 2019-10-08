@@ -2,7 +2,7 @@
 layout: post
 title: Blessings in the Book of Revelation
 category: Sermon(SJ)2013
-tags: [Blessings,Revelation]
+tags: [blessing,revelation]
 hymns: []
 ---
 -The book of Revelation relates to the events nearing Jesus coming such as the 7 seals, the bowls etc.
