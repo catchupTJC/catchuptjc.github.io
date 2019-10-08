@@ -2,7 +2,7 @@
 layout: post
 title: People favoured by The Lord
 category: sermon(SJ)2013
-tags: [pure,heart,seek god]
+tags: [pure,heart,seekgod]
 hymns: []
 ---
 Mk 10:13-16, Luke 18 Parents who brought their children to Jesus that he might lay hands & bless them. When the disciples rebuked them , Jesus was indignant and told the disciples to allow the children to come to him for to such belongs the kingdom of God
