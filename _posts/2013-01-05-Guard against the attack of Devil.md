@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guard against the attack of Devil
-category: sermon(SJ)2013
+category: sermon2013subang
 tags: [heart,desire,devil,temptation]
 hymns: []
 ---
