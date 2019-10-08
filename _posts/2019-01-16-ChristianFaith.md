@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christian Faith 基督徒的信心
-category: Sermon(SG)2019
+category: sermon2019singapore
 tags: [faith]
 hymns: [464,356]
 ---
