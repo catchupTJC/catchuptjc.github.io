@@ -2,7 +2,7 @@
 layout: post
 title: Seize The Opportunity 把握机会
 category: Sermon(SG)2019
-tags: [Opportunity]
+tags: [opportunity]
 hymns: [441,497]
 ---
 
