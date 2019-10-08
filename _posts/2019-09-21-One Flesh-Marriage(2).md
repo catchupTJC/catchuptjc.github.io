@@ -1,8 +1,8 @@
 ---
 layout: post
 title: One Flesh-Marriage(2) 一体-婚姻（二）
-category: YouthSpiritualMeeting(SG)2019
-tags: [Relationship,Marriage]
+category: youthspiritualmeeting2019singapore
+tags: [relationship,marriage]
 hymns: [333,299]
 ---
 
