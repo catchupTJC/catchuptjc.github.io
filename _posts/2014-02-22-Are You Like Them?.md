@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Are You Like Them?
-category: Sermon(SJ)2014
-tags: [Reflection,Grace,Obedience,Chastisement]
+category: sermon(SJ)2014
+tags: [reflection,grace,obedience,chastisement]
 hymns: []
 ---
 
