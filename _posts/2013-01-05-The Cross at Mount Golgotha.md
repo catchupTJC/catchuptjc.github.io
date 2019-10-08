@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Cross at Mount Golgotha
-category: Sermon(SJ)2013
-tags: [Holy Communion,Love Other,God's Love]
+category: sermon(SJ)2013
+tags: [holy communion,love other,god's love]
 hymns: []
 ---
  Mt Golgotha was a place where criminals were nailed on the cross
