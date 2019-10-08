@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Faith That Pleases God 蒙神喜悦的信心
-category: Sermon(SG)2019
-tags: [Faith, God's Favor]
+category: sermon(SG)2019
+tags: [faith,seekgod]
 hymns: [333,378]
 ---
 
