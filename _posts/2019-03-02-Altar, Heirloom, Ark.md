@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Altar, Heirloom, Ark 祭坛，家业，方舟
-category: Sermon(SG)2019
-tags: [Heritage]
+category: sermon(SG)2019
+tags: [familyaltar,family]
 hymns: [65,498]
 ---
 
