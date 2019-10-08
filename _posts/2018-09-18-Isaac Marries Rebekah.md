@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Isaac Marries Rebekah
-category: Sermon(SJ)2018
-tags: [Marriage,Love,Spouse]
+category: sermon(SJ)2018
+tags: [marriage,love]
 hymns: []
 ---
 Genesis 24
