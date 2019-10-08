@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hear Them Speak (5) 听听它们说（五）
-category: sermon(SG)2019
+category: sermon2019singapore
 tags: [parable]
 hymns: [358,281]
 ---
