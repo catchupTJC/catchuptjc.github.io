@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Two Different Wills, Two Different Hearts, Two Different Paths 两种旨意，两种心，两种道路
-category: Sermon(SG)2019
-tags: [Will,Desire,Heart]
+category: sermon(SG)2019
+tags: [will,desire,heart]
 hymns: [224,70]
 ---
 
