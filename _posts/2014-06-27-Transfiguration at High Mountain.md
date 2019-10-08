@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Transfiguration at High Mountain
-category: Sermon(SJ)2014
-tags: [Faith,Growth,Relationship]
+category: sermon(SJ)2014
+tags: [faith,growth,relationship]
 hymns: []
 ---
 -Mt 17:1 Jesus took Peter, James & John and led them on a high mountain. Some speculate that this high mountain may be Mt Tabur or a high mountain near Galilee. However it is the will of God that the name of this mountain was not mentioned
