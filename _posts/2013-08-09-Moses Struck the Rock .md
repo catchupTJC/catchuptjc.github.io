@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moses Struck the Rock 
-category: Sermon(SJ)2013
+category: sermon2013subang
 tags: [honorgod,obedience,anger]
 hymns: []
 ---
