@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Righteous God
-category: Sermon(SJ)2014
-tags: [Honor God,God is up there,Righteousness]
+category: sermon(SJ)2014
+tags: [honorgod,godisupthere,righteousness]
 hymns: [87,208]
 ---
 -When we are in church we will be aware of our speech & conduct. This is because we honour our righteous God. 
