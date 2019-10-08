@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Happy Marriage
-category: sermon(SJ)2019
+category: sermon2019singapore
 tags: [relationship,marriage]
 hymns: [501,134]
 ---                               								
