@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Be Someone Able to Return Home (1) 做一个可以回家的人（一）
-category: Sermon(SG)2019
-tags: [Home,Family,Eternity]
+category: sermon2019singapore
+tags: [home,family,eternity]
 hymns: [187,304]
 ---
 Why should we become someone who’s able to return home?
