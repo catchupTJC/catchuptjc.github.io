@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Shining Bride
-category: sermon(SJ)2014
+category: sermon2014subang
 tags: [church,hope,faith]
 hymns: [212,219]
 ---
