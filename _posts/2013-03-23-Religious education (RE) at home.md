@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Religious education (RE) at home
-category: Sermon(SJ)2013
+category: sermon2013subang
 tags: [family,nurturenextgeneration,familyaltar]
 hymns: []
 ---
