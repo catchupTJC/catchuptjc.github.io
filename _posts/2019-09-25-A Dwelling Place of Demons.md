@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Dwelling Place of Demons 恶魔的住所
-category: Sermon(SG)2019
-tags: [Heart,Desire,Devil,Temptation]
+category: sermon2019singapore
+tags: [heart,desire,devil,temptation]
 hymns: [156,154]
 ---
 Some people believe old and dilapidated houses are haunted. We’ve heard ghost stories in army, some people have seen their dead relatives at home. What does the Bible tell us about demons and their dwelling place?
