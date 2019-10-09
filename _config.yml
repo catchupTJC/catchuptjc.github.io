@@ -67,9 +67,8 @@ paginate: 5
 paginate_path: '/98453676b04598ca697f21a3c385f7c36777d17a/page:num'
 
 # read words per min
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
 read_time: true
+words_per_minute: # 200
 
 #
 # !! You don't need to change any of the configuration flags below !!
