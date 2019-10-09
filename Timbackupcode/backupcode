@@ -1,3 +1,15 @@
+--------------------
+Posting Hymns
+
+Hymn :123
+Hymn :234
+
+  {% if page.hymns %}
+  {% for hymn in page.hymns %}
+    <div class="post-hymn">Hymn {{ hymn }}</div>
+  {% endfor %}
+  {% endif %}
+
 ---------------------
 Caps on first letter (Tag)
 
