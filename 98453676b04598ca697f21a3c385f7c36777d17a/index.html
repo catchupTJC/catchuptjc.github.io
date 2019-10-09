@@ -12,29 +12,8 @@ title: Category
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    
-    {% if site.read_time %}  
-
-    {%- assign words_per_minute = site.words_per_minute | default: 200 -%}
-    {%- assign min_read = site.data.text[site.locale].min_read | default: 'min read' -%}
-
-    {% if entry %}
-      {% assign words = post.entry.content | strip_html | number_of_words %}
-    {% else %}
-      {% assign words = post.page.content | strip_html | number_of_words %}
-    {% endif %}
-
-    <span class="read-time">
-      {%- if words < words_per_minute -%}
-        ~1 {{ min_read }}
-      {%- else -%}
-        {{ words | divided_by:words_per_minute }} {{ min_read }}
-      {%- endif -%}
-    </span>
-    {% endif %}
-    
-    
+    <span class="post-date">{{ post.date | date_to_string }}</span>    
+   
     {% if post.tags %} | 
     {% for tag in post.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
