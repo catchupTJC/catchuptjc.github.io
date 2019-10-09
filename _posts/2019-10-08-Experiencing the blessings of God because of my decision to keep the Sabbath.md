@@ -6,7 +6,6 @@ tags: [testimony,decision,sabbath]
 hymns: []
 ---
 In the name of Jesus I testify. I’m Sister Yu Pei Qin from Madrid church in Spain. 
-
 In July 2009, we immigrated to Madrid to earn a living. At that time, the church building in Madrid had not yet been built, and we were renting a venue for members to gather together to worship God. Every Saturday, I would obey the commandments of God and observe the Sabbath.
 
 In the first few years of being in Madrid, I was working in a clothing store owned by a Chinese person. I would usually use my lunch break to rush to service, and just like other brothers and sisters, I would then leave in a hurry after service. Looking at how we managed our time on this day, it seemed as though we were observing Sabbath merely as a form of routine because most of the day was spent at work.
