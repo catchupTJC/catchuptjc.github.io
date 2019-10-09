@@ -11,13 +11,13 @@ layout: default
 
   {% if page.category %}
   {% for tag in page.category %}
-    <a href="{{ site.baseurl }}{{ site.category_page }}#{{ tag | slugify }}" class="cat-tag">{{ tag }}</a>
+    <p><a href="{{ site.baseurl }}{{ site.category_page }}#{{ tag | slugify }}" class="cat-tag">{{ tag }}</a>
   {% endfor %}
   {% endif %}
   {% if page.tags %} | 
   {% for tag in page.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
-  {% endfor %}
+  {% endfor %}</p>
   {% endif %}
 
   {% if page.hymns %}
