@@ -326,10 +326,6 @@ footer {
 //just delete the below to make this normal again 
 //Tim new color, body {background-color: rgb(220, 216, 208);}  
 
-body { 
-    background-color: #DCD8D0;
-}
-
 .rect {
     border-top: 3px solid #333;
     border-bottom: 3px solid #333;
@@ -370,14 +366,6 @@ aside:nth-of-type(2) {
   top: 3rem;
 }
 
-aside:nth-of-type(3) {
-  top: 7rem;
-}
-
-aside:nth-of-type(4) {
-  top: 12rem;
-}
-
 #content select,
 #content button,
 #content input[type="text"],
@@ -386,8 +374,8 @@ aside:nth-of-type(4) {
 }
 
 dark-mode-toggle {
-  --dark-mode-toggle-remember-icon-checked: url("checked.svg");
-  --dark-mode-toggle-remember-icon-unchecked: url("unchecked.svg");
+  --dark-mode-toggle-remember-icon-checked: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/checked.svg";
+  --dark-mode-toggle-remember-icon-unchecked: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/unchecked.svg";
   --dark-mode-toggle-remember-font: 0.75rem 'Helvetica';
   --dark-mode-toggle-legend-font: bold 0.85rem 'Helvetica';
   --dark-mode-toggle-label-font: 0.85rem 'Helvetica';
@@ -398,32 +386,16 @@ dark-mode-toggle {
 }
 
 #dark-mode-toggle-1 {
-  --dark-mode-toggle-dark-icon: url("sun.png");
-  --dark-mode-toggle-light-icon: url("moon.png");
+  --dark-mode-toggle-dark-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/sun.png";
+  --dark-mode-toggle-light-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/moon.png";
 }
 
 #dark-mode-toggle-2 {
-  --dark-mode-toggle-dark-icon: url("sun.svg");
-  --dark-mode-toggle-light-icon: url("moon.svg");
+  --dark-mode-toggle-dark-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/sun.svg";
+  --dark-mode-toggle-light-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/moon.png";
   --dark-mode-toggle-icon-size: 2rem;
   --dark-mode-toggle-icon-filter: invert(100%);
 }
-
-#dark-mode-toggle-3,
-#dark-mode-toggle-4 {
-  --dark-mode-toggle-dark-icon: url("moon.png");
-  --dark-mode-toggle-light-icon: url("sun.png");
-}
-
-#dark-mode-toggle-3 {
-  --dark-mode-toggle-remember-filter: invert(100%);
-}
-
-#dark-mode-toggle-4 {
-  --dark-mode-toggle-active-mode-background-color: var(--accent-color);
-  --dark-mode-toggle-remember-filter: invert(100%);
-}
-
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
