@@ -11,7 +11,7 @@ title: categories
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in tag_words %}
-    <a href="#{{ tag | cgi_escape }}" class="post-tag">{{ tag }}<span>{{ site.categories[tag] | size }}</span></a>
+    <a href="#{{ tag | cgi_escape }}" class="cat-tag">{{ tag }}<span>{{ site.categories[tag] | size }}</span></a>
     {% endfor %}
   </div>
   <hr/>
@@ -21,7 +21,7 @@ title: categories
   <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
   <ul class="posts">
     {% for post in site.categories[this_word] %}{% if post.title != null %}
-      <li itemscope><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> &raquo; {% if left(post.category,12) == "Audio Sermon" %}<i class="fa fa-microphone"></i> {% endif %}<a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li itemscope><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> &raquo; {% if post.category == "audiosermon2019subang" %}<i class="fa fa-microphone"></i> {% endif %}<a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
   {% endunless %}{% endfor %}
