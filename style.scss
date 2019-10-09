@@ -378,6 +378,13 @@ aside:nth-of-type(4) {
   top: 12rem;
 }
 
+#content select,
+#content button,
+#content input[type="text"],
+#content input[type="search"] {
+  width: 15rem;
+}
+
 dark-mode-toggle {
   --dark-mode-toggle-remember-icon-checked: url("checked.svg");
   --dark-mode-toggle-remember-icon-unchecked: url("unchecked.svg");
