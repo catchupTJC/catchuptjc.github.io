@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss:
+  rss: catchuptjc@gmail.com
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -65,6 +65,10 @@ gems:
   - jekyll-paginate
 paginate: 5
 paginate_path: '/98453676b04598ca697f21a3c385f7c36777d17a/page:num'
+
+# read words per min
+read_time: # reading time estimates, e.g. true
+words_per_minute: # 200
 
 #
 # !! You don't need to change any of the configuration flags below !!
