@@ -4,14 +4,12 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
-  <p><font size="1">
+  <p><font size="2">
   {% if site.read_time %}
     {% include read-time.html %}
   {% endif %}
   <span class="post-date">{{ page.date | date_to_string }}</span>
   </font></p>
-	
   {% if page.category %} | 
   {% for tag in page.category %}
     <a href="{{ site.baseurl }}{{ site.category_page }}#{{ tag | slugify }}" class="cat-tag">{{ tag }}</a>
