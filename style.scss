@@ -286,6 +286,7 @@ footer {
 //Tim added background colour $ lightgray and changed wrapper-footer background-color: $lightgray
 //just delete the below to make this normal again 
 //Tim new color, body {background-color: rgb(220, 216, 208);}  
+
 body { 
     background-color: #DCD8D0;
 }
@@ -307,6 +308,14 @@ body {
 .rel hover {
      opacity: 1;    
 }
+
+//read-time CSS
+  .read-time {
+    font-family: $meta-font-family;
+    font-style: italic;
+    white-space: nowrap;
+  }
+
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
