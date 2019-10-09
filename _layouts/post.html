@@ -59,7 +59,7 @@ layout: default
 	
     {% if sameTagCount >= minCommonTags %}
       <div>
-        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}
+        <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>|
 	  
 	  {% if site.read_time %} 
     	  {%- assign words_per_minute = site.words_per_minute | default: 200 -%}
@@ -72,9 +72,8 @@ layout: default
        	   {{ words | divided_by:words_per_minute }} {{ min_read }}
       	  {%- endif -%}
    	   </span>
-    	  {% endif %}
-		  
-        </a></h5> 
+    	  {% endif %}	  
+         
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
