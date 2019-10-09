@@ -11,7 +11,7 @@ layout: default
 
   {% if page.category %}
   {% for tag in page.category %}
-    <a href="{{ site.baseurl }}{{ site.category_page }}#{{ tag | slugify }}" class="cat-tag">{{ tag }}</a>
+    <br/><a href="{{ site.baseurl }}{{ site.category_page }}#{{ tag | slugify }}" class="cat-tag">{{ tag }}</a>
   {% endfor %}
   {% endif %}
   {% if page.tags %} | 
