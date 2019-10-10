@@ -13,24 +13,13 @@
     <meta name="theme-color" content="">
     <link rel="icon" content="">
     <script>
-      // If `prefers-color-scheme` is not supported, fall back to light mode.
-      // In this case, light.css will be downloaded with `highest` priority.
-      if (window.matchMedia('(prefers-color-scheme)').media === 'not all') {
-        document.documentElement.style.display = 'none';
-        document.head.insertAdjacentHTML(
-            'beforeend',
-            '<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" onload="document.documentElement.style.display = ``">'
-        );
-      }
-    </script>
     
      <script type="module" src="https://cdn.pika.dev/dark-mode-toggle"></script>
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" >
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/dark.css" media="(prefers-color-scheme: dark)">
-     <script type="module" src="https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/dark-mode-toggle.mjs"></script>
-    
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+        
+     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- fonts awesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
