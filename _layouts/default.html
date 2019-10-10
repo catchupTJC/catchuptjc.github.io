@@ -45,16 +45,6 @@
     <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
     <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
     {% endif %}
-
- <aside>
-  <dark-mode-toggle
-      id="dark-mode-toggle-1"
-      appearance="switch"
-      dark="Dark"
-      light="Light"
-      remember="Remember this"
-  ></dark-mode-toggle>
- </aside>
 	     
   </head>
  
@@ -74,6 +64,9 @@
             <a href="{{ site.baseurl }}/categories/tags">Tags</a>
             <a href="{{ site.baseurl }}/search">Search</a>            
             <a href="{{ site.baseurl }}/about">Share</a>
+     <aside>
+      <dark-mode-toggle id="dark-mode-toggle-2"></dark-mode-toggle>
+    </aside>
           </nav>
         </header>
       </div>
