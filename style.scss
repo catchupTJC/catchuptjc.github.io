@@ -353,37 +353,6 @@ footer {
     white-space: nowrap;
   }
 
-//Darkmode toggle texts
-
-aside {
-  position: absolute;
-  right: 0;
-  padding: 0.5rem;
-}
-
-aside:nth-of-type(1) {
-  top: 0;
-}
-
-#content select,
-#content button,
-#content input[type="text"],
-#content input[type="search"] {
-  width: 15rem;
-}
-
-dark-mode-toggle {
-  --dark-mode-toggle-remember-icon-checked: 'https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/checked.svg' ;
-  --dark-mode-toggle-remember-icon-unchecked: 'https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/unchecked.svg';
-  --dark-mode-toggle-remember-font: 0.75rem 'Helvetica';
-  --dark-mode-toggle-legend-font: bold 0.85rem 'Helvetica';
-  --dark-mode-toggle-label-font: 0.85rem 'Helvetica';
-  --dark-mode-toggle-color: var(--text-color);
-  --dark-mode-toggle-background-color: none;
-
-  margin-bottom: 1.5rem;
-}
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
