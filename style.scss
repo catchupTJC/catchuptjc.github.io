@@ -47,9 +47,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--heading-color);
   transition: text-shadow var(--duration) var(--timing);
   font-family: $helveticaNeue;
-  color: $darkerGray;
   font-weight: bold;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -66,7 +64,6 @@ h1 {
 
 h2 {
   font-size: 24px;
-  text-transform: capitalize;	
 }
 
 h3 {
