@@ -9,6 +9,20 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <meta name="color-scheme" content="dark light">
+    <meta name="theme-color" content="">
+    <link rel="icon" content="">
+    <script>
+      // If `prefers-color-scheme` is not supported, fall back to light mode.
+      // In this case, light.css will be downloaded with `highest` priority.
+      if (window.matchMedia('(prefers-color-scheme)').media === 'not all') {
+        document.documentElement.style.display = 'none';
+        document.head.insertAdjacentHTML(
+            'beforeend',
+            '<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" onload="document.documentElement.style.display = ``">'
+        );
+      }
+    </script>
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" >
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/dark.css" media="(prefers-color-scheme: dark)">
