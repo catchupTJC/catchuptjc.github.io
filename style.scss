@@ -18,7 +18,7 @@
 :root {
   color-scheme: dark light; /* stylelint-disable-line property-no-unknown */
 
-  --heading-color: darkerGray;
+  --heading-color: $darkerGray;
   --duration: 0.5s;
   --timing: ease;
 }
