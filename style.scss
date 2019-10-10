@@ -18,7 +18,7 @@
 :root {
   color-scheme: dark light; /* stylelint-disable-line property-no-unknown */
 
-  --heading-color: darkerGray;
+  --heading-color: $darkGray;
   --duration: 0.5s;
   --timing: ease;
 }
@@ -266,7 +266,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: var(--duration) var(--timing);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
