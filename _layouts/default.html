@@ -12,8 +12,19 @@
     <meta name="color-scheme" content="dark light">
     <meta name="theme-color" content="">
     <link rel="icon" content="">
-    <script>
     
+    <script>
+      // If `prefers-color-scheme` is not supported, fall back to light mode.
+      // In this case, light.css will be downloaded with `highest` priority.
+      if (window.matchMedia('(prefers-color-scheme)').media === 'not all') {
+        document.documentElement.style.display = 'none';
+        document.head.insertAdjacentHTML(
+            'beforeend',
+            '<link rel="stylesheet" href="light.css" onload="document.documentElement.style.display = ``">'
+        );
+      }
+    </script>
+    <script>
      <script type="module" src="https://cdn.pika.dev/dark-mode-toggle"></script>
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" >
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
