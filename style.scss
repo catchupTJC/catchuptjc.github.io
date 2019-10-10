@@ -13,11 +13,22 @@
 /* BASE RULES */
 /**************/
 
+:root {
+  color-scheme: dark light; /* stylelint-disable-line property-no-unknown */
+
+  --heading-color: darkGray;
+  --duration: 0.5s;
+  --timing: ease;
+}
+
 html {
   font-size: 100%;
 }
 
 body {
+  transition:
+    color var(--duration) var(--timing),
+    background-color var(--duration) var(--timing);	
   font: 20px/1.4 $helvetica;
   background-color: var(--background-color);
   color: var(--text-color);
@@ -32,6 +43,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--heading-color);
+  transition: text-shadow var(--duration) var(--timing);
   font-family: $helveticaNeue;
   font-weight: bold;
   line-height: 1.7;
@@ -219,7 +231,8 @@ nav {
   }
 
   a {
-    color: $darkGray;
+    transition: color var(--duration) var(--timing)
+    color: var(--text-color);
     margin-left: 20px;
     text-align: right;
     font-weight: 300;
@@ -227,7 +240,8 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      transition: color var(--duration) var(--timing)
+      color: var(--text-color);
     }
   }
 }
