@@ -384,13 +384,6 @@ dark-mode-toggle {
   margin-bottom: 1.5rem;
 }
 
-#dark-mode-toggle-1 {
-  --dark-mode-toggle-dark-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/sun.svg";
-  --dark-mode-toggle-light-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/moon.png";
-  --dark-mode-toggle-icon-size: 10rem;
-  --dark-mode-toggle-icon-filter: invert(100%);
-}
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
