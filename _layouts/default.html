@@ -44,15 +44,6 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
          
-           <dark-mode-toggle
-              id="dark-mode-toggle-1"
-              legend="Theme Switcher"
-              appearance="switch"
-              dark="Dark"
-              light="Light"
-              remember="Remember this"
-              ></dark-mode-toggle>
-
           <nav>
             <a href="{{ site.baseurl }}/categories/categories">Category</a>
             <a href="{{ site.baseurl }}/categories/tags">Tags</a>
@@ -71,6 +62,14 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+             <dark-mode-toggle
+              id="dark-mode-toggle-1"
+              legend="Theme Switcher"
+              appearance="switch"
+              dark="Dark"
+              light="Light"
+              remember="Remember this"
+             ></dark-mode-toggle>
         </footer>
       </div>
     </div>
