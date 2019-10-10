@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<aside>
+  <dark-mode-toggle
+      id="dark-mode-toggle-1"
+      legend="Theme Switcher"
+      appearance="switch"
+      dark="Dark"
+      light="Light"
+      remember="Remember this"
+  ></dark-mode-toggle>
+</aside>
+
 <article class="post">
   <h1>{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span> |
