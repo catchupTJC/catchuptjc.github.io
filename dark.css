@@ -19,7 +19,6 @@
   --text-color: rgb(240, 240, 240);
   --shadow-color: rgba(240, 240, 240, 0.5);
   --accent-color: rgba(0, 0, 240, 0.5);
-  --bluecolor: rgb(86, 177, 255);
   --greencolor: rgb(145, 227, 165);
   --purplecolor:rgb(152, 120, 211);
 }
@@ -33,7 +32,7 @@ img {
 }
 
 a {
-  color: rgb(145, 227, 165);
+  color: rgb(86, 177, 255);
 }
 
 /* If no dark mode user agent stylesheet exists, emulate it */
