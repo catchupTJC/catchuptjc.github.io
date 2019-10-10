@@ -76,11 +76,11 @@ h4 {
 
 p {
   margin: 15px 0;
-  color: var(--text-color)
+  color: var(--text-color);
 }
 
 a {
-  color: $blue;
+  color: var(--text-color);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
