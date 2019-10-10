@@ -62,14 +62,6 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
-             <dark-mode-toggle
-              id="dark-mode-toggle-1"
-              legend="Theme Switcher"
-              appearance="switch"
-              dark="Dark"
-              light="Light"
-              remember="Remember this"
-             ></dark-mode-toggle>
         </footer>
       </div>
     </div>
@@ -77,6 +69,18 @@
       {% include analytics.html %}
 
     <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+    
+<aside>
+  <dark-mode-toggle
+      id="dark-mode-toggle-1"
+      legend="Theme Switcher"
+      appearance="switch"
+      dark="Dark"
+      light="Light"
+      remember="Remember this"
+  ></dark-mode-toggle>
+</aside>
+    
     
   </body>  
 </html>
