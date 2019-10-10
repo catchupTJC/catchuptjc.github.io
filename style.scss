@@ -319,6 +319,15 @@ footer {
     white-space: nowrap;
   }
 
+aside {
+  position: absolute;
+  right: 0;
+  padding: 0.5rem;
+}
+
+aside:nth-of-type(2) {
+  top: 0;
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
