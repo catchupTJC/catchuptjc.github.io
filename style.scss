@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 0.1rem 0.1rem 0.1rem var(--shadow-color);
   transition: text-shadow var(--duration) var(--timing);
   font-weight: bold;
-  font-family: Helvetica Neue;
+  font-family: $HelveticaNeue;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -92,10 +92,6 @@ img {
 }
 
 p {
-  line-height: 1.5;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  hyphens: auto;
   margin: 15px 0;
 }
 
@@ -106,12 +102,6 @@ a {
   &:hover, &:active {
     color: $blue;
   }
-}
-
-fieldset {
-  border: solid 0.1rem;
-  box-shadow: 0.1rem 0.1rem 0.1rem var(--shadow-color);
-  transition: box-shadow var(--duration) var(--timing);
 }
 
 div {
