@@ -231,7 +231,6 @@ nav {
   }
 
   a {
-    transition: color var(--duration) var(--timing)
     color: var(--text-color);
     margin-left: 20px;
     text-align: right;
@@ -240,7 +239,6 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      transition: color var(--duration) var(--timing)
       color: var(--text-color);
     }
   }
