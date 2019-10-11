@@ -19,8 +19,8 @@
   --text-color: rgb(240, 240, 240);
   --shadow-color: rgba(240, 240, 240, 0.5);
   --accent-color: rgba(0, 0, 240, 0.5);
-  --cat-color: rgb(145, 227, 165);
-  --purplecolor:rgb(152, 120, 211);
+  --sitename-color: rgb(145, 227, 165);
+  --cat-color:rgb(152, 120, 211);
 }
 
 img {
