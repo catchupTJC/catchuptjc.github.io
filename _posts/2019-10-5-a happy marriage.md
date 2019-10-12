@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A HAPPY MARRIAGE
+title: A Happy Marriage
 category: sermon2019subang
 tags: [relationship,marriage,love]
 hymns: []
@@ -185,10 +185,6 @@ o	What kind of careers you both have; what lifestyle expectation does both of yo
 
 
 ALL PRAISE AND GLORY TO OUR LORD JESUS CHRIST! AMEN!!
-
-
-
-
 
 
 Let me first address this issue by making a statement that modern society does not prepare 
