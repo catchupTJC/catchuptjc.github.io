@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I met you that night
-category: sermon2019subang
+category: sermon2017subang
 tags: [remembergod]
 hymns: [339,452]
 ---
