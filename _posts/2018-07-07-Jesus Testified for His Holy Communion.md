@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jesus Testified for His Holy Communion
-category: sermon2019subang
+category: sermon2018subang
 tags: [holycommunion]
 hymns: [332,399]
 ---
