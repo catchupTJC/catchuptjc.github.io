@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Church of the True God 2
-category: sermon2019subang
+category: sermon2018subang
 tags: [church,doctrine]
 hymns: [215]
 ---
