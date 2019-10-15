@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Hardest word
-category: sermon2019subang
+category: sermon2018subang
 tags: [speech,forgiveness,repent]
 hymns: [4,305]
 ---
