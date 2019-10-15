@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jesus Sentenced To Death
-category: sermon2019subang
+category: sermon2017subang
 tags: [trial]
 hymns: [436,354]
 ---
