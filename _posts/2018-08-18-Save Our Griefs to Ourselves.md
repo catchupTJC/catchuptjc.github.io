@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save Our Griefs to Ourselves
-category: sermon2019subang
+category: sermon2018subang
 tags: [sorrow]
 hymns: [312,514]
 ---
