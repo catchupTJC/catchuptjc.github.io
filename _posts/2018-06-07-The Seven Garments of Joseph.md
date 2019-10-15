@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Seven Garments of Joseph
-category: sermon2019subang
+category: sermon2018subang
 tags: [relationship,feargod]
 hymns: [339,436]
 ---
