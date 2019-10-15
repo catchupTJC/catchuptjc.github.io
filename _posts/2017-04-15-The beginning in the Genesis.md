@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The beginning in the Genesis
-category: sermon2019subang
+category: sermon2017subang
 tags: [creation]
 hymns: []
 ---
