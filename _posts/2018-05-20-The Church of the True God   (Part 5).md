@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The church of the true God   (Part 5)
+title: The Church of the True God   (Part 5)
 category: sermon2018subang
 tags: [church,doctrine]
 hymns: [29]
