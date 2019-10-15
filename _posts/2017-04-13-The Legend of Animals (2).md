@@ -2,8 +2,8 @@
 layout: post
 title: The Legend of Animals (2)
 category: sermon2017subang
-tags: [reflection]
-hymns: [parable,animals]
+tags: [parable,animals]
+hymns: []
 ---
 -We can learn the animals recorded in the bible. 
 -In the first part we learnt about the snake in the Garden of Eden. The serpent spoke the words of the devil. While the donkey that spoke to Balaam spoke the words of God. 
