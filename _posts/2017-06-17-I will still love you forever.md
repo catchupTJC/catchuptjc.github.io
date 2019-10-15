@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I will still love you forever
-category: sermon2019subang
+category: sermon2017subang
 tags: [loveofgod,ruth,love]
 hymns: [452,101]
 ---
