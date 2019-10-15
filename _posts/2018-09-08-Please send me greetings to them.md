@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Please send me greetings to them
-category: sermon2019subang
+category: sermon2018subang
 tags: [relationship,church,love,service]
 hymns: [240,127]
 ---
