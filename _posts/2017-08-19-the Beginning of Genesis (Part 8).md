@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the Beginning of Genesis (Part 8)
-category: sermon2019subang
+category: sermon2017subang
 tags: [creation,relationship,marriage,love]
 hymns: [131,217]
 ---
