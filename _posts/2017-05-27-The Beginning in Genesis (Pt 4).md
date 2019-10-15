@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The beginning in Genesis (Pt 4)
+title: The Beginning in Genesis (Pt 4)
 category: sermon2017subang
 tags: [creation,startagain,loveofgod]
 hymns: [128,232]
