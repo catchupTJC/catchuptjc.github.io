@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I finally lost you
-category: sermon2019subang
+category: sermon2017subang
 tags: [lost]
 hymns: [482,442]
 ---
