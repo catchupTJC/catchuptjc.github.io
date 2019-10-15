@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Men trapped in the snares
-category: sermon2019subang
+category: sermon2017subang
 tags: [worldlypossession,lovetheworld]
 hymns: [177,176]
 ---
