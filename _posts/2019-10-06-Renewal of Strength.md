@@ -4,6 +4,7 @@ title: Renewal of Strength 重新得力
 category: youthservice2019singapore
 tags: [startagain,strength]
 hymns: [250,332]
+speaker: prbarnabaschong
 ---
 All of us have some measure of strength. Some strength comes from our muscles, some from our will power; one more strength comes from the heart, from the spirit within us. As Christians, we display our strength in these 3 areas: physical strength, mental strength, and most importantly for Christians, the strength from the spirit. 
 
