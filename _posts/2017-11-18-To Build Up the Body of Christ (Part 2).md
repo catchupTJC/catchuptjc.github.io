@@ -4,7 +4,7 @@ title: To Build Up the Body of Christ (Part 2)
 category: sermon2017subang
 tags: [church,growth]
 hymns: [126,171]
-speaker: Pr Nahum Lim
+speaker: prnahumlim
 ---
 -Recap versus in Eph 4:11-16 in Part 1.
 
