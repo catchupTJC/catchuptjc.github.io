@@ -4,6 +4,7 @@ title: To Build Up the Body of Christ (Part 1)
 category: sermon2017subang
 tags: [church,growth]
 hymns: [131,174]
+speaker: prnahumlim
 ---
 -Eph 4 :1 – The body of Christ refers to the church. 
 
