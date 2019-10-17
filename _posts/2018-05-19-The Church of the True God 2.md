@@ -31,9 +31,9 @@ The church of the true God is
 
 -Few days later she observed the Sabbath. When she entered church there is a hymn singing during pre service. She then remarked this is the hymn that the angels sang to her. The angels were singing hymn 142 Come ye Disconsolate. When we have anguish and despair to trust in the Lord. 
 
--the church of the true God is where God comforts. 
+-the church of the True God is where God comforts. 
 
-The church of the true God is 
+The church of the True God is 
 5) The church that is promised by God (1 Jn 2: 25)
 
 -The promise of God is to give eternal life which is more precious than anything. The Lord Jesus Christ gave a promise that he will resurrect us on the last days. Lazarus was raised after death and yet he died again. In our church, we have testimonies that those who have died also was healed by God and resurrect again. However after this, they will still pass away. 
@@ -61,10 +61,11 @@ The second statement she said, “God will not forsake, only men will forsake Go
 This testimony tells us this. 
 
 1)Hold firm in the promise God. 
+
 2)God will not forsake but men will forsake. 
 Church will never leave, it is members that will leave the church. It is men that will forsake the truth and word of God. 
 
--The church of the true god is 
+-The church of the True God is 
 6) The church that is blessed by God (LK 24:50-51)
 The last task that Jesus did is to bless the believers. While he was blessing them, he parted from them and was carried up in to heaven. As he was ascending he continued to bless them. –Before Jesus departed from them, he bless them on earth and today he continues to bless us. 
 
@@ -126,8 +127,11 @@ The church of the true God is
 In the house at the wall, the words on the wall was 
 
 - “Baptize for the remission/forgiveness of sin” 
+
 -‘Foot washing is being part of Christ”
+
 -‘Sabbath day is to keep the commandment. 
+
 -‘Holy spirit etc”
 
 -So on the wall of the doctor’s house, she was amazed on what she read and started truth seeking of the TJC. When she was in TJC, she dared not even eat or drink as the pastors warned them not to eat or drink in the TJC as they may be influenced.
