@@ -7,7 +7,9 @@ hymns: [215]
 ---
 The church of the True God is 
 1) The church that has the abidance of God (Mt 18:19-20)
+
 2) The church that has the providence of God 
+
 3)The church that healed by God. (Mt 1:14)
 
 The church of the true God is 
