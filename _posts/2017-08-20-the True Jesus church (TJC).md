@@ -6,13 +6,14 @@ tags: [church,revelation]
 hymns: [429]
 ---
 -The period of the true church in the last days. 
+
 -TJC at the end time until the great judgment. 
 In between of this there are 4 period. 
 
 1st period
 Millenium period where Satan is bounded. 
-The appearance of the white horse. The seal. Angel rise from the east so that the chosen ones are sealed. This is the period of sealing so that they will not be destroyed. 
-There is also evangelical time. There are 2 preachers and fire came out from the mouths. Fire is the word of God and one is to cleanse them and to judge them. The gospel is to save and also to judge. 
+The appearance of the white horse. The seal. Angel rise from the east so that the chosen ones are sealed. This is the period of sealing so that they will not be destroyed. There is also evangelical time. There are 2 preachers and fire came out from the mouths. Fire is the word of God and one is to cleanse them and to judge them. The gospel is to save and also to judge. 
+
 -Believe and you will be saved according to the ways set. 
 -Believe and you will save and if you don’t believe you will be judged and condemn. 
 -The fire came out of the preacher to burn them. 
@@ -20,11 +21,12 @@ There is also evangelical time. There are 2 preachers and fire came out from the
 -This is a milinium period and is also a period of grace
 
 2nd period
-The period of trampling. 
-The loss of the period of the holy spirit. 
-There is a falling star and open up a bottomless pit where the devil is bounded. 
-There will be a period of locusts to anti TJC
-There will be a battle. The legion of the devil will initiate this battle. 
+-The period of trampling. 
+
+-The loss of the period of the holy spirit. 
+-There is a falling star and open up a bottomless pit where the devil is bounded. 
+-There will be a period of locusts to anti TJC
+-There will be a battle. The legion of the devil will initiate this battle. 
 
 Rev 11: 1-2 the measurement of the temple, court and holy city. The court outside no need to measure as this has been given to the gentiles and God will leave them as gentiles and no longer care for them. 
 -They will tread the holy spirit for 42 months. 
