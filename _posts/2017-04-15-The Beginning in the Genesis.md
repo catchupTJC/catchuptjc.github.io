@@ -80,7 +80,7 @@ Peter said Gen 1:1God created the heavens and the earth which was the original a
 2 Pet 3: 6 was judgement of God. The world was destroyed 
 2 pet 3: 7 when will the present earth and earth destroyed? This  will be kept until the day of judgement and destruction of ungodly. 
 
-The beginning, the archaic world,   the destruciotn of the world,   the creation of the present world. 
+The beginning, the archaic world,   the destruction of the world,   the creation of the present world. 
 Gen 2:4 These are the generations of the heavens and the earth when they were created (bala) In the day that the Lord God made (asah) the earth and the heavens 
 
 God created the earth again, he did not create water. When was the water created? This clearly tells us that before the creation of the earth the water was already created in the archaic world. 
