@@ -6,10 +6,12 @@ tags: [church]
 hymns: []
 speaker: PrJacobChan
 ---
+
 “Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.”
 (Revelations 21:2)
- 
-Elder John saw a vision and he saw a new heaven and a new earth. We know that the relationship between Christ and the church is like that of a husband and his bride. When does the church become the bride?
+
+
+-Elder John saw a vision and he saw a new heaven and a new earth. We know that the relationship between Christ and the church is like that of a husband and his bride. When does the church become the bride?
  
 “For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present you as a chaste virgin to Christ.”
 (2 Corinthians 11:2)
