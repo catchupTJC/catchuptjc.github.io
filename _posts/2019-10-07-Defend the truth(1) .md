@@ -10,7 +10,7 @@ hymns: []
 
 
 <audio controls preload="none">    
-    <source src="http://docs.google.com/uc?export=open&id=1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6">test
+    <source src="https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/music/LoveUnreserved.mp3">Test
 </audio>
 
 <audio controls="mycontrol" height="50" width="50">
