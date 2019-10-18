@@ -9,8 +9,12 @@ hymns: []
 ### <a href="https://drive.google.com/file/d/1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6/view">Audio Sermon Download</a>
 
 <audio controls preload="none">    
-    <source src="http://docs.google.com/uc?export=open&id=1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6" type="audio/mp3">test
+    <source src="http://docs.google.com/uc?export=open&id=1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6">test
 </audio>
+
+type="audio/mp3"
+
+
 
 http://docs.google.com/uc?export=open&id=1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6
 
