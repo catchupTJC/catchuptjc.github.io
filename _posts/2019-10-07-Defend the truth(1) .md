@@ -6,7 +6,7 @@ tags: [doctrine,wordofgod]
 hymns: []
 ---
 
-### <a href="https://drive.google.com/file/d/1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6/view">Audio Sermon Download</a>
+### <a href="http://docs.google.com/uc?export=open&id=1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6">Audio Sermon Download</a>
 
 <audio controls preload="none">    
     <source src="http://docs.google.com/uc?export=open&id=1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6">test
@@ -16,7 +16,7 @@ type="audio/mp3"
 
 
 
-http://docs.google.com/uc?export=open&id=1uUqv-rYvN7scCWxLxjA0WYPgbclxniC6
+
 
 
 <audio controls="controls">
