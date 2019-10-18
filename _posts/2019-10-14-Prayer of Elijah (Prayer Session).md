@@ -7,6 +7,7 @@ hymns: []
 speaker: PrJacobChan
 ---
  
+
 God called Elijah to speak to the wicked King Ahab, saying that if Elijah did not pray, there would be no rain for three years. Elijah was very bold to speak before the king, even risking his lives. When the Bible describes John the Baptist being like Elijah, it is in this aspect. After Elijah did this work, God hid Elijah. King Ahab had not kept Elijah’s warning in his heart. But after a few months, it truly did not rain. King Ahab was furious and sent people to capture Elijah. But God’s protection began even before these wicked men sought after Elijah. God hid Elijah by the brook and sent ravens to feed him. Later, God also used the widow of Zarephath to sustain Elijah. There is a spiritual significance behind this but the speaker says he does not have time to share it here.
  
 There was a time of 3.5 years that God hid Elijah away. Afterwards, God called Elijah to speak to King Ahab, because God wanted to send the rain. Without fear, Elijah went to meet King Ahab. Queen Jezebel prepared hundreds of prophets of Baal to meet Elijah too.
