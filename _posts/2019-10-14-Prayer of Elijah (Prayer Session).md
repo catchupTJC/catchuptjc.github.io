@@ -21,6 +21,7 @@ So he went up and looked, and said, “There is nothing.” And seven times he s
 Then it came to pass the seventh time, that he said, “There is a cloud, as small as a man’s hand, rising out of the sea!” So he said, “Go up, say to Ahab, ‘Prepare your chariot, and go down before the rain stops you.’ ”
 Now it happened in the meantime that the sky became black with clouds and wind, and there was a heavy rain. So Ahab rode away and went to Jezreel. Then the hand of the Lord came upon Elijah; and he girded up his loins and ran ahead of Ahab to the entrance of Jezreel.”
 (1 Kings 18:41-46)
+
  
 After Elijah had the false prophets executed and he brought back the people’s hearts, he knew that God would fulfil his prayer. That was why he told King Ahab to eat and drink, for there would be rain. Then Elijah went up to the top of Carmel to pray, bowed down. Elijah sent his servant to see if there was anything. Six times he sent his servant and the servant saw nothing. On the seventh time, the servant said there was a cloud the size of a man’s hand.
  
