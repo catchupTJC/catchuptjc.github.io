@@ -4,7 +4,7 @@ title: Psalm 50 – Out of Zion, God Will Shine (2)
 category: essc2019unitedkingdom
 tags: [church]
 hymns: [253]
-speaker: PrJacobChan
+speaker: PrStevenShek
 --- 
  
 If we continue to read this chapter, we will realise that God wants to guide His people. If we read from Psalm 50:7 onwards, we see that God was telling them what their spiritual problems were. If today someone tells us that we have a spiritual problem we may say, “Really? Do I have a spiritual problem?” Because in our minds, if we have a spiritual problem, we may commit adultery or do some very strange thing. Obviously, the Pharisees had spiritual problems. That was why Jesus said to be careful of the leaven of the Pharisees. Why did Jesus tell His disciples? Because the spiritual problems in the heart of the Pharisees could also be in the heart of the disciples. Because every heart is the same, isn’t it?
