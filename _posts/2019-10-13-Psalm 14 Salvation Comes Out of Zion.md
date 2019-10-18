@@ -2,7 +2,7 @@
 layout: post
 title: Psalm 14 – Salvation Comes Out of Zion
 category: essc2019unitedkingdom
-tags: [church,psalms]
+tags: [church,psalms,zion]
 hymns: []
 speaker: PrStevenShek
 ---
