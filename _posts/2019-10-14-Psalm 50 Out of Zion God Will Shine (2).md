@@ -8,7 +8,8 @@ speaker: PrStevenShek
 --- 
  
 If we continue to read this chapter, we will realise that God wants to guide His people. If we read from Psalm 50:7 onwards, we see that God was telling them what their spiritual problems were. If today someone tells us that we have a spiritual problem we may say, “Really? Do I have a spiritual problem?” Because in our minds, if we have a spiritual problem, we may commit adultery or do some very strange thing. Obviously, the Pharisees had spiritual problems. That was why Jesus said to be careful of the leaven of the Pharisees. Why did Jesus tell His disciples? Because the spiritual problems in the heart of the Pharisees could also be in the heart of the disciples. Because every heart is the same, isn’t it?
- 
+
+
 We should not be surprised if we have a spiritual problem. Today if we do not love God with all our hearts, do we not have a spiritual problem? If we are not completely obeying God’s commandments from the heart, do we not have a spiritual problem? It is a spiritual problem, because it affects our relationship with God. Therefore, today we should not be surprised if we have a spiritual problem. This is why God speaks to His people. Usually, when we think about salvation we think about getting baptized and receiving the Holy Spirit. But salvation is not just like that.
 
 “For the grace of God that brings salvation has appeared to all men, teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in the present age, looking for the blessed hope and glorious appearing of our great God and Savior Jesus Christ, who gave Himself for us, that He might redeem us from every lawless deed and purify for Himself His own special people, zealous for good works.”
