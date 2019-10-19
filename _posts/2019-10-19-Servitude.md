@@ -81,6 +81,5 @@ one is missing then the whole puzzle is not complete. No work can be done by onl
 
 -When we are united, the devil cannot break us.
 
-
 ----
 ****
