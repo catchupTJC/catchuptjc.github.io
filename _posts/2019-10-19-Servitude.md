@@ -8,13 +8,21 @@ speaker: Dn. Barnabas Chung
 ---
 -Ecc 5:8 
 -The author of book of Ecc tells us that it is good that we are able to enjoy our labour which God has given. 
+
 -First we must be happy. To live long we need to be happy. We must pursue joy in our hearts. 
-- We must ask God to give us peace and calm in our lives. Anxiousness, anxiety will affect our health. 
+
+-We must ask God to give us peace and calm in our lives. Anxiousness, anxiety will affect our health. 
+
 -The people who has long life is in Japan. Their country is filled with natural disasters but yet they are able to live long life. They are able to face their lives with positivity despite whatever disasters they face. 
+
 -Retirees in Europe are positive with their life everyday. They sometimes indulge in work or do small business such as baking bread and sell etc. 
+
 -What about our retirees in Malaysia? We are considered a country with many public holidays and this is the time we need to build a good relationship with our members and family members. 
+
 -Luke 23: 26-27, 28 
+
 -Jesus was bearing the cross and many was wailing for him. 
+
 -But Jesus turned unto them said, “Do not weep for me but to weep for yourselves and for your children”
 -Why should we weep for us and for our children? This is because the faith of oneself and faith of our children have been neglected. 
 -When we serve, we need to weep for ourselves. When we weep, we let go of ourselves and learn to forgive others. Peter wept when he realized that he has denied Jesus 3 times and that was the beginning of self realization. 
