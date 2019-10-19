@@ -12,14 +12,14 @@ speaker: Dn. Barnabas Chung
 - We must ask God to give us peace and calm in our lives. Anxiousness, anxiety will affect our health. 
 -The people who has long life is in Japan. Their country is filled with natural disasters but yet they are able to live long life. They are able to face their lives with positivity despite whatever disasters they face. 
 -Retirees in Europe are positive with their life everyday. They sometimes indulge in work or do small business such as baking bread and sell etc. 
-What about our retirees in Malaysia? We are considered a country with many public holidays and this is the time we need to build a good relationship with our members and family members. 
+-What about our retirees in Malaysia? We are considered a country with many public holidays and this is the time we need to build a good relationship with our members and family members. 
 -Luke 23: 26-27, 28 
 -Jesus was bearing the cross and many was wailing for him. 
 -But Jesus turned unto them said, “Do not weep for me but to weep for yourselves and for your children”
 -Why should we weep for us and for our children? This is because the faith of oneself and faith of our children have been neglected. 
 -When we serve, we need to weep for ourselves. When we weep, we let go of ourselves and learn to forgive others. Peter wept when he realized that he has denied Jesus 3 times and that was the beginning of self realization. 
-When we serve we need to forgive others. 
-Gen 33:4 The 2 brothers embraced and wept. Why did they weep? Esau realized that Jacob has changed and in fact he was limping. Jacob was one who want to catch hold and seize every opportunity and was proud. But the Jacob has changed and was humble. This embrace and weeping is worth it as it is a sign of forgiveness. Do we weep for our brethren. When we weep, we need to let go of ourselves and to forgive. To have different opinions is all right but the important thing is we have to weep and let go and to forgive others. 
+-When we serve we need to forgive others. 
+-Gen 33:4 The 2 brothers embraced and wept. Why did they weep? Esau realized that Jacob has changed and in fact he was limping. Jacob was one who want to catch hold and seize every opportunity and was proud. But the Jacob has changed and was humble. This embrace and weeping is worth it as it is a sign of forgiveness. Do we weep for our brethren. When we weep, we need to let go of ourselves and to forgive. To have different opinions is all right but the important thing is we have to weep and let go and to forgive others. 
 -When my father received baptism and foot washing, I was weeping that the love of God has changed him. Even though he was once a persecutor of the faith of Jesus but now the love of Jesus and salvation has also given to him freely. We learn to forgive. 
 -A few things we need to look into in our servitude and the last point was to be willing and to be submissive. 
 -Mt 12: 25 
@@ -28,7 +28,7 @@ Gen 33:4 The 2 brothers embraced and wept. Why did they weep? Esau realized that
 one is missing then the whole puzzle is not complete. No work can be done by only one person. 
 -In church, we need to have unity in the work. Unity is strength and devil will always want to disrupt our unity. So when we serve, we must understand that unity is strength. 
 -The goose when they migrate they need to leave the cold and head towards the south. These geese will fly on the same speed. They fly in the V shape. The scientists found that they fly in V shape they can reach their destination 70% faster than one goose to fly on their own. So when the leader at the tip of the V shape is tired it will fly at the side and let another one to take over. The geese at the back will give encouragement to push the front to hold on. For those who are sick there will be 2 geese who will accompany the slower or sick goose. 
-- Constructive criticism can help to go forward. Unity is indeed strength. 
+-Constructive criticism can help to go forward. Unity is indeed strength. 
 -In servitude we need to ask ourselves whether what we do is in accordance to the will of God. 
 -Gen 11:6 The people at that time was in one mind and one language. At that time they had one aim to build the tower of Babel. With one aim, one language, one mind and united they could do anything. But their aim was against God’s purpose as the will of God is for them to spread out to the whole world. 
 -Sometimes when someone disagrees with us, we feel hurt. We need to also reflect ourselves why is it not agreed. If it is truly good, then to put forward the proposal again. 
