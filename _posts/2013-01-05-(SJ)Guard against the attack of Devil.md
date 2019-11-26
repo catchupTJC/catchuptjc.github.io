@@ -4,6 +4,7 @@ title: Guard against the attack of Devil
 category: sermon2013subang
 tags: [heart,desire,devil,temptation]
 hymns: []
+speaker:
 ---
 
 Devil is the enemy of God
@@ -12,7 +13,7 @@ Eph 6:12
 
 -Devil is the ruler of darkness,deceiver, devour the weak, sabotage the church, go against God’s people.
 
--The most fearful aspect of devil is its snares, its deceit. 1 Jn 2:16 For all that is in the world, thelust of the flesh and the lust of the eyes and the pride of life is of the world
+-The most fearful aspect of devil is its snares, its deceit. 1 Jn 2:16 For all that is in the world, the lust of the flesh and the lust of the eyes and the pride of life is of the world
 
 -These are the tools that the devil will use and it starts from the heart. James 1:14 We are tempted by our own desires –lust of eyes, lust of the flesh & pride of life
 
