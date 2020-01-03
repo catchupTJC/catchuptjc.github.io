@@ -2,7 +2,7 @@
 layout: post
 title: Faith and Reason 信心与理性
 category: sermon2019singapore
-tags: [reflection]
+tags: [faith,believe]
 hymns: [136,484]
 speaker: 
 ---
