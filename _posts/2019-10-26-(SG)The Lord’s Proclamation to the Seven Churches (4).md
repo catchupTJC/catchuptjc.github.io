@@ -4,11 +4,9 @@ title: The Lord’s Proclamation to the Seven Churches (4) 主对七教会的自
 category: sermon2019singapore
 tags: [revelation,warning]
 hymns: [211,437]
-speaker: 
+speaker: prchinaunquek
 ---
-
 We turn to Revelation 2:18; 
-
 '“And to the angel of the church in Thyatira write, ‘These things says the Son of God, who has eyes like a flame of fire, and His feet like fine brass: '
 
 We see how God calls Himself to the church in Thyatira. 
