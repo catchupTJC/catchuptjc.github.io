@@ -6,7 +6,6 @@ tags: [reflection,newyear,resolutions]
 hymns: [309, 502]
 speaker: dnphilipshee
 ---
- You Crown The Year With Your Goodness 你以恩典为年岁的冠冕
 
 The speaker isn’t sure how many of us stayed up last night to past midnight, waiting for the moment the clock hits 12 and we feel a surge of excitement for the new year. The speaker happened to be awake at midnight, busy doing things. And suddenly he heard ‘boom boom boom’. He thought it was thunder and that it was going to rain. Later he realised it was fireworks!
 
