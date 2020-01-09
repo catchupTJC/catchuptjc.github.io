@@ -2,7 +2,7 @@
 layout: post
 title: Speaking in Tongues and Prophesying 说方言与说预言
 category: sermon2019singapore
-tags: [reflection]
+tags: [holyspirit]
 hymns: [331,483]
 speaker: 
 ---
