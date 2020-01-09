@@ -4,7 +4,7 @@ title: Prayer for the Holy Spirit 祈求圣灵
 category: spiritualmeeting2019singapore
 tags: [prayer,worship]
 hymns: []
-speaker: Pr Elisha Shim
+speaker: prelishashim
 ---
 
 We turn to Romans 8:26-28; 
