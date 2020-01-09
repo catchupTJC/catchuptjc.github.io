@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning From The Doctrines: The Spiritual Perspective 从教义学习 属灵视角
+title: Learning From The Doctrines-The Spiritual Perspective 从教义学习-属灵视角
 category: sermon2019singapore
 tags: [doctrine,faith]
 hymns: [391,452]
