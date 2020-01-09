@@ -2,7 +2,7 @@
 layout: post
 title: Mourning Turned to Dance (1) 哀哭变为跳舞 (一）
 category: sermon2019singapore
-tags: [mourne,sad,believe]
+tags: [mourne,sad,believe,david]
 hymns: [326,489]
 speaker: 
 ---
@@ -11,7 +11,7 @@ We turn to Psalm 30:11;
 
 'You have turned for me my mourning into dancing; You have put off my sackcloth and clothed me with gladness,'
 
-Here we see that the palmist describes that he turned the morning into dance. We believe that Psalm 30 is the psalm of David and in David’s life there were many highs and lows and David was able to experience that God truly led him his whole life. When he thought back to what the Lord has done for him,he praised and thanked God for preserving him his whole life. 
+Here we see that the psalmist describes that he turned the morning into dance. We believe that Psalm 30 is the psalm of David and in David’s life there were many highs and lows and David was able to experience that God truly led him his whole life. When he thought back to what the Lord has done for him,he praised and thanked God for preserving him his whole life. 
 
 Mourning is sad but dancing is an expression of joy. These 2 are polar opposites. For someone in mourning, how can they dance? This amazing God was able to turn David’s mourning heart into one of dancing. Most importantly is that regardless of whether he was in his highs or lows, David relied on God, never lost faith, did not get discouraged and didn’t lose hope. This is because he knew that God can help him. 
 
