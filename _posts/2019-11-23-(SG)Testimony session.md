@@ -7,7 +7,7 @@ hymns: [148]
 speaker: 
 ---
 
-*First testimony*
+_First testimony_
 
 In the POV of Brother Cai
 
@@ -45,7 +45,7 @@ Thank God for being in control of the situation throughout. During one of our pr
 
 I would like to thank the church for the prayers and to everyone for the visits and the gifts. To the brethren who sent messages of encouragement to us, thank you. Thanks also to my family for the support and help. Thank you to my wife for taking care of my father and staying by my side to go through this together. May all glorification be unto God’s holy name. 
 
-*Second testimony*
+_Second testimony_
 
 In the POV of Sister Lee 
 
