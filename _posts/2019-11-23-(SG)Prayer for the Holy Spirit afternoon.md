@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prayer for the Holy Spirit 祈求圣灵
+title: Prayer for the Holy Spirit (afternoon) 祈求圣灵
 category: spiritualmeeting2019singapore
 tags: [prayer,worship]
 hymns: []
