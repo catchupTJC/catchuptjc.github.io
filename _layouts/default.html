@@ -24,8 +24,8 @@
         );
       }
     </script>
-
-     <script type="module" src="https://cdn.pika.dev/dark-mode-toggle"></script>
+	  
+     <script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" >
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/dark.css" media="(prefers-color-scheme: dark)">
@@ -65,13 +65,7 @@
             <a href="{{ site.baseurl }}/about">Share</a>
           </nav>
 		
-	<aside><dark-mode-toggle
-           id="dark-mode-toggle-1"
-           legend="Theme Switcher"
-           appearance="switch"
-           dark="Dark"
-           light="Light"
-           remember="Remember this"></dark-mode-toggle>
+	<aside><dark-mode-toggle id="dark-mode-toggle-3" legend="Dark Mode" light="off" dark="on" remember="always"></dark-mode-toggle> abcd
          </aside>
 		
         </header>
