@@ -4,7 +4,7 @@ title: Realm of Spirits (7) 灵界（七）
 category: sermon2019singapore
 tags: [spiritualwarfare,armourofGod,sword,evangelism]
 hymns: [168,67]
-speaker: Bro Vincent Yeoh
+speaker: brovincentyeoh
 ---
 
 We learn from the realm of spirits that there is a war. We do not choose this battle. Revelation says that when the dragon was cast down to the earth, he makes war against YOU - the children of God. The war is brought upon you. You have no choice. You either die and be eaten by the dragon, or you become dragon slayers. What do you want to be - dragon food or dragon slayer?
