@@ -2,7 +2,7 @@
 layout: post
 title: After the Youth Spiritual Meeting 青年灵恩会之后
 category: sermon2019singapore
-tags: [reflection]
+tags: [marriage,reflection]
 hymns: [70,400]
 speaker: 
 ---
