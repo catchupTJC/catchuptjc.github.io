@@ -2,7 +2,7 @@
 layout: post
 title: Servitude
 category: sermon2019subang
-tags: [Unity]
+tags: [unity]
 hymns: [130,188]
 speaker: Dn. Barnabas Chung
 ---
