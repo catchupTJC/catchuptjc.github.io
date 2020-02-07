@@ -331,8 +331,8 @@ aside:nth-of-type(2) {
 }
 
 #dark-mode-toggle-2 {
-  --dark-mode-toggle-dark-icon: src="https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/sun.svg";
-  --dark-mode-toggle-light-icon: src="https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/moon.svg";
+  --dark-mode-toggle-dark-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/sun.svg";
+  --dark-mode-toggle-light-icon: "https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/assets/darkmode/moon.svg";
 }	
 	
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
