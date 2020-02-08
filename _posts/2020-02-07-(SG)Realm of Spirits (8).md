@@ -2,7 +2,7 @@
 layout: post
 title: Realm of Spirits (8)
 category: sermon2020singapore
-tags: [reflection]
+tags: [armourofGod,shield,faith]
 hymns: [136,153]
 speaker: brovincentyeoh
 ---
