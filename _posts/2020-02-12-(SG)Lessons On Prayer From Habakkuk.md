@@ -118,6 +118,6 @@ How we live by faith is even in the most difficult circumstance, even when God d
 
 There was no change in Habakkuk’s situation but there was a change in his heart. He was able to rejoice no matter what he was going through. 
 
-If we can pray in the same manner, then whatever happens to us in life, then we can truth say it is well with our soul. 
+If we can pray in the same manner, then whatever happens to us in life, then we can truly say it is well with our soul. 
 ----
 ****
