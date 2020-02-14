@@ -19,7 +19,7 @@ For your convenience, all sermons have been tagged according to themes and categ
 
 Let us make every effort to diligently pursue our Lord!
 
-<i>Disclaimer: These are all lovingly typed out by brothers and sisters during the sermon, who wish to share the word of God with others. As such, there may inevitably be typos or slight mistakes. If you spot any while reading, kindly raise them up in the comments section so that one of us can rectify it. Thank you!</i>
+>Disclaimer: These are all lovingly typed out by brothers and sisters during the sermon, who wish to share the word of God with others. As such, there may inevitably be typos or slight mistakes. If you spot any while reading, kindly raise them up in the comments section so that one of us can rectify it. Thank you!
 
 
 ### More Sermon Notes to share
