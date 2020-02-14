@@ -6,8 +6,8 @@ permalink: /about/
 
 This is a simple sermon note repositary for loving church members who wants to share God's words.
 
-<i>Therefore we must give the more earnest heed to the things we have heard, lest we drift away.
-(Hebrews 2:1)</i> 
+>Therefore we must give the more earnest heed to the things we have heard, lest we drift away.
+(Hebrews 2:1)
 
 Catchuptjc is a platform for members to catch up on sermons from the True Jesus Church (TJC) that they have missed, or to re-read sermons they have heard. (Sometimes after the end of a sermon, we walk away not remembering what we've learnt, let alone the title of the sermon!)
 
