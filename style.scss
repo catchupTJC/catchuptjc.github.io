@@ -332,12 +332,8 @@ aside:nth-of-type(2) {
 
 //Tim added customizing darkmode icons
 dark-mode-toggle {
-  --dark-mode-toggle-dark-icon: url("sun.svg");
-  --dark-mode-toggle-light-icon: url("moon.svg");
   --dark-mode-toggle-icon-size: 2rem;
   --dark-mode-toggle-icon-filter: invert(100%);
-
-  margin-bottom: 1.5rem;
 }
 
 
