@@ -22,10 +22,11 @@ Let us make every effort to diligently pursue our Lord!
 <i>Disclaimer: These are all lovingly typed out by brothers and sisters during the sermon, who wish to share the word of God with others. As such, there may inevitably be typos or slight mistakes. If you spot any while reading, kindly raise them up in the comments section so that one of us can rectify it. Thank you!</i>
 
 Other online TJC resources:
-1. True Jesus Church website http://tjc.org
-2. TJC Bible Study Guides http://bsg.tjc.org
-3. Manna Magazine http://mannamagazine.com
+1. <a href="http://tjc.org">True Jesus Church website</a>
+2. <a href="http://bsg.tjc.org">TJC Bible Study Guides</a>
+3. <a href="http://mannamagazine.com">Manna Magazine</a>
 
+Contact us at catchuptjc@gmail.com if you have any ideas to share!
 
 ### More Sermon Notes to share
 
