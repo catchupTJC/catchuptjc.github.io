@@ -1,6 +1,6 @@
 ---
 layout: page
-title: categories
+title: Categories
 ---
 
 {% capture site_categories %}{% for tag in site.categories %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
