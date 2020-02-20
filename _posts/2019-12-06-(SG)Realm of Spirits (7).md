@@ -2,7 +2,7 @@
 layout: post
 title: Realm of Spirits (7) 灵界（七）
 category: sermon2019singapore
-tags: [spiritualwarfare,armourofGod,sword,evangelism]
+tags: [spiritualwarfare,armourofgod,sword,evangelism]
 hymns: [168,67]
 speaker: brovincentyeoh
 ---
