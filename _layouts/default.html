@@ -13,10 +13,23 @@
     <meta name="theme-color" content="">
     <link rel="icon" content="">
 	  
-   
-    <link rel="stylesheet" href="node_modules/accessibility-buttons/dist/css/accessibility-buttons.css">
+    <script>
+      // If `prefers-color-scheme` is not supported, fall back to light mode.
+      // In this case, light.css will be downloaded with `highest` priority.
+      if (window.matchMedia('(prefers-color-scheme)').media === 'not all') {
+        document.documentElement.style.display = 'none';
+        document.head.insertAdjacentHTML(
+            'beforeend',
+            '<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" onload="document.documentElement.style.display = ``">'
+        );
+      }
+    </script>
 	  
-		
+     <script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
+     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" >
+     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/light.css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/dark.css" media="(prefers-color-scheme: dark)">
+	  		
      <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- fonts awesome -->
