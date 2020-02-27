@@ -12,7 +12,11 @@
     <meta name="color-scheme" content="dark light">
     <meta name="theme-color" content="">
     <link rel="icon" content="">
-    
+	  
+   
+    <link rel="stylesheet" href="node_modules/accessibility-buttons/dist/css/accessibility-buttons.css">
+   
+	  
     <script>
       // If `prefers-color-scheme` is not supported, fall back to light mode.
       // In this case, light.css will be downloaded with `highest` priority.
@@ -88,7 +92,10 @@
       {% include analytics.html %}
 
     <a href="#{{ tag | slugify }}"> {{ tag }} </a>
-            
+ 
+	 
+<script src="node_modules/accessibility-buttons/dist/js/accessibility-buttons.js"></script>
+	  
   </body>
 
 </html>
