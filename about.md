@@ -18,8 +18,7 @@ permalink: /about/
 <br>
 <br>Let us make every effort to diligently pursue our Lord!
 </r>
-<r><i>Disclaimer: These are all lovingly typed out by brothers and sisters during the sermon, who wish to share the word of God with others. As such, there may inevitably be typos or slight mistakes. If you spot any while reading, kindly raise them up in the comments section so that one of us can rectify it. Thank you!</i>
-<br>  
+<r><i>Disclaimer: These are all lovingly typed out by brothers and sisters during the sermon, who wish to share the word of God with others. As such, there may inevitably be typos or slight mistakes. If you spot any while reading, kindly raise them up in the comments section so that one of us can rectify it. Thank you!</i>  
 <br><r>Other online TJC resources:
 <br>1. <a href="http://tjc.org">True Jesus Church website</a>
 <br>2. <a href="http://bsg.tjc.org">TJC Bible Study Guides</a>
