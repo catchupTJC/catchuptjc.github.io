@@ -24,8 +24,8 @@ permalink: /about/
 <br>1. <a href="http://tjc.org">True Jesus Church website</a>
 <br>2. <a href="http://bsg.tjc.org">TJC Bible Study Guides</a>
 <br>3. <a href="http://mannamagazine.com">Manna Magazine</a>
-
-<br>Contact us at catchuptjc@gmail.com if you have any ideas to share!</r>
+  
+Contact us at catchuptjc@gmail.com if you have any ideas to share!</r>
 
 ### More Sermon Notes to share
 
