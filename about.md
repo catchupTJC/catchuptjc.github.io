@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<r>This is a simple sermon note repositary for loving church members who wants to share God's words.
+<h4>This is a simple sermon note repositary for loving church members who wants to share God's words.</h4>
 
 <i>Therefore we must give the more earnest heed to the things we have heard, lest we drift away (Hebrews 2:1)</i>.
 
@@ -25,7 +25,7 @@ Other online TJC resources:
 2. <a href="http://bsg.tjc.org">TJC Bible Study Guides</a>
 3. <a href="http://mannamagazine.com">Manna Magazine</a>
 
-Contact us at catchuptjc@gmail.com if you have any ideas to share!</r>
+Contact us at catchuptjc@gmail.com if you have any ideas to share!
 
 ### More Sermon Notes to share
 
