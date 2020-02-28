@@ -15,12 +15,12 @@ permalink: /about/
 <br>On this site, we hope to encourage conversations about the word of God too. After every sermon, you will find comment sections where you can leave your thoughts or questions from what you've read. Let us build one another up (1 Thessalonians 5:11b).
 <br>
 <br>For your convenience, all sermons have been tagged according to themes and categorised by Event/Year/Location.
+<br>
 <br>Let us make every effort to diligently pursue our Lord!
 </r>
-
 <r><i>Disclaimer: These are all lovingly typed out by brothers and sisters during the sermon, who wish to share the word of God with others. As such, there may inevitably be typos or slight mistakes. If you spot any while reading, kindly raise them up in the comments section so that one of us can rectify it. Thank you!</i></r>
-<br>
-<r><br>Other online TJC resources:
+
+<br><r>Other online TJC resources:
 <br>1. <a href="http://tjc.org">True Jesus Church website</a>
 <br>2. <a href="http://bsg.tjc.org">TJC Bible Study Guides</a>
 <br>3. <a href="http://mannamagazine.com">Manna Magazine</a>
