@@ -25,7 +25,7 @@ permalink: /about/
 <br>2. <a href="http://bsg.tjc.org">TJC Bible Study Guides</a>
 <br>3. <a href="http://mannamagazine.com">Manna Magazine</a>
   
-Contact us at catchuptjc@gmail.com if you have any ideas to share!</r>
+<br>Contact us at catchuptjc@gmail.com if you have any ideas to share!</r>
 
 ### More Sermon Notes to share
 
