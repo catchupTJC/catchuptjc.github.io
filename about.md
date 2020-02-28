@@ -14,7 +14,7 @@ permalink: /about/
 
 <r>On this site, we hope to encourage conversations about the word of God too. After every sermon, you will find comment sections where you can leave your thoughts or questions from what you've read. Let us build one another up (1 Thessalonians 5:11b).</r>
 
-<br>For your convenience, all sermons have been tagged according to themes and categorised by Event/Year/Location.
+<r>For your convenience, all sermons have been tagged according to themes and categorised by Event/Year/Location.
 <br>Let us make every effort to diligently pursue our Lord!
 </r>
 
