@@ -3,15 +3,22 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	
 <head>
-<title>TJC Sermon Note Website</title>
+<title>
+   {%if page.title %}
+       {{ page.title }}
+   {% else %}
+       {{ site.title }}
+   {% endif %}
+</title>
+	
+<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 	
 <!-- Google site searchability tim-->
 <meta name="google-site-verification" content="AdmxbHs5p0GApF_0Fuh_pl-CnCpVGyJ5V1vYyK1mVAs" />
 	
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Google site SEO tim -->
-{% seo %}</head>
+</head>
 
 <style>
 
