@@ -132,7 +132,7 @@ v10, 14 Find and turn to the right people for support.
 Here Paul talks about other people who cared for him. In our lives, never ever think we’re alone. That itself is a cognitive distortion. “Nobody will care about me. Nobody will appreciate me.” Confirm there’s at least one person who will be willing to talk to you. Get their perspective. 
 
 v11-12 Acknowledge and accept your situation. 
-Accept whatever state we’re in. Don’t compare with people. Accept whatever situation you’re in at the moment. Let’s try not to run away from it. Let’s not blame ourselves and other people. Let’s try to accept it and live with it in our lives at the moment, and think about how we can manage it on top of our responsibilities In life, we can still be content because remember there’re still positive things happening around you. Don’t be so fixated on the stress and negatives that we forget on the positives in life. 
+Accept whatever state we’re in. Don’t compare with people. Accept whatever situation you’re in at the moment. Let’s try not to run away from it. Let’s not become destructive and blame ourselves and other people. Let’s try to accept it and live with it in our lives at the moment, and think about how we can manage it on top of our responsibilities In life, we can still be content because remember there’re still positive things happening around you. Don’t be so fixated on the stress and negatives that we forget on the positives in life. 
 
 v13 Be humble and thankful - Christ gives you the power. 
 Remember it is Christ who strengthens us when we try to overcome our problems and stress. If we think it’s our own power and wisdom, we won’t draw close to God. We think God is somewhere afar off and He doesn’t help us. 
