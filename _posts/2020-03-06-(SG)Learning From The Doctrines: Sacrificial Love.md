@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning From The Doctrines: Sacrificial Love
+title: Learning From The Doctrines - Sacrificial Love
 category: sermon2020singapore
 tags: [articlesoffaith,virus,love,sacrifice,job,preacher,harmony,reputation,youths,guidance]
 hymns: [431,420]
