@@ -25,7 +25,7 @@ Let us make every effort to diligently pursue our Lord!
 <br>3. <a href="http://mannamagazine.com">Manna Magazine</a>
   
 <br>Contact us at catchuptjc@gmail.com if you have any ideas to share!</r>
-
+<br>
 ### More Sermon Notes to share
 
 If you have any additional sermon notes to share, kindly post in the comments/discussion section below in the following format as shown in the featured comment:
