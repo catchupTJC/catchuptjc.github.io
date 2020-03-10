@@ -26,7 +26,7 @@ permalink: /about/
   
 <br>Contact us at catchuptjc@gmail.com if you have any ideas to share!</r>
 <br>
-### More Sermon Notes to share
+<h2> More Sermon Notes to share</h2>
 
 If you have any additional sermon notes to share, kindly post in the comments/discussion section below in the following format as shown in the featured comment:
 
