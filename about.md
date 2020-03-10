@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<r>This is a simple sermon note repositary for loving church members who wants to share God's words.</r>
-
-<r><i>Therefore we must give the more earnest heed to the things we have heard, lest we drift away (Hebrews 2:1)</i>.</r>
-
-<r>Catchuptjc is a platform for members to catch up on sermons from the True Jesus Church (TJC) that they have missed, or to re-read sermons they have heard. (Sometimes after the end of a sermon, we walk away not remembering what we've learnt, let alone the title of the sermon!)
+<r>This is a simple sermon note repositary for loving church members who wants to share God's words.
+<br>
+<i>Therefore we must give the more earnest heed to the things we have heard, lest we drift away (Hebrews 2:1)</i>.
+<br>
+Catchuptjc is a platform for members to catch up on sermons from the True Jesus Church (TJC) that they have missed, or to re-read sermons they have heard. (Sometimes after the end of a sermon, we walk away not remembering what we've learnt, let alone the title of the sermon!)
 <br>
 These sermons come from a range of TJC branches and countries, although you will find that they are primarily from TJC Adam Road & Telok Kurau, Singapore, as well as TJC Subang, Malaysia. Sermons notes from Singapore, UK and USA resemble word-for-word transcripts, while sermons notes from Malaysia are often in point form.
 <br>
