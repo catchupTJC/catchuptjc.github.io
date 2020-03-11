@@ -369,23 +369,25 @@ button {
     width: 48px;
 }
 
+script.js
+
 #play {
-	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/play.svg);
+	background-image: url(https://catchuptjc.github.io/images/texttospeech/play.svg);
 }
 #play.played {
-	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/play1.svg);
+	background-image: url(https://catchuptjc.github.io/images/texttospeech/play1.svg);
 }
 #pause {
-	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/pause.svg);
+	background-image: url(https://catchuptjc.github.io/images/texttospeech/pause.svg);
 }
 #pause.paused {
-	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/pause1.svg);
+	background-image: url(https://catchuptjc.github.io/images/texttospeech/pause1.svg);
 }
 #stop {
-    background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/stop.svg);
+    background-image: url(https://catchuptjc.github.io/images/texttospeech/stop.svg);
 }
 #stop.stopped {
-    background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/stop1.svg);
+    background-image: url(https://catchuptjc.github.io/images/texttospeech/stop1.svg);
 }
 @media (max-width: 700px) {
     html {
