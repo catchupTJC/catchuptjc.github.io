@@ -15,8 +15,10 @@ onload = function() {
         function onClickPlay() {
             if(!flag){
                 flag = true;
-                utterance = new SpeechSynthesisUtterance(document.querySelector('article').textContent);
-                utterance.voice = getVoices()[0];
+                utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
+                utterance.lang = 'en-US';
+                utterance.rate = 0.7;
+                
                 utterance.onend = function(){
                     flag = false; playEle.className = pauseEle.className = ''; stopEle.className = 'stopped';
                 };
