@@ -370,22 +370,22 @@ button {
 }
 
 #play {
-	background-image: url(play.svg);
+	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/play.svg);
 }
 #play.played {
-	background-image: url(play1.svg);
+	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/play1.svg);
 }
 #pause {
-	background-image: url(pause.svg);
+	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/pause.svg);
 }
 #pause.paused {
-	background-image: url(pause1.svg);
+	background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/pause1.svg);
 }
 #stop {
-    background-image: url(stop.svg);
+    background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/stop.svg);
 }
 #stop.stopped {
-    background-image: url(stop1.svg);
+    background-image: url(https://raw.githubusercontent.com/catchuptjc/catchuptjc.github.io/master/images/texttospeech/stop1.svg);
 }
 @media (max-width: 700px) {
     html {
