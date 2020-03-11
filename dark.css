@@ -57,26 +57,3 @@ option {
   }
 }
 
-
-script.js
-
-#play {
-	background-image: invert(url(https://catchuptjc.github.io/images/texttospeech/play.svg));
-}
-#play.played {
-	background-image: invert(url(https://catchuptjc.github.io/images/texttospeech/play1.svg));
-}
-#pause {
-	background-image: invert(url(https://catchuptjc.github.io/images/texttospeech/pause.svg));
-}
-#pause.paused {
-	background-image: invert(url(https://catchuptjc.github.io/images/texttospeech/pause1.svg));
-}
-#stop {
-    background-image: invert(url(https://catchuptjc.github.io/images/texttospeech/stop.svg));
-}
-#stop.stopped {
-    background-image: invert(url(https://catchuptjc.github.io/images/texttospeech/stop1.svg));
-}
-
-
