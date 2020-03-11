@@ -388,15 +388,6 @@ button {
 #stop.stopped {
     background-image: url(https://catchuptjc.github.io/images/texttospeech/stop1.svg);
 }
-@media (max-width: 700px) {
-    html {
-        font-size: 14pt;
-    }
-    article {
-        width: 90%;
-    }
-}
-
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
