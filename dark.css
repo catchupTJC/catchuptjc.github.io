@@ -57,3 +57,22 @@ option {
   }
 }
 
+
+#play {
+  filter: invert(100%);
+}
+#play.played {
+  filter: invert(100%);
+}
+#pause {
+  filter: invert(100%);
+}
+#pause.paused {
+  filter: invert(100%);
+}
+#stop {
+  filter: invert(100%);
+}
+#stop.stopped {
+  filter: invert(100%);
+}
