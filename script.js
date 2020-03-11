@@ -16,7 +16,6 @@ onload = function() {
             if(!flag){
                 flag = true;
                 utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
-                utterance.voice = getVoices()[0];
                 utterance.lang = 'en-US';
                 utterance.rate = 0.7;
                 
