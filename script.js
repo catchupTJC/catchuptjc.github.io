@@ -29,14 +29,14 @@ function setUpVoices(){
 }
 function talk(){
   let sval = Number(speakerMenu.value);
-  let u = new SpeechSynthesisUtterance();
+  let u = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
   u.voice = allVoices[sval];
   u.lang = u.voice.lang;
   u.text = txtFld.value;
   u.rate = Number(rateFld.value);
   speechSynthesis.speak(u);
 }
-
+  
 function createSpeakerMenu(voices){
   let code = ``;
   voices.forEach(function(vobj,i){
