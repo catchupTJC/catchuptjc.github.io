@@ -1,5 +1,6 @@
 onload = function() {
   
+  //testing voice selection
     if ('speechSynthesis' in window) with(speechSynthesis) {
 
     let allVoices;
@@ -62,9 +63,8 @@ onload = function() {
   return voices;
 }
 
+    //testing voice selection end
      
-      
-      
         var playEle = document.querySelector('#play');
         var pauseEle = document.querySelector('#pause');
         var stopEle = document.querySelector('#stop');
