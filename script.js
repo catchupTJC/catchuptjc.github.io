@@ -67,13 +67,13 @@ function qs(selectorText){
   //saves lots of typing for those who eschew Jquery
   return document.querySelector(selectorText);
 }
-     
+         
+
+document.addEventListener('DOMContentLoaded', function (e) {
+  try {init();} catch (error){
+    console.log("Data didn't load", error);}
+});
     
-    
- document.addEventListener('DOMContentLoaded', function (e) {
-      try {init();} catch (error){
-       console.log("Data didn't load", error);}
-     
     //testing voice selection end (let sval in on click play need to edit also) 
     
         var playEle = document.querySelector('#play');
