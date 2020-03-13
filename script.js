@@ -16,7 +16,7 @@ onload = function() {
 
     function setUpVoices(){
       allVoices = getAllVoices();
-     filterVoices();
+      filterVoices();
       if (initialSetup && allVoices.length){
         initialSetup = false;
       createLanguageMenu();
@@ -38,7 +38,12 @@ onload = function() {
       });
       speakerMenu.innerHTML = code;
     }
- 
+        
+    function selectSpeaker(){
+      voiceIndex = speakerMenu.selectedIndex;
+    }
+
+        
     if ('speechSynthesis' in window) with(speechSynthesis) {
 
         var playEle = document.querySelector('#play');
