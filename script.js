@@ -7,7 +7,7 @@ onload = function() {
     function init(){
      speakerMenu = qs("#speakerMenu");
      speakerMenu.addEventListener("change",selectSpeaker,false);
-    }
+    
               
     if ('speechSynthesis' in window) with(speechSynthesis) {        
     if (speechSynthesis.onvoiceschanged !== undefined) {
@@ -66,7 +66,7 @@ onload = function() {
 function qs(selectorText){
   //saves lots of typing for those who eschew Jquery
   return document.querySelector(selectorText);
-}
+}}
      
     
     
