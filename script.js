@@ -14,9 +14,6 @@ onload = function() {
                 flag = true;
                 utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
                 utterance.rate = 0.7;            
-              
-                let sval = Number(speakerMenu.value);
-                utterance.voice = allVoices[sval];
                 utterance.lang = 'en'; 
               
                 utterance.onend = function(){
@@ -63,3 +60,4 @@ onload = function() {
         msg.style.marginTop = msg.style.marginBottom = 0;
         document.body.insertBefore(msg, document.querySelector('div'));
     }
+}
