@@ -1,9 +1,9 @@
-onload = function() {
-
     let allVoices;
     let speakerMenu;
     let voiceIndex = 0;
     let initialSetup = true;
+
+onload = function() {
 
   speakerMenu = qs("#speakerMenu");
   speakerMenu.addEventListener("change",selectSpeaker,false);  
