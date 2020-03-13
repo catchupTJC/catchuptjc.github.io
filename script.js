@@ -16,9 +16,11 @@ onload = function() {
             if(!flag){
                 flag = true;
                 utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
-                utterance.lang = 'en-US';
                 utterance.rate = 0.7;
                 
+                let sval = Number(speakerMenu.value);
+                utterance.voice = allVoices[sval];       
+             
                 utterance.onend = function(){
                     flag = false; playEle.className = pauseEle.className = ''; stopEle.className = 'stopped';
                 };
@@ -64,4 +66,26 @@ onload = function() {
         document.body.insertBefore(msg, document.querySelector('div'));
     }
 
+}
+
+
+function setUpVoices(){
+  allVoices = getAllVoices();
+  allLanguages = getAllLanguages(allVoices);
+  primaryLanguages = getPrimaryLanguages(allLanguages);
+  filterVoices();
+  if (initialSetup && allVoices.length){
+    initialSetup = false;
+    createLanguageMenu();
+  }
+}
+
+function createSpeakerMenu(voices){
+  let code = ``;
+  voices.forEach(function(vobj,i){
+    code += `<option value=${vobj.id}>${vobj.name} (${vobj.lang})`;
+    code += vobj.voiceURI.includes(".premium") ? ' (premium)' : ``;
+    code += `</option>`;
+  });
+  speakerMenu.innerHTML = code;
 }
