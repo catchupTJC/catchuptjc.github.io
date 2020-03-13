@@ -141,5 +141,4 @@ document.addEventListener('DOMContentLoaded', function (e) {
         document.body.insertBefore(msg, document.querySelector('div'));
     }
 
-}
 
