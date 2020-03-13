@@ -1,5 +1,75 @@
 onload = function() {
      
+    if ('speechSynthesis' in window) with(speechSynthesis) {
+
+    let allVoices;
+    let speakerMenu;
+    let voiceIndex = 0;
+
+    speakerMenu = qs("#speakerMenu"); 
+    speakerMenu.addEventListener("change",selectSpeaker,false);
+
+    if (speechSynthesis.onvoiceschanged !== undefined) {
+      //Chrome gets the voices asynchronously so this is needed
+      speechSynthesis.onvoiceschanged = setUpVoices;
+    }
+    setUpVoices(); //for all the other browsers
+    }else{
+    qs("#warning").style.display = "block";
+    } 
+  
+   function setUpVoices(){
+    allVoices = getAllVoices();
+    filterVoices();
+    }
+  
+   function createSpeakerMenu(voices){
+    let code = ``;
+    voices.forEach(function(vobj,i){
+      code += `<option value=${vobj.id}>${vobj.name} (${vobj.lang})`;
+      code += vobj.voiceURI.includes(".premium") ? ' (premium)' : ``;
+      code += `</option>`;
+    });
+    speakerMenu.innerHTML = code;
+    }
+
+    function selectSpeaker(){
+   voiceIndex = speakerMenu.selectedIndex;
+    }
+
+  function filterVoices(){
+  let langcode = "en";
+  voices = allVoices.filter(function (voice) {
+    return langcode === "all" ? true : voice.lang.indexOf(langcode + "-") >= 0;
+  });
+  createSpeakerMenu(voices);
+  speakerMenu.selectedIndex = voiceIndex;
+}
+  
+  function getAllVoices() {
+  let voicesall = speechSynthesis.getVoices();
+  let vuris = [];
+  let voices = [];
+  //unfortunately we have to check for duplicates
+  voicesall.forEach(function(obj,index){
+    let uri = obj.voiceURI;
+    if (!vuris.includes(uri)){
+        vuris.push(uri);
+        voices.push(obj);
+     }
+  });
+  voices.forEach(function(obj,index){obj.id = index;});
+  return voices;
+}
+
+function qs(selectorText){
+  //saves lots of typing for those who eschew Jquery
+  return document.querySelector(selectorText);
+}
+     
+     
+    //testing voice selection end
+    
         var playEle = document.querySelector('#play');
         var pauseEle = document.querySelector('#pause');
         var stopEle = document.querySelector('#stop');
