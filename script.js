@@ -1,6 +1,32 @@
 onload = function() {
-    if ('speechSynthesis' in window) with(speechSynthesis) {
+    
+    if (window.speechSynthesis) {
+    if (speechSynthesis.onvoiceschanged !== undefined) {
+      //Chrome gets the voices asynchronously so this is needed
+      speechSynthesis.onvoiceschanged = setUpVoices;
+    }
+    setUpVoices(); //for all the other browsers
+  }else{
+    speakBtn.disabled = true;
+    speakerMenu.disabled = true;
+    languageMenu.disabled = true;
+    qs("#warning").style.display = "block";
+  }
+}
+function setUpVoices(){
+  allVoices = getAllVoices();
+  allLanguages = getAllLanguages(allVoices);
+  primaryLanguages = getPrimaryLanguages(allLanguages);
+  filterVoices();
+  if (initialSetup && allVoices.length){
+    initialSetup = false;
+    createLanguageMenu();
+  }
+}
 
+ 
+
+    if ('speechSynthesis' in window) with(speechSynthesis) {
 
         var playEle = document.querySelector('#play');
         var pauseEle = document.querySelector('#pause');
