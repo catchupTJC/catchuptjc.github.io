@@ -7,16 +7,11 @@ onload = function() {
     }
     setUpVoices(); //for all the other browsers
   }else{
-    speakBtn.disabled = true;
     speakerMenu.disabled = true;
-    languageMenu.disabled = true;
-    qs("#warning").style.display = "block";
   }
 }
 function setUpVoices(){
   allVoices = getAllVoices();
-  allLanguages = getAllLanguages(allVoices);
-  primaryLanguages = getPrimaryLanguages(allLanguages);
   filterVoices();
   if (initialSetup && allVoices.length){
     initialSetup = false;
