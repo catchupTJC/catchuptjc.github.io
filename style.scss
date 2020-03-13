@@ -389,6 +389,11 @@ button {
     background-image: url(https://catchuptjc.github.io/images/texttospeech/stop1.svg);
 }
 
+
+#rateFld {font-size:1.2rem;width:4rem;text-align:center;padding:0;margin:0 0 0 4px;}
+.uiunit {display:inline-block;margin:1rem;text-align:left;}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
