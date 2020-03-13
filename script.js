@@ -14,7 +14,7 @@ onload = function() {
                 flag = true;
                 utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
                 utterance.rate = 0.7;            
-                utterance.lang = 'en'; 
+                utterance.lang = 'en-US'; 
               
                 utterance.onend = function(){
                     flag = false; playEle.className = pauseEle.className = ''; stopEle.className = 'stopped';
