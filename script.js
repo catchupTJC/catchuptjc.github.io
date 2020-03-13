@@ -94,18 +94,6 @@ function setUpVoices(){
 
 }
 
-
-function setUpVoices(){
-  allVoices = getAllVoices();
-  allLanguages = getAllLanguages(allVoices);
-  primaryLanguages = getPrimaryLanguages(allLanguages);
-  filterVoices();
-  if (initialSetup && allVoices.length){
-    initialSetup = false;
-    createLanguageMenu();
-  }
-}
-
 function createSpeakerMenu(voices){
   let code = ``;
   voices.forEach(function(vobj,i){
