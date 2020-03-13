@@ -68,12 +68,13 @@ function qs(selectorText){
   return document.querySelector(selectorText);
 }
      
-     
+    
+    
  document.addEventListener('DOMContentLoaded', function (e) {
       try {init();} catch (error){
        console.log("Data didn't load", error);}
      
-    //testing voice selection end
+    //testing voice selection end (let sval in on click play need to edit also) 
     
         var playEle = document.querySelector('#play');
         var pauseEle = document.querySelector('#pause');
@@ -90,8 +91,10 @@ function qs(selectorText){
                 flag = true;
                 utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
                 utterance.rate = 0.8;
-                utterance.lang = 'en-US'; 
-                         
+                utterance.lang = 'en'; 
+                
+                let sval = Number(speakerMenu.value);
+                u.voice = allVoices[sval];
               
                 utterance.onend = function(){
                     flag = false; playEle.className = pauseEle.className = ''; stopEle.className = 'stopped';
