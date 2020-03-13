@@ -1,9 +1,9 @@
-function init(){
-  speakerMenu = qs("#speakerMenu");
-  speakerMenu.addEventListener("change",selectSpeaker,false);
-
 onload = function() {
     
+  function init(){
+  speakerMenu = qs("#speakerMenu");
+  speakerMenu.addEventListener("change",selectSpeaker,false);  
+  
     if (window.speechSynthesis) {
     if (speechSynthesis.onvoiceschanged !== undefined) {
       //Chrome gets the voices asynchronously so this is needed
