@@ -1,12 +1,11 @@
 onload = function() {
 
 let allVoices;
-let txtFld, rateFld, speakBtn, speakerMenu;
+let rateFld, speakBtn, speakerMenu;
 let voiceIndex = 0;
 
 function init(){
   speakBtn = qs("#speakBtn");
-  txtFld = qs("#txtFld"); 
   speakerMenu = qs("#speakerMenu");
   speakBtn.addEventListener("click",talk,false); speakerMenu.addEventListener("change",selectSpeaker,false);
   rateFld = qs("#rateFld");
@@ -32,7 +31,6 @@ function talk(){
   let u = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
   u.voice = allVoices[sval];
   u.lang = u.voice.lang;
-  u.text = txtFld.value;
   u.rate = Number(rateFld.value);
   speechSynthesis.speak(u);
 }
