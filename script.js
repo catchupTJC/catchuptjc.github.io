@@ -5,7 +5,6 @@ onload = function() {
         var stopEle = document.querySelector('#stop');
         var flag = false;
 
-
         playEle.addEventListener('click', onClickPlay);
         pauseEle.addEventListener('click', onClickPause);
         stopEle.addEventListener('click', onClickStop);
@@ -64,6 +63,3 @@ onload = function() {
         msg.style.marginTop = msg.style.marginBottom = 0;
         document.body.insertBefore(msg, document.querySelector('div'));
     }
-
-}
-
