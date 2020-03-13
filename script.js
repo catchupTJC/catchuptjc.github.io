@@ -22,17 +22,16 @@ onload = function() {
     function setUpVoices(){
       allVoices = getAllVoices();
       filterVoices();
-      if (initialSetup && allVoices.length){
-        initialSetup = false;
-      createLanguageMenu();
-      }
     }
 
     function filterVoices(){
-      let langcode = en;
+      let langcode = "en";
       voices = allVoices.filter(function (voice) {
         return langcode === "all" ? true : voice.lang.indexOf(langcode + "-") >= 0;
-     });
+      });
+      createSpeakerMenu(voices);
+      speakerMenu.selectedIndex = voiceIndex;
+    }
 
     function createSpeakerMenu(voices){
      let code = ``;
