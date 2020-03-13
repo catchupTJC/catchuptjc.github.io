@@ -1,13 +1,15 @@
 onload = function() {
-     
-    if ('speechSynthesis' in window) with(speechSynthesis) {
-
+              
+    function init(){
+           speakerMenu = qs("#speakerMenu");
+           speakerMenu.addEventListener("change",selectSpeaker,false);}
+              
+    if ('speechSynthesis' in window) with(speechSynthesis) {        
+         
     let allVoices;
     let speakerMenu;
     let voiceIndex = 0;
-
-    speakerMenu = qs("#speakerMenu"); 
-    speakerMenu.addEventListener("change",selectSpeaker,false);
+  
 
     if (speechSynthesis.onvoiceschanged !== undefined) {
       //Chrome gets the voices asynchronously so this is needed
@@ -67,6 +69,10 @@ function qs(selectorText){
   return document.querySelector(selectorText);
 }
      
+     
+ document.addEventListener('DOMContentLoaded', function (e) {
+      try {init();} catch (error){
+       console.log("Data didn't load", error);}
      
     //testing voice selection end
     
