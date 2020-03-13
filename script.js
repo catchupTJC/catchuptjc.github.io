@@ -18,7 +18,7 @@ onload = function() {
                             utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').innerHTML);
 
                             utterance.lang = 'en';
-                            utterance.rate = 0.7;
+                            utterance.rate = 0.8;
                             utterance.onend = function () {
                                 flag = false;
                                 playEle.className = pauseEle.className = '';
