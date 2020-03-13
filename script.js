@@ -23,9 +23,16 @@ function setUpVoices(){
     createLanguageMenu();
   }
 }
-
+function createSpeakerMenu(voices){
+  let code = ``;
+  voices.forEach(function(vobj,i){
+    code += `<option value=${vobj.id}>${vobj.name} (${vobj.lang})`;
+    code += vobj.voiceURI.includes(".premium") ? ' (premium)' : ``;
+    code += `</option>`;
+  });
+  speakerMenu.innerHTML = code;
+}
  
-
     if ('speechSynthesis' in window) with(speechSynthesis) {
 
         var playEle = document.querySelector('#play');
@@ -94,12 +101,3 @@ function setUpVoices(){
 
 }
 
-function createSpeakerMenu(voices){
-  let code = ``;
-  voices.forEach(function(vobj,i){
-    code += `<option value=${vobj.id}>${vobj.name} (${vobj.lang})`;
-    code += vobj.voiceURI.includes(".premium") ? ' (premium)' : ``;
-    code += `</option>`;
-  });
-  speakerMenu.innerHTML = code;
-}
