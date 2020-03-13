@@ -389,9 +389,20 @@ button {
     background-image: url(https://catchuptjc.github.io/images/texttospeech/stop1.svg);
 }
 
-
+// Choosing Voice
 #rateFld {font-size:1.2rem;width:4rem;text-align:center;padding:0;margin:0 0 0 4px;}
 .uiunit {display:inline-block;margin:1rem;text-align:left;}
+select {
+  background:var(--lightaccentcolor);
+  color:var(--textcolor);
+  width:auto;
+  font-size:inherit;
+  font-weight:normal;
+  text-align:center;
+  height:auto;
+  border-radius:8px;
+  margin:10px 0;
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
