@@ -1,3 +1,7 @@
+function init(){
+  speakerMenu = qs("#speakerMenu");
+  speakerMenu.addEventListener("change",selectSpeaker,false);
+
 onload = function() {
     
     if (window.speechSynthesis) {
