@@ -4,29 +4,37 @@ onload = function() {
     if (speechSynthesis.onvoiceschanged !== undefined) {
       //Chrome gets the voices asynchronously so this is needed
       speechSynthesis.onvoiceschanged = setUpVoices;
+        }
+       setUpVoices(); //for all the other browsers  
+      }else{
+      speakerMenu.disabled = true;
+        }
     }
-    setUpVoices(); //for all the other browsers
-  }else{
-    speakerMenu.disabled = true;
-  }
-}
-function setUpVoices(){
-  allVoices = getAllVoices();
-  filterVoices();
-  if (initialSetup && allVoices.length){
-    initialSetup = false;
-    createLanguageMenu();
-  }
-}
-function createSpeakerMenu(voices){
-  let code = ``;
-  voices.forEach(function(vobj,i){
-    code += `<option value=${vobj.id}>${vobj.name} (${vobj.lang})`;
-    code += vobj.voiceURI.includes(".premium") ? ' (premium)' : ``;
-    code += `</option>`;
-  });
-  speakerMenu.innerHTML = code;
-}
+
+    function setUpVoices(){
+      allVoices = getAllVoices();
+     filterVoices();
+      if (initialSetup && allVoices.length){
+        initialSetup = false;
+      createLanguageMenu();
+      }
+    }
+
+    function filterVoices(){
+      let langcode = en;
+      voices = allVoices.filter(function (voice) {
+        return langcode === "all" ? true : voice.lang.indexOf(langcode + "-") >= 0;
+     });
+
+    function createSpeakerMenu(voices){
+     let code = ``;
+    voices.forEach(function(vobj,i){
+      code += `<option value=${vobj.id}>${vobj.name} (${vobj.lang})`;
+      code += vobj.voiceURI.includes(".premium") ? ' (premium)' : ``;
+       code += `</option>`;
+      });
+      speakerMenu.innerHTML = code;
+    }
  
     if ('speechSynthesis' in window) with(speechSynthesis) {
 
