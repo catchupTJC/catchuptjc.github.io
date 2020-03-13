@@ -17,6 +17,7 @@ onload = function() {
     }else{
     qs("#warning").style.display = "block";
     } 
+    }
   
    function setUpVoices(){
     allVoices = getAllVoices();
