@@ -1,12 +1,12 @@
+onload = function() {
+
+    // language menu
     let allVoices;
     let speakerMenu;
     let voiceIndex = 0;
-    let initialSetup = true;
-
-onload = function() {
-
-  speakerMenu = qs("#speakerMenu");
-  speakerMenu.addEventListener("change",selectSpeaker,false);  
+    
+    speakerMenu = qs("#speakerMenu");
+    speakerMenu.addEventListener("change",selectSpeaker,false);  
   
     if (window.speechSynthesis) {
     if (speechSynthesis.onvoiceschanged !== undefined) {
@@ -48,6 +48,7 @@ onload = function() {
       voiceIndex = speakerMenu.selectedIndex;
     }
 
+ // Original reader     
         
     if ('speechSynthesis' in window) with(speechSynthesis) {
 
