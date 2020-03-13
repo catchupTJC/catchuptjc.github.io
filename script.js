@@ -1,6 +1,5 @@
 onload = function() {
     
-  function init(){
   speakerMenu = qs("#speakerMenu");
   speakerMenu.addEventListener("change",selectSpeaker,false);  
   
