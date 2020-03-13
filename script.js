@@ -1,5 +1,5 @@
 onload = function() {
-                                     
+  
     if ('speechSynthesis' in window) with(speechSynthesis) {
 
         var playEle = document.querySelector('#play');
