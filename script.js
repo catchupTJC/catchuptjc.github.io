@@ -94,7 +94,7 @@ function qs(selectorText){
                 utterance.lang = 'en'; 
                 
                 let sval = Number(speakerMenu.value);
-                u.voice = allVoices[sval];
+                utterance.voice = allVoices[sval];
               
                 utterance.onend = function(){
                     flag = false; playEle.className = pauseEle.className = ''; stopEle.className = 'stopped';
