@@ -29,7 +29,7 @@ But to the New Testament writers, grace, mercy and peace were the first and prim
 
 This sermon will take a look at these three indispensable things with respect to our Christian life. 
 
-1)' Grace
+1) Grace
 What is grace? The New Testament often uses the word ‘grace’, even more so than the Old Testament. The Bible dictionary defines grace as ‘favour God gives us we do not deserve’. 
 
 There’re two aspects: (1) help given to us, (2) that we’re undeserving. It’s unsurprising the New Testament often uses the word grace, because Jesus Himself is the grace of God towards us. 
