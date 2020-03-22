@@ -63,7 +63,7 @@ In our prayer, these are things we can reflect on. The things we have done, the 
 Sometimes it’s quite surprising, somewhat sad when the speaker is made aware of situations. “That’s not even how a human being would react, let alone a Christian; let alone a True Jesus Church Christian.” Why? Do we not understand the word of God? If we know the word of God, why would we behave like this? Of course we all have our weaknesses; we will have our times of weaknesses; none of us are perfect. So we’ll sometimes do/say the wrong things and make the wrong decisions. This is normal. But at least when we have done/said the wrong things and made the wrong decisions, we won’t be hardened in our hearts and not admit it to even ourselves. So when people encourage us and point it out to us, we don’t become defensive and certainly don’t become aggressive. That’s not what it’s like to be a Christian. 
 
 Some Christians in the Bible will be covered, may we learn from these lessons. 
-1 Complacent/indifferent Christians
+[1 Complacent/indifferent Christians]
 1 Cor 5:1-2
 “It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles—that a man has his father’s wife! 
 And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you."
@@ -91,7 +91,7 @@ We have been Christians for many years. Salvation? We get it! We have received t
 
 We move on to the second group of people. They’re not that complacent, may not necessarily do wrong things.
 
-2 Christians who are religious practitioners
+[2 Christians who are religious practitioners]
 Matt 6 was part of a long sermon Jesus was speaking. In v1 He says, “Take heed that you do not do your charitable deeds before men, to be seen by them. Otherwise you have no reward from your Father in heaven.” v5 “And when you pray, you shall not be like the hypocrites. For they love to pray standing in the synagogues and on the corners of the streets, that they may be seen by men. Assuredly, I say to you, they have their reward.”
 
 There were people who were religious practitioners. When it’s time to pray, they pray. In the synagogues. In the corners of the streets. And they don’t just engage in religious worship. They also do charitable deeds! They do good things. So it’s not like they’re indifferent or complacent. They do these things. But what’s the problem? They did it with the wrong motives. This was what the Pharisees were like during the time of Jesus. Did they have knowledge of the Scriptures? They did. In fact they knew the Scriptures pretty well. Did they know the law? They did. And they even went the extra mile to do charitable deeds. 
@@ -123,7 +123,7 @@ Recall the parable Jesus spoke of the Pharisees and tax collector praying in the
 
 So if today we do the good and right things, we thank God for that. But we need to ask ourselves: when the test really comes, are we really good, kind people who have really changed inside? When there’s no rules, when what’s right and wrong is unclear, we do the right thing simply because our hearts have been changed. That’s a new creation. Not that rules and commandments are not important. But we no longer keep them because they’re written down in a rule book. We’re kind, good, helpful people not because the rule book says so. But because our hearts have been changed. We become like Jesus. 
 
-3 Repentant Christians
+[3 Repentant Christians]
 Luke 19:1-10
 Here talks about the time Jesus entered and passed through Jericho. There was a man called Zacchaeus who was a chief tax collector and was very rich. He sought to see Jesus but couldn’t because there was a crowd and he was short. So he climbed up a sycamore tree because he knew Jesus was going to pass through. When Jesus passed, he looked up and said to him, “Zacchaeus, make haste and come down, for today I must stay at your house.” (v5)
 
