@@ -29,8 +29,8 @@ But to the New Testament writers, grace, mercy and peace were the first and prim
 
 This sermon will take a look at these three indispensable things with respect to our Christian life. 
 
-<a>1) Grace
-What is grace? The New Testament often uses the word ‘grace’, even more so than the Old Testament. The Bible dictionary defines grace as ‘favour God gives us we do not deserve’. <a>
+<p>1. Grace <p>
+What is grace? The New Testament often uses the word ‘grace’, even more so than the Old Testament. The Bible dictionary defines grace as ‘favour God gives us we do not deserve’.
 
 There’re two aspects: (1) help given to us, (2) that we’re undeserving. It’s unsurprising the New Testament often uses the word grace, because Jesus Himself is the grace of God towards us. 
 
@@ -83,7 +83,7 @@ But with all good things, as time passes, we change. Because Jesus has never cha
 
 We need grace. But we need to APPRECIATE grace even more. 
 
-2) Mercy
+<p>2. Mercy <p>
 Grace and mercy are two sides of the same coin. If grace is given to us undeserving, then mercy is withholding punishment that we deserve. By right, you should be punished but you weren’t. 
 
 To fully appreciate grace, you must understand mercy as well. Because mercy is related to punishment, and punishment is related to the fact there’s a standard. You’re punished because you fall short of a standard. 
@@ -147,7 +147,7 @@ If we don’t show mercy to others, according for to the Bible, ultimately we wo
 
 Should we also not know to show mercy to others? Think of all the mercy God has given us. What has the other person done compared to what we owe God? Blessed are the merciful for they will be shown mercy (Matt 5:7). 
 
-3) Peace
+<p>3. Peace <p>
 The peace we talk about is different from the peace in the world. 
 
 John 14:27
