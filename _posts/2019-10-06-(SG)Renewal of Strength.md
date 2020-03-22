@@ -1,11 +1,11 @@
----
-layout: post
-title: Renewal of Strength 重新得力
-category: youthservice2019singapore
-tags: [startagain,strength]
-hymns: [250,332]
-speaker: prbarnabaschong
----
+---  
+layout: post  
+title: Renewal of Strength 重新得力  
+category: youthservice2019singapore  
+tags: [startagain,strength]  
+hymns: [250,332]  
+speaker: prbarnabaschong  
+---  
 All of us have some measure of strength. Some strength comes from our muscles, some from our will power; one more strength comes from the heart, from the spirit within us. As Christians, we display our strength in these 3 areas: physical strength, mental strength, and most importantly for Christians, the strength from the spirit. 
 
 This sermon won’t discuss the first 2 strengths because the congregation consists of youths; our current age allows us to do this. The older you become, the less able we are to draw strength physically and mentally.
@@ -14,8 +14,8 @@ But how about spiritual strength? Spiritual strength is not made manifest by the
 
 We need spiritual strength from the heart to lead a Christian life, because society is evil. We don’t need to further discuss the deterioration of morality. There’re a lot of other aspects that aren’t beneficial for Christians. The advancement of technology and many things made convenient aren’t exactly good for Christians because it makes us comfortable. It’s difficult for us to understand and to believe in Jesus under difficult circumstances. All the more we need to have strength in our hearts no matter what circumstances we are under. 
 
-Phil 4:13
-“I can do all things through Christ who strengthens me.”
+Phil 4:13  
+“I can do all things through Christ who strengthens me.”  
 Paul says he’s able to do all things. What does ‘all things’ refer to? In the preceding verses, we can tell ‘all things’ refers to physical things he’s lacking in - a place to sleep, food to eat. If such situations is short term, it’s not so much of a problem. But if these situations are prolonged, it’ll cause us much distress. We’d be stressed because we’re always thinking of what to eat. Paul says that even though he was under such a circumstance, he still knew how to draw strength. Even in times of difficulty, we still can be strong. 
 
 He also says he has been in situations when he’s full, when he abounds. In such situations, is there really a need for strength? This is where we realise the strength he refers to isn’t physical, but spiritual strength that enables him to continue believing in and relying on Jesus. 
@@ -24,10 +24,10 @@ That’s why he says he’s able to do all things through Christ who strengthens
 
 This is what Paul learnt over a period of time. As Christians we need to learn how to draw strength from Jesus Christ no matter what circumstances we’re under too. 
 
-What circumstances will cause us to feel we lack strength? Two circumstances will be discussed.
-1. We lack strength because we don’t understand God’s arrangement
-Isa 40:28-31
-Isaiah describes what kind of God God was. “Do you not know that God is like this and like that?”
+What circumstances will cause us to feel we lack strength? Two circumstances will be discussed.  
+1. We lack strength because we don’t understand God’s arrangement  
+Isa 40:28-31  
+Isaiah describes what kind of God God was. “Do you not know that God is like this and like that?”  
 From v1 onwards, Isaiah talks about the basic attributes of God. God has strength and power; He neither faints or is weary; His understanding is unsearchable; God has this capability and wisdom. To those who are weak, He gives power. To those who have no might, He increases strength. We must know this. 
 
 Even the youths will faint and be weary and the young man will utterly fall. 
@@ -46,10 +46,10 @@ But there are some problems where prayer doesn’t seem very helpful. It seems a
 
 Therefore, the first reason why we feel a lack of strength is because we don’t understand God’s will. Actually, these things are all arranged by God. We need to first understand that everything that happens around us is because of God’s arrangement. 
 
-Eccl 3:1
+Eccl 3:1  
 “To everything there is a season, a time for every purpose under heaven”
 
-Up to v8, comparisons are used. “A time to be born and a time to die” 
+Up to v8, comparisons are used. “A time to be born and a time to die”  
 We may think birth is good and death is bad. But birth and death is something God has planned because there’s a time and season for every purpose. We have to understand that in human life, there’ll be good and there’ll be bad. If we don’t understand this and bad things happen, or we’re in the face of death, we won’t know how to overcome the situation and handle it. 
 
 Earlier this year, the speaker’s mother passed away. This was something he had never thought about. Of course he knew his parents, everybody will pass on one day. But he didn’t expect his mother to leave this world in the manner she did. His mother had undergone an operation the doctor was quite confident about. They had done a scan of her pancreas and found a tumour there. When they took a biopsy, they found it to be benign. However the size of the tumour was 3cm. It’s easy for it to become malignant over the years so the doctors recommended for it to be taken out. The speaker thought to himself: “Wah thank God it was found and we can settle it quickly.” He had asked a brother who was a doctor why most pancreatic cancer is found at the last stage. 
@@ -68,9 +68,9 @@ Then, there was the possibility the speaker had cancer. He thinks this was God�
 
 When we feel we have no strength, this is one of the reasons why. We need to learn how to entrust things to God. We need to wait on the Lord, wait for Him to arrange matters for us. With this mindset, we won’t lack in strength but have a renewal of hope instead that God will arrange it for you. 
 
-2. We lack strength because we are too comfortable/think we have done enough
-Judges 2:1-7
-When we read this passage, do we feel it’s sad? We tend to read them as if they were stories, but these are all real life events. Do we feel a true sense of sadness when we read this? God pointed out the people’s problems, they had forsaken God. In what manner?
+2. We lack strength because we are too comfortable/think we have done enough  
+Judges 2:1-7  
+When we read this passage, do we feel it’s sad? We tend to read them as if they were stories, but these are all real life events. Do we feel a true sense of sadness when we read this? God pointed out the people’s problems, they had forsaken God. In what manner?  
 v2 tells us what the problem is. When they came to the land of Canaan, they should’ve conquered it in its entirety; to completely annihilate the people and the altars of the gods they worshipped. But the people didn’t do this. What did they do?
 
 Judges 1 shows how the people of Israel conquered the land. “Who wants to conquer this place?” Then a group will go. But they didn’t drive out the inhabitants. This happened repeatedly. What did they do? They established covenants with these people. They didn’t treat the inhabitants as equals, perhaps they became slaves. But why did they do this? Was it because they didn’t have the means of completely driving them out?
@@ -79,7 +79,7 @@ They took 7 years to conquer the land of Canaan. A 7 year war is arguably long. 
 
 Were they capable of completely driving the inhabitants out? Yes. 
 
-Judges 1:27 
+Judges 1:27  
 The inhabitants left should’ve just been a small number since most were chased away. Why couldn’t the remnant be driven out? It doesn’t make sense. It’s like washing almost all the dishes and then saying we can’t finish washing one last bowl. We’ve already washed until we’re all sweaty and our hands are wet. Why can’t we do one more? Doesn’t seem logical that they weren’t able to drive out the remnant. There seemed to be a lack of strength. “Let’s just let them off and let them be our servants instead.” A simple and convenient solution to make the remaining inhabitants as slaves and not fight anymore. 
 
 Why did they seem to lack strength? Recall that they had already conquered a large part of Canaan. Most of the Israelites would probably have started farming and cultivating the land, and starting their families. A time of peace and security. Perhaps in this, they felt there wasn’t the need to fight anymore. Swords become agriculture tools. “My wife is already going to have the 3rd kid, why still need to fight?”
@@ -94,7 +94,7 @@ But do we still feel a lack of strength? Do we still feel like we lack spiritual
 
 Perhaps we are like the Israelites and think: “Ok lah, I’ve done a lot already. I’m already attending so many services. I don’t have to go all in, I don’t have to do everything.”
 
-“I’ll go Bangkok/Bali/Japan/etc. for a break.”
+“I’ll go Bangkok/Bali/Japan/etc. for a break.”  
 There’s nothing wrong to go overseas. But why do we gain strength by travelling? 
 
 Why do we still lack strength despite attending so many services? Perhaps there are still many things we haven’t completed in its entirety. 
@@ -119,25 +119,25 @@ For the youths, this is where we’re lacking in strength. Even though our lives
 
 A majority of us probably haven’t thought of this. Let’s carefully consider this matter. 
 
-On the topic of gaining strength:
+On the topic of gaining strength:  
 In Myanmar, the speaker felt he lacked strength. At that point, he suddenly recalled a hymn he heard 20 years ago. When he searched the lyrics up, he found it was really meaningful. It was based on Psa 8. He wants to share this hymn with us so that we may be able to recall this hymn when we lack strength. 
 
 Title: How excellent your name is
 
 Link: https://youtu.be/BM8INqEELQA
 
-Lyrics: 
-O Lord, our Lord, how excellent Your name is.
-How excellent Your name in all the earth.
-Your glory fills the heavens beyond the farthest star.
-How excellent Your name in all the earth.
-When I think about the heavens, the moon and all the stars,
-I wonder what You ever saw in me.
-But You took me and You loved me and You've given me new life
-And now I'll praise Your name eternally.
-O Lord, our Lord, how excellent Your name is.
-How excellent Your name in all the earth.
-Your glory fills the heavens beyond the farthest star.
+Lyrics:  
+O Lord, our Lord, how excellent Your name is.  
+How excellent Your name in all the earth.  
+Your glory fills the heavens beyond the farthest star.  
+How excellent Your name in all the earth.  
+When I think about the heavens, the moon and all the stars,  
+I wonder what You ever saw in me.  
+But You took me and You loved me and You've given me new life  
+And now I'll praise Your name eternally.  
+O Lord, our Lord, how excellent Your name is.  
+How excellent Your name in all the earth.  
+Your glory fills the heavens beyond the farthest star.  
 How excellent Your name in all the earth.
 
 What the speaker likes about this hymn is that our God is really excellent. His glory is set above the heavens beyond the farthest star. Yet, He still considers me. And who are we that God should consider us? “Who am I that God should consider me?” “Why does God consider me and why did God create me?” When we think about this, we’d be moved how God cares for us. 
@@ -156,5 +156,5 @@ For the church situation, if the church really needs us, how many of us youths w
 
 
 
-----
+----  
 ****

@@ -1,9 +1,9 @@
----
-layout: post
-title: Altar, Heirloom, Ark 祭坛，家业，方舟
-category: sermon2019singapore
-tags: [familyaltar,family]
-hymns: [65,498]
+---  
+layout: post  
+title: Altar, Heirloom, Ark 祭坛，家业，方舟  
+category: sermon2019singapore  
+tags: [familyaltar,family]  
+hymns: [65,498]  
 ---
 
 What has the altar, heirloom, ark; the Holy Communion; and Heb 13 got to do with each other?
@@ -18,15 +18,15 @@ Look at Rahab. When she requested for the 2 spies to save her, she didn’t just
 
 May this be our hope, vision and focus.
 
-Heb 13:10-14
-The altar will first be discussed.
+Heb 13:10-14  
+The altar will first be discussed.  
 v10 Where is this altar? According to v11 the burning of the bodies of the sin offering is mentioned. This altar is outside the camp. In the Old Testament, when sin offerings are offered, certain sin offerings can be eaten. But certain kinds of sin offerings cannot be eaten. They must be brought outside the camp and burnt. When Israel occupied the land of Canaan, when the temple was built in Jerusalem, certain sin offerings were brought outside the city and burnt. The priests couldn’t eat those burnt ones. Why are there two types of sin offerings? And what is the connection?
 
 Sin offerings that can be eaten are those that have been offered for individual Israelites. But when the priest sins or the whole congregation sins, and a sin offering is offered for them, the blood of the sin offering must be brought into the sanctuary and sprinkled. This doesn’t need to be done for the individual Israelite. Furthermore that sin offerings needs to be brought out of the city to be burnt. On the day of atonement, the sprinkling is not just in the sanctuary, the high priest must go into the inner sanctuary to sprinkle on the mercy seat. 
 
 Today, we have the privilege to eat from this altar that is outside the camp/city. Those who served in the sanctuary - the priests - had no right. They could only eat of individual offerings whose blood was never sprinkled in the sanctuary. What does this mean?
 
-Heb 10:19-22
+Heb 10:19-22  
 In the Old Testament, only the high priest could enter the holy of holies, and only once a year. In the New Testament, the Bible tells us Jesus is our great high priest. He has gone inside the Holy of holies. When He went in, He opened this way for us so we can enter right behind Him - a new and living way! In other words, if we just follow Jesus Christ, it’s a living way; we can receive life. Why? Because Jesus’ blood has been shed for us. In the Old Testament only animal blood was shed, whose blood cannot take away sin. But when Jesus went into the spiritual holy of holies, He wasn’t just the high priest, He was also the sacrifice. Because He brought in His own blood to be sprinkled on the mercy seat. Because of that, a new living way is opened for us. Our hearts are sprinkled from an evil convince and our bodies washed with pure water. This means when we’re baptised, the day of atonement is enacted on us. What happened in the Old Testament is a shadow but Jesus is the real fulfilment. When Jesus died, the veil of the temple was torn from top to bottom into two halves. Meaning to say there’s no more separation of the holy of holies from outside. It remains open, because Jesus has gone in. The grace of God is open to us. 
 
 When we’re baptised in the name of Jesus, the effect comes on us; we identity with His death and resurrection. Consequently the blood of Jesus is sprinkled on our hearts. On the day of atonement, when the high priest comes out, there is great shouting because the high priest is alive and sins have been atoned. But this is a shadow of Jesus coming out of the tomb alive. We receive life because we have received forgiveness of sins. 
@@ -43,12 +43,12 @@ Jesus also says, “The words I speak to you are spirit and life.” Those peopl
 
 Regarding our family altar: set it up since we are priests. Take the opportunity to study the word of God as a family. Let the Holy Spirit directly teach everyone in the family. 
 
-Heb 13:10
+Heb 13:10  
 People who serve in the tabernacle had no right to eat. Today we partake of the flesh and blood of Jesus in Holy Communion. This is a greater privilege than the priests who ate sacrificial meats, even greater privilege than the Israelites who ate of the Passover meal. Today we are more privileged than these two groups of people. In the Old Testament, when it comes to the Passover, all circumcised Israelites have to participate. If they have no reason and don’t keep it, they’d be cut off from the people. 
 
 Likewise for the Holy Communion which the Passover was a shadow of. When we gather here today to partake the Holy Communion, remind ourselves to remain in the grace of God. Don’t sin unto death. Because when we’re excommunicated, we no longer have the right to partake of the table. 
 
-Exo 12:26-28
+Exo 12:26-28  
 The right to eat the Passover meal was given to circumcised Israelites. God says this will be a command they should keep throughout the generations. God tells them to explain the significance of the meal to future generations. Today the Jews usually have this custom. During the Passover mean, the smallest child will ask, “Why do we eat this meal? Why do we eat the Passover lamb? The unleavened bread?” The father will answer v26-28. Our ancestors were in Egypt and God led them out with His almighty hand. 
 
 Today we do the same thing. Since we have the right to eat of the altar outside of the camp; salvation; the gift of the Holy Spirit - all given to us - we need to pass on this knowledge to our future generations. This is our heirloom. We must not lose it. If we forget to pass on the knowledge of salvation to our children, this precious thing will be lost in our family. God hasn’t just given this to you, He’s given it to you to pass down to later generations. 
@@ -59,8 +59,8 @@ Salvation was given to us by Jesus who was crucified outside the city. Why don�
 
 Sometimes we ourselves stop our children from being too active in church. “You have to study for exams.” Sometimes we arrange many activities for them, such that they only can spend 1h in church. They rush from swimming class to church. They need to leave on the dot for piano class. At night they have taek kwan do class. The next day they have tuition all the way until University. They can’t go for Youth Service either. Do not lose our heirloom - the right to eat at the altar. 
 
-Heb 13:14
-“For here we have no continuing city, but we seek the one to come.”
+Heb 13:14  
+“For here we have no continuing city, but we seek the one to come.”  
 Why does the author say this? He follows the idea from v11 where the sacrifices are burnt outside the camp. Look at Jesus who suffered outside the gates. The temple was in the middle of the city. But the sin offering is taken outside the city. Same thing Jesus. He brought much grace, healing, and life to people. But when He died, He carried His cross outside the city gates to the altar of Golgotha. He was stripped of His garments. He died a shameful death. He bore our reproach. 
 
 Today we are to bear His reproach, take up our cross to follow Him. This is not having a continuing city. This world isn’t our home. If not we have no hope, because this world is condemned. 
@@ -84,5 +84,5 @@ We have no continuing city here. But we seek the one to come. This is what v14 s
 Let us offer the sacrifice of praise to God. Let us not refrain from sharing. Worshipping God and benefiting mankind is a simple life Christians should have. Look forward to the great and bright future the Father has prepared for us. 
 
 
-----
+----  
 ****

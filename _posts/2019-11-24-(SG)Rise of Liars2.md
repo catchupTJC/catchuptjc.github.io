@@ -1,10 +1,10 @@
----
-layout: post
-title: Rise of Liars (2) 说谎者的兴起(二)
-category: spiritualmeeting2019singapore
-tags: [lies]
-hymns: [396]
-speaker: prbarnabaschong
+---  
+layout: post  
+title: Rise of Liars (2) 说谎者的兴起(二)  
+category: spiritualmeeting2019singapore  
+tags: [lies]  
+hymns: [396]  
+speaker: prbarnabaschong  
 ---
 
 As Christians we should not tell lies and deceptions. Why? We read Proverbs 12:22; 
@@ -87,13 +87,13 @@ This is Aaron leading the people to build a golden calf. The gold earrings and a
 
 He was giving an account to Moses, “Yes, I asked them to bring them to me, I asked them to put it in the fire, but the cow came out by itself! It has nothing to do with me!” Even Aaron when forced to a corner also spoke half-truths. Sometimes when forced to a corner we also speak half-truths. This is our weakness. Lies are lies. We have to remember this and not make these mistakes. Sometimes we don’t have to announce the truth to everyone because some things don’t have to be made known to others. You don’t have to pour everything out, but you cannot lie. 
 
-Some cannot accept this; especially between couples, “You must tell me everything!”
+Some cannot accept this; especially between couples, “You must tell me everything!”  
 “Really meh? Some things you tell your best friends but you don’t even tell me.” 
 
 Some people expect that between spouses you have to be honest with one another. What if it’s a matter concerning the church? Since it doesn’t concern you, you don’t have to hear of it. Should it be this way? We read 1 Samuel 16:1-3; 
 
-1 'Now the Lord said to Samuel, “How long will you mourn for Saul, seeing I have rejected him from reigning over Israel? Fill your horn with oil, and go; I am sending you to Jesse the Bethlehemite. For I have provided Myself a king among his sons.” 
-2 And Samuel said, “How can I go? If Saul hears it, he will kill me.” But the Lord said, “Take a heifer with you, and say, ‘I have come to sacrifice to the Lord .’ 
+1 'Now the Lord said to Samuel, “How long will you mourn for Saul, seeing I have rejected him from reigning over Israel? Fill your horn with oil, and go; I am sending you to Jesse the Bethlehemite. For I have provided Myself a king among his sons.”  
+2 And Samuel said, “How can I go? If Saul hears it, he will kill me.” But the Lord said, “Take a heifer with you, and say, ‘I have come to sacrifice to the Lord .’  
 3 Then invite Jesse to the sacrifice, and I will show you what you shall do; you shall anoint for Me the one I name to you.”'
 
 Here, God instructed Samuel to anoint David. V2;
@@ -134,20 +134,20 @@ Sometimes we deceive ourselves in this way. We have to be free from all such dec
 
 Deceptions appear in many forms and we have to be very careful. Here are 2 ways to keep away from deceptions. 
 
-1. Draw away from all things false
+1. Draw away from all things false  
 2. We must have the truth in our hearts 
 
 Lies come from the absence of truth. If there is truth within you, you’ll not tell lies. 
 
 As a conclusion, we read Psalm 24:3-5; 
 
-3 'Who may ascend into the hill of the Lord ? Or who may stand in His holy place? 
-4 He who has clean hands and a pure heart, Who has not lifted up his soul to an idol, Nor sworn deceitfully. 
+3 'Who may ascend into the hill of the Lord ? Or who may stand in His holy place?  
+4 He who has clean hands and a pure heart, Who has not lifted up his soul to an idol, Nor sworn deceitfully.  
 5 He shall receive blessing from the Lord , And righteousness from the God of his salvation.'
 
 We hope that every Christian will be like this; to have clean hands and pure hearts. 
 
 
 
-----
+----  
 ****

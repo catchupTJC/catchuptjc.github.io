@@ -1,10 +1,10 @@
----
-layout: post
-title: Offering 奉献
-category: spiritualmeeting2019singapore
-tags: [offering]
-hymns: [120]
-speaker: dnenochchin
+---  
+layout: post  
+title: Offering 奉献  
+category: spiritualmeeting2019singapore  
+tags: [offering]  
+hymns: [120]  
+speaker: dnenochchin  
 ---
 
 Some of us may wonder why we need to offer during spiritual meeting. Is it for the SM expenses? 
@@ -33,5 +33,5 @@ The money collected for this SM is for the Singapore Collaboration Board (SCB). 
 
 May the Lord continue to help the churches in Singapore. 
 
-----
+----  
 ****

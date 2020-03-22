@@ -1,41 +1,41 @@
----
-layout: post
-title: Preparation from One to Two 从一人到二人的准备 
-category: youthspiritualmeeting2019singapore
-tags: [unedited,relationship,courtship,marriage]
-hymns: [364,377]
----
+---  
+layout: post  
+title: Preparation from One to Two 从一人到二人的准备  
+category: youthspiritualmeeting2019singapore  
+tags: [unedited,relationship,courtship,marriage]  
+hymns: [364,377]  
+---  
 Why two and not one? Along the way if we have a wrong concept towards this matter and go against the will of God regarding Creation; we talked about how animals aren’t able to be companions to Man; how material goods can’t satisfy us. God created Man and Woman not Man and Man, and Woman and Woman. The world carries many concepts of marriage that go against the concept of Creation. We hence ought to have the right understand. The Bible tells us an important concept when He created Man and Woman in the beginning: it’s not good for Man to be alone. Human beings are social creatures that require another person to fulfil the needs of the heart. If a man were to stay up in a mountain alone, his mental capacity will be affected after a while. Two becoming one will also give off godly offspring; to learn reverence; to learn about loyalty towards your partner and towards God. This will affect how the next generation moves forward as well. Therefore two becoming one grooms the next generation to continue on. 
 
 When we talk about from one to two, the preparation is important as well. We can’t say that when the time comes for us to get marriage, we don’t prepare and say just let nature take its course. There’re two extremes in the world. Due to the pressures in the city, they prefer to live alone. The other camp choose to let loose sexually. The Bible says if we don’t have the gift of celibacy, since we are created in flesh which has its desires, if we stay alone, we may fall or keep ruminating on this matter. But that doesn’t mean that after getting married, we won’t sin. David had many wives but committed adultery. If we have an incorrect concept and don’t revere the words of God, the consequence of sin will be brought about. Therefore having the right concept towards marriage is important. Even though this refer to before marriage, it is related to being married as well.
 
-Chinese play on è(r): 二，饿，恶
-如果不成为二人，就成为饿人
+Chinese play on è(r): 二，饿，恶  
+如果不成为二人，就成为饿人  
 If you’re not married, you have the hunger/desire for the opposite sex. Your flesh and emotions can’t be satisfied and you struggle. What’s worse is if you don’t have the right thinking and accept the concepts of this world: having a man/woman is to satisfy the flesh. A person may not be able to control himself and sin. 
 
-饿人会成为恶人
+饿人会成为恶人  
 A hungry man becomes an evil man. 
 
-The first definition of two.
+The first definition of two.  
 David had a son named Amnon. He fell in love with his sister from a different mother, Tamar. He used extreme methods to obtain his sister.
 
-2 Sam 13
+2 Sam 13  
 This passage doesn’t just talk about desire and love. From love, he hated her exceedingly after raping and obtaining her. Why? He had the wrong concept towards marriage. He just wanted to obtain Tamar. After obtaining, he didn’t cherish her anymore.
 
 Therefore before and after entering into marriage, we have to prepare ourselves to have the right concept. 
 
-1 Cor 7:1-2
-“It’s good for a man not to touch a woman”
+1 Cor 7:1-2  
+“It’s good for a man not to touch a woman”  
 Why did Paul say this? One possibility could be the gnostic teachings that focused on an aesthetic lifestyle. They think a relationship between a man and woman is filthy, so they were taught not to marry. So Paul was targeting this wrong teaching to teach the members the right concept towards marriage. Another possibility is that Paul reckoned the the Lord was coming again soon. If you’re married, you’d be distracted, unable to serve the Lord. But if we continue reading, Paul doesn’t stop people to get married. 
 
 v8 Paul says if we have the gift of celibacy like him, then we need not get married. He has a different spiritual perspective: to place focus on matters concerning the Kingdom of God. But it’s better to get married than burn with passion. Therefore two coming together is necessary. That’s with the prerequisite that we are physically and emotionally prepared. Then we can think about and prepare for marriage. 
 
 Why do we need to prepare? If we don’t prepare and enter into it, we know it’s going to be a mess. But if we have prepared ourselves and have the right concept, we’ll be able to walk towards perfection in marriage. 
 
-“Why do we need to prepare ourselves? So troublesome!”
+“Why do we need to prepare ourselves? So troublesome!”  
 That’s the concept of the world. As long as you like me and I like you, that’s alright. 
 
-1st preparation: finances
+1st preparation: finances  
 Practically, you must be financially stable. There’s a saying that love cannot be treated as water to be drunk. Because marriage is not just about the sweet nothings. You have to face very practical life issues. It can’t be separated. If you’re not prepared financially, how do you build this family? Last time you relied on your parents. But now you’re to leave your parents. This is to teach Holy Spirit to be independent. If you’re still stretching your hand out asking for money after getting married, that’s odd. 
 
 A brother wants to get married to a sister but he doesn’t have a job. She didn’t agree; she chose someone else with a job. He was very unhappy and said, “You’re a Christian! How can you just look at the physical?” He didn’t look at himself. Did he prepare before entering into a marriage? Practically, he didn’t have a job or income. He’s not a person who can’t find a job. He feels that all the jobs he has interviewed for don’t meet his standard. So he was without a job for 2 years, relying on the savings of his parents. He doesn’t care about his future and doesn’t have the heart to prepare himself as well. 
@@ -66,7 +66,7 @@ The emphasis is the priorities in our life. We all have to work and carry on liv
 
 There’re many cases of divorce with one main cause being money. Not that we’re trying to elevate money but don’t be impractical that we don’t need money to live. Let’s not neglect finances. That’s why our parents tell us to study hard and not spend frivolous. 
 
-2nd preparation 
+2nd preparation  
 Submit under the words of God. Before entering into a marriage, be proactive to learn the words of God. The words of God will help us to have the right concept and attitude to meet challenges in our marriage. Why is it a trial though? Before entering into a marriage from one to two, we don’t know what marriage is. Those who are married know. Their conversations are filled with many exclamations. “Huh you’re like that one ah?!”
 
 At this point in time, the word of God is important. If you put two who don’t know one another together, they’ll naturally be differences. 
@@ -77,17 +77,17 @@ When Adam and Eve sinned, they pushed the responsibility. Are we willing to subm
 
 The speaker says he’s clear many of us are weak in this aspect. But we have to start somewhere. 
 
-3rd preparation: prayer
+3rd preparation: prayer  
 We may ask, “Who’s my other half? Will God prepare one for me? If so then I just need to sit and wait. If God doesn’t prepare, then do I proactively seek?”
 
-Mark 10:9
+Mark 10:9  
 God instituted marriage. There’s predestination in the Bible. Did God predestine someone for us? God is omniscient and knows who we will end up with. 
 
 God is the facilitator of Adam and Eve’s marriage. Adam was full of thanks. 
 
 Would God prepare someone for us? Let’s not sink into another wrong concept: fate. Predestination is not about fate. Human beings are constrained by time and space but not God. God has foreknowledge and He’s able to prepare for us. God’s not like a puppet master controlling us. We have choice. 
 
-Gen 24:
+Gen 24:  
 Abraham asked his servant to find a wife for Isaac with the condition of marriage in the Lord. Did God prepare a partner for Issac? Abraham gave this task to his old servant. But in this whole process, did the old servant just sit and wait? No. He prayed and carried out what he was supposed to do. 
 
 In this journey of marriage, we have our duties. When Isaac and Rebekah were introduced to one another, they didn’t reject because they saw the marriage was guided by God. 
@@ -108,44 +108,44 @@ Don’t think it’s a happily ever after after marriage. Do you think  Beauty l
 
 As we’re preparing the guidance of God, have a heart of reverence. Use the word of God to manage our marriage. There’s no such marriage that’s perfect. The first marriage had a lot of problems. Why? They didn’t receive the word of God. 
 
-Speaker’s testimony of getting to know his wife:
-He entered into theological. Church started to show him concern. 
-“Brother, being alone not good.” 
-“I know being alone is not good but I want to focus on theological and I’ll think about it after my studies.”
-So they left him alone. 
-When he reached Taiwan, he met a preacher he already knew there. In Taichung, he met a preacher like Abraham’s old servant. 
-“Brother it’s not good to be one man. Two better.”
-“I want to concentrate on my theological studies first.”
-“Very good. Anyways you’re in the theological school you can’t run away.”
-After 4 years of theological school, he graduated. 
-The ‘old servant’ approached him again 
-“Brother! Not good to be one man. Teo better!”
-“It’ll be difficult because we have our differences.”
+Speaker’s testimony of getting to know his wife:  
+He entered into theological. Church started to show him concern.  
+“Brother, being alone not good.”  
+“I know being alone is not good but I want to focus on theological and I’ll think about it after my studies.”  
+So they left him alone.  
+When he reached Taiwan, he met a preacher he already knew there. In Taichung, he met a preacher like Abraham’s old servant.  
+“Brother it’s not good to be one man. Two better.”  
+“I want to concentrate on my theological studies first.”  
+“Very good. Anyways you’re in the theological school you can’t run away.”  
+After 4 years of theological school, he graduated.  
+The ‘old servant’ approached him again  
+“Brother! Not good to be one man. Teo better!”  
+“It’ll be difficult because we have our differences.”  
 “Your mind is too complex! Be more simple! The Bible doesn’t talk about finding someone in Taiwan and Singapore. I know someone suitable for you!”
 
 He had no Facebook or iPhone. He just prayed. When he returned to Taiwan the preacher gave him her MSN. Cannot see face. He’d talk to her AFTER DOING HOMEWORK (do your homework ah!). He didn’t know hanyupinyin so he typed in English. She understood English and replied in Chinese. 
 
-The first condition he had was to find someone in the Lord. Since he was going to become a preacher, she needs to be able to complement the work. He said, “I’m going to become a preacher. I may not be able to accompany you all the time. Can you accept that?”
+The first condition he had was to find someone in the Lord. Since he was going to become a preacher, she needs to be able to complement the work. He said, “I’m going to become a preacher. I may not be able to accompany you all the time. Can you accept that?”  
 She worked in a non-profit organisation and travelled frequently to developing countries. 
 
 He only got to know her through MSN. The preacher brought her to have a meal with him. 
 
-After a month the ‘old servant preacher’ asked him how things are going. 
-“Preacher not so fast la we still need some time to get to know each other.”
+After a month the ‘old servant preacher’ asked him how things are going.  
+“Preacher not so fast la we still need some time to get to know each other.”  
 The ‘old servant’ was good and directly said to him, “Brother you think you’re very young ah? 
 
 After communicating for two months and the ‘old servant’ kept bugging him. 
 
-“I’d like to ask you a question”
-“What question?”
-He was struggling
-“Do you want to marry me?”
-After typing it he regretted greatly. 
-There was no reply for the next 5min. When there’s no reply your thoughts will think nonsense
+“I’d like to ask you a question”  
+“What question?”  
+He was struggling  
+“Do you want to marry me?”  
+After typing it he regretted greatly.  
+There was no reply for the next 5min. When there’s no reply your thoughts will think nonsense  
 Why did you ask why did you ask??? Shouldn’t have asked! Sweat so much
 
-Then a reply
-“I need to ask my mum.”
+Then a reply  
+“I need to ask my mum.”  
 He heaved a sigh of relief. 
 
 Mother didn’t object. So they got married. 2 months. 
@@ -160,5 +160,5 @@ We feel we are perfect. So our expectation is perfection as well. So God gives y
 
 
 
-----
+----  
 ****

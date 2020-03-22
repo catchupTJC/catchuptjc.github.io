@@ -1,10 +1,10 @@
----
-layout: post
-title: Who Touched Me? 摸我的是谁？
-category: sermon2019singapore
-tags: [faith]
-hymns: [344,402]
-speaker: 
+---  
+layout: post  
+title: Who Touched Me? 摸我的是谁？  
+category: sermon2019singapore  
+tags: [faith]  
+hymns: [344,402]  
+speaker:  
 ---
 
 When Jesus was on earth, He went from town to town to preach about the Kingdom of Heaven. Many a times, a huge number of people listened to Him, thronging about Him. The number could swell to thousands. 
@@ -13,12 +13,12 @@ There was once Jesus fed 5000 men, and on another occasion, 4000 men. The number
 
 But there was a particular occasion that Jesus took particular notice someone touched Him. Jesus asked aloud, “Who touched Me?” This contact with Jesus was extraordinary because Jesus perceived power had gone out from Him. 
 
-Luke 8:43-48
+Luke 8:43-48  
 The person who touched Jesus was none other than the woman with a flow of blood. v43 introduces the woman - she faced many sufferings. She had a flow of blood for 12 years, which would’ve been a very difficult time for her. Imagine having the condition of having a continuous loss of blood for many years. It would’ve been physically draining, wearisome, and painful. To add on to this physical condition, she had to face mental torture as well. 
 
 Under the Old Testament laws, a women with a flow of blood is considered unclean. She would have to keep herself away from her communities and people. She would not have been able to go to the temple of God. Since she was considered unclean always, people may stigmatise her and view her as unholy. All this mental stress added on to her physical burden. 
 
-v43
+v43  
 She spent all her livelihood on physicians and wasn’t able to be healed by any. From this we see how she was greatly affected by her medical condition. She tried to resolve this issue by seeking medical help. She went from physician to physician but time and time again, they weren’t able to help her. What’s worse was that her savings were being depleted. As a result of medical fees, sustaining her livelihood was difficult also. 
 
 From her short introduction, we can see she suffered long and badly. It affected her livelihood, physical condition and mental state. 
@@ -27,14 +27,14 @@ Similar to the woman with the flow of blood, life on this earth is not plain sai
 
 The question to us is this: how do we deal with these issues? Do we rely on our own abilities, seeking physician after physicians? Are we like this woman with the flow of blood who sought solutions that didn’t work for 12 years?
 
-Psa 46:1-2
+Psa 46:1-2  
 Our God is our refuge and strength. When we meet with troubles, even if they’re earth shattering, our God is a very present help. Yes, our God is Almighty; omniscient. He can be our refuge. In times of trouble, He can be of great help when we come to Him. He knows our needs, and has the power/authority to provide for our needs. 
 
 Therefore, all of us burdened and heavy ladened, our Lord Jesus invites us to come to Him. And coming to Jesus is what the woman with the flow of blood did. 
 
-Luke 8:43-44
-v43 gives an introduction of the woman
-v44 “came from behind and touched the border of His garment. And immediately her flow of blood stopped.”
+Luke 8:43-44  
+v43 gives an introduction of the woman  
+v44 “came from behind and touched the border of His garment. And immediately her flow of blood stopped.”  
 This woman didn't just stop at her physical ailments, she didn’t wallow in her sorry state. She actually came to Jesus, to touch the border of His garment. Therefore let us learn from this women with the flow of blood. 
 
 In times of trouble, turn our reliance on our own methods to rely on God. It doesn’t mean we don’t go to doctors, but when we go to a doctor, we believe that God has the power to heal us through the doctors, for we know the one who can truly heal us is the Lord Jesus. 
@@ -57,18 +57,18 @@ If we have done so, let us proactively take the next step to clear all obstacles
 
 If we’re still not aware we’re having Spiritual Meeting next week, or are shocked that it’s coming so soon, it’s still not too late to start thinking about it, and start preparing ourselves. 
 
-Luke 8:44
+Luke 8:44  
 When this woman touched Jesus, something miraculous happened - her flow of blood for 12 years stopped! For 12 years she sought to get her medical condition healed, but it persisted. But when she touched the corner of the garment of Jesus, her flow of blood stopped. It defies all human logic, because this is about her belief/faith in the Almighty God. Only the Almighty God has the power to perform such a miracle. But it requires this women to clear all the obstacle to come to Lord Jesus in Faith. 
 
-v48 Jesus said to her, “Daughter, be of good cheer; your faith has made you well. Go in peace.”
+v48 Jesus said to her, “Daughter, be of good cheer; your faith has made you well. Go in peace.”  
 Her faith saved her. Her faith healed her. Similarly when we come before Jesus in Faith, when we’re resolved to seek Jesus’ help, He is our refuge, a very present help in times of trouble. 
 
 v45-48 records the question Jesus asked - “Who touched Me?”
 
 Let us consider this question. Did Jesus really not know who touched Him? 
 
-v47 
-“Now when the woman saw that she was not hidden, she came trembling; and falling down before Him, she declared to Him in the presence of all the people the reason she had touched Him and how she was healed immediately.”
+v47  
+“Now when the woman saw that she was not hidden, she came trembling; and falling down before Him, she declared to Him in the presence of all the people the reason she had touched Him and how she was healed immediately.”  
 Why did Jesus want to point this woman out? Jesus could’ve allowed her to go away quietly. She didn’t just have the physical condition the flow of blood, she had suffered mentally and emotionally too. Jesus didn’t just want to heal her physically, but also to heal her emotional and mental pains. Therefore Jesus reaffirmed her in front of the people. “Daughter, be of good cheer; your faith has made you well. Go in peace.”
 
 Today when we bring our problems and troubles before God, our God doesn’t only see our physical issues, more importantly our God wants to solve our actual needs. In fact,  wry often, our physical afflictions may not be removed. If we are facing illness, we often have to go though them. If we’re fading hardships in life, they may continue even though we pray to Jesus. But what’s important is that Jesus wants us to learn to trust Him; to overcome our mental and emotional pains. So that in the midst of hardships and illnesses, we can continue to glorify, trust in, and shine forth the light of God so others can see Christ in us. 
@@ -83,5 +83,5 @@ We have studied into the incident of the healing of the woman with the flow of b
 
 
 
-----
+----  
 ****

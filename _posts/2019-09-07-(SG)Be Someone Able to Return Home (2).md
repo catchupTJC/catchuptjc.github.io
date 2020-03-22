@@ -1,9 +1,9 @@
----
-layout: post
-title: Be Someone Able to Return Home (2) 做一个可以回家的人 （二）
-category: sermon2019singapore
-tags: [home]
-hymns: [417,434]
+---  
+layout: post  
+title: Be Someone Able to Return Home (2) 做一个可以回家的人 （二）  
+category: sermon2019singapore  
+tags: [home]  
+hymns: [417,434]  
 ---
 
 This afternoon we’ll talk about another song - loving someone who doesn't love to go home (爱上一个不爱回家的人). This song talks about someone married to someone unfaithful, resulting in a lonely marriage. The purpose of marriage is to be with someone for life - To love together and to share in both the joys and sorrows. If you choose someone who doesn’t enjoy coming home, then what you’ll have is an unhappy marriage, and you’ll feel a sense of loneliness in your heart. It’s very hard to express this feeling, but there’s a feeling that you want to cry and you don’t feel at peace in your heart. 
@@ -32,7 +32,7 @@ Here the author of Hebrews encouraged members to not forsake the assembly of the
 
 When we stop gathering together to worship, it becomes a habit. When it becomes a habit, you’ll feel less inclined to come, and will find lots of reasons, “I can just worship at home,” but then you become someone unable to return to God’s house. Why is it so important to return to God’s house? Hebrews 12:22-23 tells us; 
 
-22 'But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, 
+22 'But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels,  
 23 to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all, to the spirits of just men made perfect, '
 
 The author uses Mount Zion to say that when we gather to worship Him (Mount Zion refers to the company of people gathered together to worship, the city of the living God, the heavenly Jerusalem), this congregation will also have an innumerable company of angels and our names are recorded in this general assembly. This refers to God’s church. We have to become someone able to return home. 
@@ -57,12 +57,12 @@ In truth, he didn’t wish to leave but he had to flee to his uncle’s house. I
 
 What can we learn from Jacob? After fleeing, how could he return? How was he doing to face the hatred his brother had for him? It was something he couldn’t face on his own, but this was what God used to change the entire life of Jacob. This God who has fed him his life-long, through his environment and people, was able to realise that what he had done wasn’t right and that he had to go back to the land God promised. We turn back to Genesis 32:1-2; 
 
-1 'So Jacob went on his way, and the angels of God met him. 
+1 'So Jacob went on his way, and the angels of God met him.  
 2 When Jacob saw them, he said, “This is God’s camp.” And he called the name of that place Mahanaim.'
 
 Jacob went on his way. At that time, he had already left the house of Laban and was with the angels of God. There were many angels encamped around Jacob and God was encouraging Jacob to go home. Jacob was afraid that his brother would kill him, but the angels of God strengthened Jacob and helped him understand that God was with him. It was a very clear indication that He was protecting Jacob, but we see that Jacob’s faith wasn’t strengthened because of this and still used his way and in v24-25 when he wrestled with the angels of God;
 
-24 'Then Jacob was left alone; and a Man wrestled with him until the breaking of day. 
+24 'Then Jacob was left alone; and a Man wrestled with him until the breaking of day.  
 25 Now when He saw that He did not prevail against him, He touched the socket of his hip; and the socket of Jacob’s hip was out of joint as He wrestled with him. '
 
 It’s interesting because now the angel caused him to be unable to walk; to tell him to not continue on his path (不要走自己的路). Jacob was very afraid of meeting his brother and in v6 he sent messengers to scout how many men his brother had bought and found out that he had bought 400 men to greet Jacob. He was so afraid that as he was dividing his people, he put himself last. It means to say if things don’t go his way, he would be the first to run. However, God was always with him, to help him return home. 
@@ -73,7 +73,7 @@ Men are like this; we often pray and ask God for help and make our plans. It’s
 
 As we read on we see how God changed Jacob’s life. In chapter 33 we see how Jacob’s life changed. He was different from his fearful self after meeting Esau. We read Genesis 33:1-2; 
 
-1 'Now Jacob lifted his eyes and looked, and there, Esau was coming, and with him were four hundred men. So he divided the children among Leah, Rachel, and the two maidservants.
+1 'Now Jacob lifted his eyes and looked, and there, Esau was coming, and with him were four hundred men. So he divided the children among Leah, Rachel, and the two maidservants.  
 2 And he put the maidservants and their children in front, Leah and her children behind, and Rachel and Joseph last. '
 
 Jacob, after he was injured, how did he change his plans? He led the way and met his brother. He bowed himself to the ground 7 times until he came to his brother. This was a sign of extreme humility. Do you suspect that he’s just faking this humility afraid that his brother would kill him? No, because in v4 Esau ran to meet him, fell on his neck, kissed him and wept. This is a beautiful scene - 2 brothers who once wanted to kill another, kissed another. More importantly, Jacob faced the situation to meet his brother. 
@@ -84,10 +84,10 @@ Here Jacob with God’s help overcame his weaknesses. He couldn’t walk well an
 
 After they met and reconciled, we read Genesis 33:8-9; 
 
-8 'Then Esau said, “What do you mean by all this company which I met?” And he said, “ These are to find favor in the sight of my lord.” 
+8 'Then Esau said, “What do you mean by all this company which I met?” And he said, “ These are to find favor in the sight of my lord.”  
 9 But Esau said, “I have enough, my brother; keep what you have for yourself.”'
 
-Jacob was not saying this as a form of patronisation, because Esau truly forgives him. In v7; 
+Jacob was not saying this as a form of patronisation, because Esau truly forgives him. In v7;  
 'And Leah also came near with her children, and they bowed down. Afterward Joseph and Rachel came near, and they bowed down.'
 
 Jacob had to insist and then Esau accepted. What should we notice from this verse? The Chinese Bible translated this as a ‘present’, but it’s not just a physical gift. We turn to Genesis 27:36; 
@@ -110,5 +110,5 @@ Jesus has already shed His blood for us and this door to the Garden of Eden has 
 
 
 
-----
+----  
 ****

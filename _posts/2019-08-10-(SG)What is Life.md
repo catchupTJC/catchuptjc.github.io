@@ -1,9 +1,9 @@
----
-layout: post
-title: What is Life? 何谓人生？ 
-category: sermon2019singapore
-tags: [lifeonearth,purpose,eternity]
-hymns: [438,524]
+---  
+layout: post  
+title: What is Life? 何谓人生？  
+category: sermon2019singapore  
+tags: [lifeonearth,purpose,eternity]  
+hymns: [438,524]  
 ---
 
 The speaker is a science teacher at a Junior College. This question seems very simple and we seem to have an answer because we’re alive. We know if something is dead or alive. For those of us with children in primary school, in primary school science, they need to differentiate live and death. As parents, if we’re teaching our child, we also need to know the answer. What are the characteristics of living things to a PSLE student?
@@ -42,7 +42,7 @@ How did someone 4000 years ago know about this? The person who recorded this [in
 
 We go on to the second question: What is human life then? God created all things, but did He make human beings special? We mentioned earlier about how simple things are like, but human beings are so complex. This is what the Bible says about human life. In Genesis 1:26-27; 
 
-26 'Then God said, “Let Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over all the earth and over every creeping thing that creeps on the earth.” 
+26 'Then God said, “Let Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over all the earth and over every creeping thing that creeps on the earth.”  
 27 So God created man in His own image; in the image of God He created him; male and female He created them. '
 
 Here when God described the creation of men, it was special in that we are created in the image of God. We are put over charge of the animals and that’s something for us to think about. Human life is separate from animal life. If you compare, a human’s life is more precious than animal life. Some would say that animal life is as important as human life, and it’s strange because if you think about it, plants are also living things. Those who say that animals life is equal to human and so shouldn’t slaughter animals would very easily go to slaughter plants. There’s a difference between animals and plants and that’s what they reckon. But as Christians, we believe that humans are more important than animals. If we read Genesis 2:7; 
@@ -59,7 +59,7 @@ Another thing God has put in our hearts is the concept of eternity. In Ecclesias
 
 'He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end.'
 
-God has placed in our hearts eternity. The fact is that no one lives forever and no one has experienced eternity. Yet we have this concept of forever and often people have this longing to make himself last forever. Whether it is literally trying to live forever [like 秦始皇 (Qin Shi Huang)
+God has placed in our hearts eternity. The fact is that no one lives forever and no one has experienced eternity. Yet we have this concept of forever and often people have this longing to make himself last forever. Whether it is literally trying to live forever [like 秦始皇 (Qin Shi Huang)  
 who wanted to live forever (长生不老) and ate mercury pills which ended up becoming poisoning] or making a good name for themselves to last in history. Somehow in eternity, there is a longing for eternal life and animals probably won’t have such thinking. Humans are special and we have the conscience to know what’s right and wrong and also the idea of eternal life for something to last forever. Sometimes, these two things are against each other because “conscience tells me I’m doing something wrong so I can’t live forever”.
 
 We go on to the final question. The first question “If there is something called life, how did life originate?” we say it’s God, this intelligent creator who started life. The second question, human life is very different from animals and plants beyond the fact that we are complex organisms, we have a moral compass and a natural feeling of eternity and we long for it.  
@@ -68,49 +68,49 @@ But what is the purpose of human life then? How should we be leading our lives t
 
 In Ecclesiastes 1:13-14; 
 
-13 'And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised. 
+13 'And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.  
 14 I have seen all the works that are done under the sun; and indeed, all is vanity and grasping for the wind.'
 
 v13 tells us in his wisdom he tried to find out and in v14 he concluded that everything a person tries to do is meaningless. Grasping of the wind means that the wind feels like there’s something there but when you try to catch it, it’s not there and there’s nothing to catch. It’s like vanity and emptiness one of the things he tried to do is in v16-18; 
 
-16 'I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.” 
-17 And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind.
+16 'I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.”  
+17 And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind.  
 18 For in much wisdom is much grief, And he who increases knowledge increases sorrow.'
 
 Here Solomon’s first experience is to look at wisdom and knowledge. He wanted to know if gaining wisdom knowledge would be the best thing a person should do in life. Some scholars in the world live to gain knowledge and live for nothing but go around different places to publish paper after paper. Solomon also tried foolishness, the opposite of wisdom. Some think that fools are better because they don’t know they suffer things in the world. But having tried both extremes, knowledge, and wisdom, and foolishness, he felt thin at the end it’s still the grasping of the wind. He would say that there is meaning and use in wisdom but beyond, it’s still meaningless ultimately. 
 
 In Ecclesiastes 2:1-3; 
 
-1 'I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure”; but surely, this also was vanity. 
-2 I said of laughter—“Madness!”; and of mirth, “What does it accomplish?” 
+1 'I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure”; but surely, this also was vanity.  
+2 I said of laughter—“Madness!”; and of mirth, “What does it accomplish?”  
 3 I searched in my heart how to gratify my flesh with wine, while guiding my heart with wisdom, and how to lay hold on folly, till I might see what was good for the sons of men to do under heaven all the days of their lives.'
 
 These verses tell us that Solomon started to experience with myrrh, which is partying and enjoyment. In v3 he says that he was able to control himself. If we drink too much, the morning would be in huge pain (hangover). But somehow he was able to balance himself so that he would enjoy the effects of alcohol and not feel the pain. If we translate it into today's context, it could even be someone who engages in the use of drugs but not to the extent of harming himself. All of these, Solomon experimented with, but did he find the answer there? The answer is no again, and it’s grappling off the wind. In v4-9 you’ll see the successes, wealth power and authority Solomon obtained;
 
-4 'I made my works great, I built myself houses, and planted myself vineyards. 
-6 I made myself gardens and orchards, and I planted all kinds of fruit trees in them. 
-7 I made myself water pools from which to water the growing trees of the grove. I acquired male and female servants, and had servants born in my house. Yes, I had greater possessions of herds and flocks than all who were in Jerusalem before me. 
-8 I also gathered for myself silver and gold and the special treasures of kings and of the provinces. I acquired male and female singers, the delights of the sons of men, and musical instruments of all kinds.
+4 'I made my works great, I built myself houses, and planted myself vineyards.  
+6 I made myself gardens and orchards, and I planted all kinds of fruit trees in them.  
+7 I made myself water pools from which to water the growing trees of the grove. I acquired male and female servants, and had servants born in my house. Yes, I had greater possessions of herds and flocks than all who were in Jerusalem before me.  
+8 I also gathered for myself silver and gold and the special treasures of kings and of the provinces. I acquired male and female singers, the delights of the sons of men, and musical instruments of all kinds.  
 9 So I became great and excelled more than all who were before me in Jerusalem. Also my wisdom remained with me.'
 
 Is the goal of life to achieve status, power, wealth, and perhaps succeed in projects? To conclude, Solomon tried all things. Let’s read v10-11; 
 
-10 'Whatever my eyes desired I did not keep from them. I did not withhold my heart from any pleasure, For my heart rejoiced in all my labor; And this was my reward from all my labor. 
+10 'Whatever my eyes desired I did not keep from them. I did not withhold my heart from any pleasure, For my heart rejoiced in all my labor; And this was my reward from all my labor.  
 11 Then I looked on all the works that my hands had done And on the labor in which I had toiled; And indeed all was vanity and grasping for the wind. There was no profit under the sun.'
 
 For a man who had all things in life, all the successes one can have, (do you know he had 1000 wives, and the amount of gold he had in tributes, would be trillions of dollars in today’s terms?), he enjoyed himself to the fullest but in all these things he tried to do, he couldn’t find the answer to what men should do. All of it is because there is death waiting for a person. If you read v15-17; 
 
-15 'So I said in my heart, “As it happens to the fool, It also happens to me, And why was I then more wise?” Then I said in my heart, “This also is vanity.” 
-16 For there is no more remembrance of the wise than of the fool forever, Since all that now is will be forgotten in the days to come. And how does a wise man die? As the fool! 
+15 'So I said in my heart, “As it happens to the fool, It also happens to me, And why was I then more wise?” Then I said in my heart, “This also is vanity.”  
+16 For there is no more remembrance of the wise than of the fool forever, Since all that now is will be forgotten in the days to come. And how does a wise man die? As the fool!  
 17 Therefore I hated life because the work that was done under the sun was distressing to me, for all is vanity and grasping for the wind.'
 
 He realises that at the end of the day, death is the end of all life. Just as we started earlier with the definition of human life for PSLE, it is that human life will die. And if human life is bound to end in death, what is the purpose of life right now? It’s not going after knowledge or wisdom, or to be successful in life and to be able to enjoy all things in life, or to be living for yourself as these will pass away in time. When death comes, all will end. So Solomon’s conclusion that a human’s goal in his life is to fear God and keep His commandments. If you want to find the answer to life, the answer is that the purpose of life is so that we can find God and fear Him. 
 
 There is a man called Paul who also preached the same thing. In Acts 17:24-27;
 
-24 '“God, who made the world and everything in it, since He is Lord of heaven and earth, does not dwell in temples made with hands. 
-25 Nor is He worshiped with men’s hands, as though He needed anything, since He gives to all life, breath, and all things. 
-26 And He has made from one blood every nation of men to dwell on all the face of the earth, and has determined their preappointed times and the boundaries of their dwellings, 
+24 '“God, who made the world and everything in it, since He is Lord of heaven and earth, does not dwell in temples made with hands.  
+25 Nor is He worshiped with men’s hands, as though He needed anything, since He gives to all life, breath, and all things.  
+26 And He has made from one blood every nation of men to dwell on all the face of the earth, and has determined their preappointed times and the boundaries of their dwellings,  
 27 so that they should seek the Lord, in the hope that they might grope for Him and find Him, though He is not far from each one of us; '
 
 Paul also mentions that God is the creator of life and He created all things. He created heaven and earth so we can dwell in it. He gave to us life. This life is special and is different from animals’. What is our purpose in life? Paul ends off in v27 and he closes that God is not far from us. If you can find God, who is the originator of life, you will be able to receive what He planned for you which is eternal life. We have in our hearts this eternal life but we can’t see it for ourselves. Our conscience is not clear but if we can find God and believe in Him and we urge our friends to continue finding out, once you have done all of these, you’ll be able to receive eternal life. 
@@ -128,5 +128,5 @@ The speaker apologises for ending off with such a sad note, but the reality is t
 
 
 
-----
+----  
 ****

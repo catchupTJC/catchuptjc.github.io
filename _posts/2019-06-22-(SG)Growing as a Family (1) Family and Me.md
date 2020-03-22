@@ -1,9 +1,9 @@
----
-layout: post
-title: Growing as a Family (1) - Family and Me 合家一齐成长（一）- 家庭与我 
-category: spiritualmeeting2019singapore
-tags: [family,growth,pursuit]
-hymns: [162]
+---  
+layout: post  
+title: Growing as a Family (1) - Family and Me 合家一齐成长（一）- 家庭与我  
+category: spiritualmeeting2019singapore  
+tags: [family,growth,pursuit]  
+hymns: [162]  
 ---
 
 This sermon will discuss how we grow as a family. The next sermon will discuss the church and our family.
@@ -22,7 +22,7 @@ Although Abraham wasn’t perfect at the start, because of his obedience, that w
 
 Let’s take a look at the strengths and weaknesses of this family. Learn from the strengths. Guard against the weaknesses. The Bible says when Abraham was called out of Ur, he was already a wealthy man. But because of faith, he left. 
 
-Heb 11:8-9, 13 (read)
+Heb 11:8-9, 13 (read)  
 v13 “These all died in faith, not having received the promises, nor having seen them afar off were assured of them, embraced them and confessed that they were strangers and pilgrims on the earth.”
 
 What feeling do you get after reading this? These all died in faith. They didn’t receive the promise God wants to give them. Yet they received it figuratively, because they already received it by faith. 
@@ -35,27 +35,27 @@ In this process the author of Hebrews describes the life of Abraham as one livin
 
 One of the important points in Abraham’s faith is that faith is not putting your hopes on earth. If so, then Abraham would’ve returned home because he didn’t receive what God had promised. 
 
-v15 They had the opportunity to return if they wanted to.
+v15 They had the opportunity to return if they wanted to.  
 v16 But they didn’t because they desired a better, heavenly country. 
 
 While Abraham was called the father of faith, he too had weaknesses like us. When his wife told him to take Hagar as his wife, Abraham listened. When Hagar gave birth to a son Ishmael and consequently despised Sarah, making Sarah angry, Sarah told Abraham to chase her out. 
 
 God promises they would have a son, but their faith was insufficient. As a result, they didn’t wait for God’s time. Later on when God said Sarah would bear him a son, then he waited. When the promised son arrived, Abraham’s faith was made perfect when he offered his son up. But he still hasn’t received the promise yet.
 
-Gen 23:9, 16
+Gen 23:9, 16  
 Abraham bought a cave called Machpelah. Why? Because Sarah had passed away and it was to be a burial place for her. v15 says that he had to pay 400 shekels of silver, no small amount. 
 
 Let’s consider this question: “God promised me Canaan. Where is it? Even when my wife passed away, I still need to use my own money to buy a piece.”
 
 If we were Abraham, would we believe in the promised land God promised? Abraham did. He buried his wife in the cave he bought, and instructed his children that he was to be buried there too. 
 
-“These all died in faith”
+“These all died in faith”  
 From the time Abraham built the altar to the time he bought the cave, he believed in the promise of God. 
 
 Today as Christians today, what do we hope to receive; what do we deem as being blessed by God? Riches? Land? Or the promised God wants to give us in the future. This growth and realisation is important. It determines how we serve and our attitude towards serving God. It’ll influence what we’re willing to give up for God. It’ll influence how our children will grow. Do they see someone who practises our faith convincingly?  
 
-John 8:56
-“Your father Abraham rejoiced to see My day, and he saw it and was glad.”
+John 8:56  
+“Your father Abraham rejoiced to see My day, and he saw it and was glad.”  
 Has our faith grown to the point we are happy? Or has our faith been strangled by the cares and worries of this world?
 
 Abraham had weaknesses and struggles. But he relied on God to grow, unto perfection. Because of this, he served God gladly. 
@@ -70,7 +70,7 @@ Because Abraham and his wife shared a common understanding, look how it impacted
 
 The main point was Abraham’s faith. But let us consider the young lad. How would he have felt as a knife was coming towards him?
 
-v12 Thank God an Angel of the Lord told Abraham to stop. 
+v12 Thank God an Angel of the Lord told Abraham to stop.  
 v13 The Lord provided a lamb.
 
 Abraham’s faith was made perfect because he didn’t withhold his only son from God. 
@@ -89,7 +89,7 @@ Do we ever talk about matters of faith? “What church work do you do? Have you 
 
 Besides the children’s faith not growing, the relationship in the family grows sour because the life is not joined to God. 
 
-“It’s better to teach by example than words.” “Action is more important than words.”
+“It’s better to teach by example than words.” “Action is more important than words.”  
 Some parents insist their children to go to church but they themselves don’t go. When they observe how weak we are at home in our faith, unable to live out a life of faith, they’d think: My parents are like that. 
 
 No amount of words will convince them in the faith. They end up doing many things behind their parents’ backs. 
@@ -124,5 +124,5 @@ May God help us.
 
 
 
-----
+----  
 ****

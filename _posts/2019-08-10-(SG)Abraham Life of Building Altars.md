@@ -1,9 +1,9 @@
----
-layout: post
-title: Abraham - Life of Building Altars 亚伯拉罕 - 筑坛的生活
-category: sermon2019singapore
-tags: [lifeonearth,worship,remembergod,faith]
-hymns: [436,398]
+---  
+layout: post  
+title: Abraham - Life of Building Altars 亚伯拉罕 - 筑坛的生活  
+category: sermon2019singapore  
+tags: [lifeonearth,worship,remembergod,faith]  
+hymns: [436,398]  
 ---
 
 Genesis talks about how God chose Abraham, Isaac, and Jacob, and how God established their faith. If you’re familiar with the incidents in Genesis, there is a unique patriarch that represents their faith. 
@@ -12,9 +12,9 @@ For Abraham, the object that symbolises his growth is the altars. For Isaac, it�
 
 Each altar Abraham built represents a different stage of his faith. Let us learn from these altars and grow in our faith. Let’s turn to the first altar in Genesis 12:4-7; 
 
-4 'So Abram departed as the Lord had spoken to him, and Lot went with him. And Abram was seventy-five years old when he departed from Haran. 
-5 Then Abram took Sarai his wife and Lot his brother’s son, and all their possessions that they had gathered, and the people whom they had acquired in Haran, and they departed to go to the land of Canaan. So they came to the land of Canaan. 
-6 Abram passed through the land to the place of Shechem, as far as the terebinth tree of Moreh. And the Canaanites were then in the land. 
+4 'So Abram departed as the Lord had spoken to him, and Lot went with him. And Abram was seventy-five years old when he departed from Haran.  
+5 Then Abram took Sarai his wife and Lot his brother’s son, and all their possessions that they had gathered, and the people whom they had acquired in Haran, and they departed to go to the land of Canaan. So they came to the land of Canaan.  
+6 Abram passed through the land to the place of Shechem, as far as the terebinth tree of Moreh. And the Canaanites were then in the land.  
 7 Then the Lord appeared to Abram and said, “To your descendants I will give this land.” And there he built an altar to the Lord , who had appeared to him. '
 
 Here tells us that Abraham obeyed the instructions of God. He was called out of Haran and he departed out of Haran. When he departed, he didn’t know where to go and this is confirmed in Hebrews 11:8; 
@@ -73,22 +73,22 @@ If we feel that we are drawing away from God, be it because of the troubles in o
 
 We turn to Genesis 13:14-18; 
 
-14 'And the Lord said to Abram, after Lot had separated from him: “Lift your eyes now and look from the place where you are— northward, southward, eastward, and westward; 
-15 for all the land which you see I give to you and your descendants forever. 
-16 And I will make your descendants as the dust of the earth; so that if a man could number the dust of the earth, then your descendants also could be numbered. 
-17 Arise, walk in the land through its length and its width, for I give it to you.” 
+14 'And the Lord said to Abram, after Lot had separated from him: “Lift your eyes now and look from the place where you are— northward, southward, eastward, and westward;  
+15 for all the land which you see I give to you and your descendants forever.  
+16 And I will make your descendants as the dust of the earth; so that if a man could number the dust of the earth, then your descendants also could be numbered.  
+17 Arise, walk in the land through its length and its width, for I give it to you.”  
 18 Then Abram moved his tent, and went and dwelt by the terebinth trees of Mamre, which are in Hebron, and built an altar there to the Lord .'
 
 Here records of the third altar Abraham built -The altar of Hebron. From Genesis 13:5-13; 
 
-5 'Lot also, who went with Abram, had flocks and herds and tents. 
-6 Now the land was not able to support them, that they might dwell together, for their possessions were so great that they could not dwell together. 
-7 And there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. The Canaanites and the Perizzites then dwelt in the land. 
-8 So Abram said to Lot, “Please let there be no strife between you and me, and between my herdsmen and your herdsmen; for we are brethren. 
-9 Is not the whole land before you? Please separate from me. If you take the left, then I will go to the right; or, if you go to the right, then I will go to the left.” 
-10 And Lot lifted his eyes and saw all the plain of Jordan, that it was well watered everywhere (before the Lord destroyed Sodom and Gomorrah) like the garden of the Lord , like the land of Egypt as you go toward Zoar. 
-11 Then Lot chose for himself all the plain of Jordan, and Lot journeyed east. And they separated from each other. 
-12 Abram dwelt in the land of Canaan, and Lot dwelt in the cities of the plain and pitched his tent even as far as Sodom. 
+5 'Lot also, who went with Abram, had flocks and herds and tents.  
+6 Now the land was not able to support them, that they might dwell together, for their possessions were so great that they could not dwell together.  
+7 And there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. The Canaanites and the Perizzites then dwelt in the land.  
+8 So Abram said to Lot, “Please let there be no strife between you and me, and between my herdsmen and your herdsmen; for we are brethren.  
+9 Is not the whole land before you? Please separate from me. If you take the left, then I will go to the right; or, if you go to the right, then I will go to the left.”  
+10 And Lot lifted his eyes and saw all the plain of Jordan, that it was well watered everywhere (before the Lord destroyed Sodom and Gomorrah) like the garden of the Lord , like the land of Egypt as you go toward Zoar.  
+11 Then Lot chose for himself all the plain of Jordan, and Lot journeyed east. And they separated from each other.  
+12 Abram dwelt in the land of Canaan, and Lot dwelt in the cities of the plain and pitched his tent even as far as Sodom.  
 13 But the men of Sodom were exceedingly wicked and sinful against the Lord .'
 
 Here records the separation of Abraham and Lot because of the constant conflict of the herdsmen between Abraham and Lot. The land could no longer support the possessions and we know Abraham allowed his nephew to make the first choice and Lot chose for himself the better land. At that point of time, Abraham was very sad and disappointed but in v14-17 we read; The Lord spoke to Abraham about the promise and covenant God made with Abraham. God once again affirmed this covenant with Abraham that God will give this land to the descendants of Abraham and his descendants of the dust of the earth so they cannot be numbered. At this point, God asked Abraham to walk through this promised land. V18; 
@@ -107,7 +107,7 @@ Here Moses talked about God, that He is a faithful God. He is a God who keeps th
 
 How about us today? Do we similarly love God? Do we similarly hold fast to the words of God? Do we similarly believe that our God is faithful, that His words will come to pass? That one day He will come again to bring us to his heavenly kingdom? Do we still fast to this belief? The last altar is the altar of Mount Mariah. We read Genesis 22:1-2,
 
-1 'Now it came to pass after these things that God tested Abraham, and said to him, “Abraham!” And he said, “Here I am.” 
+1 'Now it came to pass after these things that God tested Abraham, and said to him, “Abraham!” And he said, “Here I am.”  
 2 Then He said, “Take now your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you.”'
 
 
@@ -124,16 +124,16 @@ V9 tells us that Abraham built the altar, put the wood in order and bounded Isaa
 
 Here tells us that Abraham believed Isaac will definitely come back to life and this is confirmed in Hebrews 11:17-19; 
 
-17 'By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises offered up his only begotten son, of whom it was said, “In Isaac your seed shall be called,” 
-18 concluding that God was able to raise him up, even from the dead, 
+17 'By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises offered up his only begotten son, of whom it was said, “In Isaac your seed shall be called,”  
+18 concluding that God was able to raise him up, even from the dead,  
 19 from which he also received him in a figurative sense.'
 
 Abraham had this absolute faith that the promises and blessings of God will be fulfilled through Isaac and therefore he believed that even if Isaac was offered as a burnt offering, God will be able to raise Isaac from the dead. Therefore when Abraham was asked to offer up Isaac, Abraham willingly went on this journey. He came to Mount Moriah, built an altar, and laid Isaac. If God had not stopped Abraham, he would have surely struck Isaac with the knife and offer him up as a sacrifice. 
 
 We read James 2:20-22; 
 
-20 'But do you want to know, O foolish man, that faith without works is dead? 
-21 Was not Abraham our father justified by works when he offered Isaac his son on the altar?
+20 'But do you want to know, O foolish man, that faith without works is dead?  
+21 Was not Abraham our father justified by works when he offered Isaac his son on the altar?  
 22 Do you see that faith was working together with his works, and by works faith was made perfect? '
 
 Abraham’s faith was made perfect when he offered up Isaac. This was where his faith and his works were working together. Dear brothers and sisters, have we similarly built this altar on Mount Moriah? An altar of faith and submission to God? Have our faith and works work together where God is the centre of our life when we put aside all our personal views and desires and pursue only after God and have God guide our lives? 
@@ -152,5 +152,5 @@ Let us reflect on these altars and if we have built these altars in our lives. M
 
 
 
-----
+----  
 ****

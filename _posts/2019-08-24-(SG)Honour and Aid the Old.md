@@ -1,9 +1,9 @@
----
-layout: post
-title: Honour and Aid the Old 敬老与助老 (Senior Members’ Day)
-category: sermon2019singapore
-tags: [respect]
-hymns: [271,351]
+---  
+layout: post  
+title: Honour and Aid the Old 敬老与助老 (Senior Members’ Day)  
+category: sermon2019singapore  
+tags: [respect]  
+hymns: [271,351]  
 ---
 
 Why does the church emphasise on honouring the senior members than loving the senior members? Isn’t it more practical to love our elderly members than honouring them? Normally, we would know how to love the elderly, because all of us know how to take care of our elderly members. But those who take care of elderly members don’t necessarily know how to honour them. Last month, the Ministry of Social and Family Development made this announcement: Those who abused the elderly increased by 100% these 2 years. 
@@ -14,10 +14,10 @@ It’s not that they don’t take care of their elderly members, but they abuse 
 
 God wants us to honour the elderly not just in our hearts and mouths, but rather with our actions, that you must rise those before those who are grey-haired. Just like what Dn Chung Ling told us to do just now, we don’t have to wait for others to tell us to rise. When we see an elderly member, we ought to rise and give our seats to them. When elderly people speak to us, those seated should rise. Use your actions to show that you honour the elderly. If our parents are well-learned and have good qualifications, we’ll honour them. If our parents are wealthy, we’ll do so as well. If our parents are poor and sickly, will we do the same way? 
 
-An elderly general about to retire took a few soldiers on a train. Another elderly person entered the same cabin, but there were no more seats. None of the people seated stood up to give the seat. This general stood up and offered the seat to the elderly, after which the soldiers did so too. This general told them curtly, “if you don’t even give up your seat to the elderly person, what’s the meaning of giving up your seat to me? You’re not honouring me because I’m elderly, but because of my position. You’re not honouring the elderly but power.” 
+An elderly general about to retire took a few soldiers on a train. Another elderly person entered the same cabin, but there were no more seats. None of the people seated stood up to give the seat. This general stood up and offered the seat to the elderly, after which the soldiers did so too. This general told them curtly, “if you don’t even give up your seat to the elderly person, what’s the meaning of giving up your seat to me? You’re not honouring me because I’m elderly, but because of my position. You’re not honouring the elderly but power.”  
 We honour the elderly not because of their power, knowledge or wealth, but because our God wants us to honour the elderly. As long as they’re the elderly, we should honour them regardless of their background, especially the elderly in our homes. If you don’t know how to honour the elderly especially those at home, God will severely punish us. We read Leviticus 20:8-9; 
 
-8 'And you shall keep My statutes, and perform them: I am the Lord who sanctifies you.
+8 'And you shall keep My statutes, and perform them: I am the Lord who sanctifies you.  
 9 ‘For everyone who curses his father or his mother shall surely be put to death. He has cursed his father or his mother. His blood shall be upon him.'
 
 When you read this, don’t you think those who dishonour them shall be punished? As long as you curse them, you shall be put to death - Is the punishment too harsh? 
@@ -48,7 +48,7 @@ In the church, there was a fund to support the widows who had no one to lean on.
 
 When our parents are old, most would not be working and don’t have any source of income. Some of them may have a source of passive income (e.g. rent) but most won't have a source of income at all. They would have to rely on their children to take care of them. Children have to have this responsibility to take care of their parents. There’s this saying, “If this set of parents take care of 10 children, these 10 children may not necessarily have the ability to take care of their parents.” It’s not that they don’t have the ability, but that they don’t want to do it. The first brother asks the second brother to take care of their parents, then the second brother asks the third brother to take care of the parents, and so on. These people may be very learned but don’t have the basic to take care of their parents and push away the responsibilities to take care of their parents. God will see and God will punish. 
 
-There is this story: 
+There is this story:  
 A young person was complaining about his ill parents and this person put his elderly parents into a basket, bring him up to the mountains and left him there. He brought his young son with him and when he came down, this young son told his Father, “Father, we have not brought back the basket we used to bring grandpa up.” The father said, “it’s okay, we have no use of the basket anyway.” 
 
 Hearing this, the young child told his father, “We’ll have a use for it! One day when you’re old, I’ll use this basket to bring you up as well!” This father realises and told his son “I was wrong and shouldn’t be this selfish, let’s go bring your grandfather home.”
@@ -63,7 +63,7 @@ Very long ago the speaker wrote this poem to use for one day when he’s old. At
 
 We read 1 Timothy 5:1-2; 
 
-1 'Do not rebuke an older man, but exhort him as a father, younger men as brothers, 
+1 'Do not rebuke an older man, but exhort him as a father, younger men as brothers,  
 2 older women as mothers, younger women as sisters, with all purity.'
 
 Paul especially reminds the young to not rebuke an older man. The old people may have their faults as well. They may have many old habits (老毛病) and others may have a headache about it. But let’s not grow weary and tired of them because of it because who knows, when you grow old, you may manifest even more of these problems. As you learn how to be patient and endure, your children will also see you learn and endure as well. To our older parents, we need to be patient with them. You can control it, and you can ask God to help you. As we’re learning, we can also ask our children to tolerate and understand us. Sometimes the elderly also want to control their temper and change, but they need time. If we don’t give them time and tolerate and immediately flare-up, and no one is willing to accommodate, then both sides will suffer. If the children can tolerate and assure them it’s okay, the parents will feel guilty and know they’re in the wrong. 
@@ -76,5 +76,5 @@ Once a year, we have senior members’ day, but in our households should be seni
 
 
 
-----
+----  
 ****

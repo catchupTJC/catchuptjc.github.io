@@ -1,32 +1,32 @@
----
-layout: post
-title: Where is the Spirit of the Lord? (2) 主的灵在哪里？（二）
-category: spiritualmeeting2019singapore
-tags: [holyspirit]
-hymns: [253,398]
-speaker: prhojungyu
+---  
+layout: post  
+title: Where is the Spirit of the Lord? (2) 主的灵在哪里？（二）  
+category: spiritualmeeting2019singapore  
+tags: [holyspirit]  
+hymns: [253,398]  
+speaker: prhojungyu  
 ---
 
 How do we work with the Holy Spirit?
 
 We turn to Matthew 25:14-30; 
 
-14 '“For the kingdom of heaven is like a man traveling to a far country, who called his own servants and delivered his goods to them. 
-15 And to one he gave five talents, to another two, and to another one, to each according to his own ability; and immediately he went on a journey. 
-16 Then he who had received the five talents went and traded with them, and made another five talents. 
-17 And likewise he who had received two gained two more also. 
-18 But he who had received one went and dug in the ground, and hid his lord’s money. 
-19 After a long time the lord of those servants came and settled accounts with them. 
-20 “So he who had received five talents came and brought five other talents, saying, ‘Lord, you delivered to me five talents; look, I have gained five more talents besides them.’ 
-21 His lord said to him, ‘Well done, good and faithful servant; you were faithful over a few things, I will make you ruler over many things. Enter into the joy of your lord.’ 
-22 He also who had received two talents came and said, ‘Lord, you delivered to me two talents; look, I have gained two more talents besides them.’ 
-23 His lord said to him, ‘Well done, good and faithful servant; you have been faithful over a few things, I will make you ruler over many things. Enter into the joy of your lord.’ 
-24 “Then he who had received the one talent came and said, ‘Lord, I knew you to be a hard man, reaping where you have not sown, and gathering where you have not scattered seed. 
-25 And I was afraid, and went and hid your talent in the ground. Look, there you have what is yours.’ 
-26 “But his lord answered and said to him, ‘You wicked and lazy servant, you knew that I reap where I have not sown, and gather where I have not scattered seed. 
-27 So you ought to have deposited my money with the bankers, and at my coming I would have received back my own with interest. 
-28 Therefore take the talent from him, and give it to him who has ten talents. 
-29 ‘For to everyone who has, more will be given, and he will have abundance; but from him who does not have, even what he has will be taken away. 
+14 '“For the kingdom of heaven is like a man traveling to a far country, who called his own servants and delivered his goods to them.  
+15 And to one he gave five talents, to another two, and to another one, to each according to his own ability; and immediately he went on a journey.  
+16 Then he who had received the five talents went and traded with them, and made another five talents.  
+17 And likewise he who had received two gained two more also.  
+18 But he who had received one went and dug in the ground, and hid his lord’s money.  
+19 After a long time the lord of those servants came and settled accounts with them.  
+20 “So he who had received five talents came and brought five other talents, saying, ‘Lord, you delivered to me five talents; look, I have gained five more talents besides them.’  
+21 His lord said to him, ‘Well done, good and faithful servant; you were faithful over a few things, I will make you ruler over many things. Enter into the joy of your lord.’  
+22 He also who had received two talents came and said, ‘Lord, you delivered to me two talents; look, I have gained two more talents besides them.’  
+23 His lord said to him, ‘Well done, good and faithful servant; you have been faithful over a few things, I will make you ruler over many things. Enter into the joy of your lord.’  
+24 “Then he who had received the one talent came and said, ‘Lord, I knew you to be a hard man, reaping where you have not sown, and gathering where you have not scattered seed.  
+25 And I was afraid, and went and hid your talent in the ground. Look, there you have what is yours.’  
+26 “But his lord answered and said to him, ‘You wicked and lazy servant, you knew that I reap where I have not sown, and gather where I have not scattered seed.  
+27 So you ought to have deposited my money with the bankers, and at my coming I would have received back my own with interest.  
+28 Therefore take the talent from him, and give it to him who has ten talents.  
+29 ‘For to everyone who has, more will be given, and he will have abundance; but from him who does not have, even what he has will be taken away.  
 30 And cast the unprofitable servant into the outer darkness. There will be weeping and gnashing of teeth.’'
 
 This is the parable of the 3 servants. When the master of the house went on a journey, he gave his servants talents to manage. Amongst these 3 servants are split into 2 categories; the first was acknowledged and praised by the master and the other was rebuked by the master. We must strive to be like these servants who were praised and utilised and not like those who were cast out and rebuked. 
@@ -45,7 +45,7 @@ For us working today, it’s the same. If your boss gives you $5000 for your mon
 
 This servant who was given one talent didn’t do anything with it and it upset the master. He was even rebuked by the master to be lazy. He didn’t do what he was supposed to do. In v18-19;
 
-18 But he who had received one went and dug in the ground, and hid his lord’s money. 
+18 But he who had received one went and dug in the ground, and hid his lord’s money.  
 19 After a long time the lord of those servants came and settled accounts with them. 
 
 Why would he do such a thing? V25 says; 
@@ -67,7 +67,7 @@ Paul in v1 says we must present ourselves a living sacrifice, holy and acceptabl
 
 Why should the work of God not be forced? Then it’d be like the job of dealing with rubbish; no one wants to do it. Paul beseeches us to do this work so that we do it will fully. This is a good opportunity for us. Paul in his work of preaching the gospel was very diligent in doing so. He says that this is a grace given to him by God. We turn to 1 Corinthians 15:9-10; 
 
-9 'For I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the church of God. 
+9 'For I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the church of God.  
 10 But by the grace of God I am what I am, and His grace toward me was not in vain; but I labored more abundantly than they all, yet not I, but the grace of God which was with me. '
 
 Paul felt that he was not worthy to be called an apostle because he persecuted the church of God until he met the Lord Jesus on the road to Damascus. Jesus from heaven called out to him, “Saul, Saul, why are You persecuting Me?” 
@@ -90,8 +90,8 @@ After a few months, his wife asked him, “Do you feel like your eyesight has im
 
 There was another testimony from his wife. She had a full body examination and did a chest x-ray. There was a shadow in his lungs and the doctors wanted to take a closer look at it. They decided to go to another doctor for a second opinion. The results from both doctors were the same; there was a shadow in her chest that needed further examination. Hence she went back to the first doctor. On the day they were ready to be hospitalised for a minor operation, they did a 2nd x-ray. When they went for the 2nd x-ray, the doctor stared at the X-ray thinking why the shadow disappeared. 
 
-The doctor asked, “Have you went for any treatment recently?”
-“No, we just prayed”
+The doctor asked, “Have you went for any treatment recently?”  
+“No, we just prayed”  
 “Oh, your God is good! You are healed.” 
 
 She was worried that if she had this health problem, she wouldn’t be able to serve the Lord. These are the experiences God has given them in the course of serving Him. 
@@ -104,7 +104,7 @@ Although the process of serving of God can be tough, they experienced a lot of G
 
 We read 2 Timothy 1:6-7; 
 
-6 'Therefore I remind you to stir up the gift of God which is in you through the laying on of my hands. 
+6 'Therefore I remind you to stir up the gift of God which is in you through the laying on of my hands.  
 7 For God has not given us a spirit of fear, but of power and of love and of a sound mind.'
 
 Paul encouraged Timothy to use the gift that is given to him to serve, to constantly stir up this fire of serving. You must rely on the help of God and not just on your own strength. Since God has given you this ability, He will surely help. We have to use this spirit of power and love and of a sound mind to rely on God to give the work given to us. We rely on God to guide and lead us to do the work. We must let the Holy Spirit help us accomplish the work we’ve been entrusted. 
@@ -116,5 +116,5 @@ In the parable of the servants, we learnt that we have a good and faithful serva
 Our lamps must constantly be lit and our spirit of serving must constantly be burning. These 2 fires cannot be extinguished. Our lamp of spiritual nurture must constantly be lit and filled with oil. This fire of service must also be constantly burning so this fire will constantly stir us up so that when an opportunity presents itself, we’ll take the step to serve God. The process may be tough, but we’ll enjoy the grace of God’s. It depends on how you view it; whether you view the work of God as a grace or as a chore. 
 
 
-----
+----  
 ****

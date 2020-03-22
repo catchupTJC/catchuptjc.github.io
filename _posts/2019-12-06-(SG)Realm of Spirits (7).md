@@ -1,10 +1,10 @@
----
-layout: post
-title: Realm of Spirits (7) 灵界（七）
-category: sermon2019singapore
-tags: [spiritualwarfare,armourofgod,sword,evangelism]
-hymns: [168,67]
-speaker: brovincentyeoh
+---  
+layout: post  
+title: Realm of Spirits (7) 灵界（七）  
+category: sermon2019singapore  
+tags: [spiritualwarfare,armourofgod,sword,evangelism]  
+hymns: [168,67]  
+speaker: brovincentyeoh  
 ---
 
 We learn from the realm of spirits that there is a war. We do not choose this battle. Revelation says that when the dragon was cast down to the earth, he makes war against YOU - the children of God. The war is brought upon you. You have no choice. You either die and be eaten by the dragon, or you become dragon slayers. What do you want to be - dragon food or dragon slayer?
@@ -15,13 +15,13 @@ This sermon will discuss the sword. There’s no spiritual difference between th
 
 So when a warrior isn’t fighting, where do you think the sword is? A warrior doesn’t leave the sword at a table. Just like a policeman at a hawker centre doesn’t leave his pistol on the table when he’s drinking teh tarik. When he’s not fighting, the sword is sheathed into the belt. So we see the belt and sword are together. They are only separated when there’s a certain function; when there’s a need to fight. 
 
-This sermon will discuss when we need to draw the sword. We don’t need to know what the sword is, we need 
+This sermon will discuss when we need to draw the sword. We don’t need to know what the sword is, we need  
 and HOW to use the sword.
 
-The unique identity of the True Jesus Church is that we use the Bible. 
+The unique identity of the True Jesus Church is that we use the Bible.  
 When we want to know what to do or what it means, we don’t look into Bible commentaries or google. Jesus says that you have the Holy Spirit and the Holy Spirit will guide you into all truth. So with the Holy Spirit in you, reading the Bible itself is sufficient, you do not need more. So let’s learn from the Bible when the sword is drawn, especially when we talk about a spiritual sword; a sword that exists in the realm of spirits. 
 
-Joshua 5:13-15
+Joshua 5:13-15  
 The background: Joshua was on the high ground overlooking Jericho. It will be his first battle on his own. In the past, he doesn’t have to lead. In the thick of battle when he’s afraid, all he needs to do is look up and see the hand of Moses guiding people. Moses was the undoubted man of God. There was someone Joshua could always rely on. Joshua was leading the army, he was right in front, but all he needed to do when he was afraid was to look up at the mountain to the raised hands of Moses. But here Moses had died. He was leading the battle and the fate of the nation was on his shoulders. We need to know this background to understand the intensity of fear and anxiety Joshua has. And God understands that the very first battle he thought he was going to lead, and so God came to him through an angel. And the angel came with a drawn sword. And said, “I am the commander of the Lord’s Army.” Can we feel the impact the words had on Joshua? Joshua was on the cusp of a battle and thought he was going to lead the nation. But the Angel of the Lord said, “No no no *I* am the commander.” 
 
 When we read Judges, Chronicles, etc, what comes up again and again is that the battle is the Lord’s. “I am the commander, you don’t need to worry. I am in command.” The weight of the battle is immediately lifted from Joshua. 
@@ -30,19 +30,19 @@ And that’s not all. He was told to take off his sandals for the place he stood
 
 So he drawn sword is a sword of encouragement. We have friends who come from problem families. That’s where we draw the sword. Administer the word of God to them. Give them comfort. Encourage them. That if you believe in Jesus, God will give you peace in your hearts. Draw the sword when people are anxious, afraid, sad. Take up the Bible, remember the verses that comfort and bring encouragement to people who need the comfort. That’s when you draw the sword. When people are losing their jobs, when you know a sister who has cancer, a brother who’s going through divorce. That’s when you draw the sword and bring comfort to them. The Bible shows us the way. The Angel came with a drawn sword to tell Joshua: you haven’t even started fighting but my sword is already out. I’m ahead of you. The Lord is fighting. That’s what we must do to brothers and sisters, or even friends who have not believed. Give them the word of the Lord that they may be encouraged and strengthened. 
 
-1 Chron 21:15-27
+1 Chron 21:15-27  
 The background to this event of the drawn sword of the angel is this: all the while, the battle is the Lord’s. But there came a time where David was thinking that the battle is getting fiercer. And so he asked his general to number the soldiers. Of course that’s wrong. Because it is God who is fighting for the people of Israel, not how many soldiers he has. So God wanted to teach David how to lead. Depending on numerical strength is not the way. The way to win your wars is to depend on God. So God sent the angel again this time with a drawn sword. And started decimating/killing the people. Just to let David know: you think you have that number? I can reduce it. 
 
 David immediately saw his error and learnt his lesson. He repented immediately and showed his repentance by taking a lamb and making offering to God. That’s his way of saying: I’m sorry. And he trusted God. 
 
 The drawn sword is the sword of teaching. There’re times when we make errors. And that’s when the word of God comes in to correct our errors. Not only when we make a mistake, even before we make any mistakes, we teach the word of God so that people and the one who teaches will be wise. 
 
-2 Tim 3:15
+2 Tim 3:15  
 The Bible says that the word of God makes you wise. Wise enough to get salvation. Some of us are parents. The speaker has known of parents who pamper and do a lot for their children in the hopes that when they grow old, they'd take care of them. The speaker’s parents had two children, him and his older brother. His brother died young of a heart attack. So effectively the speaker is an only child. He took care of his father and mother all the way until they died, and took care of them well. And he asked himself, “Did I take care of my parents because they pampered and cared for him when he was young?” No. He left home for work and studies when he was 19. His family wasn’t rich. His first drawn pay was double his father’s last drawn pay. So he was brought up normally, they didn’t have very much excess money to spend. He had enough to eat, and that’s about it. And that’s why after he left school after A Levels after 19, he came to Singapore not to study but to work. So when he looked back and asked himself why he took care of his parents, his answer to himself was: this is part of what the word of God tells me to do. What his mother gave him wasn’t money, she didn’t have much - she was working part time for a while and then stopped working. But his mother loved the word of God. In her later years, she spent a lot of time reading the word of God, and as she reads, she writes. So when his mother passed away in March this year and he had to go back to the house and pack it up, all over in this corner and there, there were pieces of paper, diaries, all contained verses. For example if she read 2 Thess she would write it down. It was all over the house. Even when she came over to Singapore to stay and there was nothing to do in the evening, she’d take out her Bible and read and write down whatever she read. She loved the word of God and so from young she did this. And because of the word of God in him, that’s why he took care of his parents. So his mother has used His sword of teaching on him. She drew the sword and used it on him. And he learnt the word of God from her. And like Timothy whose mother and grandmother gave him the word of God, he was made wise. So if you really want your children to honour and take care of you in your old age, the most effective weapon is not money but the Bible. Impress upon your children the importance of the word of God in your lives and lead by example. If your children have the word of God inside them, in your old age when you need help and care, they’ll be there not because you gave them physical things but because you gave them the word of God in their hearts. This is the sword of teachings, to teach your children. 
 
 In the Old Testament, they were supposed to teach their children while sitting or walking. That has brought together the cohesiveness of the Jewish nation. Genocide after genocide. And most Nobel laureates are Jews. The sword of teaching. That’s the best way to teach your children, spouse, friends, etc. 
 
-Gen 3:24
+Gen 3:24  
 This is the first mention of a spiritual sword in the Bible. This spiritual sword is like a hologram it can be seen in all directions. What was its function? To guard the way to the tree of life. And what’s the tree of life? v22 the tree of life is a symbol of living forever. In all cultures, there is the quest for the tree of life; for eternal life. In the west in Babylonian in the epic of Gilgamesh, we also have the story of the tree of life. In Egypt, you have the great pyramids and in there are mummified pharaohs. Why? Because they believe that there is eternal life somewhere and so we need to preserve the body. In Rome, Greece, we always have the elixir/fountain of life where if drunk from, one would have eternal life. In the east, we have the potion of eternal life. Some people say it’s a fruit. So although Xu Feng Ti (?) conquered so many lands and ruled almost whole in China, what he really wanted was eternal life. So he commissioned the search/quest for the elixir of life. So from his quest, people started writing legends and that’s why we have the monkey god who wants to go to the western mountain to find the elixir of life. So deep in everyone, as long as you have humanity, there’s a sense of eternity. The belief in eternal life. 
 
 So when Paul went to a place where there was a statue of an unknown god, it showed that eternity has indeed been put into the hearts of men. 
@@ -57,15 +57,15 @@ What happened to this sword of the Lord? The next time we hear about it is in Ju
 
 Today we all need to draw the sword. This is the sword of evangelism. But unfortunately when the preachers and deacons say lets draw the sword of the spirit, some of you take out the penknife of the spirit LOL because you hardly read the Bible. So, start reading the Bible. So you have the sword of the spirit and when you raise your hand to say the sword of the Lord, you’re fatally holding a sword and not a penknife. And worse: some penknives are rusty. So let’s draw the sword of the spirit, the word of God, to evangelise. 
 
-John 6:63
+John 6:63  
 The word of God is life. Some of us think that the word of God is just a book, words, and ink. It’s not. Whoever you are - Elder, preacher, deacon, sermon speaker, or you sitting here - when you speak the word of God from your mouth, the words are alive. Remember we are living in the realm of spirits. You must have spiritual eyesight to understand what happens in the realm of spirits. Although when you speak it’s just frequencies and vibrations of your voice, but in the realm of spirits, the word of God is alive and goes into the hearer. And it is alive INSIDE the hearer. And it WILL be effective. 
 
-Isa 55:11
+Isa 55:11  
 When the word of God isbsooken, the moment it goes out, it will not bonnersng back and return with nothing. It will not return void. The word of God WILL accomplish. And the word of God is alive! And it will prosper in the thing that it says. So don’t look down on yourself and on evangelism. The moment you speak, it’s not just voices but the living word of God that floats into the hearts of your friends. 
 
 If you’re not sure what the speaker means, he’ll give an example of a testimony of how the word of God is alive and works in a person. 
 
-Hallelujah Times Issue 8 (from Subang Jaya): Memoirs of a Sinner
+Hallelujah Times Issue 8 (from Subang Jaya): Memoirs of a Sinner  
 March 2008, I was told by my doctor I had colon cancer which spread to my liver. I need someone to calm me down and so I called Elder X. It was already dark when I left the hospital and went searching for his home. I couldn’t find the place and gave up. As I was driving home, I flashed back to the time I was a teenager. When I was 16, my secondary school classmate Vincent Yeoh invited me to attend a youth fellowship class. I decided to pay a visit as I had nothing to do and a few of my classmates were there too. Upon arriving, I felt calmness. It was a strange feeling as if God was all around this place. St that time I didn’t know who Jesus is. As I knelt down I was amazed at the speaking in tongues I later came to know as the Holy Spirit. Afterwards Vincent told me a bit about Jesus and I was quite impressed. That was in 1976 and I never went to church again after that. However the visit gave me a deep impression and the name True Jesus Church was imprinted in my mind for many years to come. When I was studying in USA, for 2 years there was the fear of God in me. I don’t know why but the name True Jesus Church kept creeping into my mind and told me that Jesus is God. I refrained from committing mortal sins as I was worried Jesus would punish me and send me to hell. Although my knowledge on Christianity was shallow, I just couldn’t erase Jesus and the True Jesus Church from my mind. I told myself I’d look up the church when I went back to Malaysia. I’m a civil engineer and because of work I've been to many places where sin thrives. I drank smoked gambled but never womaniser. It was during the economic recession that brought me to. I lost my house almost everything I saved over the years due to my retrenchment. Lost money in the share market and also gambling because I thought I could make it back on my own but I was so wrong. Left with almost nothing and depending on my wife’s salary, the name True Jesus Church came into my mind again. 1979 Sunday I stepped into petaling jaya church. I thought if Jesus claimed to be who He is He will help. Everyone was surprised to see a couple walk in. I told Jesus you’ve been calling me for 23 years and here I am. I told Him I’ve lost everything I leave it all to you. Got baptised. After baptism he thought he could revive himself and not rely on God but he was wrong. He told Jesus even if he doesn’t eat his young children still had to. After a prayer within a week he was called to 4 interviews. The economy was still bad and he was not paid salary. After 6 months of working I left. I told Jesus again I really needed a job and once again within s werk I had several interviews. I was employ again. This miracle didn’t happen just once Old Testament twice but every time I prayed I would get a job. Apart from this we received a lot of miracles and immeasurable grace from Jesus.
 
 When I received news I contracted cancer I never once blamed God for my health. It struck me that when I was diagnosed with this it made me come back. It’s too late for me to regret for what I’ve done but told myself to put my faith in God. When he saw his friends suffering by chemotherapy, he decided not to undergo surgery or chemo and to entrust to the Lord. He went for surgery eventually. When the pain became unbearable, surgery was a success and 8 months the cancer in my colon didn’t spread much. But then the cancer in the liver spread quickly. There was nothing the medicine to do but wait for the end of life. However I believe with man it’s not possible but with God it’s possible. I regret the life I live but Psa 119:71. In my prayer to God I have full confidence. I believe, trust in the Lord, and if you can believe, all things are possible to him who believes as long as you put ALL your faith in him.   
@@ -80,5 +80,5 @@ A lot of things happen in the realm of spirits. You draw the sword of the spirit
 
 These are not the speaker’s words but the words of Isaiah. Believe. 
 
-----
+----  
 ****

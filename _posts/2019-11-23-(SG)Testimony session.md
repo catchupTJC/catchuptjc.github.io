@@ -1,10 +1,10 @@
----
-layout: post
-title: Testimony session 见证
-category: spiritualmeeting2019singapore
-tags: [testimony]
-hymns: [148]
-speaker: 
+---  
+layout: post  
+title: Testimony session 见证  
+category: spiritualmeeting2019singapore  
+tags: [testimony]  
+hymns: [148]  
+speaker:  
 ---
 
 _First testimony_
@@ -84,5 +84,5 @@ The verse is in Micah 6:8;
 Up to date, I haven’t succeeded. What I’m doing now is to ask for God’s help. To rely on His divine nature and power to change me to help me to be who He wants me to be. All glory be to God. Amen.
 
 
-----
+----  
 ****

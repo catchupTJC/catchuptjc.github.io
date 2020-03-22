@@ -1,22 +1,22 @@
----
-layout: post
-title: The Parable of the Unjust Steward 不义管家的比喻
-category: sermon2019singapore
-tags: [parable,worldlypossession]
-hymns: [119,228]
+---  
+layout: post  
+title: The Parable of the Unjust Steward 不义管家的比喻  
+category: sermon2019singapore  
+tags: [parable,worldlypossession]  
+hymns: [119,228]  
 ---
 
-Luke 16:1-8
-v1
+Luke 16:1-8  
+v1  
 A rich man had a steward who was working for him. In those days, the rich would have stewards to help manage their vast estates. A steward is given a wide range of executive powers to act on behalf of the master. v1 tells us that instead of working for the good of the master, this steward was serving his own interest. He was wasting his master’s goods. In today’s context, he was probably flying first class, or dining at lavish restaurants all charged to the company’s accounts. 
 
-v2
+v2  
 His master effectively gives him a notice period for his termination. In the mean time, he’s supposed to prepare the accounts and hand it in properly. What does this steward do? Of course he’s not going to work for the benefit of the master; he’s a self serving person. 
 
-v3
+v3  
 The steward reasons in his mind what to do. The Bible describes him as a very shrewd person. He suddenly has a flash of brilliance. 
 
-v4-7
+v4-7  
 He has a brilliant plan. Since he’s still a steward and still has executive powers, he gathered all his master’s debtors and reduces all their debts. In fact if we look at the amounts these people owed, we can infer they were wealthy people. All these people would be indebted to him when he goes out of job, taking care of his livelihood.
 
 The parable concludes in the first portion of v8. The master commends the unjust steward at the end for dealing shrewdly. 
@@ -37,22 +37,22 @@ As we read later, in some ways the unjust steward is a negative example. He’s 
 
 This parable is very multifaceted. This character is multifaceted. Let’s take a look at Jesus’ commentary on the parable. 
 
-[1st comment]
-v8b
+[1st comment]  
+v8b  
 Jesus identifies the unjust steward with the sons of the world. Jesus recognises the sons of the world are more shrewd than the sons of light. The word shrewd means wise. Depending on the context of the Bible, sometimes it has a positive, sometimes a negative connotation. In this context, it’s clear it has a negative connotation. The unjust steward is wise relative to the people of the world. What kind of wisdom did he possess? We have to ask ourselves: is Jesus asking us to emulate that kind of wisdom?
 
 James tells us there’s two kinds of wisdom: wisdom from above and earthly wisdom. No doubt the unjust steward was full of wisdom, earthly wisdom. Jesus’ comment here is to understand what he had done to be negative. The Pharisees understood it negatively as well. Let’s take a look at their response. 
 
-v14
+v14  
 The Pharisees who were lovers of money derided Jesus for whatever he had said. To deride means to show contempt; they were probably sniggering in their hearts. “Yeah yeah you son of a carpenter. Sour grapes. That’s why you say this.” Why did they deride Jesus? The Pharisees were very shrewd in the ways of the world. 
 
 Mark 7 talks about how the Pharisees practised corban. The 10 commandments say we have to honour our parents, by supporting them financially as well. But the Pharisees said if the people dedicated money to the temple, they wouldn’t need to support their parents financially anymore. The whole purpose of the Pharisees was to enrich themselves. So they take what’s supposed to be given to their parents to be dedicated as part of their tithes. The Pharisees were indeed very shrewd with money. They were the sons of this world. 
 
 Of course they didn’t see Jesus as praising the shrewdness of the unjust steward. Instead they saw the parallel Jesus was drawing up to them. 
 
-Let us see Jesus’ response.
-v15
-What does Man highly esteem? In this context and in the entire parable, it is money. They are very shrewd about money. But here Jesus says, “What is highly esteemed among men is an abomination in the sight of God.”
+Let us see Jesus’ response.  
+v15  
+What does Man highly esteem? In this context and in the entire parable, it is money. They are very shrewd about money. But here Jesus says, “What is highly esteemed among men is an abomination in the sight of God.”  
 This is a very strong word. Abomination in the Old Testament is usually used for very grave sins. What the unjust steward did is clearly what God isn’t please with.
 
 The first thing we should learn is that we shouldn’t handle money like the unjust steward. 
@@ -65,15 +65,15 @@ After some time the speaker asked him how things were going. Turns out he lost m
 
 We can earn money properly. We shouldn’t earn money like the unjust steward. We shouldn’t be shrewd in the ways of the world to earn money. 
 
-[Second comment]
-v9
+[Second comment]  
+v9  
 This is the second teaching Jesus draws from the parable. As mentioned, the parable is multifaceted. Here Jesus draws a parallel with the steward’s actions and what we ought to be doing. The unjust steward used his master’s money to make friends for himself. When he lost his stewardship, his newfound friends would take him in. Here Jesus says there’s something for us to learn. We should also use our master’s money (all our money is given by God) wisely. Make friends so that when we die, they’ll receive us into the eternal home. What are these friends?
 
-Two possibilities:
+Two possibilities:  
 1. We make friends through our riches by using our riches in the work of evangelism  
 2. The friends refers to the poor and those in need of help. 
 
-Luke 14:13-14
+Luke 14:13-14  
 When we treat others, do not treat those who can treat us back. That’s the way of that world. People who often treat other people treat those that can pay them back even more. That’s exactly what the unjust steward did. He helped those who can help him back. 
 
 We also make friends but in a different way. Because the way of Christ is different. Jesus says to help those who have no way to pay us back. God will pay us back at the resurrection. Jesus now tells us to use our riches to help those in need. 
@@ -90,18 +90,18 @@ The unjust steward was of course dishonest. But the master praised him for makin
 
 How about between us and our master? Will OUR master praise us? Have we made the best use of our riches in the window of opportunity we’ve been given. 
 
-[3rd comment]
-v10-12 (read)
+[3rd comment]  
+v10-12 (read)  
 The unjust steward serves as a negative example here. He wasn’t faithful in managing his master’s riches. He was ultimately removed. We too are stewards. We don’t really own the wealth we have. But we are given executive powers to manage what God has temporarily given us. 
 
 Jesus says if we are stewards, we have to be faithful. One day, we have to give an account to our master. 
 
-A few things to note about what Jesus says about mammon:
-• Mammon is unrighteousness
-Why? We know mammon/money is neutral. But it’s a CAUSE of unrighteousness. It causes people to act unrighteously like the unjust steward. The love of money causes us to fall.
-• Mammon is the least important 
-“He who is unjust in what is LEAST...”
-Interestingly, how we deal with this LEAST important thing has very important consequences. Jesus says, “How you deal with what is LEAST will determine whether you get true riches.”
+A few things to note about what Jesus says about mammon:  
+• Mammon is unrighteousness  
+Why? We know mammon/money is neutral. But it’s a CAUSE of unrighteousness. It causes people to act unrighteously like the unjust steward. The love of money causes us to fall.  
+• Mammon is the least important  
+“He who is unjust in what is LEAST...”  
+Interestingly, how we deal with this LEAST important thing has very important consequences. Jesus says, “How you deal with what is LEAST will determine whether you get true riches.”  
 If you’re not faithful in what is least, true riches won’t be given to you. 
 
 Jesus isn't saying Christians can’t be rich. But the more riches you have, the more responsible and more faithful you have to be as a reward. 
@@ -110,30 +110,30 @@ Job was also a very rich man. But we also know he was the most faithful person c
 
 We know that God makes some people rich and some poor for a reason. 
 
-Luke 16:25
+Luke 16:25  
 Abraham told the rich man about a certain concept he hadn’t grasped while he was alive. The concept of quality. God is just. That’s why the experience of the two is now balanced. The rich man enjoyed the best thing in his life, now he’s tormented. Lazarus who suffered was now comforted. There was balance. 
 
 While the rich man could’ve alleviated the suffering of Lazarus without any real loss to himself actually, Lazarus couldn’t do anything for the rich man after death because a great gulf separated them. Equality will always be matched somehow somewhere. Riches and poverty ought to have equality somewhere. 
 
-2 Cor 8:13-15
+2 Cor 8:13-15  
 Paul also used the concept of equality here. The Corinth believers were to help their poorer brethren. Paul reminded them of what they had committed. By supplying the lack of other Christians, there is equality. Which is what the rich man didn’t do. 
 
 Interestingly, Paul used the example of gathering manna to talk about equality. The Israelites who gathered much had nothing left. Those who gathered little had no lack. If we have abundance, it should be supplied to those who are lacking that there may be equality. 
 
-Sometimes we think: wah God gives me favour!
+Sometimes we think: wah God gives me favour!  
 But we don’t think why favour is given in the first place. Paul says riches are given to us not for us to enjoy but to supply lack that there may be equality. If we don’t establish equality, there’ll be equality in the life to come. 
 
 Have we been faithful? Have we supplied where is lacking?
 
-By now we realise the central theme of this parable is money. 
+By now we realise the central theme of this parable is money.  
 How should we view money? How should we use money? How should we NOT use money?
 
-Conclusion 
-Luke 16:13
+Conclusion  
+Luke 16:13  
 This is clearly brought out by the unjust steward on the Bible. He served his own interest to the detriment of the master. Hence, no servant can serve two masters. 
 
 Sometimes we think we OWN money. But Jesus tells us its money that owns us. Mammon is the master and we are the servants. If we serve mammon, it’s a deadly decision a Christian needs to make. Jesus knows mammon is an important thing in our lives. This parable and all the teachings tells us to think carefully who we serve ultimately. There’re two masters. Which do we choose? God or mammon. Who do we serve? May God help us. 
 
-----
+----  
 ****
      

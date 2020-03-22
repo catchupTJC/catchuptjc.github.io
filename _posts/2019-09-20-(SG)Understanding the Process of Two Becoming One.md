@@ -1,17 +1,17 @@
----
-layout: post
-title: Understanding the Process of Two Becoming One (2) 从二人到一体的认识
-category: youthspiritualmeeting2019singapore
-tags: [relationship,marriage,courtship]
-hymns: [391,373]
----
-How the YSM theme was decided on:
-The world has a very different message of what love and marriage is. Divorce rates are getting higher. A lot of different sorts of misunderstandings of what true love is supposed to be is being spread around today. Hence the theme for this Youth Spiritual Meeting: and the two shall become one flesh. It is split into 3 sub themes as such:
-1. The Two
-The two are still separate. This is for those who are still single.
-2. Shall Become
-This means they are about to become a married couple. Colloquially, it’s the paktor period lol
-3. One Flesh
+---  
+layout: post  
+title: Understanding the Process of Two Becoming One (2) 从二人到一体的认识  
+category: youthspiritualmeeting2019singapore  
+tags: [relationship,marriage,courtship]  
+hymns: [391,373]  
+---  
+How the YSM theme was decided on:  
+The world has a very different message of what love and marriage is. Divorce rates are getting higher. A lot of different sorts of misunderstandings of what true love is supposed to be is being spread around today. Hence the theme for this Youth Spiritual Meeting: and the two shall become one flesh. It is split into 3 sub themes as such:  
+1. The Two  
+The two are still separate. This is for those who are still single.  
+2. Shall Become  
+This means they are about to become a married couple. Colloquially, it’s the paktor period lol  
+3. One Flesh  
 This is for youths who’re already married. 
 
 - Begin sermon for those who are still singles -
@@ -20,8 +20,8 @@ As aforementioned, there’re many misconceptions on marriage and love. This ser
 
 Why does Man need to go from one person to two? (Why get married?)
 
-1. The other person will be a helper comparable to you
-Gen 2:20
+1. The other person will be a helper comparable to you  
+Gen 2:20  
 There was not a helper found comparable to Adam. God saw that it was not good for Man to be alone. So God took a rib out of Adam and created Eve, and brought her to Adam who was very satisfied with what God gave him. 
 
 This helper would be able to help him in the garden of Eden and have discussions with him about life. 
@@ -30,7 +30,7 @@ God was the introducer of this marriage. Even though this was the case, there wa
 
 None of the created creatures could be a helper to Adam. They’re not fit for him. Humans are different from animals. Between humans, we can communicate deeply. Only humans are able to use language to express complex thoughts and feelings in their hearts. 
 
-That’s why there’s a Chinese saying: when a person can’t understand you, it’s like playing piano to a cow. 
+That’s why there’s a Chinese saying: when a person can’t understand you, it’s like playing piano to a cow.  
 The Japanese will tell you the beef will taste good LOL but the cow will never know what you’re playing. 
 
 People like to keep dogs at pets. Dogs are smart, they can obey commands. But even then they can only understand single words: come, go, shake hand 
@@ -43,7 +43,7 @@ The world emphasises more and more on individualism. So Man would rather choose 
 
 People who don’t want to get married don’t want to be alone either. So they replace this void with other things. 
 
-In Japan, there’re people who face stress in school, pressures in society. They’re not able to fit into the fast paced world. Youths or even middle aged people live in virtual reality. They can stay at home all day. In the virtual realm they look for their own happiness. They’re described as parasites, living off their parents. Even though they’re 50+ year olds. They just stay in their
+In Japan, there’re people who face stress in school, pressures in society. They’re not able to fit into the fast paced world. Youths or even middle aged people live in virtual reality. They can stay at home all day. In the virtual realm they look for their own happiness. They’re described as parasites, living off their parents. Even though they’re 50+ year olds. They just stay in their  
 They choose to be alone and not have a partner. 
 
 Another type of people who don’t want to be alone marry dolls. Dolls without life or speech. But they carry their doll wives around, on dates. Invite friends to their wedding. Such people look for companionship as well.
@@ -70,8 +70,8 @@ The Bible tells us the marriage bed should be honourable. Christians should disc
 
 Also, God created the second person to be a helper. Before the fall of men, God already had this thought. Does it mean we no longer need a helper after the fall of men? Of course not. 
 
-2. The other person can give you emotional fulfilment
-Eccl 4:8-9
+2. The other person can give you emotional fulfilment  
+Eccl 4:8-9  
 This passage doesn’t directly describe marriage (because v12 talks about a threefold cord). In work, if we have partners who help us, we’ll have a reward. If we fall, someone will lift us up. This can apply to marriage as well. If you’re alone, who’s going to help you?
 
 Regarding threefold cord, we can look at it as one man one woman and God. Very steady. 
@@ -82,23 +82,23 @@ The Preacher who wrote Ecclesiastes says it’s vanity. People work and work. Th
 
 We can have pets for companionship; we can use physical means to fulfil our lives. But it can’t fulfil our emotional desires. Because physical things don’t have life. 
 
-3. For more to inherit God’s kingdom
-Gen 1:28
+3. For more to inherit God’s kingdom  
+Gen 1:28  
 One of the reasons God created Man was for Man to multiply. Why? Because God’s creation requires inheritance. For somebody to help. The earth is so huge for just two humans. The purpose of bearing children, besides to bring happiness to parents, is also for them to help. To enjoy the garden God has given Man. Unfortunately Man sinned, sin entered into the world and Man can no longer enter God’s kingdom. Man now has to toil and labour on this earth. 
 
 Even so, the Bible reminds us that with children, it is better. 
 
 A lot of people say they don’t want children because of how stressful life is. They’d rather it be just the two of them. But we know being fruitful and multiplying is something God wants us to do. 
 
-Gen 15:2
+Gen 15:2  
 Even though God promised Abraham to have a child, the promise hasn’t been fulfilled yet. Abraham said it would be his servant would inherit his possessions. But actually he didn’t want this. God knew this and told Abraham to look at the stars to emphasise the promise He had made. Today, don’t our descendants also inherit the Kingdom of God? How can they inherit that if they’re not born? Of course some people have their reasons for not having children.
 
 But we do know having children in the gospel is something God is pleased in. 
 
 Two persons becoming one includes having children. But we have a choice of course. Nonetheless we know having children is a blessing God gives us. 
 
-4. Helps us understand our relationship with God better
-Mal 2:15
+4. Helps us understand our relationship with God better  
+Mal 2:15  
 God has the power to create many people but He chose to make a person out of just one. Why? Because He seeks godly offspring. “Let none deal treacherously with the wife of his youth.” In terms of having offspring, there’s responsibility involved. If we’re loyal in our marriage, we’d have godly offspring. Having godly offspring has a close 
 
 Only when we’re close to our spouse can we be loyal to God. If we can’t stay loyal to our spouse, we can’t stay loyal to God. Because we already don’t follow the word of God when we’re not loyal to our spouse. Because God said we’re not to separate. 
@@ -121,8 +121,8 @@ There have been successes of course. But that’s not for our boasting but shoul
 
 There’s a problem in True Jesus Church that there’re more sisters than brothers statistically. Some brothers have not married either. Why have people not gotten married yet? They don’t want this, don’t want that. 
 
-MF: What’s your criteria?
-Sister: as long as in the Lord that’s fine
+MF: What’s your criteria?  
+Sister: as long as in the Lord that’s fine  
 And then the person thinks many many are incompatible 
 
 It’s ok to have criteria but unrealistic expectations are not good. 
@@ -135,5 +135,5 @@ The speaker will share his testimony in the next sermon.
 
 
 
-----
+----  
 ****

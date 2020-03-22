@@ -1,9 +1,9 @@
----
-layout: post
-title: One Flesh - Marriage (1) 一体 - 婚姻（一)
-category: youthspiritualmeeting2019singapore
-tags: [relationship,marriage]
-hymns: [298,217]
+---  
+layout: post  
+title: One Flesh - Marriage (1) 一体 - 婚姻（一)  
+category: youthspiritualmeeting2019singapore  
+tags: [relationship,marriage]  
+hymns: [298,217]  
 ---
 
 The YSM theme comes from Eph 5:31.
@@ -22,14 +22,14 @@ Should marriage be like so? What does the Bible say? The Bible clearly states: w
 
 These sermons will discuss how to manage marriage well. But before that, we will look at the first recorded marriage. 
 
-Gen 2:24
+Gen 2:24  
 This is the first marriage in the garden of Eden. The facilitator and officiator is none other than God. It is God who brings these two together. When Adam saw Eve, what was his reaction? “Wah so ugly”?
 
-Gen 2:23
+Gen 2:23  
 “This is now bone of my bones and flesh of my flesh; she shall be called Woman cos she was taken out of Man.”
 
-A preacher once mentioned that Woman was created in secret.
-v21 And the Lord God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place.
+A preacher once mentioned that Woman was created in secret.  
+v21 And the Lord God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place.  
 Then the rib which the Lord God had taken from man He made into a woman, and He brought her to the man.
 
 The first couple was brought together by God. God first caused Adam to fall into a deep sleep. What is this deep sleep? It refers to a period of waiting. You just have to wait, you don’t have to look around. You have to wait for God to bring your Eve before you. 
@@ -46,8 +46,8 @@ How do we go about loving our own body?
 
 In marriage, we’ll meet with many challenges and have to manage many pragmatic issues. A few of these issues will be discussed. 
 
-• How can we set up a good way to manage our relationship continually?
-“Man shall leave his father and mother, be joined and become one flesh”
+• How can we set up a good way to manage our relationship continually?  
+“Man shall leave his father and mother, be joined and become one flesh”  
 “They were both naked and were not ashamed”
 
 Before we get married, we have to make preparations to leave our father and mother. After getting married, you’re an adult and have to take on responsibilities. Internally you have to be mature. But some couples still behave like children after marriage. There’s a couple the speaker heard say, “You buy the powder. I buy the diapers.” Aren’t they both together? Shouldn’t they bear the burdens together? “You pay for the car. I pay for the flat.” Shouldn’t couples bear the burden together?
@@ -66,9 +66,9 @@ Especially in the first year of marriage will we find we face a lot of challenge
 
 Two different people with different values. We may not be able to think from that person’s perspectives. Many a times there’ll be small arguments that arise. 
 
-Consider the following 4 Chinese words:
-太太怕我 (wife is scared of me)
-我怕太太 (I’m scared of my wife)
+Consider the following 4 Chinese words:  
+太太怕我 (wife is scared of me)  
+我怕太太 (I’m scared of my wife)  
 The meaning changes depending on whether we read it from left to right, or right to left. A different perspective. Many a times, it’s a matter of perspective that’s important. Are you willing to adjust your attitudes and beliefs? If you’re not willing, it’ll be very difficult. Your quarrel from the beginning of your marriage to the end. Even for small matters, you’d want to bicker. It’ll be very difficult to be a good couple. 
 
 So how do we continually manage our marriage well? We really have to put in effort to adjust and acclimatise to one another. It’s not you compelling your other half to align with your concepts. Instead you should be the role model to change yourself. Find a middle ground amidst differences where you can both agree. This requires communication. 
@@ -85,8 +85,8 @@ The speaker thanks God he has not had major quarrels with his wife. There have b
 
 Husbands and wives shouldn’t only accommodate to one another’s differences due to different perspectives, communication is very important as well. 
 
-What does the Bible say?
-Jas 1:19-20
+What does the Bible say?  
+Jas 1:19-20  
 Since marriage is about two becoming one, we need to have a good channel for communication; we have to be honest. 
 
 Man and wife were both naked and not ashamed. What does this mean? Husband and wife have no secrets between them. If you think about it, holding a secret in without telling someone else can be painful. Of course you shouldn’t reveal secrets regarding church matters or that of other church members. But we need to share our secrets with our other half. That’s what it means to be honest with one another. Being naked means to not have any secrets; both completely bare and honest. Only then can you build up an effective means of communication. 
@@ -97,7 +97,7 @@ The speaker feels he’s not a good listener. His wife tells him something and h
 
 When we don’t pay attention, it could cause harm to come to you and your spouse. Why not instead be a good listener. When you’re familiar with the context of the situation, you won’t get angry so easily. 
 
-“The wrath of man doesn’t produce the righteousness of God”
+“The wrath of man doesn’t produce the righteousness of God”  
 Why do couples often get angry and quarrel? Because we don’t spend enough time listening to our other half. Let’s learn from this good teaching from the Bible 
 
 Since we want to adopt this good method and have a blissful marriage, we need to be attentive to our other half. We have to learn from this. And we will establish a close relationship with our spouse. 
@@ -116,17 +116,17 @@ A brother who married not long ago met with this problem. His wife was not on go
 
 So he prayed. And things changed. His wife became more open and accepted his mother. She thought since she can’t change her mother-in-law, there was no point getting into unnecessary conflict. So she showed concern to her MIL again. It was by prayer.
 
-How do we handle these conflicts?
+How do we handle these conflicts?  
 If we’re overprotective with our wife or side too much with our mother, our mother and wife will be unhappy respectively. There’ll be explosions. 
 
 Let’s go back to the Bible. It’s natural that we need to respect those who are older. But how can we help our spouse to respect our family members convincingly. You have to first set the example. Treat your spouse’s family as your own family. Let her heart be at peace. From then you can talk about taking care about one another’s family. 
 
 The speaker hopes those who are married will continue cultivating a happy marriage.
 
-217: Come, Thou Fount of Every Blessing
+217: Come, Thou Fount of Every Blessing  
 As a couple, there will be differences. We need to learn how to manage and accept. This requires us to be clear with the word of God so we can use the truth to discern. This also requires spiritual nurture on our part. Let’s pray that we may have wisdom from God that we may be able to manage our marriage, so we can have a blissful marriage and be an exemplary couple.
 
 
 
-----
+----  
 ****

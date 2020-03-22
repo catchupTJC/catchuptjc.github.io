@@ -1,10 +1,10 @@
----
-layout: post
-title: Lord, What Do You Want Me to Do? (2) 主啊！我当做什么？（二）
-category: sermon2019singapore
-tags: [evangelism,paul]
-hymns: [318,424]
-speaker: prhojungyu
+---  
+layout: post  
+title: Lord, What Do You Want Me to Do? (2) 主啊！我当做什么？（二）  
+category: sermon2019singapore  
+tags: [evangelism,paul]  
+hymns: [318,424]  
+speaker: prhojungyu  
 ---
 
 When Saul met the Lord calling out to him, he asked the Lord 2 questions:
@@ -23,12 +23,12 @@ We know that the Lord of heaven is Jesus and His purpose on earth is for us to r
 
 Our Lord in heaven not only wants to call on Saul, but He also wants even more people to know the Lord in heaven so that more men would be able to receive His grace and blessings. We’ll take a look from a passage in the Bible in Acts 26:12-18; 
 
-12 '“While thus occupied, as I journeyed to Damascus with authority and commission from the chief priests, 
-13 at midday, O king, along the road I saw a light from heaven, brighter than the sun, shining around me and those who journeyed with me. 
-14 And when we all had fallen to the ground, I heard a voice speaking to me and saying in the Hebrew language, ‘Saul, Saul, why are you persecuting Me? It is hard for you to kick against the goads.’ 
-15 So I said, ‘Who are You, Lord?’ And He said, ‘I am Jesus, whom you are persecuting. 
-16 But rise and stand on your feet; for I have appeared to you for this purpose, to make you a minister and a witness both of the things which you have seen and of the things which I will yet reveal to you. 
-17 I will deliver you from the Jewish people, as well as from the Gentiles, to whom I now send you, 
+12 '“While thus occupied, as I journeyed to Damascus with authority and commission from the chief priests,  
+13 at midday, O king, along the road I saw a light from heaven, brighter than the sun, shining around me and those who journeyed with me.  
+14 And when we all had fallen to the ground, I heard a voice speaking to me and saying in the Hebrew language, ‘Saul, Saul, why are you persecuting Me? It is hard for you to kick against the goads.’  
+15 So I said, ‘Who are You, Lord?’ And He said, ‘I am Jesus, whom you are persecuting.  
+16 But rise and stand on your feet; for I have appeared to you for this purpose, to make you a minister and a witness both of the things which you have seen and of the things which I will yet reveal to you.  
+17 I will deliver you from the Jewish people, as well as from the Gentiles, to whom I now send you,  
 18 to open their eyes, in order to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in Me.’'
 
 This was Paul recounting on his own experience of him coming to believe in Jesus. Acts records of Paul encountering Jesus thrice; in chapter 9, 22 and 26. 
@@ -73,7 +73,7 @@ Next, the Lord wants to give men the blessing of having freedom, to turn men fro
 
 Satan’s work is to restrain us and destroy the work of God. But everyone on earth is afraid of the devil. Why? We read Hebrews 2:14-15; 
 
-14 'Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil, 
+14 'Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,  
 15 and release those who through fear of death were all their lifetime subject to bondage. '
 
 Here tells us that everyone on earth fears the devil because men are unable to overcome death and all humans by nature are afraid of dying. Therefore we see many superstitions arise because of the fear of death. 
@@ -86,8 +86,8 @@ The devil is the loan shark of the spiritual realm because we owe a debt of sin.
 
 'to open their eyes, in order to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in Me.’'
 
-After you’ve known and believed in Jesus, He wants to give you 2 gifts: 
-1. The forgiveness of sins 
+After you’ve known and believed in Jesus, He wants to give you 2 gifts:  
+1. The forgiveness of sins  
 2. The inheritance of heaven
 
 Once the Lord brought Paul to paradise and he experienced that it was much better to be with Christ. Apostle Peter also experienced this. The Lord Jesus once brought him and a few other disciples up to a mountain and was in a glorious form before them. Peter immediately said, “It is good to be here!” It is indeed good to be with Jesus! This is the greatest hope for us Christians. There is no place on earth comparable to being with Jesus. 
@@ -96,7 +96,7 @@ A few years ago, the speaker had the opportunity to visit northern Thailand. At 
 
 There are many beautiful places which God has created. If we think about the place God has prepared for us in the future, it’d be so much more beautiful! God has prepared for us to receive the heavenly inheritance. He has also given us the Holy Spirit as a guarantee. 
 
-The speaker would like to share a testimony of Sister Chen from Taiwan: 
+The speaker would like to share a testimony of Sister Chen from Taiwan:  
 From young, she didn’t have a good impression of Christianity because she would read of messages along the road, “Jesus wants to save you because you’re a sinner.” 
 
 She thought to herself, “I’m a law-abiding person, why am I a sinner? I’m already living a good life, why would I need to rely on this God?” 
@@ -129,5 +129,5 @@ May the Lord bless each and everyone of us with this precious gift of salvation.
 
 
 
-----
+----  
 ****

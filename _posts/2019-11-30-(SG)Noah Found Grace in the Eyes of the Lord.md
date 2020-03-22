@@ -1,17 +1,17 @@
----
-layout: post
-title: Noah Found Grace in the Eyes of the Lord 诺亚在神眼前蒙恩
-category: sermon2019singapore
-tags: [favorwithgod,grace]
-hymns: [333,390]
-speaker: prhojungyu
+---  
+layout: post  
+title: Noah Found Grace in the Eyes of the Lord 诺亚在神眼前蒙恩  
+category: sermon2019singapore  
+tags: [favorwithgod,grace]  
+hymns: [333,390]  
+speaker: prhojungyu  
 ---
 
 We turn to Genesis 6:5-8; 
 
-5 'Then the Lord saw that the wickedness of man was great in the earth, and that every intent of the thoughts of his heart was only evil continually. 
-6 And the Lord was sorry that He had made man on the earth, and He was grieved in His heart. 
-7 So the Lord said, “I will destroy man whom I have created from the face of the earth, both man and beast, creeping thing and birds of the air, for I am sorry that I have made them.” 
+5 'Then the Lord saw that the wickedness of man was great in the earth, and that every intent of the thoughts of his heart was only evil continually.  
+6 And the Lord was sorry that He had made man on the earth, and He was grieved in His heart.  
+7 So the Lord said, “I will destroy man whom I have created from the face of the earth, both man and beast, creeping thing and birds of the air, for I am sorry that I have made them.”  
 8 But Noah found grace in the eyes of the Lord .'
 
 When the Lord Jesus comes again it’ll be like the generation of Noah; without anyone knowing like when the flood came. In the last days, we too like Noah must make preparation. When God wanted to destroy the earth, only Noah and his family was safe. His whole family was able to receive this protection. In the new era after the flood, they became the new human race to dwell in the land God had prepared for them.  Why was Noah able to be preserved in the generation? V8 tells us; 
@@ -55,7 +55,7 @@ In our lives, we must become righteous before God. We must receive baptism for t
 
 David in his psalms also say this. We read Psalm 19:12-13; 
 
-12 'Who can understand his errors? Cleanse me from secret faults. 
+12 'Who can understand his errors? Cleanse me from secret faults.  
 13 Keep back Your servant also from presumptuous sins; Let them not have dominion over me. Then I shall be blameless, And I shall be innocent of great transgression.'
 
 This is the prayer of David. He asked 2 things of God. Firstly, he asked God to cleanse him of his great faults. Secondly, he asked God to keep him back from presumptuous sins. This is the prayer he made towards God; one is secret faults and another is presumptuous sins. These are mistakes we’ve made that are hard to discover by ourselves. You may think to yourself, “I’m living a godly life and abiding by the words of God.” But we should reflect in prayers like David if we’ve these secret faults and presumptuous sins. 
@@ -98,9 +98,9 @@ If in a society without policemen and law enforcement, would we be able to maint
 
 But Noah managed to be a perfect man in his generation. In this difficult environment, he still held on to his faith. His perfectness was that he still knew how to draw near to God. He didn’t commit sin to sin against God. We read 2 Samuel 22:22-25;
 
-22 'For I have kept the ways of the Lord , And have not wickedly departed from my God. 
-23 For all His judgments were before me; And as for His statutes, I did not depart from them. 
-24 I was also blameless before Him, And I kept myself from my iniquity. 
+22 'For I have kept the ways of the Lord , And have not wickedly departed from my God.  
+23 For all His judgments were before me; And as for His statutes, I did not depart from them.  
+24 I was also blameless before Him, And I kept myself from my iniquity.  
 25 Therefore the Lord has recompensed me according to my righteousness, According to my cleanness in His eyes.'
 
 V24;
@@ -165,5 +165,5 @@ May the Lord help us.
 
 
 
-----
+----  
 ****

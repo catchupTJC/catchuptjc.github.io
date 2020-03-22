@@ -1,14 +1,14 @@
----
-layout: post
-title: Elijah - The Chariots and Horsemen of Israel
-category: sermon2020singapore
-tags: [elijah,service,attitude,mindset]
-hymns: [175,380]
-speaker: prbarnabaschong
----
+---  
+layout: post  
+title: Elijah - The Chariots and Horsemen of Israel  
+category: sermon2020singapore  
+tags: [elijah,service,attitude,mindset]  
+hymns: [175,380]  
+speaker: prbarnabaschong  
+---  
 Why does the Bible refer to Elijah as the chariots and horsemen of Israel?
 
-2 Kings 2:12
+2 Kings 2:12  
 It was Elisha who called Elijah the chariots and horsemen of Israel. It wasn’t Elijah who called himself that. Why would Elisha use this term?
 
 The context was that Elijah was about to be taken by God. Elisha his disciple followed him to his last moments. In the last period of Elijah’s life, this happened. As they were walking and talking together, suddenly a chariot separated them and Elijah went up in a whirlwind. This was the context that caused Elisha to call Elijah this term; to have this epiphany. 
@@ -21,12 +21,12 @@ In 1 Kings we see how Elijah triumphed over the 850 false prophets, and led the 
 
 Truly, Elijah being referred to as the chariot and horsemen of Israel is apt. This term doesn’t just refer to Elijah. It was used on Elisha as well.
 
-2 Kings 13:14
+2 Kings 13:14  
 Jehoash, the king of Israel, also referred to Elisha as the chariot and horsemen of Israel. This was because Elisha took over Elijah and was in charge of religious reformation in Israel.
 
 If we have the same zeal as Elijah, we can also be known as the chariot and horsemen of Israel. In this sermon, we still study the Bible character Elijah. What did he do to deserve this title?
 
-1 Kings 17:1
+1 Kings 17:1  
 v1 introduces Elijah. He lived in Gilead; he was a Tishbite. There’re no records of any other prophets that originated from Gilead or was a Tishbite. Elijah’s birthplace wasn’t renowned. There’s no record of him being a prophet before 1 Kings 17:1. Because it’s an unknown place, it’s unknown if there was a prophet school there (there used to be prophet schools then). We don’t have much information on Elijah. Perhaps he was just a normal person, or perhaps already a prophet before this. Perhaps God spoke to him. We do not know if the statement he made towards Ahab in 1 Kings 17:1 is directly from God. 
 
 How was King Ahab like? We don’t know if he was good in politics or economics. But according to the Bible, what we know is there was not a character like Ahab who sold himself to do wickedness in the sight of the Lord (1 Kings 21:25). Perhaps due to Jezebel his wife. But it’s also his fault for listening to her. 450 false prophets managed the worship of Baal. Any person who still truly worshipped God would feel sad for the nation. There were still true prophets in the land e.g. Obadiah hid 100 prophets (1 Kings 18:4). Not only Elijah remained faithful to God. Why didn’t the 101 prophets accuse Ahab? Why were they just preserving their faith in the dark? Compared to the rest of the people, they were already very good because they had preserved their faith. But why didn’t they do more? Compare them to Elijah who stepped up to Ahab not just to warn him, but to threaten him “If I don’t pray, there’ll be no rain.” Some people may think him an extremist. Would we be like Elijah or a secret believer like Obadiah?
@@ -43,11 +43,11 @@ Elijah waited with patience and trust. This is something we should emulate.
 
 Why was Elijah so persistent and why was he willing to step forward to do this?
 
-1 Kings 17:1
-“As the Lord God of Israel lives, before whom I stand, there shall not be dew nor rain these guests, except at my word.”
+1 Kings 17:1  
+“As the Lord God of Israel lives, before whom I stand, there shall not be dew nor rain these guests, except at my word.”  
 Why did Elijah make such a statement of judgement there and then? Did he think no rain would catch the people’s attention? Actually such a judgement was already long recorded in the 5 Books of Moses. 
 
-Deut 11:16-17
+Deut 11:16-17  
 God already warned that if the people turned away from Him, the heavens would be shut; there would be no rain. 
 
 So when Elijah pronounced judgement, he reference what Moses said. Whether God directly told Elijah to say this or whether Elijah was inspired to remember Moses’ words is unclear. Assuming God didn’t directly tell Elijah to speak to Ahab, we see Elijah was a person who read the records in the Old Testament. He believed such things would happen. Through the moving of God, he pronounced judgement on Ahab and the land. 
@@ -74,7 +74,7 @@ After that, he had to challenges the false prophets. 1 vs 850 false prophets, Ah
 
 While Elijah was exemplary, there were still some things God wanted to teach him.
 
-1 Kings 19:1-2
+1 Kings 19:1-2  
 v2 Jezebel heard that the prophets of Baal were executed and sought to kill Elijah. So Elijah ran for his life. He was afraid. 
 
 v10 After 40 days (of running and resting), Elijah had the opportunity to complain, “I have been very zealous for the Lord God of hosts; for the children of Israel have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I alone am left; and they seek to take my life.”
@@ -109,6 +109,6 @@ When we’re serving we may feel very tired and feel like no one else is helping
 
 God had to correct this wrong attitude of Elijah’s. After correction, Elijah no longer has this wrong mentality. After the change, he became the chariot and horsemen of Israel. 
 
-May God guide us to serve faithfully like Elijah. 
-----
+May God guide us to serve faithfully like Elijah.  
+----  
 ****

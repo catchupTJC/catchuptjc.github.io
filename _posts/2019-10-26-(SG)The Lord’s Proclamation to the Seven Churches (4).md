@@ -1,21 +1,21 @@
----
-layout: post
-title: The Lord’s Proclamation to the Seven Churches (4) 主对七教会的自称 （四）
-category: sermon2019singapore
-tags: [revelation,warning]
-hymns: [211,437]
-speaker: prchinaunquek
----
-We turn to Revelation 2:18; 
+---  
+layout: post  
+title: The Lord’s Proclamation to the Seven Churches (4) 主对七教会的自称 （四）  
+category: sermon2019singapore  
+tags: [revelation,warning]  
+hymns: [211,437]  
+speaker: prchinaunquek  
+---  
+We turn to Revelation 2:18;  
 '“And to the angel of the church in Thyatira write, ‘These things says the Son of God, who has eyes like a flame of fire, and His feet like fine brass: '
 
 We see how God calls Himself to the church in Thyatira. 
 
 First He calls Himself the Son of God. It tells us that after Jesus was resurrected, He carries with Himself a status as the Son of God because He still has the do the work of intercession in heaven. We turn to Hebrews 7:22-25;
 
-22 'by so much more Jesus has become a surety of a better covenant. 
-23 Also there were many priests, because they were prevented by death from continuing. 
-24 But He, because He continues forever, has an unchangeable priesthood. 
+22 'by so much more Jesus has become a surety of a better covenant.  
+23 Also there were many priests, because they were prevented by death from continuing.  
+24 But He, because He continues forever, has an unchangeable priesthood.  
 25 Therefore He is also able to save to the uttermost those who come to God through Him, since He always lives to make intercession for them.'
 
 V22 mentions that Jesus has become a surety of a better covenant. Not only has He become a surety of salvation, He has also become the intercession prayers in heaven. He’s praying for us and is able to save to the uttermost those who come to Him through God. Some believers are worried, “Can I be saved in the future? What can I do to receive salvation?” For example, this person is already baptised and received the Holy Spirit but has so many concerns about being saved. The problem lies in if you truly believe in God. If you truly trust in God, are you willing to come before God?
@@ -42,9 +42,9 @@ The speaker will pray for us, but you have to pray on your own. Your prayers and
 
 The Lord Jesus also calls His eyes as flames of fire. Flames of fires give light in darkness. There’s nothing hidden in darkness that cannot be exposed by this light. This means that whatever we do cannot escape the eyes of God because His eyes are like flames of fire. We turn to Acts 5:1-4; 
 
-1 'But a certain man named Ananias, with Sapphira his wife, sold a possession. 
-2 And he kept back part of the proceeds, his wife also being aware of it, and brought a certain part and laid it at the apostles’ feet. 
-3 But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and keep back part of the price of the land for yourself? 
+1 'But a certain man named Ananias, with Sapphira his wife, sold a possession.  
+2 And he kept back part of the proceeds, his wife also being aware of it, and brought a certain part and laid it at the apostles’ feet.  
+3 But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and keep back part of the price of the land for yourself?  
 4 While it remained, was it not your own? And after it was sold, was it not in your own control? Why have you conceived this thing in your heart? You have not lied to men but to God.”'
 
 It was the eyes of the Lord that was like the flames and fire that could see. Was it right for Ananias to keep some to himself? It was not wrong. The church had not forced anyone to make a complete offering. It is up to your control how much you want to offer. Ananias’ sin was that he lied to God. 
@@ -57,10 +57,10 @@ Pitifully, the church of Thyatira seemed to have forgotten. God reminds them tha
 
 God calls His feet like fine brass. Our feet are very important and our whole weight of our bodies rely on our feet. If our feet are hurt, we’re unable to stand. The feet of the Lord Jesus are like fine brass, meaning His feet are strong and resolute. He can trample on all enemies, even the devil. We look at Luke 10:18-19; 
 
-18 'And He said to them, “I saw Satan fall like lightning from heaven. 
+18 'And He said to them, “I saw Satan fall like lightning from heaven.  
 19 Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you. '
 
-Some reckoned that satan was in enmity with God in heaven and his power was great. Jesus says otherwise and says, “I saw satan fall like lightning from heaven.” Satan is not that powerful and does not have the authority to withstand God in heaven. He actually fell from heaven. Jesus continues by telling us, “Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you. '
+Some reckoned that satan was in enmity with God in heaven and his power was great. Jesus says otherwise and says, “I saw satan fall like lightning from heaven.” Satan is not that powerful and does not have the authority to withstand God in heaven. He actually fell from heaven. Jesus continues by telling us, “Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you. '  
 ”  Not only does Jesus have this power and authority, He also gives it to the church. 
 
 We must know the church. This church is no ordinary organisation or community in the world. This church is the body of Christ and he is carrying out the authority in the church. Through the church, He carries out baptism to wash away our sins, conducts Holy Communion and the footwashing sacraments so we can have a part in our Lord Jesus. The church is important. It’s not just a place of gathering for fellowship, the church has the authority that God has given. If the church doesn’t have the Lord as the head but have men as the head and the believers trust in men and not in God, this means that they listen to the commands of men and not God. then, does this church still carry the authority to trample on enemies? Hence we must listen to the words of the Lord and trust Him wholeheartedly. 
@@ -105,7 +105,7 @@ He calls Himself the amen. Amen means “truly truly”.  The apostles, they oft
 
 In the Bible it’s used in regards to the word of God, to affirm that the word of God is true. We read Deuteronomy 27:15-16;
 
-15 '‘Cursed is the one who makes a carved or molded image, an abomination to the Lord , the work of the hands of the craftsman, and sets it up in secret.’ “And all the people shall answer and say, ‘Amen!’
+15 '‘Cursed is the one who makes a carved or molded image, an abomination to the Lord , the work of the hands of the craftsman, and sets it up in secret.’ “And all the people shall answer and say, ‘Amen!’  
 16 ‘Cursed is the one who treats his father or his mother with contempt.’ “And all the people shall say, ‘Amen!’'
 
 if you carry on reading, every time they proclaim the word of God, the congregation will say “amen”, expressing that they affirm that it is indeed the word of God. If you’ve heard these words of God and you don’t do it, these curses will come on to us. In your hearts when you say “amen”, it’s a very serious thing. You confess that this is the word of God and you resolve to obey the word of God. Then the word of God becomes a source of strength in your heart and this strength can preserve your heart so no sin or defilement can enter your heart and it’s a source of strength for you to bear good fruit. It requires you to say amen then it can become your strength and protection. We hear many words of God but we put them aside after. 
@@ -143,5 +143,5 @@ However, their money can only buy some things. There are many things your money 
 Many Christians don’t have the Lord Jesus in their hearts. As Christians, do we have Christ in our hearts? Who is the true lord in our hearts? Let us open the doors of our hearts and allow Christ to be the Lord of our hearts. 
 
 
-----
+----  
 ****

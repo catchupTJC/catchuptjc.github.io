@@ -1,10 +1,10 @@
----
-layout: post
-title: Mourning Turned to Dance (2) 哀哭变为跳舞（二）
-category: sermon2019singapore
-tags: [mourne,sad,believe,faith]
-hymns: [421,476]
-speaker: 
+---  
+layout: post  
+title: Mourning Turned to Dance (2) 哀哭变为跳舞（二）  
+category: sermon2019singapore  
+tags: [mourne,sad,believe,faith]  
+hymns: [421,476]  
+speaker:  
 ---
 
 In the morning we talked about how David from mourning became dancing, and from dancing became mourning. This reminds us that whether in times of adversity or prosperity, we must be alert. This afternoon we shall use the book of Esther for our mutual learning. 
@@ -15,8 +15,8 @@ In Ruth, the family went down to the land of Moab and their family became a stor
 
 We read the story of Esther in the kingdom. We turn to Esther 1:1-3;
 
-1 'Now it came to pass in the days of Ahasuerus (this was the Ahasuerus who reigned over one hundred and twenty-seven provinces, from India to Ethiopia),
-2 in those days when King Ahasuerus sat on the throne of his kingdom, which was in Shushan the citadel, 
+1 'Now it came to pass in the days of Ahasuerus (this was the Ahasuerus who reigned over one hundred and twenty-seven provinces, from India to Ethiopia),  
+2 in those days when King Ahasuerus sat on the throne of his kingdom, which was in Shushan the citadel,  
 3 that in the third year of his reign he made a feast for all his officials and servants—the powers of Persia and Media, the nobles, and the princes of the provinces being before him— '
 
 The story was that the people then were held captive by a foreign land. At that time, they faced a situation where the entire nation was mourning because they faced a crisis. It appears that this crisis would be inevitable and would end in a tragedy for the people but because they are the people of God, there was a miraculous intervention of God to help the people. From mourning becomes dancing.
@@ -63,7 +63,7 @@ Esther was a Jew and initially didn’t reveal her identity. But later on when t
 
 In v13-14 he told someone to reply Esther;
 
-13 'And Mordecai told them to answer Esther: “Do not think in your heart that you will escape in the king’s palace any more than all the other Jews. 
+13 'And Mordecai told them to answer Esther: “Do not think in your heart that you will escape in the king’s palace any more than all the other Jews.  
 14 For if you remain completely silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father’s house will perish. Yet who knows whether you have come to the kingdom for such a time as this?”'
 
 When Esther heard these words, she made a request in v16;
@@ -82,7 +82,7 @@ Esther is a very good lady. In the past if the king chooses you to be a concubin
 
 'Now when the turn came for Esther the daughter of Abihail the uncle of Mordecai, who had taken her as his daughter, to go in to the king, she requested nothing but what Hegai the king’s eunuch, the custodian of the women, advised. And Esther obtained favor in the sight of all who saw her. '
 
-Esther didn’t request for any personal benefits. She was already selected to be a queen, but she didn’t. It’d be easy, she just had to open her mouth. For this matter to ask the king for help wasn’t for personal benefits but for her people. This is something precious because if she made this request and the king didn’t stretch our his scepter, she would lose her life. This tells us that God is the one working behind everything. In this book, something happened amazing to Esther. When they were facing the crisis to be eliminated, that day and night the king couldn’t fall asleep. Why couldn’t he fall asleep? We read Esther 6:1; 
+Esther didn’t request for any personal benefits. She was already selected to be a queen, but she didn’t. It’d be easy, she just had to open her mouth. For this matter to ask the king for help wasn’t for personal benefits but for her people. This is something precious because if she made this request and the king didn’t stretch our his scepter, she would lose her life. This tells us that God is the one working behind everything. In this book, something happened amazing to Esther. When they were facing the crisis to be eliminated, that day and night the king couldn’t fall asleep. Why couldn’t he fall asleep? We read Esther 6:1;  
 'That night the king could not sleep. So one was commanded to bring the book of the records of the chronicles; and they were read before the king. '
 
 If you were a king in the past, there’re many activities for you to do. You can call the dancers to sing and dance before you. You can even call for a massage. However, the king had a special request for the history to be read before him. When the history was read to him, it recorded the incident of Mordecai saving him. 
@@ -105,20 +105,20 @@ The last feast is in Esther 9:17;
 
 Here records that this feast which they instituted because they were delivered. In the New Testament, Jesus mentioned a few feasts. Feasts can also be spoken in relation to the kingdom of God. The salvation plan of God is not just for the Jews but everyone who believes in Him because He wants to save everyone who believes in Him. We read Isaiah 25:6-9; 
 
-6 'And in this mountain The Lord of hosts will make for all people A feast of choice pieces, A feast of wines on the lees, Of fat things full of marrow, Of well-refined wines on the lees. 
-7 And He will destroy on this mountain The surface of the covering cast over all people, And the veil that is spread over all nations. 
-8 He will swallow up death forever, And the Lord God will wipe away tears from all faces; The rebuke of His people He will take away from all the earth; For the Lord has spoken. 
+6 'And in this mountain The Lord of hosts will make for all people A feast of choice pieces, A feast of wines on the lees, Of fat things full of marrow, Of well-refined wines on the lees.  
+7 And He will destroy on this mountain The surface of the covering cast over all people, And the veil that is spread over all nations.  
+8 He will swallow up death forever, And the Lord God will wipe away tears from all faces; The rebuke of His people He will take away from all the earth; For the Lord has spoken.  
 9 And it will be said in that day: “Behold, this is our God; We have waited for Him, and He will save us. This is the Lord ; We have waited for Him; We will be glad and rejoice in His salvation.”'
 
 Prophet Isaiah records the salvation God has given His people. It also records that God will give grace to all the people of the world. He will wipe the tears on our faces, and a time of mourning can be turned to the time of rejoicing. 
 
 As Christians we have been chosen by God to come into this grace. God has prepared a feast for us in the future, are we willing to join the Lord’s feast? When Jesus was on earth, He told us of a parable regarding the feast in Matthew 22:1-6; 
 
-1 'And Jesus answered and spoke to them again by parables and said: 
-2 “The kingdom of heaven is like a certain king who arranged a marriage for his son, 
-3 and sent out his servants to call those who were invited to the wedding; and they were not willing to come.
-4 Again, he sent out other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner; my oxen and fatted cattle are killed, and all things are ready. Come to the wedding.” ’ 
-5 But they made light of it and went their ways, one to his own farm, another to his business. 
+1 'And Jesus answered and spoke to them again by parables and said:  
+2 “The kingdom of heaven is like a certain king who arranged a marriage for his son,  
+3 and sent out his servants to call those who were invited to the wedding; and they were not willing to come.  
+4 Again, he sent out other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner; my oxen and fatted cattle are killed, and all things are ready. Come to the wedding.” ’  
+5 But they made light of it and went their ways, one to his own farm, another to his business.  
 6 And the rest seized his servants, treated them spitefully, and killed them. '
 
 When the Lord Jesus told this parable of the feast, He was indicating that the Jews rejected the gospel. They gave many reasons for not coming to the feast. There is a same recording in Luke 14:15 onwards. V16 says;
@@ -145,7 +145,7 @@ What about those unwilling to come? God also prepared for them another feast. Th
 
 We read Matthew 11:16-17; 
 
-16 '“But to what shall I liken this generation? It is like children sitting in the marketplaces and calling to their companions, 
+16 '“But to what shall I liken this generation? It is like children sitting in the marketplaces and calling to their companions,  
 17 and saying: ‘We played the flute for you, And you did not dance; We mourned to you, And you did not lament.’'
 
 At that time, the Lord Jesus told the Jews that He has brought this gospel to them by inviting them to the feast. By playing music to them, He is giving them joy. But they refused to dance. He tells them that they need to move but refuse to repent. They’re numb to the gospel, they neither cry nor be happy. They never appreciate that the gospel of the Lord Jesus is good and the joy will be overflowing. The Lord Jesus rebukes such people as whatever He speaks, they oppose Him. Jesus wanted them to repent and return to God. He challenged them to leave their comfortable life. Sometimes you hear that we need to leave behind our comfortable lifestyles but question why. Will we become like the Jews? Not only do we not believe, but mock people who preach such a message. This kind of laughter is not of joy but mockery. 
@@ -156,5 +156,5 @@ May God help us so that our faith can from a mourning become dancing. If today w
 
 
 
-----
+----  
 ****

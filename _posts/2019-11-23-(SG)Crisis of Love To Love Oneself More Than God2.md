@@ -1,19 +1,19 @@
----
-layout: post
-title: Crisis of Love-To Love Oneself More Than God (2) 爱的危机-爱自己胜过爱神 （二）
-category: spiritualmeeting2019singapore
-tags: [loveself,loveothers,lovegod]
-hymns: [101,483]
-speaker: dnphillipshee
+---  
+layout: post  
+title: Crisis of Love-To Love Oneself More Than God (2) 爱的危机-爱自己胜过爱神 （二）  
+category: spiritualmeeting2019singapore  
+tags: [loveself,loveothers,lovegod]  
+hymns: [101,483]  
+speaker: dnphillipshee  
 ---
 
 As we draw close to the end of the age, there are more crisis we face and one of which is truly the crisis of love. Jesus Christ also says because lawlessness will abound, loyalty will grow cold. If we want to explore this topic, there’s no shortage of content to discuss but today we will just talk about a few points. 
 
 We first turn to 2 Timothy 3:1-4; 
 
-1 'But know this, that in the last days perilous times will come: 
-2 For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, 
-3 unloving, unforgiving, slanderers, without self-control, brutal, despisers of good, 
+1 'But know this, that in the last days perilous times will come:  
+2 For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,  
+3 unloving, unforgiving, slanderers, without self-control, brutal, despisers of good,  
 4 traitors, headstrong, haughty, lovers of pleasure rather than lovers of God, '
 
 This whole passage records a string of negative things and these are what we would be faced with in the last days. In v1 it starts by saying in the last days, perilous times will come and this is a time of crisis. The first part of v2; 
@@ -52,23 +52,23 @@ Indeed with technology, many can be done. The proposal now is that if we were to
 
 The other thing about living eternally is to go into our genes to do genetic modifications and predict and prevent possible diseases, so that we’ll never die. This is what is being researched into and talked about realistically today. All the more, as these develop, people will ask, “Why do I need God?”, “Is there really a God?”, “We ARE God!”. But if we take a step back and ponder, there’s nothing new under the sun. This is the same lie Satan had used from the beginning, just in a different form. We turn to Isaiah 14:12-15; 
 
-12 '“How you are fallen from heaven, O Lucifer, son of the morning! How you are cut down to the ground, You who weakened the nations! 
-13 For you have said in your heart: ‘I will ascend into heaven, I will exalt my throne above the stars of God; I will also sit on the mount of the congregation On the farthest sides of the north; 
-14 I will ascend above the heights of the clouds, I will be like the Most High.’ 
+12 '“How you are fallen from heaven, O Lucifer, son of the morning! How you are cut down to the ground, You who weakened the nations!  
+13 For you have said in your heart: ‘I will ascend into heaven, I will exalt my throne above the stars of God; I will also sit on the mount of the congregation On the farthest sides of the north;  
+14 I will ascend above the heights of the clouds, I will be like the Most High.’  
 15 Yet you shall be brought down to Sheol, To the lowest depths of the Pit.'
 
 This records the fall of Lucifer and how the devil came about; the angel who thought he could take over God. V13-14; 
 
-13 For you have said in your heart: ‘I will ascend into heaven, I will exalt my throne above the stars of God; I will also sit on the mount of the congregation On the farthest sides of the north; 
+13 For you have said in your heart: ‘I will ascend into heaven, I will exalt my throne above the stars of God; I will also sit on the mount of the congregation On the farthest sides of the north;  
 14 I will ascend above the heights of the clouds, I will be like the Most High.’ 
 
 That was Satan’s pride and why he fell. He thought he could be God, he THOUGHT he could be higher than God. Sounds too familiar; how did mankind fall? To exactly the same lie he perpetrated. We turn to Genesis 3:1-6; 
 
-1 'Now the serpent was more cunning than any beast of the field which the Lord God had made. And he said to the woman, “Has God indeed said, ‘You shall not eat of every tree of the garden’?” 
-2 And the woman said to the serpent, “We may eat the fruit of the trees of the garden; 
-3 but of the fruit of the tree which is in the midst of the garden, God has said, ‘You shall not eat it, nor shall you touch it, lest you die.’ ” 
-4 Then the serpent said to the woman, “You will not surely die. 
-5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.” 
+1 'Now the serpent was more cunning than any beast of the field which the Lord God had made. And he said to the woman, “Has God indeed said, ‘You shall not eat of every tree of the garden’?”  
+2 And the woman said to the serpent, “We may eat the fruit of the trees of the garden;  
+3 but of the fruit of the tree which is in the midst of the garden, God has said, ‘You shall not eat it, nor shall you touch it, lest you die.’ ”  
+4 Then the serpent said to the woman, “You will not surely die.  
+5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”  
 6 So when the woman saw that the tree was good for food, that it was pleasant to the eyes, and a tree desirable to make one wise, she took of its fruit and ate. She also gave to her husband with her, and he ate. '
 
 Here talks about the temptation of Eve and in the last part of v1, the serpent spoke to Eve; 
@@ -89,9 +89,9 @@ The woman fell into the same trap as the devil, “I do not want to accept simpl
 
 This is the crisis of the world; when you say, “Don’t do this”, people reply, “Why not?”. 
 
-“Don’t smoke”
-“Why?”
-“Because your lung will become black”
+“Don’t smoke”  
+“Why?”  
+“Because your lung will become black”  
 “Really? Show me”
 
 But if the Bible says clearly what’s right and wrong, should you question? Don’t be misunderstood that we shouldn’t ask questions, but be clear as to why you ask questions. 
@@ -114,13 +114,13 @@ If we love ourselves more than we love God, we’ll want to overtake God. We sho
 
 We say proud people are unable to accept others’ advice. We turn to Genesis 4:1-8; 
 
-1 'Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have acquired a man from the Lord .” 
-2 Then she bore again, this time his brother Abel. Now Abel was a keeper of sheep, but Cain was a tiller of the ground. 
-3 And in the process of time it came to pass that Cain brought an offering of the fruit of the ground to the Lord . 
-4 Abel also brought of the firstborn of his flock and of their fat. And the Lord respected Abel and his offering, 
-5 but He did not respect Cain and his offering. And Cain was very angry, and his countenance fell. 
-6 So the Lord said to Cain, “Why are you angry? And why has your countenance fallen? 
-7 If you do well, will you not be accepted? And if you do not do well, sin lies at the door. And its desire is for you, but you should rule over it.” 
+1 'Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have acquired a man from the Lord .”  
+2 Then she bore again, this time his brother Abel. Now Abel was a keeper of sheep, but Cain was a tiller of the ground.  
+3 And in the process of time it came to pass that Cain brought an offering of the fruit of the ground to the Lord .  
+4 Abel also brought of the firstborn of his flock and of their fat. And the Lord respected Abel and his offering,  
+5 but He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.  
+6 So the Lord said to Cain, “Why are you angry? And why has your countenance fallen?  
+7 If you do well, will you not be accepted? And if you do not do well, sin lies at the door. And its desire is for you, but you should rule over it.”  
 8 Now Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.'
 
 Indeed, Cain was a keeper of the ground and Abel was a keeper of the sheep. At that time of the offering, it would be normal for Cain to offer something of the ground and Abel an animal. But here clearly said that God didn’t respect Cain and his offering but He respected Abel and his offering. It wasn’t clearly recorded here why. Can we accept this? If we were Cain, how would we have reacted? This story can happen in many circumstances today., “We do about the same thing, why do you like her more? Why do you like the interpreter more than the sermon speaker?” 
@@ -167,10 +167,10 @@ We’ll talk about the story of Jacob. As we study his journey, it’s very much
 
 We turn to Genesis 28. Here, Jacob had already done a few things. He used his own method to take over the birthright of his brother; very calculating, smart and competent, knows what he wants. He got hold of his brother’s birthright. Through his cheating means with his mother, he cheated his father. He knew what he wanted and used his own method. But now he had to run away. As he ran away, we look at Genesis 28:10-14;
 
-10 'Now Jacob went out from Beersheba and went toward Haran. 
-11 So he came to a certain place and stayed there all night, because the sun had set. And he took one of the stones of that place and put it at his head, and he lay down in that place to sleep. 
-12 Then he dreamed, and behold, a ladder was set up on the earth, and its top reached to heaven; and there the angels of God were ascending and descending on it. 
-13 And behold, the Lord stood above it and said: “I am the Lord God of Abraham your father and the God of Isaac; the land on which you lie I will give to you and your descendants. 
+10 'Now Jacob went out from Beersheba and went toward Haran.  
+11 So he came to a certain place and stayed there all night, because the sun had set. And he took one of the stones of that place and put it at his head, and he lay down in that place to sleep.  
+12 Then he dreamed, and behold, a ladder was set up on the earth, and its top reached to heaven; and there the angels of God were ascending and descending on it.  
+13 And behold, the Lord stood above it and said: “I am the Lord God of Abraham your father and the God of Isaac; the land on which you lie I will give to you and your descendants.  
 14 Also your descendants shall be as the dust of the earth; you shall spread abroad to the west and the east, to the north and the south; and in you and in your seed all the families of the earth shall be blessed. '
 
 Look at God’s promise in v15; 
@@ -181,15 +181,15 @@ Jacob knew of God. He grew up in the household of Isaac and Abraham, so he knew 
 
 V16-17; 
 
-16 'Then Jacob awoke from his sleep and said, “Surely the Lord is in this place, and I did not know it. ” 
+16 'Then Jacob awoke from his sleep and said, “Surely the Lord is in this place, and I did not know it. ”  
 17 And he was afraid and said, “How awesome is this place! This is none other than the house of God, and this is the gate of heaven!”'
 
 Imagine if you and I had this same encounter, how would we have reacted? This was God directly reaching out to him. We look at the psychology of this guy, and reflect on ourselves. 
 
 What was his attitude? We read Genesis 28:20-22; 
 
-20 'Then Jacob made a vow, saying, “If God will be with me, and keep me in this way that I am going, and give me bread to eat and clothing to put on, 
-21 so that I come back to my father’s house in peace, then the Lord shall be my God. 
+20 'Then Jacob made a vow, saying, “If God will be with me, and keep me in this way that I am going, and give me bread to eat and clothing to put on,  
+21 so that I come back to my father’s house in peace, then the Lord shall be my God.  
 22 And this stone which I have set as a pillar shall be God’s house, and of all that You give me I will surely give a tenth to You.”'
 
 His relationship with God was transactional, “God, I test you ah, let’s see if later when I go down there’ll be nice food to eat. Will I have branded clothes? Will I have a nice car to drive? Will I be able to buy a house by the age of 25?” 
@@ -208,15 +208,15 @@ We read Genesis 31:1;
 
 Now, he’s wealthier than Laban and all that he had was from Laban. But Laban was smart too, and is able to see through Jacob’s method, and so Jacob wanted to run. In v3-5;
 
-3 'Then the Lord said to Jacob, “Return to the land of your fathers and to your family, and I will be with you.” 
-4 So Jacob sent and called Rachel and Leah to the field, to his flock, 
+3 'Then the Lord said to Jacob, “Return to the land of your fathers and to your family, and I will be with you.”  
+4 So Jacob sent and called Rachel and Leah to the field, to his flock,  
 5 and said to them, “I see your father’s countenance, that it is not favorable toward me as before; but the God of my father has been with me. '
 
 “But the God of my father has been with me.” In a way, Jacob did recognise that a lot of what he had gotten is the blessing of God. Now God also reached out to him. At the back of his mind, he knew God was always watching him but he described God as, “The God of my father”. We can see how proud Jacob was; he still haven’t accepted God. Jacob and his wives then ran away and didn’t say goodbye. When Laban found out, he pursued him. 
 
 In v24-25, 
 
-24 'But God had come to Laban the Syrian in a dream by night, and said to him, “Be careful that you speak to Jacob neither good nor bad.” 
+24 'But God had come to Laban the Syrian in a dream by night, and said to him, “Be careful that you speak to Jacob neither good nor bad.”  
 25 So Laban overtook Jacob. Now Jacob had pitched his tent in the mountains, and Laban with his brethren pitched in the mountains of Gilead.'
 
 V29; 
@@ -259,13 +259,13 @@ Here he softened and said that he wasn’t worthy of God’s mercy.
 
 V11-12; 
 
-11 'Deliver me, I pray, from the hand of my brother, from the hand of Esau; for I fear him, lest he come and attack me and the mother with the children. 
+11 'Deliver me, I pray, from the hand of my brother, from the hand of Esau; for I fear him, lest he come and attack me and the mother with the children.  
 12 For You said, ‘I will surely treat you well, and make your descendants as the sand of the sea, which cannot be numbered for multitude.’ ”'
 
 He started to rely on God and not on himself. Through the night, he wrestled with the angel of God and in v26-28, towards the end of the wrestling, he held on to God and didn’t want to let Him go; 
 
-26 'And He said, “Let Me go, for the day breaks.” But he said, “I will not let You go unless You bless me!” 
-27 So He said to him, “What is your name?” He said, “Jacob.”
+26 'And He said, “Let Me go, for the day breaks.” But he said, “I will not let You go unless You bless me!”  
+27 So He said to him, “What is your name?” He said, “Jacob.”  
 28 And He said, “Your name shall no longer be called Jacob, but Israel; for you have struggled with God and with men, and have prevailed.”'
 
 This was the transformation. No longer Jacob, but now Israel. He is changed. 
@@ -288,5 +288,5 @@ This hopefully will be our journey of faith, to love God more than ourselves. Ma
 
 
 
-----
+----  
 ****

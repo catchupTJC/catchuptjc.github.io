@@ -1,9 +1,9 @@
----
-layout: post
-title: Work While It Is Still Day 趁着白日，赶快工作 
-category: sermon2019singapore
-tags: [service,opportunity]
-hymns: [288,226]
+---  
+layout: post  
+title: Work While It Is Still Day 趁着白日，赶快工作  
+category: sermon2019singapore  
+tags: [service,opportunity]  
+hymns: [288,226]  
 ---
 
 Anyone who has been to Myanmar recently will know that you have to do certain things within a certain time. The weather is extremely hot, resulting in a lack of electricity as their generators are powered by the rivers. While walking in the mall, there may suddenly be a power outage. You have to grab hold of the opportunity to finish what you have to do!
@@ -20,8 +20,8 @@ These are experiences in our lives that teach us we have to grab hold of opportu
 
 Who came up with the phrase “work while it is still day”?
 
-John 9:4
-“I just work the works of Him who sent Me while it is day; the night is coming when no one can work.”
+John 9:4  
+“I just work the works of Him who sent Me while it is day; the night is coming when no one can work.”  
 These are the words of Jesus Christ. This is a saying that everyone can understand as most of us work in the day and rest at night. This was especially so in the agricultural society then. Once the sun rises, they start working in the fields. Once the sun sets, they have no choice but to stop working. In our society today, some of us work at night, rendering the words of Jesus less applicable. Although Jesus uses the day and night, the main thing is the teaching that we have to carry out what we need to do whilst the chance is still there. 
 
 Jesus even uses Himself as an example. “*I* must work the works of Him...” He knows He must work the works because the night is coming. He knows the time He has on earth is short and has to make use of all the time He has to build up the Kingdom of God. 
@@ -62,9 +62,9 @@ At that point of time, he had decided on some things. If it was late stage, his 
 
 It was was early stage cancer, it would affect his work as a preacher. If he had to undergo chemotherapy, his body would become much weaker and inhibit his ability to travel around. 
 
-If it was indeed cancer, there were 3 things to do (besides ensuring he has salvation):
-1. Find a young preacher to replace him. He already had people in mind, including sisters. “If I approach you, don’t reject me ah!” “Pr Shee is quite old leh. 10 years no more preachers already” lol
-2. Bring my family to be saved
+If it was indeed cancer, there were 3 things to do (besides ensuring he has salvation):  
+1. Find a young preacher to replace him. He already had people in mind, including sisters. “If I approach you, don’t reject me ah!” “Pr Shee is quite old leh. 10 years no more preachers already” lol  
+2. Bring my family to be saved  
 3. Mystery~~
 
 If you were told you had cancer, would what you want to pursue still be to travel the world? If you weren’t a Christian, perhaps this would be your choice. But if you have the heart to worship God, you would probably not spend anymore of your time thinking of these things. 
@@ -77,10 +77,10 @@ Since he has time on his hands, the things he has in mind can be stretched out. 
 
 Should we receive such a news, are there things we want to complete?
 
-A few points on encouragement on the things we should do. If we ever come to such a scenario:
-1. Save yourself 
-Phil 2:12
-“work out your own salvation with fear and trembling”
+A few points on encouragement on the things we should do. If we ever come to such a scenario:  
+1. Save yourself  
+Phil 2:12  
+“work out your own salvation with fear and trembling”  
 This is said in an affirmative manner. Salvation is a grace that’s freely given. But we still need to work it out! All of us have only been able to enter on the road to salvation, we still need to walk/complete it!
 
 How much time do we spend on things regarding our spiritual lives? How often do we think to ourselves that we ought to attend more services and pray more? Perhaps we do think about it but we make excuses and have many ‘but’s. “I want to read the Bible today but...I’m tired.” “Since I’m tired today, it’s okay. The sun will still rise. I can read it tomorrow.” 
@@ -95,7 +95,7 @@ Perhaps you say to him, “You speak rather loudly. Could you speak a bit softer
  
 We find it strange. This person attends services but can’t accept the views of others. Does this truly reflect his efforts to save himself? Because there’re some characteristics a Christian ought to have, and these are rather basic. 
 
-Matt 18:3-4
+Matt 18:3-4  
 Whenever we talk about entering the Kingdom of Heaven, we think about John 3:5. But do we remember that Jesus said we have to be like children to enter the Kingdom of Heaven. This means being willing to humble ourselves and to listen to the advice of others. A person able to put away his pride, to be humble and listen to the words of others is the greatest in the Kingdom of Heaven according to Jesus. 
 
 Today we need to ask ourselves: although we come for services and put in our effort, how is our heart? Are we like a little child, humble and willing to receive the views of others?
@@ -112,10 +112,10 @@ If we aren’t able to be like a little child, we aren’t able to enter the Kin
 
 Work out our salvation while it is still day!
 
-cont. on things we should do if we ever receive such news
+cont. on things we should do if we ever receive such news  
 2. Whilst it is still day, we also need to put in the effort to build up the glorious church
 
-John 4:35
+John 4:35  
 “Do you not say, ‘There are still four months and then comes the harvest’? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest!”
 
 Have we lifted up our eyes to look? Have we seen that it’s time for harvest? That the harvest is ready? Why is it that we’re not putting in effort to reap the fields? The reason why we aren’t doing so is because some people say, “There’s still 4 months!” “Who’s gonna listen to us preach now?”
@@ -148,13 +148,13 @@ An evangelistic meeting was organised in Myanmar. One hadn’t been held for a l
 
 All of us are part of the True Jesus Church. We have to help drive the church to glory!
 
-While it is still day,
-1. Work out our salvation
+While it is still day,  
+1. Work out our salvation  
 2. Build up the church to be glorious 
 
 Let us do the will of the Lord Jesus. 
 
 
 
-----
+----  
 ****

@@ -1,10 +1,10 @@
----
-layout: post
-title: The Foundation of Job’s Faith 约伯的信仰根基
-category: sermon2019singapore
-tags: [faith,trust]
-hymns: [220,376]
-speaker: prhojungyu
+---  
+layout: post  
+title: The Foundation of Job’s Faith 约伯的信仰根基  
+category: sermon2019singapore  
+tags: [faith,trust]  
+hymns: [220,376]  
+speaker: prhojungyu  
 ---
 
 We turn to Job 1:1;
@@ -31,8 +31,8 @@ Job’s faith was very firm especially when he went through two trials by Satan;
 
 Let us see how Job was able to ground his faith so firmly today as mutual encouragement. We read Job 1:9-11;
 
-9 'So Satan answered the Lord and said, “Does Job fear God for nothing? 
-10 Have You not made a hedge around him, around his household, and around all that he has on every side? You have blessed the work of his hands, and his possessions have increased in the land. 
+9 'So Satan answered the Lord and said, “Does Job fear God for nothing?  
+10 Have You not made a hedge around him, around his household, and around all that he has on every side? You have blessed the work of his hands, and his possessions have increased in the land.  
 11 But now, stretch out Your hand and touch all that he has, and he will surely curse You to Your face!”'
 
 Here is Satan’s reply to Job. When the Lord told Satan that Job was someone who feared God and shunned evil, Satan answered, “Does Job fear God for nothing?” He was suggesting there is a purpose why Job was holding on to his faith; because God has protected Job very fully. V10 says, “a hedge around him”. Under the protection of God, there was no way harm could come upon him. 
@@ -45,12 +45,12 @@ Not only that, he was also greatly blessed by God. The works of his hands have b
 
 Job 1:13-19; 
 
-13 'Now there was a day when his sons and daughters were eating and drinking wine in their oldest brother’s house; 
-14 and a messenger came to Job and said, “The oxen were plowing and the donkeys feeding beside them, 
-15 when the Sabeans raided them and took them away—indeed they have killed the servants with the edge of the sword; and I alone have escaped to tell you!” 
-16 While he was still speaking, another also came and said, “The fire of God fell from heaven and burned up the sheep and the servants, and consumed them; and I alone have escaped to tell you!” 
-17 While he was still speaking, another also came and said, “The Chaldeans formed three bands, raided the camels and took them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you!” 
-18 While he was still speaking, another also came and said, “Your sons and daughters were eating and drinking wine in their oldest brother’s house, 
+13 'Now there was a day when his sons and daughters were eating and drinking wine in their oldest brother’s house;  
+14 and a messenger came to Job and said, “The oxen were plowing and the donkeys feeding beside them,  
+15 when the Sabeans raided them and took them away—indeed they have killed the servants with the edge of the sword; and I alone have escaped to tell you!”  
+16 While he was still speaking, another also came and said, “The fire of God fell from heaven and burned up the sheep and the servants, and consumed them; and I alone have escaped to tell you!”  
+17 While he was still speaking, another also came and said, “The Chaldeans formed three bands, raided the camels and took them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you!”  
+18 While he was still speaking, another also came and said, “Your sons and daughters were eating and drinking wine in their oldest brother’s house,  
 19 and suddenly a great wind came from across the wilderness and struck the four corners of the house, and it fell on the young people, and they are dead; and I alone have escaped to tell you!”'
 
 In one day, Job lost all his livestock. Also in a day, he lost all his children. All these disasters came upon Job one after another. The devil was truly merciless in dealing with Job. Was Satan’s suggestion correct after all these things happened? 
@@ -71,7 +71,7 @@ If Job built his faith in all these material things and protection, with this at
 
 We have to be very sure what our faith is built on. Otherwise, if a disaster befalls us, we may lose our faith. We turn to 1 Thessalonians 3:3-4; 
 
-3 'that no one should be shaken by these afflictions; for you yourselves know that we are appointed to this. 
+3 'that no one should be shaken by these afflictions; for you yourselves know that we are appointed to this.  
 4 For, in fact, we told you before when we were with you that we would suffer tribulation, just as it happened, and you know. '
 
 Paul sent Timothy to visit the believers in Thessalonica because Paul was suffering persecution and he had to leave Thessalonica. The church began to grow there and these believers were first generation. Paul was worried if these new believers would lose their faith when faced with tribulations and quickly sent Timothy to them. 
@@ -149,5 +149,5 @@ Job was able to overcome both attacks by Satan and the foundation of his faith w
 Only when our faith is built on this rock, we’ll be able to go through all tribulations. May God help us.
 
 
-----
+----  
 ****

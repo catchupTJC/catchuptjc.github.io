@@ -1,16 +1,16 @@
----
-layout: post
-title: Holy Communion Sacrament 圣餐礼
-category: spiritualmeeting2019singapore
-tags: [holycommunion,doctrine]
-hymns: [296a,441]
-speaker: prhojungyu
+---  
+layout: post  
+title: Holy Communion Sacrament 圣餐礼  
+category: spiritualmeeting2019singapore  
+tags: [holycommunion,doctrine]  
+hymns: [296a,441]  
+speaker: prhojungyu  
 ---
 
 We turn to 1 Corinthians 11:23-26; 
 
-23 'For I received from the Lord that which I also delivered to you: that the Lord Jesus on the same night in which He was betrayed took bread; 
-24 and when He had given thanks, He broke it and said, “Take, eat; this is My body which is broken for you; do this in remembrance of Me.”
+23 'For I received from the Lord that which I also delivered to you: that the Lord Jesus on the same night in which He was betrayed took bread;  
+24 and when He had given thanks, He broke it and said, “Take, eat; this is My body which is broken for you; do this in remembrance of Me.”  
 25 In the same manner He also took the cup after supper, saying, “This cup is the new covenant in My blood. This do, as often as you drink it, in remembrance of Me.”'
 
 Paul once again reiterated to the Corinthian church the teachings of the Holy Communion and Paul says that he received the Lord what is delivering of us. This teaching is in accordance to the teachings of the other gospels and the Lord personally revealed this. Paul also wants to reemphasise the partaking of the Holy Communion. V24 mentions; 
@@ -88,5 +88,5 @@ Let man examine himself because this is a Holy Communion. We have to partake thi
 Let us partake of the Holy Communion and remember the grace of God. Let us proclaim the Lord’s death in our lives and live out His life. 
 
 
-----
+----  
 ****

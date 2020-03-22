@@ -1,10 +1,10 @@
----
-layout: post
-title: Mourning Turned to Dance (1) 哀哭变为跳舞 (一）
-category: sermon2019singapore
-tags: [mourne,sad,believe,david]
-hymns: [326,489]
-speaker: 
+---  
+layout: post  
+title: Mourning Turned to Dance (1) 哀哭变为跳舞 (一）  
+category: sermon2019singapore  
+tags: [mourne,sad,believe,david]  
+hymns: [326,489]  
+speaker:  
 ---
 
 We turn to Psalm 30:11;
@@ -53,7 +53,7 @@ The people of Israel tend to praise God with instruments and dance.
 
 We read Ephesians 5:19-20; 
 
-19 'speaking to one another in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord, 
+19 'speaking to one another in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord,  
 20 giving thanks always for all things to God the Father in the name of our Lord Jesus Christ, '
 
 Paul encouraged the believers then to praise God in their hearts. Our worship is a spiritual expression of our thanksgiving to God, and it’s not the kind of drunkenness that’s in the world. It is unlike concerts where people indulge in their desires. 
@@ -92,7 +92,7 @@ The author of Hebrews tells us to sacrifice praise to our God. The fruit of the 
 
 Though when they crossed the Red Sea, all the Israelites were praising God but on the way to the land of Canaan, when Moses climbed up the Mount Sinai and stayed for 40 days, the people were dancing at the foot of the mountains but they were indulging in their lusts and crafted an idol to worship. They were fulfilling their fleshly desires and was not to praise God. In this time, their dancing became mourning. 
 
-Today, are Christians also bounded by their desires? In their walk on this life of faith, they feel dissatisfied with many things in their lives and pursue after the enjoyment in life. Some Christians choose to give up Jesus, they don’t want to listen to His words and act according to their own desires. When you tell them Christians shouldn’t do this, they’ll answer, “Why not? As long as I’m happy, I’m okay.” Their end will be one of mourning.
+Today, are Christians also bounded by their desires? In their walk on this life of faith, they feel dissatisfied with many things in their lives and pursue after the enjoyment in life. Some Christians choose to give up Jesus, they don’t want to listen to His words and act according to their own desires. When you tell them Christians shouldn’t do this, they’ll answer, “Why not? As long as I’m happy, I’m okay.” Their end will be one of mourning.  
 When you try to make things that are unreasonable reasonable, although you may gain a momentary joy, you’ll face a strict judgement from God in the end. 
 
 How can we thank God in our times of mourning and dancing? We turn to Acts 3:8; 
@@ -108,5 +108,5 @@ Are we like this too? For those of us who have received grace, we should stand u
 As a conclusion, God can turn our mourning into dancing. Through faith, we should rely on Him. Whether in times of troubles or peace, we should not forget to seek after God. We should come before Him to praise Him to bear the fruit of our lips, to rejoice the grace God has given us. In this time where faith can grow cold easily, we have to remind ourselves that our life was originally with morning and no hope. God allowed us to dance and we shouldn’t be overcome by our own desires to cause us to sin to God such that we became a pitiful person whose dancing turn into mourning. 
 
 
-----
+----  
 ****

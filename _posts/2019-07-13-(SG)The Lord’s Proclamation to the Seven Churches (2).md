@@ -1,34 +1,34 @@
----
-layout: post
-title: The Lord’s Proclamation to the Seven Churches (2) 主对七教会的自称（二）
-category: sermon2019singapore
-tags: [warning,secondcoming,feargod,judgement,revelation]
-hymns: [9,87]
----
+---  
+layout: post  
+title: The Lord’s Proclamation to the Seven Churches (2) 主对七教会的自称（二）  
+category: sermon2019singapore  
+tags: [warning,secondcoming,feargod,judgement,revelation]  
+hymns: [9,87]  
+---  
 The previous sermon discussed the way Jesus proclaimed Himself to the first church Ephesus. This sermon will continue to discuss the way Jesus proclaimed Himself to the second church Smyrna.
 
-2. Smyrna “the First and the Last, who was dead, and came to life”
-Rev 2:8
+2. Smyrna “the First and the Last, who was dead, and came to life”  
+Rev 2:8  
 ^no one can make such a proclamation except YHWH. Therefore in Isa 44:6, the Lord says, “I am the First and the Last. Besides Me there is no God.” When the Lord Jesus utters the same claim, He is saying that He is YHWH. Jesus proclaims He is the first and the last. This also tells us He’s the beginning of history and also at the end of history. 
 
-Col 1:15
+Col 1:15  
 Paul tells us here that the Lord Jesus it the firstborn over all creation. He is before all things. In other words, before the history of the world, the Lord Jesus was begotten of God. Therefore we say He is the beginning of history. What follows is the creation of heaven and earth. 
 
 What was the purpose of Him being the firstborn? To deliver mankind into eternity. 
 
-Eph 1:4-5
-Paul speaks of two important points here:
-1. He chose us in Him before the foundation of the world
+Eph 1:4-5  
+Paul speaks of two important points here:  
+1. He chose us in Him before the foundation of the world  
 2. He has predestined us to adoption as sons by Jesus Christ 
 
 This is the reason why Jesus is the firstborn. In fact, He was the firstborn BEFORE the foundation of the world. This shows God knew mankind would fall even before they did. God knew Man would lose their status as the son of God and be judged for their sin. But because God loved the world, God already predetermined that Jesus would come and deliver us. Therefore even before the foundation of the world, Jesus was already the firstborn to deliver us unto eternal life. God so loved the world that He gave His only begotten Son that whosoever believes in Him will have eternal life 
 
-A question to ponder on: if God didn’t create mankind, would there be a need for Jesus to be the firstborn? 
+A question to ponder on: if God didn’t create mankind, would there be a need for Jesus to be the firstborn?  
 No. There would be no such titles as the Father, Son and Holy Spirit. Therefore we believe in the title of the one true God rather than trinity. Because right from the beginning, God is one. It’s because God wanted to create Man and foreknew Man would sin, and predestined Jesus to deliver us, we have Jesus as the firstborn. We hence later see the work of the Father, Son and Holy Spirit. This doesn’t show God was originally trinity. Therefore this passage shows us clearly God is one from the beginning. 
 
 We also see a beginning of history. It has a beginning and it’ll come to a conclusion. Jesus forms the beginning of history. The purpose of history itself is for Jesus to come into the world to deliver mankind. The end of history will come when Jesus comes again to judge the world. That’s why Jesus addresses Himself as the First and the Last. 
 
-Matt 24:34-37
+Matt 24:34-37  
 Many people reckon that history has no beginning and no end, and therefore reckon there’s no purpose in history itself. History is just repeating itself! Heaven and earth will last forever. One generation comes and goes. But the Lord Jesus tells us very clearly that He’s the First and the Last. This doesn’t just tell us He’s God. It also tells us He’s the beginning and end of history. Many don’t believe but Jesus tells us, “Assuredly I say to you, heaven and earth will pass away but My words will by no means pass away. What day and hour no one knows. But when that day comes, those who believe will be delivered and those that don’t will be judged.” Just like in the days of Noah. Noah obeyed to construct and enter the ark. Not just on his own but his whole family of 8 too. Not that he didn’t want to bring his extended family but they didn’t believe. 
 
 Some people think Noah’s ark is just a fable; a story Christians made up. But the Lord Jesus testifies that this is truth. “As the days of Noah were, so also will the coming of the Son of Man be.” At that time few believed, only 8. Today the True Jesus Church consists of such a small population relative to the rest of the world. “You’re saying all the other people won’t be saved? God is love. He won’t just deliver members of the True Jesus Church!” Sometimes even our own members are embarrassed to say this, because we know we’re a minority amongst the Christian population. Although Jesus said few will be saved, we wonder: really so few?
@@ -47,10 +47,10 @@ The phrase “I am the First and the Last” also means God knows all history an
 
 It may seem like the church is facing many obstacles; it may seem like the devil is in victory. We can see how difficult it is to be a good Christian to preach the gospel. We see Christians leave the faith and have fallen. All these make us disappointed. But let’s not just look at the present, let’s look at the end. 
 
-Some people ask: why does God allow the devil to continue attacking us? Why does God allow so much hardship to happen in this world and on the church?
+Some people ask: why does God allow the devil to continue attacking us? Why does God allow so much hardship to happen in this world and on the church?  
 Such people can only see the present but not the future. But God fearing Christians won’t ask these questions. They suffer and some are even martyred. Why don’t they murmur against God? Is it because they don’t think? They are wise people. They have thought through things carefully. They truly understand what the final end will be like, and who controls the end - the Lord Jesus. 
 
-A saying: you would rather suffer along the path to victory then enjoy yourself along the path to destruction
+A saying: you would rather suffer along the path to victory then enjoy yourself along the path to destruction  
 宁愿在最终必胜的道上受苦，也不愿意在最终必败的道上享乐
 
 Jesus tells us that He is the beginning and the end. From the beginning to the end, He controls everything. Therefore whenever we are suffering, let us look towards Lord Jesus who is the First and the Last. If we can see the end, we would have no fear. 
@@ -59,23 +59,23 @@ Have you seen how a renowned painter paints? He draws one stroke here one stroke
 
 Revelation is hence a very important book. We shouldn’t say “ah it’s too deep. Skip this book.” Some people say: you’re so proud! You’re so young and you want to read Revelation? Skip Revelation and read Mark!” But what does the beginning of Rev say?
 
-Rev 1:3
-“Blessed is he who reads and those who hear the words of this prophecy, and keep those things which are written in it; for the time is near.”
+Rev 1:3  
+“Blessed is he who reads and those who hear the words of this prophecy, and keep those things which are written in it; for the time is near.”  
 Of course in order to keep these words, we must know them. And to know, we need to read. Therefore we ought to read this book, because the day is near. Of course there’re many things we don’t understand here. 
 
 At least have an impression of what’s happening. Then what we see will correlate with what we read. If we don’t read, we have no such impression and have no idea how it links with history!
 
 Therefore the book of Revelation tells us that we must read. Even if we don’t understand, read first. Because the Lord Jesus has presented this as a vision to be imprinted in our minds so that we have an impression. 
 
-“Who was dead and came to life”
+“Who was dead and came to life”  
 “Who was dead” means He once came into the world to bear our sins and died. “Came to life” means that He overcame death; He resurrected. 
 
 This phrase tells us that His resurrection proves that He is the Lord of life. Those who believe in Him will also resurrect with Him. This proclamation was the greatest source of comfort to the church of Smyrna who was facing persecution and whose members were being killed. 
 
-Many scholars believe the bishop of Smyrna was Polycarp, a disciple of John. In 155AD, he was burnt to death in Smyrna. When he was on the way to his execution, the officer in charge advised him, “Just proclaim Caesar is lord. Make an offering to the image of Caesar and you’ll be spared.” He refused. When he arrived at the execution place, the officer in charge also said likewise, “Just curse the Lord Jesus and you’ll be spared from death.” 
-“86 years I’ve served the Lord. He has never disappointed me. How can I blaspheme the name of the Lord Jesus so that I live?”
-“Do you know you’ll be burnt to death for this?”
-“I do. But do you know that the fire you burn me with will last for at most an hour. But the fire that’ll burn in the day of judgement will be forever!”
+Many scholars believe the bishop of Smyrna was Polycarp, a disciple of John. In 155AD, he was burnt to death in Smyrna. When he was on the way to his execution, the officer in charge advised him, “Just proclaim Caesar is lord. Make an offering to the image of Caesar and you’ll be spared.” He refused. When he arrived at the execution place, the officer in charge also said likewise, “Just curse the Lord Jesus and you’ll be spared from death.”  
+“86 years I’ve served the Lord. He has never disappointed me. How can I blaspheme the name of the Lord Jesus so that I live?”  
+“Do you know you’ll be burnt to death for this?”  
+“I do. But do you know that the fire you burn me with will last for at most an hour. But the fire that’ll burn in the day of judgement will be forever!”  
 He was burnt to death. But he left behind beautiful footsteps and a beautiful testimony for us. 
 
 The reason Smyrna was able to hold on in the face of persecution was not just due to their good shepherd who held on to the end, also when they read the letter to them, how God addressed Himself as the one who was dead and came to life, brought great comfort to them. At most, they’d die due to the tribulation. The most the devil can do is to persecute us to die. “But we have the Lord who came back to life. We will die and come back to life! We will enjoy glory with Him!”
@@ -90,5 +90,5 @@ Let us hence heed the words of Jesus and make preparations. Not just to pray for
 
 
 
-----
+----  
 ****

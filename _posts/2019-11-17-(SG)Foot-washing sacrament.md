@@ -1,16 +1,16 @@
----
-layout: post
-title: Foot-washing sacrament 洗脚礼
-category: sermon2019singapore
-tags: [footwashing,doctrine]
-hymns: []
-speaker: 
+---  
+layout: post  
+title: Foot-washing sacrament 洗脚礼  
+category: sermon2019singapore  
+tags: [footwashing,doctrine]  
+hymns: []  
+speaker:  
 ---
 
 The foot-washing sacrament is a promise of the Lord that lasts for life. We turn to the gospel of John. John 13:1-3; 
 
-1 'Now before the Feast of the Passover, when Jesus knew that His hour had come that He should depart from this world to the Father, having loved His own who were in the world, He loved them to the end. 
-2 And supper being ended, the devil having already put it into the heart of Judas Iscariot, Simon’s son, to betray Him, 
+1 'Now before the Feast of the Passover, when Jesus knew that His hour had come that He should depart from this world to the Father, having loved His own who were in the world, He loved them to the end.  
+2 And supper being ended, the devil having already put it into the heart of Judas Iscariot, Simon’s son, to betray Him,  
 3 Jesus, knowing that the Father had given all things into His hands, and that He had come from God and was going to God, '
 
 Here gives us the background for foot-washing. V1-3 is related to v4; 
@@ -55,8 +55,8 @@ In the Old Testament when the high priest goes into the Holy of holies, he will 
 
 Today, Jesus is our high priest. In His death, the holy of holies is open. That’s when Jesus gave His life for us. We turn to Hebrews 10:20-22; 
 
-20 'by a new and living way which He consecrated for us, through the veil, that is, His flesh, 
-21 and having a High Priest over the house of God, 
+20 'by a new and living way which He consecrated for us, through the veil, that is, His flesh,  
+21 and having a High Priest over the house of God,  
 22 let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience and our bodies washed with pure water. '
 
 Jesus and went into the holy of holies not with the blood of animals but with His own blood. Today those of us baptised in Jesus Christ have followed Him into the holy of Holies. When we go inside, He says our bodies are washed with water but our hearts are sprinkled clean with the blood of Jesus Christ. When the 15 newly baptised went into the water of Jesus Christ, the blood of Christ is sprinkled into the hearts and are completely clean. 
@@ -79,7 +79,7 @@ At that time, people believed that if you’re not a circumcised Jew, you cannot
 
 For those of us who are not Jews, the Bible has these following reminders for you. As gentiles, these are the 3 things the Bible tells us we have to be careful to observe. They’re so important that apart from giving the Ten Commandments, the Jerusalem church puts them down to obey. We read Acts 15:28-29;
 
-28 'For it seemed good to the Holy Spirit, and to us, to lay upon you no greater burden than these necessary things: 
+28 'For it seemed good to the Holy Spirit, and to us, to lay upon you no greater burden than these necessary things:  
 29 that you abstain from things offered to idols, from blood, from things strangled, and from sexual immorality. If you keep yourselves from these, you will do well. Farewell.'
 
 V21; 
@@ -102,12 +102,12 @@ Abstain from blood and strangled animals
 
 It’s difficult now and almost impossible to buy blood from the market to cook and eat it. But sometimes in restaurants, certain animals are killed by strangling, so the blood is not let out. Such things are not to be eaten. Why does the Bible want Christians to abstain from blood and things strangled? We turn to the first time God gave this command in Genesis 9:1-7; 
 
-1 'So God blessed Noah and his sons, and said to them: “Be fruitful and multiply, and fill the earth. 
-2 And the fear of you and the dread of you shall be on every beast of the earth, on every bird of the air, on all that move on the earth, and on all the fish of the sea. They are given into your hand. 
-3 Every moving thing that lives shall be food for you. I have given you all things, even as the green herbs. 
-4 But you shall not eat flesh with its life, that is, its blood. 
-5 Surely for your lifeblood I will demand a reckoning; from the hand of every beast I will require it, and from the hand of man. From the hand of every man’s brother I will require the life of man.
-6 “Whoever sheds man’s blood, By man his blood shall be shed; For in the image of God He made man. 
+1 'So God blessed Noah and his sons, and said to them: “Be fruitful and multiply, and fill the earth.  
+2 And the fear of you and the dread of you shall be on every beast of the earth, on every bird of the air, on all that move on the earth, and on all the fish of the sea. They are given into your hand.  
+3 Every moving thing that lives shall be food for you. I have given you all things, even as the green herbs.  
+4 But you shall not eat flesh with its life, that is, its blood.  
+5 Surely for your lifeblood I will demand a reckoning; from the hand of every beast I will require it, and from the hand of man. From the hand of every man’s brother I will require the life of man.  
+6 “Whoever sheds man’s blood, By man his blood shall be shed; For in the image of God He made man.  
 7 And as for you, be fruitful and multiply; Bring forth abundantly in the earth And multiply in it.”'
 
 V1-7 is one whole unit. God starts off in v1 by saying be fruitful and multiply. This is to bring life into earth. God wants human life to pro-create because human life is sacred to God. Between these two verses, God says two things:
@@ -124,12 +124,12 @@ Pro-creation happens because of a union between a man and his wife. Life is sacr
 
 We turn to 1 Corinthians 6:13-19; 
 
-13 'Foods for the stomach and the stomach for foods, but God will destroy both it and them. Now the body is not for sexual immorality but for the Lord, and the Lord for the body. 
-14 And God both raised up the Lord and will also raise us up by His power. 
-15 Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a harlot? Certainly not! 
-16 Or do you not know that he who is joined to a harlot is one body with her? For “the two,” He says, “shall become one flesh.” 
-17 But he who is joined to the Lord is one spirit with Him. 
-18 Flee sexual immorality. Every sin that a man does is outside the body, but he who commits sexual immorality sins against his own body. 
+13 'Foods for the stomach and the stomach for foods, but God will destroy both it and them. Now the body is not for sexual immorality but for the Lord, and the Lord for the body.  
+14 And God both raised up the Lord and will also raise us up by His power.  
+15 Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a harlot? Certainly not!  
+16 Or do you not know that he who is joined to a harlot is one body with her? For “the two,” He says, “shall become one flesh.”  
+17 But he who is joined to the Lord is one spirit with Him.  
+18 Flee sexual immorality. Every sin that a man does is outside the body, but he who commits sexual immorality sins against his own body.  
 19 Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own? '
 
 The two shall become one flesh - that is between a man and a woman and what’s joined to God is one spirit, that is Christ and a Christian. Here says the body is for the Lord and the Lord for a body. Very much like in a marriage; me for you and you for me. 
@@ -148,15 +148,15 @@ The Holy Communion is connected to resurrection.
 
 We read Romans 6:3-5; 
 
-3 'Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?
-4 Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.'
+3 'Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?  
+4 Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.'  
 5 'For if we have been united together in the likeness of His death, certainly we also shall be in the likeness of His resurrection, '
 
 When we emerge from the water, we are like a new man with the newness of life. Through baptism, our lives are connected with the Lord Jesus and we’re connected through resurrection. Our lives are now linked to the Lord. Because it has a relationship with the life of the Lord, one of the teachings of the Holy Communion is that we’re partaking of the Lord’s life and blood. 
 
 We should not eat any blood but when we partake of the Holy Communion and bless the cup, it’s the Lord’s blood because we’re eating the life of the Lord. This is what’s written in John 6:53-54; 
 
-53 'Then Jesus said to them, “Most assuredly, I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you. 
+53 'Then Jesus said to them, “Most assuredly, I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.  
 54 Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day. '
 
 We see the Lord Jesus saying these things to the multitude then; unless you eat and drink of the flesh and blood of the Lord, you have no life in you. When we partake of the Holy Communion, we have His life in us. Jesus says, “I will raise Him up on the last day.” The Holy Communion is connected to the resurrection. 
@@ -169,7 +169,7 @@ The Holy Communion is connected to holiness.
 
 We turn to 1 Corinthians 5:7-8;
 
-7 'Therefore purge out the old leaven, that you may be a new lump, since you truly are unleavened. For indeed Christ, our Passover, was sacrificed for us. 
+7 'Therefore purge out the old leaven, that you may be a new lump, since you truly are unleavened. For indeed Christ, our Passover, was sacrificed for us.  
 8 Therefore let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.'
 
 Paul tells us that the lamb in the Old Testament prefigures the coming of Jesus. When the Israelites were to leave Egypt, the Lord commanded them to kill a lamb and smear its blood on the door’s outpost. Today we don’t make such sacrifices anymore because Jesus has made a sacrifice for us once and for all. 
@@ -187,5 +187,5 @@ To our newly baptised brethren, this is a new beginning. You need to proactively
 
 
 
-----
+----  
 ****

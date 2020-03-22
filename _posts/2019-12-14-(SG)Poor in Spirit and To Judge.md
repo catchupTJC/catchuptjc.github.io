@@ -1,10 +1,10 @@
----
-layout: post
-title: Poor in Spirit and To Judge 虚心与论断
-category: sermon2019singapore
-tags: [poorinspirit,judgingothers]
-hymns: [25,218]
-speaker: prsilaskong
+---  
+layout: post  
+title: Poor in Spirit and To Judge 虚心与论断  
+category: sermon2019singapore  
+tags: [poorinspirit,judgingothers]  
+hymns: [25,218]  
+speaker: prsilaskong  
 ---
 
 Yesterday we raised two examples: the Pharisee and the unrepentant person on the cross. Both of these people have a common point, that is they like to judge others. As Christians, we should be careful to not judge others. When we find that we’re not humble or are poor in spirit, we tend to put our focus on others and not on ourselves. Therefore we have this tendency to judge others. 
@@ -15,11 +15,11 @@ This idea of judging others in the Bible has a sense of passing a sentence of ju
 
 We turn to Matthew 7:1-6;
 
-1 '“Judge not, that you be not judged. 
-2 For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you. 
-3 And why do you look at the speck in your brother’s eye, but do not consider the plank in your own eye? 
-4 Or how can you say to your brother, ‘Let me remove the speck from your eye’; and look, a plank is in your own eye? 
-5 Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck from your brother’s eye. 
+1 '“Judge not, that you be not judged.  
+2 For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you.  
+3 And why do you look at the speck in your brother’s eye, but do not consider the plank in your own eye?  
+4 Or how can you say to your brother, ‘Let me remove the speck from your eye’; and look, a plank is in your own eye?  
+5 Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck from your brother’s eye.  
 6 “Do not give what is holy to the dogs; nor cast your pearls before swine, lest they trample them under their feet, and turn and tear you in pieces.'
 
 In this passage Jesus talks about others. On one hand He tells us to “judge not” and the next is to flee from things unclean. 
@@ -100,9 +100,9 @@ Paul says such people must be removed from the church if not everyone will do th
 
 Regarding judgements which are unfair and shouldn’t be made, Paul has also reminded the believers in Corinth. We turn to 1 Corinthians 4:3-6; 
 
-3 'But with me it is a very small thing that I should be judged by you or by a human court. In fact, I do not even judge myself. 
-4 For I know of nothing against myself, yet I am not justified by this; but He who judges me is the Lord.
-5 Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each one’s praise will come from God. 
+3 'But with me it is a very small thing that I should be judged by you or by a human court. In fact, I do not even judge myself.  
+4 For I know of nothing against myself, yet I am not justified by this; but He who judges me is the Lord.  
+5 Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each one’s praise will come from God.  
 6 Now these things, brethren, I have figuratively transferred to myself and Apollos for your sakes, that you may learn in us not to think beyond what is written, that none of you may be puffed up on behalf of one against the other. '
 
 Paul wrote this to tell the people in Corinth to not judge God’s servants (But, It’s not to not judge even when His servants did wrong.) In chapter 3, they were judging which worker was better. In doing so caused many dissensions among the people. It caused many Temples to be destroyed and the church split. Paul reminded them if they destroyed the temple of God, God will destroy them. This is in 1 Corinthians 3:17; 
@@ -131,7 +131,7 @@ When Jesus came to the earth, the Jews couldn’t accept that He was the messiah
 
 When Jesus showed His power to heal, they also couldn’t accept Him. Men are like this; they value outward appearance more than internal appearance. Men tend to judge based on outward appearance. This is very dangerous; inevitably everyone has weaknesses. We may often be mistaken. Sometimes we may be self-righteous to believe too much in ourselves that we’re correct; we’re biased towards our own actions. This can cause negative consequences. When such judgements happen, it may be awkward when people see each other. 
 
-Judging people may create unnecessary misunderstandings. 
+Judging people may create unnecessary misunderstandings.  
 The speaker was in Thailand. After a sermon, a believer stood up and was very unhappy, “Why are you talking about me!” 
 
 He thought the preacher was pointing him out. The speaker wasn’t speaking about this person but he thought he was. (It takes a lot of effort to prepare a sermon, why would the speaker spend so much time to prepare a sermon for just one person?) When you listen to a sermon, you have to listen to it with a humble spirit. If you listen to a sermon and you find that you’re indeed lacking something, you should humbly seek for God to help you change yourselves and overcome your own weaknesses. If you hear it and get angry, often it is a problem. If not, you wouldn’t be angry. Because whatever is being said is from the Bible. Instead, you’ll tell yourself to be careful to not fall into such weaknesses. 
@@ -146,8 +146,8 @@ Even when working outside, you’ll often meet people who will judge you. But ar
 
 In conclusion, we read Luke 7:33-35; 
 
-33 'For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon.’ 
-34 The Son of Man has come eating and drinking, and you say, ‘Look, a glutton and a winebibber, a friend of tax collectors and sinners!’ 
+33 'For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon.’  
+34 The Son of Man has come eating and drinking, and you say, ‘Look, a glutton and a winebibber, a friend of tax collectors and sinners!’  
 35 But wisdom is justified by all her children.”'
 
  Here Jesus says that “wisdom is justified by all her children”. 
@@ -156,5 +156,5 @@ John the Baptist didn’t eat bread or drink wine; the people said there’s a d
 
 
 
-----
+----  
 ****

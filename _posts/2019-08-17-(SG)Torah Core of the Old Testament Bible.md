@@ -1,9 +1,9 @@
----
-layout: post
-title: Torah - Core of the Old Testament Bible 托拉- 旧约圣经的核心 
-category: sermon2019singapore
-tags: [wordofgod]
-hymns: [364,363]
+---  
+layout: post  
+title: Torah - Core of the Old Testament Bible 托拉- 旧约圣经的核心  
+category: sermon2019singapore  
+tags: [wordofgod]  
+hymns: [364,363]  
 ---
 
 We turn to Psalm 119:11;
@@ -56,15 +56,15 @@ This tells us the will of God for Abraham. The will of God for humanity started 
 
 Let’s turn to Deuteronomy 4. Here God tells them that the promised people will have a promised land and when you go into the promised land, you must keep His words. This can be seen from v5-14; 
 
-5 '“Surely I have taught you statutes and judgments, just as the Lord my God commanded me, that you should act according to them in the land which you go to possess. 
-6 Therefore be careful to observe them; for this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, ‘Surely this great nation is a wise and understanding people.’ 
-7 “For what great nation is there that has God so near to it, as the Lord our God is to us, for whatever reason we may call upon Him? 
-8 And what great nation is there that has such statutes and righteous judgments as are in all this law which I set before you this day? 
-9 Only take heed to yourself, and diligently keep yourself, lest you forget the things your eyes have seen, and lest they depart from your heart all the days of your life. And teach them to your children and your grandchildren, 
-10 especially concerning the day you stood before the Lord your God in Horeb, when the Lord said to me, ‘Gather the people to Me, and I will let them hear My words, that they may learn to fear Me all the days they live on the earth, and that they may teach their children.’ 
-11 “Then you came near and stood at the foot of the mountain, and the mountain burned with fire to the midst of heaven, with darkness, cloud, and thick darkness. 
-12 And the Lord spoke to you out of the midst of the fire. You heard the sound of the words, but saw no form; you only heard a voice. 
-13 So He declared to you His covenant which He commanded you to perform, the Ten Commandments; and He wrote them on two tablets of stone. 
+5 '“Surely I have taught you statutes and judgments, just as the Lord my God commanded me, that you should act according to them in the land which you go to possess.  
+6 Therefore be careful to observe them; for this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, ‘Surely this great nation is a wise and understanding people.’  
+7 “For what great nation is there that has God so near to it, as the Lord our God is to us, for whatever reason we may call upon Him?  
+8 And what great nation is there that has such statutes and righteous judgments as are in all this law which I set before you this day?  
+9 Only take heed to yourself, and diligently keep yourself, lest you forget the things your eyes have seen, and lest they depart from your heart all the days of your life. And teach them to your children and your grandchildren,  
+10 especially concerning the day you stood before the Lord your God in Horeb, when the Lord said to me, ‘Gather the people to Me, and I will let them hear My words, that they may learn to fear Me all the days they live on the earth, and that they may teach their children.’  
+11 “Then you came near and stood at the foot of the mountain, and the mountain burned with fire to the midst of heaven, with darkness, cloud, and thick darkness.  
+12 And the Lord spoke to you out of the midst of the fire. You heard the sound of the words, but saw no form; you only heard a voice.  
+13 So He declared to you His covenant which He commanded you to perform, the Ten Commandments; and He wrote them on two tablets of stone.  
 14 And the Lord commanded me at that time to teach you statutes and judgments, that you might observe them in the land which you cross over to possess.'
 
 God has made them special and a special law to keep. Then, they’ll forever be God’s special people in God’s promised land. We can see God’s will be fulfilled by His people. So later when they entered the promised land, the history recorded in the history books all happened in what God had said in Deuteronomy just like what God said in Genesis 18. When the people obeyed, the nation thrived.
@@ -75,8 +75,8 @@ When we read the Old Testament stories, we realise that everything is already in
 
 What has that got to do with us? The will of God for humanity starts with Abraham. Let’s read Genesis 12:1-3; 
 
-1 'Now the Lord had said to Abram: “Get out of your country, From your family And from your father’s house, To a land that I will show you. 
-2 I will make you a great nation; I will bless you And make your name great; And you shall be a blessing. 
+1 'Now the Lord had said to Abram: “Get out of your country, From your family And from your father’s house, To a land that I will show you.  
+2 I will make you a great nation; I will bless you And make your name great; And you shall be a blessing.  
 3 I will bless those who bless you, And I will curse him who curses you; And in you all the families of the earth shall be blessed.”'
 
 God fulfilled His will for humanity through Abraham (this can be read in v3). Through him, all families on the earth will be blessed. So we are part and parcel of those who live on the earth. How many of us come from Mars or Venus? If you’re a Martian, then the 5 Books of Moses have nothing to do with you. However we are earthlings, and so the Torah definitely has got to do with us. God gave the 5 Books of Moses to them, and it’s as good as giving it to us because today through the Lord Jesus Christ, we all become children of Abraham. Paul makes it very clear to the Galatians. When we are baptised, we put on Christ and because of that, we become Abraham’s children. That means we become heirs according to the promise. Therefore whatever is promised to Abraham is given to us and it HAS to do with us. Whatever the people of God in the Old Testament went through, it’s all according to what is written in the 5 Books of Moses, and it is recorded in the entire Old Testament. Today the 5 Books of Moses becomes our textbook. 
@@ -100,8 +100,8 @@ We receive hope and comfort from the dealings of God with His people. Let us rea
 
 The 5 Books of Moses is the core of the Old Testament, not just because of the content but because of how it became. We mentioned earlier it’s called this because it came from Moses. But how did Moses get all these? For example the 6 days of creation, the Sabbath day, how did Moses get all these things? Did he see it in a vision? Did God tell him in his ears? Or through dreams? Let’s turn to Numbers 12:6-8; 
 
-6 'Then He said, “Hear now My words: If there is a prophet among you, I , the Lord , make Myself known to him in a vision; I speak to him in a dream. 
-7 Not so with My servant Moses; He is faithful in all My house. 
+6 'Then He said, “Hear now My words: If there is a prophet among you, I , the Lord , make Myself known to him in a vision; I speak to him in a dream.  
+7 Not so with My servant Moses; He is faithful in all My house.  
 8 I speak with him face to face, Even plainly, and not in dark sayings; And he sees the form of the Lord . Why then were you not afraid To speak against My servant Moses?”'
 
 God differentiated Moses from the other prophets. The first man said to be a prophet was Abraham. God told Abimelech that Abraham is a prophet but the things Abraham understood from God came either in a dream or in a vision. However, this was not the case with Moses. God said that He spoke to Moses mouth to mouth. Even Isaiah, Daniel, etcetera, all these things came in a dream or vision. For Abraham when he saw a vision, it was in a dream. God made it very clear here - Moses was the only one He spoke mouth to mouth with, unless He appeared in human (like in the form of the three angels) or unless He spoke to other prophets in a dream. 
@@ -136,7 +136,7 @@ We read Deuteronomy 18:15;
 
 We read that there’s no prophet like Moses who speaks to God face to face but one day there will be. V18; 
 
-'I will raise up for them a Prophet like you from among their brethren, and will put My words in His mouth, and He shall speak to them all that I command Him. 
+'I will raise up for them a Prophet like you from among their brethren, and will put My words in His mouth, and He shall speak to them all that I command Him.  
 So whatever the prophet speaks are God’s word and if they don’t listen to Him, He would require of them. That’s Jesus. So when Jesus joined John the prophet, they asked, “Are you the prophet?” That refers to the prophet here. 
 
 John 1:1 tells us; 
@@ -145,9 +145,9 @@ John 1:1 tells us;
 
 Jesus is that word of God. He speaks to God face to face and proceeds from the bosom of God. So Deuteronomy looks at Jesus. At the end of Deuteronomy in Deuteronomy 30:11-14; 
 
-11 '“For this commandment which I command you today is not too mysterious for you, nor is it far off. 
-12 It is not in heaven, that you should say, ‘Who will ascend into heaven for us and bring it to us, that we may hear it and do it?’ 
-13 Nor is it beyond the sea, that you should say, ‘Who will go over the sea for us and bring it to us, that we may hear it and do it?’ 
+11 '“For this commandment which I command you today is not too mysterious for you, nor is it far off.  
+12 It is not in heaven, that you should say, ‘Who will ascend into heaven for us and bring it to us, that we may hear it and do it?’  
+13 Nor is it beyond the sea, that you should say, ‘Who will go over the sea for us and bring it to us, that we may hear it and do it?’  
 14 But the word is very near you, in your mouth and in your heart, that you may do it.'
 
 Here summarises the law of Torah, that the word He has given us is not so mysterious. It’s not so high up in the heavens that you have to go up to get it, and it’s not so deep in the seas that you have to dig it up. Paul quoted this in Romans 10. 
@@ -156,5 +156,5 @@ The mystery of Jesus can be seen in the 5 Books of Moses. Enjoy your 5 Books of 
 
 
 
-----
+----  
 ****

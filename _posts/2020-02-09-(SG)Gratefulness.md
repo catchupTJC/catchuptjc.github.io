@@ -1,43 +1,43 @@
----
-layout: post
-title: Gratefulness
-category: youthservice2020singapore
-tags: [legion,thanksgiving,reflection]
-hymns: [335,435]
-speaker: brotimothyyeoh
----
+---  
+layout: post  
+title: Gratefulness  
+category: youthservice2020singapore  
+tags: [legion,thanksgiving,reflection]  
+hymns: [335,435]  
+speaker: brotimothyyeoh  
+---  
 It is during chaotic times where we should count our blessings. Since the outside is so chaotic, we start to look inside; we start to look at the God that has taken care of us thus far. The reason why people stocked up on Maggie Mee is because of fear.
 
-Mark 5:1-20
+Mark 5:1-20  
 Take 2min to read this passage from the perspective of the demon possessed man. 
 
-Some questions to consider:
+Some questions to consider:  
 1. Does this demon possessed person have a father and mother? Sure have right? Where were they then? v3 “He was living alone in the tombs.” No family meh?
 
-2. v4 “because he had often been bound with shackles and chains. And the chains had been pulled apart by him, and the shackles broken in pieces; neither could anyone tame him.”
+2. v4 “because he had often been bound with shackles and chains. And the chains had been pulled apart by him, and the shackles broken in pieces; neither could anyone tame him.”  
 Who chained him? Family? Villagers? How did he feel?
 
-3. v5 “And always, night and day, he was in the mountains and in the tombs, crying out and cutting himself with stones.”
+3. v5 “And always, night and day, he was in the mountains and in the tombs, crying out and cutting himself with stones.”  
 Who was crying out? The demon? Or was it the man in despair? Was he cutting himself to commit suicide?
 
 4. Jesus came all the way from the other side to the Gadarenes just to heal him. Evidence? Jesus only healed this guy and then was chased away by the villagers because the pigs died. 
 
 The guy must’ve thought: When no one understood what I was going through, this man Jesus did. And now all they want to do is drive Him away??
 
-v18 “And when He got into the boat, he who had been demon-possessed begged Him that he might be with Him.”
+v18 “And when He got into the boat, he who had been demon-possessed begged Him that he might be with Him.”  
 Why? Because Jesus was the only one he could trust when no one else was there for him. 
 
 v19-20 “However, Jesus did not permit him, but said to him, “Go home to your friends, and tell them what great things the Lord has done for you, and how He has had compassion on you.” And he departed and began to proclaim in Decapolis all that Jesus had done for him; and all marvelled.”
 
 Like the demon possessed person, we each have our own stories; we each have blessings God has given us. But we’re so busy with our lives, we forget the blessings. 9 out of the 10 leper’s forgot - 90%. Are you the 10% that remembers?
 
-Think about one thing you can give thanks to God for today (9 Feb 12am-11.34am). Went one round of sharing. 
-“Thank God I’m able to breathe.”
-“Thank God my family in China are still well.”
-“Thank God I didn’t scratch my father’s car while going up the multi-storey carpark.” (it’s v narrow!!)
-“Thank God brethren went out of the way to give me a lift.”
-“Thank God the rain didn’t get heavier when I got caught in it while on a run this morning.”
-“Thank God one aircon still works.” (context: there’re two aircons. One of them started leaking badly at the start of the service)
+Think about one thing you can give thanks to God for today (9 Feb 12am-11.34am). Went one round of sharing.  
+“Thank God I’m able to breathe.”  
+“Thank God my family in China are still well.”  
+“Thank God I didn’t scratch my father’s car while going up the multi-storey carpark.” (it’s v narrow!!)  
+“Thank God brethren went out of the way to give me a lift.”  
+“Thank God the rain didn’t get heavier when I got caught in it while on a run this morning.”  
+“Thank God one aircon still works.” (context: there’re two aircons. One of them started leaking badly at the start of the service)  
 “Thank God for a nice talk with my mum this morning.”
 
 This is to make us conscious that God has done many things in our life, many of which we take for granted. If we look at our entire lives in context, what do we feel is that one thing God did for us that moved us at a personal level, just like this demon possessed person?
@@ -54,7 +54,7 @@ Shi Sang read it from the perspective of a mother. When she first held her baby,
 
 But the miracle you hoped for didn’t happen. What would you be thinking? Would you think: “God why’re you so cruel? Why only give me 18h?”
 
-But this couple didn’t think: “Why only 18h?” They were thinking: “Thank God for at least 18h.”
+But this couple didn’t think: “Why only 18h?” They were thinking: “Thank God for at least 18h.”  
 They gave praise to God and acknowledged God is God. 
 
 When something happens in our lives - maybe a car accident, our loved ones die, we fall sick. There’re two ways we can think.
@@ -75,7 +75,7 @@ Think of that story. That story will remind you this is your God that will carry
 
 Take the time to think of that one story. Write it down. Keep it in your Bible for bad days. 
 
-1 Thess 5:18
-“Give thanks in all circumstances for this is the will of God in Christ Jesus for you.”
-----
+1 Thess 5:18  
+“Give thanks in all circumstances for this is the will of God in Christ Jesus for you.”  
+----  
 ****

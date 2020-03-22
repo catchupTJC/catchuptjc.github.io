@@ -1,21 +1,21 @@
----
-layout: post
-title: Prayer for the Holy Spirit (afternoon) 祈求圣灵
-category: spiritualmeeting2019singapore
-tags: [prayer,worship]
-hymns: []
-speaker: dnphillipshee
+---  
+layout: post  
+title: Prayer for the Holy Spirit (afternoon) 祈求圣灵  
+category: spiritualmeeting2019singapore  
+tags: [prayer,worship]  
+hymns: []  
+speaker: dnphillipshee  
 ---
 
 We turn to Matthew 15:21-28; 
 
-21 'Then Jesus went out from there and departed to the region of Tyre and Sidon. 
-22 And behold, a woman of Canaan came from that region and cried out to Him, saying, “Have mercy on me, O Lord, Son of David! My daughter is severely demon-possessed.” 
-23 But He answered her not a word. And His disciples came and urged Him, saying, “Send her away, for she cries out after us.” 
-24 But He answered and said, “I was not sent except to the lost sheep of the house of Israel.” 
-25 Then she came and worshiped Him, saying, “Lord, help me!” 
-26 But He answered and said, “It is not good to take the children’s bread and throw it to the little dogs.” 
-27 And she said, “Yes, Lord, yet even the little dogs eat the crumbs which fall from their masters’ table.” 
+21 'Then Jesus went out from there and departed to the region of Tyre and Sidon.  
+22 And behold, a woman of Canaan came from that region and cried out to Him, saying, “Have mercy on me, O Lord, Son of David! My daughter is severely demon-possessed.”  
+23 But He answered her not a word. And His disciples came and urged Him, saying, “Send her away, for she cries out after us.”  
+24 But He answered and said, “I was not sent except to the lost sheep of the house of Israel.”  
+25 Then she came and worshiped Him, saying, “Lord, help me!”  
+26 But He answered and said, “It is not good to take the children’s bread and throw it to the little dogs.”  
+27 And she said, “Yes, Lord, yet even the little dogs eat the crumbs which fall from their masters’ table.”  
 28 Then Jesus answered and said to her, “O woman, great is your faith! Let it be to you as you desire.” And her daughter was healed from that very hour.'
 
 
@@ -32,5 +32,5 @@ When we pray for the Holy Spirit, it may not even be as close to this because th
 If we learn from how focused she is, silence, the disciples wanting to chase her away and insults meant nothing to her. She just never allowed herself to lose faith in the fact that Jesus can do everything. She remained faithful and the Lord said, “great is your faith! Let it be to you as you desire” Even if we think God is silent, He was silent here too and the only time He wasn’t silent He gave an insult. But she received a grace. The Lord has His reason.
 
 
-----
+----  
 ****

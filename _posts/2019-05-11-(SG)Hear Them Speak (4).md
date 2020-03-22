@@ -1,19 +1,19 @@
----
-layout: post
-title: Hear Them Speak (4) 听听它们说（四）
-category: sermon2019singapore
-tags: [parable,unedited]
-hymns: [9,379]
+---  
+layout: post  
+title: Hear Them Speak (4) 听听它们说（四）  
+category: sermon2019singapore  
+tags: [parable,unedited]  
+hymns: [9,379]  
 ---
 
-9. Clock
+9. Clock  
 The clock says, “The hands of my dial have returned to its original position. But when that happens, it is no longer yesterday. Time move 24h a day. From origin to the end, from the end to the origin. But when it returns to the original point, it cannot return to yesterday. For the time is no longer yesterday.”
 
 Right now is a time in this very moment. We can’t hold back today. We may look forward to tomorrow. But is an unknown. Tomorrow will surely come. But we may not be there to see it come. Therefore we have to treasure the time we have today. 
 
 Let us hence not live in the past. The past exists but we shouldn’t dwell on it. We also shouldn’t live in the future. The future exists but it doesn’t exist today. What truly exists is the now. So let us treasure and seize the opportunity of living now. When we connect all the ‘now’s that we live, that is our life. Therefore for every moment ‘now’ whether good or bad is a time we must treasure. Because we don’t know whether tomorrow or an accident will come first. 
 
-2 Cor 6:9-10
+2 Cor 6:9-10  
 Would you say Paul’s life was fortunate or unfortunate? When people looked at Paul on that particular occasion, they thought he was bound to die. Yet, Paul said, “I live!” People thought he was being chastened and sorrowful, but he said, “I’m not killed. I’m rejoicing!” People said he was unfortunate but Paul says he was very very blessed. 
 
 How do you determine if you’re blessed or unfortunate?
@@ -66,21 +66,21 @@ Regardless of what the environment may be or what people say about us, we know t
 
 Isn’t that a hymn that says Jesus is our everything?
 
-10. Beancurd
+10. Beancurd  
 The beancurd says, “At the critical moment, you must be ‘enlightened’.”
 
 At a critical moment, an agent must be added for the beancurd to coagulate. If it’s missed, the boiling beans will not become beancurd. 
 
 Likewise, in our lives we need people to give us that ‘boost’ to be in the right direction. Especially when we’re out of line. When someone points that out to us, we can return to the path of success.
 
-1 Sam 25:30-35
+1 Sam 25:30-35  
 David was really angry, so much so he wanted to kill Nabal and his entire household. What happened that made him want to kill people? Nabal was just rude and mocked him (v10-11). 
 
 Seems like David is unreasonable. You ask for food from someone. They have the right to give or not to give. Of course them additionally insulting you isn’t good. Being unhappy is natural. But there’s no reason to be so angry to the extent you want to kill him right?
 
 How could David who was one usually reasonable and is God fearing be like this? Actually, he had reason. Even the servants of Nabal thought David was right. 
 
-v15-17
+v15-17  
 Turns out David and his men protected Nabal’s shepherds. Usually those who had a lot of sheep in the wilderness need to hire protectors. You need to pay your protectors and provide them food. David voluntarily protected them without wages. Asking for some food was not much a request. 
 
 That’s why David’s anger was justified. But he was a bit overboard. Thankfully, Abigail turned him in the right direction. Thankfully, David also accepted being guided. He was able to reflect and turn away from the evil. 
@@ -89,7 +89,7 @@ We have our moments of error too. We need to have people like Abigail, to point 
 
 More importantly, have a heart like David to be willing to listen to people and be guided. 
 
-Exo 18:17-24
+Exo 18:17-24  
 Key point is in v17 and v24. Moses’ father-in-law that the thing he did was not good. In v24 it records Moses heeded his voice and did all that he had say. 
 
 Think about this: Moses was one man and he administered all the matters in the entire camp. So many people were queuing up waiting for him to settle their matters. Moses did this from morning to night. He didn’t say, “Coffee time!”
@@ -104,7 +104,7 @@ We should also learn from Moses. “Even if I’m a leader and performed many mi
 
 Even though David and Moses didn’t hear what the beancurd said, they understand what the beancurd said. We need to accept what people point out at the critical moments to be able to succeed. 
 
-Prov 27:17
+Prov 27:17  
 When iron sharpens iron, a very jarring sound to the ears occurs. It makes it very difficult to bear at the moment. But we know this is necessary and so something worth enduring. Because after iron sharpens iron, they become even sharper. We understand this. So the author of this proverb says “so a man sharpens the countenance of his friend”. 
 
 Amongst friends, we will come into situations of conflict. If we are willing to learn, this conflict will lead both parties to develop a deeper understanding. Each will receive edification from the conflict and the friendship becomes more robust. But if both parties refuse to learn, this conflict will cause the skin of their faith to be thinner and be destroyed (lol?). That’s why we see good friends fall out after a conflict. 
@@ -131,8 +131,8 @@ The Lord Jesus didn’t say oh because you’re like sheep amongst wolves, He’
 
 Learn from the bean curd. Be adaptable and nimble. If the path doesn’t turn, man turns. If the man cannot turn, turn your heart. 
 
-How do you turn your heart?
-A saying goes like this:
+How do you turn your heart?  
+A saying goes like this:  
 2 convicts looked out the window. One looked at the mud on the ground. One looked at the moon in the sky. Both were stuck in the small cell and can’t turn their bodies. But based on what they look at, we know who feels better in their hearts. You can look at the dark ground. Or lift your eyes to the heavens. 
 
 If we can’t see the light and look right and left and still don’t know where to go, why not look up to the heavens?
@@ -140,5 +140,5 @@ If we can’t see the light and look right and left and still don’t know where
 
 
 
-----
+----  
 ****

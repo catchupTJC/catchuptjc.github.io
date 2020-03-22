@@ -1,10 +1,10 @@
----
-layout: post
-title: Riding the Waves of Modern Age (2) 乘驾现代的浪潮 （二）
-category: sermon2019singapore
-tags: [lifeonearth,overcometheworld]
-hymns: [470,422]
----
+---  
+layout: post  
+title: Riding the Waves of Modern Age (2) 乘驾现代的浪潮 （二）  
+category: sermon2019singapore  
+tags: [lifeonearth,overcometheworld]  
+hymns: [470,422]  
+---  
 We are living in a very exciting time where many things seem to excite us. It appears that we are also like this person surfing the waves as shown in the picture flashed on the screen. We are living in the 21st century, in the development of a society where it has already reached the stage of the fourth industrial revolution. In this 4th industrial revolution, what is the technology we’re facing? The older folks may not be familiar with the terms used in this sermon, but the younger ones would probably encounter this daily.
 
 Today we have the Internet of Things (IoT) and Artificial Intelligence (AI). People may find machines more dependable than human beings. However, the growth in the AI industry may affect the lives of men because the jobs available now may be replaced by robots in the future. Furthermore, what computers can do may be faster and more accurate than what you can do. These advancements may not just affect the nature of our lives but also impact our faith. 
@@ -23,18 +23,18 @@ Singapore is a modern society and hopes to be at the forefront of modern thinkin
 
 On the contrary, people who esteem values will be mocked by others or rebuked as being ‘old fashioned’ or ‘narrow-minded’. Since now that society has such influence, in our families we can have such topics for discussion. Not talking about such topics are not protecting our children, because they’ll pick these up to form social media or friends. It’s a fact that morality will decrease. We turn to Ephesians 5:3-6; 
 
-3 'But fornication and all uncleanness or covetousness, let it not even be named among you, as is fitting for saints; 
-4 neither filthiness, nor foolish talking, nor coarse jesting, which are not fitting, but rather giving of thanks. 
-5 For this you know, that no fornicator, unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and God. 
+3 'But fornication and all uncleanness or covetousness, let it not even be named among you, as is fitting for saints;  
+4 neither filthiness, nor foolish talking, nor coarse jesting, which are not fitting, but rather giving of thanks.  
+5 For this you know, that no fornicator, unclean person, nor covetous man, who is an idolater, has any inheritance in the kingdom of Christ and God.  
 6 Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience. '
 
 Paul reminds the believers of non-Christians behaviours they should avoid. No immoral man should have the inheritance of God. What we face in society today are many in-filthiness because they are separated and oppose the kingdom of God. What then should we do? Let’s read v7-12; 
 
-7 'Therefore do not be partakers with them. 
-8 For you were once darkness, but now you are light in the Lord. Walk as children of light 
-9 (for the fruit of the Spirit is in all goodness, righteousness, and truth), 
-10 finding out what is acceptable to the Lord. 
-11 And have no fellowship with the unfruitful works of darkness, but rather expose them. 
+7 'Therefore do not be partakers with them.  
+8 For you were once darkness, but now you are light in the Lord. Walk as children of light  
+9 (for the fruit of the Spirit is in all goodness, righteousness, and truth),  
+10 finding out what is acceptable to the Lord.  
+11 And have no fellowship with the unfruitful works of darkness, but rather expose them.  
 12 For it is shameful even to speak of those things which are done by them in secret. '
 
 These verses encourage us not to be partakers with them. In secret, they’ll do these dark things, but we’re in the light and should walk in the path of light. We must do what is pleasing and wholesome to God. Don’t participate in the works of darkness but instead oppose them. This is a reminder and warning from Paul to not participate in the things of darkness. These are the things we should be careful because we can find many of these things on social media. If we’re not careful, the next generation of the church will be lost because it’s impossible to stop the growth of knowledge. With the increase of knowledge, people will think they know everything and don’t want to depend on God they can’t see but on things they can see. We must be diligent in examining ourselves and look at our standard of morality (is our morality the same as in the past?). We may deem things we deem very wrong in the past as okay now. We must consider and examine our lives based on the standards and teachings of the Bible. This influence occurs to believers of every age. 
@@ -67,7 +67,7 @@ There are people misled and had their faith destroyed. In Romans 1:19-20 Paul sa
 
 Let’s see what Paul says in Titus 1:15-16; 
 
-15 'To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.
+15 'To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.  
 16 They profess to know God, but in works they deny Him, being abominable, disobedient, and disqualified for every good work.'
 
 When Paul says these, it seems to be talking about the conscience. The conscience can be defiled and becomes a spirit that deceives us and you’ll deceive yourselves. V16 - We believe in God and have faith but don’t want to do the things God tells us to do because of the teachings in the Bible that are too constraint. God says that these are detestable to him and no matter what good things you do are worthless in His eyes. We should not enter into this stage. Every one of us is exposed to the dangers of this world, so don’t think we can stand firm to this faith because our standards ultimately have to return to God. The Bible tells us that we need the church as a pillar and support to the truth. We can never say, “I have faith but don’t need a religion.” Only the word of God will remain to tell us our sins. To solve this problem, we need to understand the salvation of God. 
@@ -76,9 +76,9 @@ How can men free themselves from sin? God didn’t plan for men to come to him d
 
 Otherwise, you’d have fallen into another kind of crisis like the words spoken to the church of Laodicea in Revelation 3:14-17; 
 
-14 '“And to the angel of the church of the Laodiceans write, ‘These things says the Amen, the Faithful and True Witness, the Beginning of the creation of God: 
-15 “I know your works, that you are neither cold nor hot. I could wish you were cold or hot. 
-16 So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth. 
+14 '“And to the angel of the church of the Laodiceans write, ‘These things says the Amen, the Faithful and True Witness, the Beginning of the creation of God:  
+15 “I know your works, that you are neither cold nor hot. I could wish you were cold or hot.  
+16 So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth.  
 17 Because you say, ‘I am rich, have become wealthy, and have need of nothing’—and do not know that you are wretched, miserable, poor, blind, and naked— '
 
 The angel rebuked the church in Laodicea, “I know your deeds - neither cold nor hot”. It’s similar to what we describe as a person who doesn’t mind anything. In other words, if we are moveless and don’t feel anything when people do anything to our faith (for example, people malign our church and we just let it be because God will punish him anyway), that’s what it is. If we see something unrighteous or unlawful, we have to try to correct the person. There’ll be times we need to rebuke to restore the person (this is gaining the pleasure of God). When we look at the church of Laodicea, this can be a warning to us. We must strive for improvement and don’t spend your time on things that are not useful to you. If we want to open the door to salvation, we must put in the effort. We know it’s a narrow gate. 
@@ -91,12 +91,12 @@ In the Book of Matthew, we know of the parable of the three servants. One of the
 
 How are we going to speak to people who say that, “All religions hold certain hold some wisdom but no religion holds all wisdom”? When a person makes such a saying, it’s not that he has the wisdom or knowledge, but it is out of his ignorance. Who can be wiser than God? Behind this religion, is the true God Himself. When they make such a saying, it shows that they don’t know the Bible. Faith has a foundation in God. The Bible is the word of God. If we believe in the Bible, then we should believe that Jesus is the only way of salvation. We read Colossians 2:2-3; 
 
-2 'that their hearts may be encouraged, being knit together in love, and attaining to all riches of the full assurance of understanding, to the knowledge of the mystery of God, both of the Father and of Christ, 
+2 'that their hearts may be encouraged, being knit together in love, and attaining to all riches of the full assurance of understanding, to the knowledge of the mystery of God, both of the Father and of Christ,  
 3 in whom are hidden all the treasures of wisdom and knowledge.'
 
 These verses tell us that in Him are hidden all the treasures and knowledge of wisdom. The Lord Jesus is the treasure chest of all wisdom. If we seek wisdom, then we must know how to seek Christ. When you seek wisdom in other wisdom, then it’s not perfect wisdom. Though we may be in the fourth industrial revolution with AI, without the wisdom of God all things are in vain. We can only obtain true wisdom when we come to God and every one of us has to be diligent to read the word of God. In the last days where we are facing the trends of the world, we pray that we know how to surf the waves and be on top of the situation. 
 
 
 
-----
+----  
 ****

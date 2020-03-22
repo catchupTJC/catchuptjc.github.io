@@ -1,10 +1,10 @@
----
-layout: post
-title: Loving the Flesh More Than Loving the Soul-Loving the Soul (2) 爱肉体胜过爱灵魂 - 爱灵魂 （二）
-category: spiritualmeeting2019singapore
-tags: [lovetheworld,lovegod]
-hymns: [389,247]
-speaker: prelishashim
+---  
+layout: post  
+title: Loving the Flesh More Than Loving the Soul-Loving the Soul (2) 爱肉体胜过爱灵魂 - 爱灵魂 （二）  
+category: spiritualmeeting2019singapore  
+tags: [lovetheworld,lovegod]  
+hymns: [389,247]  
+speaker: prelishashim  
 ---
 
 Today we will talk about loving our souls. Why is it so important to love our souls? Isn’t it better to have power and education in this world? The two deacons this morning already mentioned that it’s good to have power and education, but to put all these things at the foremost of your life is not good for your spiritual health because one day we’ll pass away. No matter who you are, how great your business is, you’ll still die. 
@@ -15,12 +15,12 @@ What is our greatest value? Is it to seek after the things of this world for thi
 
 Jesus gave a parable in Luke 12:15-21; 
 
-15 'And He said to them, “Take heed and beware of covetousness, for one’s life does not consist in the abundance of the things he possesses.” 
-16 Then He spoke a parable to them, saying: “The ground of a certain rich man yielded plentifully. 
-17 And he thought within himself, saying, ‘What shall I do, since I have no room to store my crops?’ 
-18 So he said, ‘I will do this: I will pull down my barns and build greater, and there I will store all my crops and my goods. 
-19 And I will say to my soul, “Soul, you have many goods laid up for many years; take your ease; eat, drink, and be merry.” ’ 
-20 But God said to him, ‘Fool! This night your soul will be required of you; then whose will those things be which you have provided?’ 
+15 'And He said to them, “Take heed and beware of covetousness, for one’s life does not consist in the abundance of the things he possesses.”  
+16 Then He spoke a parable to them, saying: “The ground of a certain rich man yielded plentifully.  
+17 And he thought within himself, saying, ‘What shall I do, since I have no room to store my crops?’  
+18 So he said, ‘I will do this: I will pull down my barns and build greater, and there I will store all my crops and my goods.  
+19 And I will say to my soul, “Soul, you have many goods laid up for many years; take your ease; eat, drink, and be merry.” ’  
+20 But God said to him, ‘Fool! This night your soul will be required of you; then whose will those things be which you have provided?’  
 21 “So is he who lays up treasure for himself, and is not rich toward God.”'
 
 Here, Jesus gave a parable and a comparison. He talked about this foolish rich man. V15 He mentioned, “one’s life does not consist in the abundance of the things he possesses.” after this He spoke a parable. 
@@ -57,8 +57,8 @@ Our relationship with God is one-to-one. He will not allow the relationship betw
 
 This afternoon, we’ll use the encouragement from Elder John about not loving the world. We turn to 1 John 2:15-17; 
 
-15 'Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. 
-16 For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world. 
+15 'Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.  
+16 For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world.  
 17 And the world is passing away, and the lust of it; but he who does the will of God abides forever.'
 
 Here, Elder John gives us a very good encouragement. He said, “Do not love the world or the things of the world because if anyone loves the world, the love of the Father is not in him.” 
@@ -75,22 +75,22 @@ For all that is in the world—the lust of the flesh, the lust of the eyes, and 
 
 There are these 3 things in the world; the lust of the flesh, the lust of the eyes and the pride of life. This is the world of sin and evil and it belongs to the devil. The devil is the king of that world. These 3 things are being used all the time to tempt us to sin against God. From the beginning till now, the devil’s strategies have always been the same. Why? Because when men are weak, in addition to men not drawing close to God, men are swept by the waves of the world. We need to pay close attention to discern these things. 
 
-Lust of the flesh 
+Lust of the flesh  
 What is the lust of the flesh? We turn to Galatians 5:19-21; 
 
-19 'Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness, 
-20 idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies, 
+19 'Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,  
+20 idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,  
 21 envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.'
 
 Paul mentions this and also in 1 Corinthians 6. These things satisfy the lust of the flesh. Instant gratification is something like that. There may be bad websites to teach you how to cheat on your spouse. Is this correct? According to the Bible, this is wrong and against the Word. However, people are happy to do such things. What kind of world is this? This is a world full of evil and this evil has reached the heavens because they don’t have the teachings of God in them. They do these to fulfil their desires and place their own pleasures as the most important. In reality, they’ve broken marriages and caused problems to society. 
 
-Lust of the eyes
+Lust of the eyes  
 What does the Bible say about covetousness? Why does Paul liken it to idolatry? 
 
 “I go and buy lottery and win 10 million dollars. Then I’ll offer a tithe and the church will have money”. Is it wrong? It’s not wrong to want to offer to God but the motivation is wrong - you are being greedy. We read Colossians 3:5-7; 
 
-5 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry. 
-6 Because of these things the wrath of God is coming upon the sons of disobedience, 
+5 'Therefore put to death your members which are on the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry.  
+6 Because of these things the wrath of God is coming upon the sons of disobedience,  
 7 in which you yourselves once walked when you lived in them.'
 
 “I just want this thing, there’s nothing wrong. I see a beautiful girl and I want her, what’s wrong with that? I’m just admiring her beauty.” If you look one more time, you’re gone. You’re being covetous. Though, covetousness is more for wealth. When something replaces God in your heart, when this covetousness replaces God, this is now your god. This false god is now your idol. Isn’t this idolatry? You don’t worship the true God but you worship this false god, this is idolatry. If you do this, will you love your soul? You won’t. 
@@ -157,7 +157,7 @@ We should put in more effort in our spiritual pursuits. Jesus says, “What prof
 
 We turn to Romans 12:1-2;
 
-1 'I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service. 
+1 'I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.  
 2 And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.'
 
 What is to not be conformed by this world? It is to not be influenced by all the things of the world and to flee from these bad things and be renewed. This renewal comes from God and not from ourselves. Then, you’ll not belong to this world and you’ll go on this direction to loving your soul. 
@@ -165,5 +165,5 @@ What is to not be conformed by this world? It is to not be influenced by all the
 We ask God to guide us and our footsteps such that we’re able to value our faith in this end time.
 
 
-----
+----  
 ****

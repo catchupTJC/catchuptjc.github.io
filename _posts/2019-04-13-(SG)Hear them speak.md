@@ -1,18 +1,18 @@
----
-layout: post
-title: Hear Them Speak (1) 听听它们说(一) 
-category: sermon2019singapore
-tags: [parable, unedited]
-hymns: [129,127]
----
+---  
+layout: post  
+title: Hear Them Speak (1) 听听它们说(一)  
+category: sermon2019singapore  
+tags: [parable, unedited]  
+hymns: [129,127]  
+---  
 The Chinese ‘它们’ refers to an object or an animal, or food. 
 
-‘它们’/‘they’ cannot speak. But in fairytales and stories, they can. Some of the words they speak are of edification to Christians. So a few examples will be raised in this sermon.
-1. Ramen
-The Ramen says, “To succeed, you need someone to pull you.” “要成功，要人拉”
+‘它们’/‘they’ cannot speak. But in fairytales and stories, they can. Some of the words they speak are of edification to Christians. So a few examples will be raised in this sermon.  
+1. Ramen  
+The Ramen says, “To succeed, you need someone to pull you.” “要成功，要人拉”  
 Besides our own effort, we need others to help us. Especially when we’re in a situation unfavourable to us, we need someone to help us. 
 
-2 Sam 17:27-29
+2 Sam 17:27-29  
 When Absalom betrayed David, he escaped to Mahanaim. There they were hungry and weary. There Shobi, Rabbah and Barzillai brought beds and food for David and the people with him.
 
 Even though they weren’t expensive things, these were the most precious to David. Because of the throne, his son Absalom betrayed him. His good friend, Ahithophel, betrayed him for benefits. He was in a cold and merciless situation. But his heart wasn’t cold, because Shobi, Rabbag and Barzillai sent him warmth in the midst of the cold. 
@@ -23,14 +23,14 @@ When we have success, do we still remember those who helped us; those who 拉我
 
 We often forget those who have helped us in good will. But we remember those who have stepped on our feet forever. 
 
-“I will never forget that one time you hurt me.”
-“But over these many years, I helped you so much. Don’t you remember?”
+“I will never forget that one time you hurt me.”  
+“But over these many years, I helped you so much. Don’t you remember?”  
 Others may have been good to us 10 times. But as long as they’re bad to us once, we remember only the bad. That’s why we see people who once had a good relationship, once they have an issue or don’t agree on something, they become like strangers. Let us not forget the good others have done to us and be cold to them. Don’t forget the times they helped us when we were in need.
 
 Especially don’t forget those who have helped us before in the past. Even if they no longer help us one day, let’s remember the good they’ve done and the help they’ve rendered. 
 
-Especially when we look up and there was no one around us, they stretched out their hand. That’s why we have the success we have today. How can we forget the time they helped us?
-2. Dumpling
+Especially when we look up and there was no one around us, they stretched out their hand. That’s why we have the success we have today. How can we forget the time they helped us?  
+2. Dumpling  
 The dumpling says, “Even though I have ingredients in my stomach, my skin cannot be too thick otherwise no one will want me. But it cannot be too thin either or it’ll break too easily and I’ll get hurt."
 
 We too shouldn’t have skin that’s too thick or thin. If our skin is too thin, we’d easily be hurt. We add too many worries and stress on ourselves. When your skin is too thin, you find it hard to reject others; others take advantage of your good will. Are we able to blame others for being too thick skinned for taking advantage of you? No. Because you can reject him. He has a request of you but you can reject him. But because your skin is too thin, you reject him. When our skin is too thin, we don’t dare to take the initiative. We lose many opportunities. But those who are thick skinned dare to take the initiative and so get many opportunities. Can we blame others who are thick skinned for taking away our opportunities? No, they didn’t use underhanded means. It’s because of your thin skin that rendered you not proactive. We can’t blame them for being thick skinned, blame our thin skin instead. 
@@ -45,7 +45,7 @@ One who is thick skinned has moral principles. Whatever he does doesn’t surpas
 
 The Bible tells us it’s good to be thick skinned. Let us look at an example. 
 
-1 Sam 21:10-13
+1 Sam 21:10-13  
 To escape from Saul, David went to the enemies. Saul wouldn’t go to enemy lands so he was safe from Saul. But David wasn’t safe there either because they recognised he was the one who killed Goliath. How did he preserve his life? We would never have imagined it. He feigned madness. He scratched on the doors of the gates. Still acceptable. He also let his saliva fall on his beard. Would you believe he was the David who killed Goliath? No one would. The king said, “Why did you bring this madman before me? How can this be the hero who killed Goliath?” Often we say that heroes can be killed but they cannot be humiliated. They’re willing to be killed but not to beg for their lives. 
 
 Those who are thin skinned may say to David, “How can you be so thick skinned? What happened to the hero who killed Goliath?  Have you forgotten to rely on the almighty power of God? Where has your faith gone to?”
@@ -54,23 +54,23 @@ We have many rebuked. But those with thick skinned will understand. David was tr
 
 Here, David pretended madness to protect his life so that when the time is right, he can rise again. David learnt to be thick skinned to protect his life. Not just for himself. He was also thick skinned before God. How was he thick skinned before God?
 
-2 Sam 6:20-23
-When David brought the ark of the covenant back to Jerusalem, he was so excited, he came down from the throne to dance with the people. This action surprised the people but a majority of people were more joyful than surprised. “The high and mighty king came down to dance with us!” But his wife thought: how can his skin be so thick to dance with the people?
-See how she mocked her husband, “How glorious was the king of Israel uncovering himself as one of the base fellows.”
+2 Sam 6:20-23  
+When David brought the ark of the covenant back to Jerusalem, he was so excited, he came down from the throne to dance with the people. This action surprised the people but a majority of people were more joyful than surprised. “The high and mighty king came down to dance with us!” But his wife thought: how can his skin be so thick to dance with the people?  
+See how she mocked her husband, “How glorious was the king of Israel uncovering himself as one of the base fellows.”  
 He was a king, high and mighty. To express your happiness, you can rejoice on your throne. Why would you come down from your throne to dance amongst the base fellows? Did you lose your identity and face? This was the thinking of David’s wife. David knew how she thought so he said, “I am dancing before the Lord. Before the Lord I am like other people and I am lowly. I am only on the throne today because of the glory God gave me. So I will dance before Him. I will make myself more lowly so the grace of God will be more abundant. You mock me like that but all the misdseveants honour me.”
 
 In such a situation, do we think about the glory of God or our own glory? Micah only thought about her own identity and face. She had a different perspective.
 
 We always think about our own face when we do things. But have we thought what our face is like before God? David didn’t care how others looked at him. He just cared how God looked at him. When he did this, he was bringing the people before God. If he wasn’t thick skinned but thin skinned like Micah, he wouldn’t have been able to do this. Are we too concerned about our own face?
 
-3. Walnut
-“My appearance is not glorious but I have a full head.”
-LOL. When you break open a walnut, it looks like a human brain. Everyone knows walnut has good benefits for us. 
+3. Walnut  
+“My appearance is not glorious but I have a full head.”  
+LOL. When you break open a walnut, it looks like a human brain. Everyone knows walnut has good benefits for us.  
 Don’t be too concerned about our outer appearance but what our inner man is. So we shouldn’t look at the outer appearance. If you look at once outer appearance, you will lose ziyu. Ziyu was Confucius’ student. He was very talented but very ugly. When Confucius saw him he thought how can such a person be talented. But he was a teacher and so compelled himself to take him in. He realised he really was a talent. “If you look at the outer appearance, you will lose a talent like ziyu”
 
 Does your company hire people who are beautiful or people who are capable? Perhaps if your company does facial then perhaps it’ll be beauty. But for other companies, if you only look at the outer appearance, you’ll lose many who are talented. 
 
-James 2:9
+James 2:9  
 Many people look at other based on their outer appearance. When one is dressed elegantly, they’re treated differently. When one is dressed not so well, they’re treated coldly. We think: there’s nothing wrong with this. This is a realistic world. 
 
 But are Christians like others. If we are like others to treat others based on outer appearance, then we sin. We never thought it’s a sin to treat others based on their outer appearance. We think it’s human nature and everyone is like that. But why does James say it’s sin? If we show partiality we commit sin and are convicted by the law to be transgressors. This is or course not the law of Singapore but the law of the Bible. The Bible tells us to love others as ourselves. If we show partiality, we don’t love others as ourselves. We are then convicted. 
@@ -99,5 +99,5 @@ So when we eat ramen, dumpling and walnut, let us think of what they said.
 
 
 
-----
+----  
 ****

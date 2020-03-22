@@ -1,9 +1,9 @@
----
-layout: post
-title: Understanding the Process of Two Becoming One (1) 从二人到一体的认识 
-category: youthspiritualmeeting2019singapore
-tags: [relationship,courtship]
-hymns: [391,373]
+---  
+layout: post  
+title: Understanding the Process of Two Becoming One (1) 从二人到一体的认识  
+category: youthspiritualmeeting2019singapore  
+tags: [relationship,courtship]  
+hymns: [391,373]  
 ---
 
 The emphasis is on two separate beings - the singles, but it doesn’t mean that married people don’t need the sermons. We need to care for our children and brethren who are not married yet. 
@@ -40,10 +40,10 @@ The Bible tells us that the married men shall be honourable among all - meaning 
 
 God created the second person to be a helper. Before the fall of men, God already thought of this. However, does this mean that we don’t need a helper anymore since men has already fallen? Definitely not. We read Ecclesiastes 4:8-12; 
 
-8 'There is one alone, without companion: He has neither son nor brother. Yet there is no end to all his labors, Nor is his eye satisfied with riches. But he never asks, “For whom do I toil and deprive myself of good?” This also is vanity and a grave misfortune. 
-9 Two are better than one, Because they have a good reward for their labor. 
-10 For if they fall, one will lift up his companion. But woe to him who is alone when he falls, For he has no one to help him up. 
-11 Again, if two lie down together, they will keep warm; But how can one be warm alone? 
+8 'There is one alone, without companion: He has neither son nor brother. Yet there is no end to all his labors, Nor is his eye satisfied with riches. But he never asks, “For whom do I toil and deprive myself of good?” This also is vanity and a grave misfortune.  
+9 Two are better than one, Because they have a good reward for their labor.  
+10 For if they fall, one will lift up his companion. But woe to him who is alone when he falls, For he has no one to help him up.  
+11 Again, if two lie down together, they will keep warm; But how can one be warm alone?  
 12 Though one may be overpowered by another, two can withstand him. And a threefold cord is not quickly broken.'
 
 This passage doesn’t directly discuss message because v12 talks about a threefold cord. This passage talks when having partners in work to help us, somebody will lift you up when you fall. It can apply to marriage as well. But in terms of a threefold cord - one man, one female, and God, then the marriage is steady. In this relationship of a marriage, there’s a good reward. 
@@ -88,5 +88,5 @@ We also know of a testimony. There was a brethren to married outside and was lef
 
 
 
-----
+----  
 ****

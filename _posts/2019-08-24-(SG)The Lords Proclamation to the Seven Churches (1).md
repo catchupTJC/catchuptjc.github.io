@@ -1,9 +1,9 @@
----
-layout: post
-title: The Lord’s Proclamation to the Seven Churches (1) 主对七教会的自称 （一）
-category: sermon2019singapore
-tags: [warning,secondcoming,revelation]
-hymns: [358,318]
+---  
+layout: post  
+title: The Lord’s Proclamation to the Seven Churches (1) 主对七教会的自称 （一）  
+category: sermon2019singapore  
+tags: [warning,secondcoming,revelation]  
+hymns: [358,318]  
 ---
 
 Revelation is a book from the Lord to John about the 7 churches. At the time, there were other churches besides the 7, for example, Colosse which was beside Laodicia. Why was this letter written only to these 7 churches? 
@@ -68,15 +68,15 @@ The Lord is in the church, but who believes this? Firstly, this person doesn’t
 
 The Lord told John not to write what he has seen. What kind of God is walking amongst the 7 lampstands? Is He truly just a kind old grandpa? We read Revelation 1:12-16; 
 
-12 'Then I turned to see the voice that spoke with me. And having turned I saw seven golden lampstands, 
-13 and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band. 
-14 His head and hair were white like wool, as white as snow, and His eyes like a flame of fire; 
-15 His feet were like fine brass, as if refined in a furnace, and His voice as the sound of many waters; 
+12 'Then I turned to see the voice that spoke with me. And having turned I saw seven golden lampstands,  
+13 and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band.  
+14 His head and hair were white like wool, as white as snow, and His eyes like a flame of fire;  
+15 His feet were like fine brass, as if refined in a furnace, and His voice as the sound of many waters;  
 16 He had in His right hand seven stars, out of His mouth went a sharp two-edged sword, and His countenance was like the sun shining in its strength. '
 
 The One who John saw amidst the 7 lampstands was one “like the Son of Man”. Was he unclear or that he didn’t dare to confirm? When he says “like the Son of Man”, he refers to the “Son of Man” as described in the book of Daniel. When Daniel describes the coming of the Son of Man, he also describes it as “like the Son of man”. We read Daniel 7:13-14; 
 
-13 '“I was watching in the night visions, And behold, One like the Son of Man, Coming with the clouds of heaven! He came to the Ancient of Days, And they brought Him near before Him. 
+13 '“I was watching in the night visions, And behold, One like the Son of Man, Coming with the clouds of heaven! He came to the Ancient of Days, And they brought Him near before Him.  
 14 Then to Him was given dominion and glory and a kingdom, That all peoples, nations, and languages should serve Him. His dominion is an everlasting dominion, Which shall not pass away, And His kingdom the one Which shall not be destroyed.'
 
 Daniel prophesied that one like the Son of Man was coming like the clouds of heaven, and His kingdom shall never pass away and be destroyed. In history, they constantly had prophets about this one “like the Son of man”, but they couldn’t wait because they don’t see the one like the Son of man as described here. They waited for Jesus to come, resurrect and rise to heaven. When He rose to heaven, He said, “you must go out to the whole world to preach the word and establish God’s kingdom - which is the church, so all nations can come under the name of the Lord.”
@@ -93,17 +93,17 @@ We see how hard-hearted these soldiers were when they pierced Jesus. We see thei
 
 Can we say amen in our hearts today? Are we prepared to receive the Lord on the second coming? If you truly believe, then you must repent and obey God’s word. Because He knows our actions and will judge us according to our words. We read Revelation 1:13-14;
 
-13 and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band. 
+13 and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band.  
 14 His head and hair were white like wool, as white as snow, and His eyes like a flame of fire; 
 
 Isn’t this description just like a kind and old grandpa? He’s not in armour and not wearing a crown, but a long garment down to His feet - sounds like a kind old grandpa? But if you read carefully in v15-16;
 
-15 His feet were like fine brass, as if refined in a furnace, and His voice as the sound of many waters; 
+15 His feet were like fine brass, as if refined in a furnace, and His voice as the sound of many waters;  
 16 He had in His right hand seven stars, out of His mouth went a sharp two-edged sword, and His countenance was like the sun shining in its strength. '
 
 When we look closely, we see that this Lord is so magnificent - One that can inspire fear and reverence. Why must He appear so majestically? Just as we mentioned just now, it’s precisely because many believers don’t see His abidance and misunderstand this. They’re not serious in repentance and don’t watch their behaviour. They worship God, and listen to God but don’t obey the word of God. They take God’s judgement lightly. They always say that the Lord is kind and merciful and will forgive us. It’s true; in the days of salvation, He will forgive and have mercy on us. He’s always giving us chances to repent and return to Him. This is the period of salvation, but it’ll come to an end. The day of judgement will come, and then we’ll no longer see the mercy of God, but the righteous judgement of God. So Paul reminds us in 2 Corinthians 5:10-11; 
 
-10 'For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad. 
+10 'For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad.  
 11 Knowing, therefore, the terror of the Lord, we persuade men; but we are well known to God, and I also trust are well known in your consciences.'
 
 Paul says we know the terror of the Lord, therefore we persuade men. Why must we persuade and rebuke men? Precisely because we know the terror of God. One day each of us must appear before the judgement seat of Christ. Whether we’ve done evil or good, God will judge us. This reminds us to have this heart of fear because of the terror of the Lord. When talking about salvation, Paul emphasises the mercy of God. Paul says, “Even though I was the chief sinner, but I’ve obtained mercy. You shall as well.” Regarding the judgement of God, His words were severe. So we must remember - God’s salvation is full of mercy, but God’s judgement is to be feared. If we believe in the salvation of God, we’ll believe in the judgement of God. We must fear God, then we can obtain the mercy of God. 
@@ -124,8 +124,8 @@ This ‘holds’ refers to holding it tightly in the right hand. Just as the hol
 
 We read John 10:27-29;
 
-27 'My sheep hear My voice, and I know them, and they follow Me. 
-28 And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand. 
+27 'My sheep hear My voice, and I know them, and they follow Me.  
+28 And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand.  
 29 My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father’s hand. '
 
 The Lord here says, “Those who believe in Me shall never perish, no one can snatch them out of my hand.” He gives an extra layer of guarantee; “My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father’s hand”. The Lord’s guarantee is already good enough, why must He add on the heavenly ones as well? This guarantee + chop tells us we’re tightly in His hands. No one has authority greater than Jesus and the Heavenly Father. 
@@ -138,5 +138,5 @@ Is it that Mother hen has no power to protect them chicks? No. It’s the chick 
 
 
 
-----
+----  
 ****

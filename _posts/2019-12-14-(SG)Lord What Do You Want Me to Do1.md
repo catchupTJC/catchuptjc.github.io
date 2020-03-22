@@ -1,18 +1,18 @@
----
-layout: post
-title: Lord, What Do You Want Me to Do? (1) 主啊！我当做什么？（一）
-category: sermon2019singapore
-tags: [evangelism,paul]
-hymns: [42,199]
-speaker: prhojungyu
+---  
+layout: post  
+title: Lord, What Do You Want Me to Do? (1) 主啊！我当做什么？（一）  
+category: sermon2019singapore  
+tags: [evangelism,paul]  
+hymns: [42,199]  
+speaker: prhojungyu  
 ---
 
 We turn to Acts 22:6-10; 
 
-6 ““Now it happened, as I journeyed and came near Damascus at about noon, suddenly a great light from heaven shone around me. 
-7 And I fell to the ground and heard a voice saying to me, ‘Saul, Saul, why are you persecuting Me?’ 
-8 So I answered, ‘Who are You, Lord?’ And He said to me, ‘I am Jesus of Nazareth, whom you are persecuting.’
-9 “And those who were with me indeed saw the light and were afraid, but they did not hear the voice of Him who spoke to me. 
+6 ““Now it happened, as I journeyed and came near Damascus at about noon, suddenly a great light from heaven shone around me.  
+7 And I fell to the ground and heard a voice saying to me, ‘Saul, Saul, why are you persecuting Me?’  
+8 So I answered, ‘Who are You, Lord?’ And He said to me, ‘I am Jesus of Nazareth, whom you are persecuting.’  
+9 “And those who were with me indeed saw the light and were afraid, but they did not hear the voice of Him who spoke to me.  
 10 So I said, ‘What shall I do, Lord?’ And the Lord said to me, ‘Arise and go into Damascus, and there you will be told all things which are appointed for you to do.’”
 
 Here describes a man by the name of Saul. Saul’s name was changed to Paul, someone who relied on the Lord and he preached the gospel. Paul was sharing his testimony on how he met the Lord. When he heard this voice from heaven calling out to his name, he responded to this voice from heaven, “Who are You, Lord?” 
@@ -49,8 +49,8 @@ Before he started to bear testimony for the Lord, there was one more important t
 
 'And now why are you waiting? Arise and be baptized, and wash away your sins, calling on the name of the Lord.’'
 
-When Paul asked the Lord, “What shall I do?”, the Lord wanted him to do 2 things: 
-To bear witness to all men what he had seen and heard. 
+When Paul asked the Lord, “What shall I do?”, the Lord wanted him to do 2 things:  
+To bear witness to all men what he had seen and heard.  
 To call on the name of the Lord to be baptised to wash away his sins. 
 
 Both of the matters are important but sequentially, the second item is to be prioritised.
@@ -69,8 +69,8 @@ After you’ve come to know the Lord Jesus, and you’ve come to acknowledge tha
 
 After our sins are taken away, we’re no longer separated from God and we can mend this relationship with God. We turn to Romans 5:9-11; 
 
-9 'Much more then, having now been justified by His blood, we shall be saved from wrath through Him. 
-10 For if when we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life. 
+9 'Much more then, having now been justified by His blood, we shall be saved from wrath through Him.  
+10 For if when we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life.  
 11 And not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received the reconciliation.'
 
 Through His own sacrifice, the Lord Jesus shed His blood so we can be reconciled with God. After our sins have been taken away, we’re able to interact with God any obstructions. 
@@ -85,7 +85,7 @@ God led him to church and he slowly understood the truth. For us to take away th
 
 Ananias told him that he has to be baptised by calling unto the name of Jesus Christ. This is because only the name of Jesus can take away sins. We turn to Acts 10:42-43; 
 
-42  'And He commanded us to preach to the people, and to testify that it is He who was ordained by God to be Judge of the living and the dead. 
+42  'And He commanded us to preach to the people, and to testify that it is He who was ordained by God to be Judge of the living and the dead.  
 43 To Him all the prophets witness that, through His name, whoever believes in Him will receive remission of sins.”'
 
 Peter was testifying to Cornelius and his family. He was talking about Jesus who was ordained by God to judge the living and the dead. V43; 
@@ -94,9 +94,9 @@ To Him all the prophets witness that, through His name, whoever believes in Him 
 
 Only the name of Jesus has the authority to wash the sins of men. Peter, in the process of him preaching the gospel, personally experienced the power of the name of Jesus. He asked the lame to walk by commanding him to get up in the name of Jesus of Nazareth. He also baptised men in the name of the Lord Jesus. He also experienced a time when the Lord Jesus sent them out to preach the gospel. He came back to Jesus to tell him all the things they’ve done. He told Jesus, “Because of Your name, even the evil spirits submit to us!” 
 
-The name of Jesus can: 
-Drive out demons 
-Cause the lame to walk 
+The name of Jesus can:  
+Drive out demons  
+Cause the lame to walk  
 Break down the separation between God and men. 
 
 Peter says, “There’s no other name given to men under heaven, because this is the name that can save!” This is found in Acts 4:12; 
@@ -104,9 +104,9 @@ Peter says, “There’s no other name given to men under heaven, because this i
 'Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved.”'
 
 
-You may have status or a lustrous background and because of that your name can be useful under certain circumstances. But, your name cannot: 
-Drive out demons 
-Cause the lame to walk 
+You may have status or a lustrous background and because of that your name can be useful under certain circumstances. But, your name cannot:  
+Drive out demons  
+Cause the lame to walk  
 Give people salvation 
 
 Because men are helpless and weak. Only the God of heaven is truly effective. 
@@ -157,5 +157,5 @@ May the Lord help all our truth-seekers so you may understand the word of salvat
 
 
 
-----
+----  
 ****

@@ -1,11 +1,11 @@
----
-layout: post
-title: Wells, Wives, and Childbearing (2) 水井，妻子与生育 (2)
-category: sermon2019singapore
-tags: [relationship,marriage,love]
-hymns: [217,65]
-speaker:
----
+---  
+layout: post  
+title: Wells, Wives, and Childbearing (2) 水井，妻子与生育 (2)  
+category: sermon2019singapore  
+tags: [relationship,marriage,love]  
+hymns: [217,65]  
+speaker:  
+---  
 [A well is a fountain where God blesses us with abundant life.]
 
 After Jacob bought over Esau’s birthright, he cheated his brother of his blessing. Because of that, Esau sought Jacob’s life and he had to run away from home. Having to run away from home is sad beyond description. 
@@ -22,10 +22,10 @@ The speaker doesn’t know how many would appoint their servant to find a wife f
 
 Even in the times of Jesus, we read about a Samaritan woman at Jacob’s well. People like Isaac, Jacob and Moses all found their wives by the well. Gen 24 we read about Isaac (even though he wasn’t there himself, but his servant). Gen 29 we read about Jacob. Later on in Exo 2, Moses found his wife Zipporah also by the well. In fact, in the Bible, a wife is likened to a well. 
 
-Songs 4:12, 15
+Songs 4:12, 15  
 The writer of this song talks about his beloved wife as a garden enclosed, a spring shut up, and a well of living waters. Men in the Bible are charged to drink EXCLUSIVELY from his own well. At the same time, don’t share the well with others; don’t let other people drink from your well. We know this cannot refer to the physical well in one’s backyard/garden. It refers to one’s wife.
 
-Prov 5:15-18
+Prov 5:15-18  
 Your wife is like your well. You cannot share with others. Let your well be blessed. You must protect and cherish the wife of your youth. 
 
 We know that a well is a fountain of living water. It’s a source of life! Many parts of Proverbs tells us so. For example, Prov 10:11 talks about a well of life. 
@@ -36,11 +36,11 @@ We can get a lot of good things everywhere. But why does the Bible emphasise tha
 
 Why does the Bible emphasise so much that a good wife is from the Lord? Because the wife is a special blessing. The wife is how God wants to bless you in a special way. 
 
-Prov 18:22
-“He who finds a wife finds a good thing, and obtains favour from the Lord.”
+Prov 18:22  
+“He who finds a wife finds a good thing, and obtains favour from the Lord.”  
 In other words, the wife helps the husband obtain favour from the Lord. So in a sense, she’s like a fountain, helping the husband access the abundant life and blessing from God. In fact, the Bible tells us that husbands and wives are joint heirs/heirs together in the grace of life. 
 
-1 Pet 3:7
+1 Pet 3:7  
 God wants us to have life, and to have it abundantly. Peter says that husbands and wives receive abundant life from God jointly; as heirs together in the grace of life. In other words, husbands and wives are given to each other for a spiritual purpose, not just for an earthly purpose. They help each other connect to God. They help each other enjoy abundant life from God. And there is one thing peter wants us to note from here: a wife is a weaker vessel. Therefore a husband needs to know how to treat her properly? How? NKJV says to treat her with understanding. It means to have the correct knowledge of how to treat her properly. What kind of stuff is your wife made of? What are her weaknesses? And how are you supposed to help her with her weaknesses? Treat her with honour for the reason that she’s weaker than you. 
 
 We have talked about wells and wives. Your wife is supposed to be a blessing with you so you can connect better with God. 
@@ -59,14 +59,14 @@ v33 she conceived again and bore a son. She called him Simeon which means “hea
 
 What Leah experienced as an individual, Israel would experience as a nation. She felt that God truly truly isn’t a god who turns a blind eye to affliction. She knows God hears the deepest cries in one’s heart. 
 
-Exo 3:7
+Exo 3:7  
 When Moses saw the burning hush, a voice spoke out that said, “I have SEEN the affliction of My people and HEARD their cries. Therefore I have come to deliver them.”
 
 The Chinese Buddhist worship guanshiying which means “one who sees the cries of the suffering in the world”. But actually, our God is truly the one who sees the affliction and cries of people. 
 
 Next, Leah gave birth to a third son that she named Levi (v34). Again, it’s out of her appreciation for God. “God has given me 3 sons in a row! I’m sure my husband will love me now! He’ll attach himself to me.” The Bible says that a man shall leave his father and mother and be attached/joined to his wife. Jacob left his father and mother (of course not by choice). He was attached to two women - Leah and Rachel. But was he really attached to Leah? There was no emotional attachment. Leah felt so little love. So she yearned for that kind of attachment with her husband. And she trusted in God. When God gave her her third son, she saw it as a way to get attached to her husband or make her husband attached to her. We see later that there wasn’t much of an improvement. But we can see her faith in naming her son Levi. Later on the name Levi also became significant to the descendants of this son. 
 
-Joshua 13:33
+Joshua 13:33  
 The land was divided in 12 potions for 12 tribes. But not for Levi, because Joseph became 2 tribes - Manasseh and Ephraim. Levi wasn’t one of the 12 tribes when it came to the allotment of the land. So did Levi lose out? No. The Bible says Levi’s inheritance isn’t physical land but the Lord Himself; “the lord God of Israel was their inheritance”. They had a privileged ministry. Some of these Levites were priests. They were closest to God in the temple. They could go into the holy place where other people could not. Some of the Levites were made to carry holy objects. Even though they didn’t have physical land allotted to them/they didn’t own any land, (of course they did have a place to stay,) their livelihood came from the tithes of the people. Tithes in the Bible are holy things. It’s given to God, and only the Levites had the right to the tithes (and some poor people as well).
 
 Today what do we really look for? What’s the inheritance that we want? If we’re in the position of Leah where our husband doesn’t really come to you and attach to you, would you give up your faith in God? Not Leah. She held on as seen by how she named her children.
@@ -77,10 +77,10 @@ Next she gave birth to a fourth child she named Judah. Why? “Now I can praise 
 
 So what does Judah mean? It means the faith of a woman who would still praise God in the midst of that particular circumstance. At this point there was no mention of her husband being closer to her. She still praised God in spite of her circumstances. Doesn’t the Bible tell us to give thanks in all things?
 
-Gen 49:8-10
+Gen 49:8-10  
 At this time, Jacob was blessing his children. When he came to Judah, this is what he said. “He whom your brothers shall praise” “Your father’s children shall bow down before you”. Judah is meant to be a praise for God. But now the praise is returned to Judah. Why? Because the sceptre shall not depart from Judah. Judah will be a tribe of kings until Shiloh comes, which refers to the Messiah. To Him shall be the obedience of the people. Because Leah knew how to praise God. This is the blessing God gave to her and her children. That Judah should be praised by his brethren. Judah will be a royal line.
 
-Prov 31:30-31
+Prov 31:30-31  
 Between Rachel and Leah, who was the beautiful one? Rachel was (Gen 29). She was the more favoured one by Jacob. She had delicate eyes. Many people have different interpretations of what ‘delicate eyes’ means but whatever it is, we know her eyes made her not very attractive. But she’s God fearing. 
 
 “Charm is deceitful and beauty is passing, but a woman who fears the lord shall be praised.”
@@ -91,9 +91,9 @@ She acknowledged the work of God in her life. She named her children in remembra
 
 So we see Leah. She was a wife yearning for her husband like anything. Some women say this is a women’s curse. In a way it’s true. If we read the Genesis account, one part of Eve’s punishment is related to some of the things women complain about. 
 
-“Why must we be submissive to our husband ah?”
-“Why are the two genders not equal ah?”
-“Why must I submit to him? Why does he rule over me?”
+“Why must we be submissive to our husband ah?”  
+“Why are the two genders not equal ah?”  
+“Why must I submit to him? Why does he rule over me?”  
 “Why must we give birth? So painful ah!”
 
 If we read carefully, when God created Adam and Eve, Eve wasn’t created to be ruled by her husband; she was meant to be a helper; to be treasured. But later on when she sinned, instead of being a helper, she was a stumbling block, that’s why God said, “You shall have deep yearnings for your husband and he shall rule over you!” He’s part of the punishment. “I’ll increase your labour pains.”
@@ -102,8 +102,8 @@ So the wife yearning for her husband and the husband ruling over her is part of 
 
 Did we realise that? That through her labour pains, she honoured God by naming her sons that way!
 
-1 Tim 2:15
-“she will be saved in childbearing”
+1 Tim 2:15  
+“she will be saved in childbearing”  
 One way to read this is that God will ensure a smooth delivery and preserve her life. It can’t be that she gets salvation from childbearing. It also means that a godly woman through childbearing can obtain favour from God. We see that true in Leah. Her offspring became the royal line Judah; the priestly Levi that obtains flavour from God. She’s a godly woman deserving of praise. 
 
 While God’s kindness to Leah shows how Jacob could’ve treated his wife better, Leah’s behaviour is an example for women as well as for all of us to find our true love in God. 
@@ -118,5 +118,5 @@ Let us tell ourselves that our God is a fount of every blessing. We also are a c
 
 
 
-----
+----  
 ****

@@ -1,10 +1,10 @@
----
-layout: post
-title: Rebuild 重建
-category: sermon2019singapore
-tags: [rebuild,faith,startagain]
-hymns: [333,176]
-speaker: 
+---  
+layout: post  
+title: Rebuild 重建  
+category: sermon2019singapore  
+tags: [rebuild,faith,startagain]  
+hymns: [333,176]  
+speaker:  
 ---
 
 Why is there a need to rebuild? There’s a need to rebuild because the thing we’re rebuilding is not in its perfect state. The speaker has good memories from his early days when the TK church was not rebuilt yet. He remembers the wall facing the front of the church in red brick colour. When you enter the church, you’ll see a brick wall. At that time, the church hall was not air-conditioned and there were only fans. On Saturday afternoons, every one would listen attentively; they were all nodding (😂).
@@ -15,13 +15,13 @@ During his first year, the senior students knew the places with fans and took th
 
 Have we thought further; what about our life of faith? In our life of faith, do we have many weaknesses with a need to rebuild these inadequacies? Are we able to see our faults and where we lack in our faith when we come before God? When we’re able to see these weaknesses, how are we to rebuild them? This afternoon we shall see someone who rebuilds; how he rebuilt the wall and how his companion rebuilt the faith of the people. We turn to Nehemiah 1:4-11; 
 
-4 'So it was, when I heard these words, that I sat down and wept, and mourned for many days; I was fasting and praying before the God of heaven. 
-5 And I said: “I pray, Lord God of heaven, O great and awesome God, You who keep Your covenant and mercy with those who love You and observe Your commandments, 
-6 please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father’s house and I have sinned. 
-7 We have acted very corruptly against You, and have not kept the commandments, the statutes, nor the ordinances which You commanded Your servant Moses. 
-8 Remember, I pray, the word that You commanded Your servant Moses, saying, ‘ If you are unfaithful, I will scatter you among the nations; 
-9 but if you return to Me, and keep My commandments and do them, though some of you were cast out to the farthest part of the heavens, yet I will gather them from there, and bring them to the place which I have chosen as a dwelling for My name.’ 
-10 Now these are Your servants and Your people, whom You have redeemed by Your great power, and by Your strong hand. 
+4 'So it was, when I heard these words, that I sat down and wept, and mourned for many days; I was fasting and praying before the God of heaven.  
+5 And I said: “I pray, Lord God of heaven, O great and awesome God, You who keep Your covenant and mercy with those who love You and observe Your commandments,  
+6 please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father’s house and I have sinned.  
+7 We have acted very corruptly against You, and have not kept the commandments, the statutes, nor the ordinances which You commanded Your servant Moses.  
+8 Remember, I pray, the word that You commanded Your servant Moses, saying, ‘ If you are unfaithful, I will scatter you among the nations;  
+9 but if you return to Me, and keep My commandments and do them, though some of you were cast out to the farthest part of the heavens, yet I will gather them from there, and bring them to the place which I have chosen as a dwelling for My name.’  
+10 Now these are Your servants and Your people, whom You have redeemed by Your great power, and by Your strong hand.  
 11 O Lord, I pray, please let Your ear be attentive to the prayer of Your servant, and to the prayer of Your servants who desire to fear Your name; and let Your servant prosper this day, I pray, and grant him mercy in the sight of this man.” For I was the king’s cupbearer.'
 
 This passage talks about Nehemiah; he was a rebuilder. In Nehemiah 1:1, Nehemiah was introduced as cupbearer to the king;
@@ -30,9 +30,9 @@ This passage talks about Nehemiah; he was a rebuilder. In Nehemiah 1:1, Nehemiah
 
  V1-4 tells us he was a cupbearer;
 
-1 'The words of Nehemiah the son of Hachaliah. It came to pass in the month of Chislev, in the twentieth year, as I was in Shushan the citadel, 
-2 that Hanani one of my brethren came with men from Judah; and I asked them concerning the Jews who had escaped, who had survived the captivity, and concerning Jerusalem. 
-3 And they said to me, “The survivors who are left from the captivity in the province are there in great distress and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.” 
+1 'The words of Nehemiah the son of Hachaliah. It came to pass in the month of Chislev, in the twentieth year, as I was in Shushan the citadel,  
+2 that Hanani one of my brethren came with men from Judah; and I asked them concerning the Jews who had escaped, who had survived the captivity, and concerning Jerusalem.  
+3 And they said to me, “The survivors who are left from the captivity in the province are there in great distress and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.”  
 4 So it was, when I heard these words, that I sat down and wept, and mourned for many days; I was fasting and praying before the God of heaven.'
 
 Before Nehemiah we had a man, Ezra, and they were together at the same time. One went back to rebuild the wall, Nehemiah. Ezra returned to return the faith of the people. There were three times they returned. Why did this tragedy occur to them; why were they enslaved in Babylon? Because the people were against God and obey idols, not keep the Sabbath, and did many evil things. Israel was one country in the beginning, but when they transgressed against God and worshipped idols, their faith went further away. 
@@ -55,7 +55,7 @@ Let’s see how Nehemiah carried out the rebuilding process and through his exam
 
 We read Nehemiah 1:4-5; 
 
-4 'So it was, when I heard these words, that I sat down and wept, and mourned for many days; I was fasting and praying before the God of heaven. 
+4 'So it was, when I heard these words, that I sat down and wept, and mourned for many days; I was fasting and praying before the God of heaven.  
 5 And I said: “I pray, Lord God of heaven, O great and awesome God, You who keep Your covenant and mercy with those who love You and observe Your commandments, '
 
 Nehemiah didn’t just sit down and weep. Through his grief, he went one step further and fasted and prayed. He began the process of rebuilding by praying. In every great work of God, the source traced back to is prayer. When Nehemiah heard about what happened to Jerusalem, he was grieved; he wept, fasted and prayed. He didn’t just stand still. On the contrary, he took the opportunity to look towards the God he believes in. In v5; 
@@ -70,11 +70,11 @@ When we see how weak and inadequate we are, we have to be diligent in asking God
 
 Let’s continue to see how he helped in rebuilding. We read v6-11; 
 
-6 please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father’s house and I have sinned. 
-7 We have acted very corruptly against You, and have not kept the commandments, the statutes, nor the ordinances which You commanded Your servant Moses. 
-8 Remember, I pray, the word that You commanded Your servant Moses, saying, ‘ If you are unfaithful, I will scatter you among the nations; 
-9 but if you return to Me, and keep My commandments and do them, though some of you were cast out to the farthest part of the heavens, yet I will gather them from there, and bring them to the place which I have chosen as a dwelling for My name.’ 
-10 Now these are Your servants and Your people, whom You have redeemed by Your great power, and by Your strong hand. 
+6 please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father’s house and I have sinned.  
+7 We have acted very corruptly against You, and have not kept the commandments, the statutes, nor the ordinances which You commanded Your servant Moses.  
+8 Remember, I pray, the word that You commanded Your servant Moses, saying, ‘ If you are unfaithful, I will scatter you among the nations;  
+9 but if you return to Me, and keep My commandments and do them, though some of you were cast out to the farthest part of the heavens, yet I will gather them from there, and bring them to the place which I have chosen as a dwelling for My name.’  
+10 Now these are Your servants and Your people, whom You have redeemed by Your great power, and by Your strong hand.  
 11 O Lord, I pray, please let Your ear be attentive to the prayer of Your servant, and to the prayer of Your servants who desire to fear Your name; and let Your servant prosper this day, I pray, and grant him mercy in the sight of this man.” For I was the king’s cupbearer.'
 
 This passage describes how Nehemiah confessed his sins to continue the process of rebuilding. In the second part of v6; 
@@ -83,7 +83,7 @@ confess the sins of the children of Israel which we have sinned against You. Bot
 
 Why is there a need to rebuild? This is because there’s something lacking and a need for change, there’s something to rebuild. Nehemiah, before God confessed his sins and the sins of his father’s house. Sin is like a barrier and is an obstacle between God and us. If there’s such an obstacle, it’s not possible for us to have a normal relationship with God. How then can our prayers reach out to God? We read Isaiah 59:1-2; 
 
-1 'Behold, the Lord ’s hand is not shortened, That it cannot save; Nor His ear heavy, That it cannot hear. 
+1 'Behold, the Lord ’s hand is not shortened, That it cannot save; Nor His ear heavy, That it cannot hear.  
 2 But your iniquities have separated you from your God; And your sins have hidden His face from you, So that He will not hear.'
 
 Why can’t our prayers come before God? There’s a barrier separating us from God. Here talks about a separation in v2 because of our iniquities between God and us. It’s our sins that our prayers can’t be heard by God. God is one who hates sins; He is righteous and hates sins. How can we normalise our relationship with God? We have to acknowledge our sins and repent. Here talks about turning away and returning. We turn to Nehemiah 1:9; 
@@ -98,8 +98,8 @@ In Nehemiah’s prayers, there are prayers not just of his but also of the peopl
 
 For example, you repent today and continue to deceive others of money the next day. The next day, you argue with others and the day after you buy lottery tickets. On another day, you repent to God of your sins and the cycle repeats. Is this true repentance? You’re still walking on your own path. How can we say that we’ve changed our own ways? You’re building the wall of sin higher and higher. How can we normalise our relationship with God? From the prayer of Nehemiah, we have this reminder to think of this matter. If our repentance is truly sincere, we’ll try our best to change and we won’t walk the old paths again. We read Jeremiah 31:18-20; 
 
-18 '“I have surely heard Ephraim bemoaning himself: ‘You have chastised me, and I was chastised, Like an untrained bull; Restore me, and I will return, For You are the Lord my God. 
-19 Surely, after my turning, I repented; And after I was instructed, I struck myself on the thigh; I was ashamed, yes, even humiliated, Because I bore the reproach of my youth.’ 
+18 '“I have surely heard Ephraim bemoaning himself: ‘You have chastised me, and I was chastised, Like an untrained bull; Restore me, and I will return, For You are the Lord my God.  
+19 Surely, after my turning, I repented; And after I was instructed, I struck myself on the thigh; I was ashamed, yes, even humiliated, Because I bore the reproach of my youth.’  
 20 Is Ephraim My dear son? Is he a pleasant child? For though I spoke against him, I earnestly remember him still; Therefore My heart yearns for him; I will surely have mercy on him, says the Lord .'
 
 This passage references to the remnants of Israel. Jeremiah says these remnants of people shall be saved by God. V18 says; 
@@ -114,7 +114,7 @@ Ephraim to the Israelites. When God is judging us, He has hopes and expectations
 
 We read 1 John 1:8-9; 
 
-8 'He was not that Light, but was sent to bear witness of that Light. 
+8 'He was not that Light, but was sent to bear witness of that Light.  
 9 That was the true Light which gives light to every man coming into the world.'
 
 If we say we have no sin, we are lying. It’s true that God uses His righteousness to judge us, but in His righteousness there’s hope for us to repent. When we return to Him, He’ll be able to forgive our sins. Through His precious blood, He cleanses us of our righteousness. After baptism, we continue to sin against God and we continue to transgress against God. But as long as we’re willing to return and confess our sins, His blood is still present in us to wash away our unrighteousness. 
@@ -127,5 +127,5 @@ Are we willing to rebuild?
 
 
 
-----
+----  
 ****

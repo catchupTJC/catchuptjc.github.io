@@ -1,14 +1,14 @@
----
-layout: post
-title: Wells, Wives and Childbearing 水井，妻子与生育
-category: sermon2019singapore
-tags: [relationship,marriage,love]
-hymns: [217,65]
-speaker:
----
+---  
+layout: post  
+title: Wells, Wives and Childbearing 水井，妻子与生育  
+category: sermon2019singapore  
+tags: [relationship,marriage,love]  
+hymns: [217,65]  
+speaker:  
+---  
 We read Genesis 29. Jacob travelled a long distance to Haran. It would have taken him more than a month. It’s not difficult to imagine the excitement that he felt when he saw that the people gathered in the village in Haran. Genesis 29:1-2; 
 
-1 'So Jacob went on his journey and came to the land of the people of the East. 
+1 'So Jacob went on his journey and came to the land of the people of the East.  
 2 And he looked, and saw a well in the field; and behold, there were three flocks of sheep lying by it; for out of that well they watered the flocks. A large stone was on the well’s mouth. '
 
 For a traveller, when He comes upon a village, especially when he comes to a well, that would be a very welcoming sight. He could take a rest, wash himself up in water, and quench his thirst. The well is like a source of life. That’s why even in the Bible we see people fighting over wells - if you can’t get the well, you’ll stop others from getting it. Water is an important source of life. 
@@ -21,8 +21,8 @@ We don’t know if it was love at first sight, but this had a big impact on him 
 
 In ancient times, it was the woman’s chore to draw water from the well that’s why Rachel came and he saw her. We look at Genesis 24: Here talks about when an old servant of  Abraham went back to his hometown to seek a wife for Isaac. In v11-13; 
 
-11 'And he made his camels kneel down outside the city by a well of water at evening time, the time when women go out to draw water. 
-12 Then he said, “O Lord God of my master Abraham, please give me success this day, and show kindness to my master Abraham. 
+11 'And he made his camels kneel down outside the city by a well of water at evening time, the time when women go out to draw water.  
+12 Then he said, “O Lord God of my master Abraham, please give me success this day, and show kindness to my master Abraham.  
 13 Behold, here I stand by the well of water, and the daughters of the men of the city are coming out to draw water. '
 
 It’s an assumption that women would come to draw water from a well because it was a chore for women. Even in the time of Jesus when He sat at Jacob’s well, it was a Samaritan woman who drew water. If we read that incident, we knew that Jesus sat there to wait for the women to come. So women drawing water from the well is something very expected. You’ll see this every day, just like you see women washing clothes by the river. In the Bible, you see quite a few ancient well-known men finding their wives by the well. You see Abraham’s servant - he went to the well and found a wife for Isaac. In chapter 29 here, you see the same thing happening to Jacob. Later on in Exodus, Moses also met his wife at the well. When the speaker went to teach theolo in China and he told them about this, then there was a testimony session where a brother found his wife-to-be. He titled his testimony “Chance-Meeting by the Well”. In the Bible, a wife is also likened to a well. We read Songs of Solomon 4:12, 
@@ -35,9 +35,9 @@ It’s an assumption that women would come to draw water from a well because it 
 
 Here you see the writer of this song talks about his wife like a well within a garden that is shut up. In v15 - the well of living waters. The Bible also charges men to drink exclusively from his own well and no other can drink from his own well. Surely this cannot be the physical well because it’d be a very selfish act. It’s talking about one’s wife. In Proverbs 5:15-18; 
 
-15 'Drink water from your own cistern, And running water from your own well. 
-16 Should your fountains be dispersed abroad, Streams of water in the streets? 
-17 Let them be only your own, And not for strangers with you.
+15 'Drink water from your own cistern, And running water from your own well.  
+16 Should your fountains be dispersed abroad, Streams of water in the streets?  
+17 Let them be only your own, And not for strangers with you.  
 18 Let your fountain be blessed, And rejoice with the wife of your youth.'
 
 Here tells us that the wife of one’s youth is like a well, and you’re supposed to only drink from that well and not share this well with others. Since we say that the well is like a spring of water and source of life, like in Proverbs 10:11; 
@@ -136,7 +136,7 @@ The sceptre shall not depart from Judah. The sceptre is the king. Shiloh is the 
 
 We read Proverbs 31:30-31; 
 
-30 'Charm is deceitful and beauty is passing, But a woman who fears the Lord , she shall be praised. 
+30 'Charm is deceitful and beauty is passing, But a woman who fears the Lord , she shall be praised.  
 31 Give her of the fruit of her hands, And let her own works praise her in the gates.'
 
 Rachel was the more beautiful one among the two sisters. This is one important reason why Jacob loved her. The Bible said that she had meek eyes. But here the Bible says that charm is deceitful. We’ve seen how Leah showed her faith and her godliness. Not only will Judah be praised, here says that she who fears the Lord will be praised. Her two sons, Levi and Judah, one of them became the tribe of the priestly line and the other one comes the royal line, the line of David. This was how God blesses Leah. This was how God gave her honour. Her works shall praise her. She continued to yearn for her husband, but she’s comforted by God. 
@@ -151,5 +151,5 @@ Whatever is it, brothers and sisters, our godliness and our yearning to have God
 
 
 
-----
+----  
 ****
