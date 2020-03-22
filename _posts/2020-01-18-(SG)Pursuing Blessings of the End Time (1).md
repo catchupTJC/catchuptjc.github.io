@@ -1,11 +1,11 @@
----
-layout: post
-title:  Pursuing Blessings of the End Time (1)
-category: sermon2020singapore
-tags: [reflection,blessing,endtime]
-hymns: [473,24]
-speaker: dnlukesusilo
----
+---  
+layout: post  
+title:  Pursuing Blessings of the End Time (1)  
+category: sermon2020singapore  
+tags: [reflection,blessing,endtime]  
+hymns: [473,24]  
+speaker: dnlukesusilo  
+---  
 As Christians, what are we pursuing in this world? Riches or the blessings of God? Many times, we feel we live a very tiring life. Many times, we need to strive and labour to survive, especially while living in Singapore where the cost of living is high. 
 
 Why do we need to strive and labour to survive in Singapore? Although the cost of living is high, many say we can still survive by having a simple life. One of the reasons may be because we compare what we have to what others have. We want to receive the same blessings as someone else. We want to have the same lifestyles that other people have. To have a big house, Mercedes car, an expensive holiday with families, eating at fancy restaurants. When we see someone is very successful, we feel that person is so blessed and wish we were as blessed and successful as him. We want to receive the same measure of success others have. People of the world reckon that a person with many possessions is one who’s successful and blessed. They define blessings as that that can bring one joy and fortune. Many times we feel we’re blessed only when we have a lot of possessions. 
@@ -24,9 +24,9 @@ Therefore while we are still healthy, we must know what true blessings are about
 
 The book of Revelation records 7 blessings, which are valuable in the eyes of God. If we can hold on to the instructions of the Lord Jesus, His blessing can save us from the wickedness in the end times. 
 
-1st blessing 
-Rev 1:3
-“Blessed is he who reads and hears the word of this prophecy and to keep those things that are written in it.”
+1st blessing  
+Rev 1:3  
+“Blessed is he who reads and hears the word of this prophecy and to keep those things that are written in it.”  
 It’s not just reading and hearing, but also KEEPING what’s written.
 
 We know our health is important. But when we’re healthy, we don’t really bother about our health. Until we go for a medical checkup and there’re several red lights, then we watch our diet. But while we were healthy, we wanted to eat many unhealthy food. 
@@ -45,20 +45,20 @@ Rev 1:3 invites us to read the word of God constantly. To hear and to keep them.
 
 When the speaker was young, the teacher told the students to read out loud, following after the teaching. “This is a? Car!” Reading out loud helps the student remember the words. And not only read but also hear it. Sometimes when we read the Bible, we just stare at the words and sometimes doze off. Maybe the only time we read out loud is during Bible study. Perhaps we can read out loud at home too. Then we can both see and hear the word of God. We can capture the word of God in different ways. We need to meditate over the word of God, then we will be able to remember it. 
 
-Jas 1:22-25
-“But be doers if the word, and not jesters only”
+Jas 1:22-25  
+“But be doers if the word, and not jesters only”  
 We mustn’t only read and hear the word, we need to do/practise it as well. If we’re just a hearer, it’s like a man looking into the mirror, noticing there’s a blemish on his face or that he has unkempt hair, but not doing anything about it! He doesn’t take any action. 
 
-This is what happens today. Many people hear the word of God but don’t do it. We hear and read much of the word of God, but don’t practise it in our lives. When we hear the word of God in sermons, we think: “Oh! This message is good for so and so to hear!” “This is so applicable for so and so, not me.”
+This is what happens today. Many people hear the word of God but don’t do it. We hear and read much of the word of God, but don’t practise it in our lives. When we hear the word of God in sermons, we think: “Oh! This message is good for so and so to hear!” “This is so applicable for so and so, not me.”  
 But the word of God is for everyone to hear and practise. When we go home and don’t really meditate on the word of God, immediately forgetting the message we heard, we won’t be able to keep those things and practise it in our lives. Because we don’t practise it, we aren’t blessed, because we only hear and read but don’t keep/do.  
 
 The speaker believes reflecting upon ourselves and changing shortcomings we notice is something God is pleased with. Usually it is those who are close to us who will tell us openly about our shortcomings. If nobody tells us, perhaps we wouldn’t notice our shortcomings. But as human beings, most of us don’t like to be told about our wrongs or to be corrected. Even if nobody tells us of our shortcomings, the word of God rebukes us, telling us of our shortcomings. The word of God is like a mirror. Sometimes even after knowing our shortcomings, we’re unwilling to change it. 
 
 Some may have short tempers. Some smoke, gamble. Some are constant late to church. When we realise it, we need to repent and change. But most times we are not willing to change. 
 
-Matt 13:19
+Matt 13:19  
 Although we realise our shortcomings, many times we are not willing to change because Satan comes and takes away the word of God from our hearts. What’s the reason why some people can’t accept the word of God? Perhaps it’s because their hearts have hardened and aren’t willing to change anymore. If our hearts are hard, even if we hear the word of God for a decade, we won’t want to change. Since we don’t want to change, the wicked one takes away the word of God from our hearts. We forget what we have heard and don’t apply them in our lives. We think we’re very good people and that we don’t need to strive towards perfection. 
 
-Today, let us reflect upon ourselves. Is there anything we have to change about ourselves? To help, we need to read the word of God daily. We ask God to search us and cleanse us from all our sins; to give us strength and wisdom to repent and change, so the blessing of God can come upon us. 
-----
+Today, let us reflect upon ourselves. Is there anything we have to change about ourselves? To help, we need to read the word of God daily. We ask God to search us and cleanse us from all our sins; to give us strength and wisdom to repent and change, so the blessing of God can come upon us.  
+----  
 ****

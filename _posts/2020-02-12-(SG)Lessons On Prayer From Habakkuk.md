@@ -1,11 +1,11 @@
----
-layout: post
-title: Lessons On Prayer From Habakkuk
-category: sermon2020singapore
-tags: [prayer,faith,doubt,fear]
-hymns: [152,163]
-speaker: dncaleblee
----
+---  
+layout: post  
+title: Lessons On Prayer From Habakkuk  
+category: sermon2020singapore  
+tags: [prayer,faith,doubt,fear]  
+hymns: [152,163]  
+speaker: dncaleblee  
+---  
 When we think about Habakkuk, many of us know he’s a minor prophet. When we look at the entire book, it’s a record of the prophet Habakkuk. There were 2 prayers he made in chapter 1 where he asked something of God and God answered him. Chapter 2 contains God’s answer to his second question. Chapter 3 says directly that it’s Habakkuk’s prayer. Since it’s a book on prayers, we will learn about prayers from this book.
 
 Habakkuk was written in late 7th C BC. It would happen before the fall of the kingdom of Judah and the destruction of Jerusalem. The kings who were ruling then were mostly evil. Things were about to get worse because the city of Jerusalem would get destroyed; the people would be taken captive to Babylon. 
@@ -14,7 +14,7 @@ This was the background of the book of Habakkuk. Here was a prophet and his pray
 
 Let’s think about what we can learn about Habakkuk. When we think about prayers, we think of people of faith who ask of God and have their prayers answered. Habakkuk is interesting because there’re many times he calls out to God but He doesn’t answer. Just like when we have prayed for a long time over a matter and God doesn’t answer. He seems oblivious to our suffering and doesn’t lend a hand to help. That’s similar to what Habakkuk felt. 
 
-Hab 1:2-4
+Hab 1:2-4  
 This records the first prayer of Habakkuk. He cries out to God, “Look at what’s happening to the people. They’re getting attacked by wicked people!” We can sense the desperation in his prayers, as though God doesn’t see their plight. “I’ve cried out to You for so long but You don’t seem to hear.” “We, Your people, are suffering yet You don’t seem to see.”
 
 Have we thought like prophet Habakkuk when we pray today? That He’s silent and He doesn’t seem to hear our prayer. He doesn’t seem to see our plight. It’s at this juncture we have to learn from Habakkuk. Because even though Habakkuk cried this out to God many times, he still continued. He continued to pray despite God’s silence. He even put his thoughts on God’s silence into prayer. 
@@ -29,7 +29,7 @@ When God responded to Habakkuk, we derive another lesson. Yes when He’s silent
 
 When Habakkuk realised God’s answer to him was that the people of Judah were wicked and would be punished by the Babylonians. He couldn’t grasp or understand it. That’s when he called out his second prayer. 
 
-When he heard it, he was distressed and prayed from v12-17. 
+When he heard it, he was distressed and prayed from v12-17.  
 “The Babylonians are more wicked than Judah. Why do you give them power to destroy the more righteous?”
 
 Not only did Habakkuk feel that it cannot be so for God to use a more wicked nation to punish wicked Judah, he even points out to how evil the people of Babylon were. They didn’t worship God; they were idolators. At least the people of Judah had some notion of who God is. Why let them fall into this snare like fish in a net?
@@ -48,7 +48,7 @@ If this happens to us, what will we do? When we pray to God and the problem does
 
 If we learn from Habakkuk, what he did was to continue to turn to God. 
 
-Hab 2:1
+Hab 2:1  
 This is what Habakkuk says after he talked back about how he didn’t understand why God’s answer was that. “I will stand my watch and set myself on the rampart, and watch to see what He will say to me, and what I will answer when I am corrected.”
 
 When Habakkuk had a lot of questions in his head about God’s answer to his prayer; about God’s plan to use the Babylonians to punish the people of Judah, he turned to God to clarify his problems/doubts. 
@@ -57,15 +57,15 @@ It’s inevitable we start to have doubts in our head. We may stay to doubt God�
 
 Take for example John the Baptist who was a powerful preacher. The forerunner of the Messiah. He was very clear he was serving Jesus Christ. Before the start of Jesus’ ministry when He went to get baptised by John the Baptist, he already had an inkling already of who Jesus was. That’s why he said he should be baptised by Jesus and not Jesus by him. Nonetheless he baptised Jesus because Jesus said that all righteousness might be fulfilled.  
 
-John 1:31-34
+John 1:31-34  
 When the Holy Spirit descended onto Jesus, it became an even clearer testimony to John the Baptist that Jesus was the one.
 
-Matt 11:1-6
+Matt 11:1-6  
 But when John the Baptist was in prison, at a low point in his life of faith, for whatever reason when he heard about what Jesus was doing, he started to have doubts about whether Jesus was truly the Christ. The good thing was that he sent 2 disciples to ask Jesus directly. When they asked Jesus, they were able to bring the answer back to John the Baptist. 
 
 Even John the Baptist had some doubts about God in his life of faith. Maybe because he heard what Jesus was doing and it was different from what he expected. So he went to clarify. He couldn’t reconcile what Jesus was doing with what he expected the Christ to do. 
 
-So he directly clarified his doubts with Jesus. Jesus answered, “The blind see and the lame walk; the leper’s and cleansed and then deaf hear...And blessed is he who is not offended because of Me.”
+So he directly clarified his doubts with Jesus. Jesus answered, “The blind see and the lame walk; the leper’s and cleansed and then deaf hear...And blessed is he who is not offended because of Me.”  
 The last part was either a comfort or threat to John the Baptist. If he truly believed Jesus, then he would be blessed. If not he wouldn’t be blessed. 
 
 But we know John the Baptist was blessed. Although it’s not recorded, the answer must’ve satisfied him and his faith must’ve been renewed. 
@@ -84,14 +84,14 @@ The examples we turned to all resulted in them closer to God.
 
 One type of questioning leads you to denying your faith. Another type of questioning leads you to strengthened faith. That’s because the attitude is different. 
 
-Hab 3:1-6
+Hab 3:1-6  
 In Habakkuk’s prayer here, we see how he describes God as glorious but frightening. Before God went pestilence and fever followed at His feet. 
 
 With the Covid-19 virus now, many people are in fear. Some of us even fear to congregate in church because of this.
 
 v5 reminds us God is in control of all this; God is in control of pestilence and fever. Instead of fearing this pestilence, what we should really fear is God and falling into the hands of an angry God. 
 
-v8-10 (read)
+v8-10 (read)  
 Seems like the whole creation trembles and fears before God. When Habakkuk heard, his body trembled and rottenness entered his bones.
 
 All these descriptions of God remind us that we must fear God. When we question God, it’s important to retain the fear of God in our hearts. When we say God is an awesome God, it’s different from how we use it today “this is awesome!”  It means to be fearful of this God. It’s a fearful thing to fall into the wrath of God. It is this fear we should keep in our hearts when we question God. Yes God is loving and kind, but He is also to be feared. When we question God at this juncture, if we want our faith to increase and relationship with Him to grow, we need our fear of and for Him to grow. 
@@ -108,16 +108,16 @@ So if we’re praying and God doesn’t seem to answer, legs learn from Habakkuk
 
 Habakkuk made this ultimate prayer, a prayer that for whatever circumstance will continue to praise and give glory to God. 
 
-Hab 3:17-18
+Hab 3:17-18  
 This is a triumphant prayer. Even though the circumstance is so dire, v17 says there’s nothing to look forward to - figs are important because they’re an important energy source; the fruit of the vine/grapes are important for merrymaking and also tarts; olives are important for oil and worshipping God - nothing seems to be working well. 
 
 If we can learn from Habakkuk, we’ll be able to praise and rejoice in the Lord no matter what circumstance. Such is truly a prayer of faith. 
 
-“The just shall live by faith.”
+“The just shall live by faith.”  
 How we live by faith is even in the most difficult circumstance, even when God doesn’t seem to answer, even when God’s answer is not what we expect, we’ll be able to rejoice. 
 
 There was no change in Habakkuk’s situation but there was a change in his heart. He was able to rejoice no matter what he was going through. 
 
-If we can pray in the same manner, then whatever happens to us in life, then we can truly say it is well with our soul. 
-----
+If we can pray in the same manner, then whatever happens to us in life, then we can truly say it is well with our soul.  
+----  
 ****

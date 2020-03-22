@@ -1,9 +1,9 @@
----
-layout: post
-title: Facing Life’s Giants
-category: sermon2019singapore
-tags: [trial,believe]
-hymns: [198,485]
+---  
+layout: post  
+title: Facing Life’s Giants  
+category: sermon2019singapore  
+tags: [trial,believe]  
+hymns: [198,485]  
 ---
 
 Today’s topic is about facing life’s giants. In the hymn singing before the service, the hymn leader talks about the many challenges we face in our lives, and we would tend to agree with that statement because we face challenges at different stages. 
@@ -12,7 +12,7 @@ From young, as a toddler, we try to defy gravity and take our first steps. When 
 
 For those of us who have or are currently facing giants, how do we deal with them? If we have to, how do we fight them? The Christian Bible talks about how to deal with them. At a point of history, there was a group of people called the Philistines, who gathered together to battle. They were longtime enemies with Israel. At that time, Israel had a king, called Saul. The Philistines had a giant called Goliath. Let’s look at the Bible. 
 
-1 Samuel 17:4-11
+1 Samuel 17:4-11  
 What was Goliath like? From this passage, we can see that he’s a very tall person. It says that he is 6 cubits at stand, which is about 2.9m. The physical size and outfit of Goliath are really like a giant. You can imagine that he’s gigantic and intimidating in his appearance. V8-11 tells us that Goliath was not just standing there, he was also challenging Israel. He asked for somebody to battle him, and if that person could kill him, the Philistines will serve the Israelites. If not, the Israelites will serve the Philistines. We can understand that this battle was a critical one because it will determine who will serve the other. It was also a battle to win at all costs. On hearing these threats, Saul and all Israel were dismayed (see v11), and greatly afraid. A reason why the Israelites were dismayed could be because they were unable to find someone to meet the challenge. Who can fight Goliath, who was a giant? Later on, in v24, their (the Israelites’) fear was described as “greatly afraid”. We can know that Goliath was someone who caused them great fear. The Israelites were asked to choose someone to fight but were unable to choose one. To add on to these, we see that the threats of Goliath were made daily. We look at v16; Goliath presented himself for 40 days. That’s more than a month. “Day and night”. He was there when the Israelites woke up, and before they slept. The threats were there during the day and at night. We can see that this giant had been threatening the Israelites for a period of time. 
 
 Our lives’ giants today may not be as tall as Goliath, but they are as real as Goliath. The giants we talked about earlier, aren’t they our first thoughts in the morning, and our last thoughts before we sleep at night? If we’re going through a bad patch of depression, aren’t they there all the time? Our life’s giants dominate our day, infiltrate our joy and bring us great dismay. They bring us great fear and we want to flee. Yet we know we cannot flee, because how can we run away without fighting? How can we not do anything to fight this illness? We know that the stakes are very high for this battle, there’s no running away. The winning and losing stakes are real. The giants are real. But are these the only things we see?
@@ -27,15 +27,15 @@ David’s response was very different from the rest. The rest were afraid, they 
 
 Even as a king who was God’s anointed, Saul only saw his own resources, what he and his people are capable of doing and achieving. He failed to see God, which was why he didn’t have the courage to challenge Goliath. But David was able to see the living God. Armed with these experiences of God’s deliverance, with God, David went ahead to challenge Goliath. 
 
-1 Samuel 17:45-51
+1 Samuel 17:45-51  
 The battle has started. Here clearly tells us that David’s source of defence weren’t shields and spears. What was his defence? It was the name of the Lord of Hosts. It was the God of the army of Israel. David also believed that God does not save with spears. The battle is the Lord’s. It seemed like an impossible battle to win, because David was so young, and Goliath was so big. But as far as this battle was concerned, size doesn’t matter, because David saw that the armies of God were with him to fight this battle. In fact, we can see the great courage of David. He didn’t hide but went forward to Goliath for the battle. David took a stone and flung it to Goliath’s forehead. The stone sank into his forehead, and Goliath died. This was how David killed Goliath. He didn’t go to war with spears, because he knew this is the battle of the Lord. This towering giant who was giving threats day and night was killed. Could it be that we can learn from David when we face our lives’ giants? Like David, we can look beyond the giants. Yes, the problems we have are real, the challenges are going to be great, but we have to look beyond the challenges and set our eyes on the living God. 
 
-Who is this living God? Let’s see what Apostle Paul has to say about this living God.
-Acts 17:22-26
-22 'Then Paul stood in the midst of the Areopagus and said, “Men of Athens, I perceive that in all things you are very religious; 
-23 for as I was passing through and considering the objects of your worship, I even found an altar with this inscription: TO THE UNKNOWN GOD. Therefore, the One whom you worship without knowing, Him I proclaim to you: 
-24 “God, who made the world and everything in it, since He is Lord of heaven and earth, does not dwell in temples made with hands. 
-25 Nor is He worshiped with men’s hands, as though He needed anything, since He gives to all life, breath, and all things. 
+Who is this living God? Let’s see what Apostle Paul has to say about this living God.  
+Acts 17:22-26  
+22 'Then Paul stood in the midst of the Areopagus and said, “Men of Athens, I perceive that in all things you are very religious;  
+23 for as I was passing through and considering the objects of your worship, I even found an altar with this inscription: TO THE UNKNOWN GOD. Therefore, the One whom you worship without knowing, Him I proclaim to you:  
+24 “God, who made the world and everything in it, since He is Lord of heaven and earth, does not dwell in temples made with hands.  
+25 Nor is He worshiped with men’s hands, as though He needed anything, since He gives to all life, breath, and all things.  
 26 And He has made from one blood every nation of men to dwell on all the face of the earth, and has determined their preappointed times and the boundaries of their dwellings, '
 
 When Paul was passing through Athens, he found an altar with this description, written to the unknown God. He declared to them who this unknown God was (see v24). This tells us that this living God is, first of all, a Creator. He creates all things and is the source of all existence. Because of that, He is Lord of heaven and earth and everything else, because He created it. 
@@ -44,25 +44,25 @@ Next, we know the second characteristic of this living God. See v26; earlier we 
 
 The living God is also God Almighty. The term “God Almighty” first appeared in Genesis. In fact, this is how God introduced Himself. 
 
-Genesis 17:1-8
+Genesis 17:1-8  
 God introduced Himself in this way to Abraham, that He is an Almighty God (v1). Later on, Abraham became the forefather of David. Even though Abraham was advanced in age, the God Almighty said that he would become the father of many nations. For Abraham’s age, it was almost impossible for him to bear children. But with God, whatever seems impossible is made possible. Abraham had only a small family during that time, but God promised the land of Canaan to Abraham, where his generations to come will live. Later on, we see that this promise came true, because Canaan became land for the Israelites, and they, later on, went to fight the Philistines. 
 
 God made the impossible possible for Abraham’s and He also made the impossible battle possible for David. 
 
-So let’s recap. David saw the living God and His armies. We talked about 3 things concerning the living God:
-1. He is the Creator
-2. He is the Ruler
-3. He is God Almighty 
+So let’s recap. David saw the living God and His armies. We talked about 3 things concerning the living God:  
+1. He is the Creator  
+2. He is the Ruler  
+3. He is God Almighty  
 This is the God David knew and worship. It was God who led the army to fight against the Philistines. This is the same God we can call out to face life’s giants. 
 
-This is a testimony of the speaker’s father:
+This is a testimony of the speaker’s father:  
 The speaker’s father passed away in 1997. He was a loving father, worked hard, and provided for his family. At that time, he was somebody who believed in himself (Atheist), and God was an alien topic to him. The gospel was preached to him, and he was invited to church many times. However, he would decline, and sometimes even mock God. 
 
 Later, the speaker's aunt suffered from a severe stroke, which led to a coma. The speaker’s father mocked and said that if the speaker’s God saves her, then he will believe in God. The father lived on okay after, but his life’s giant visited him in 1995. He contracted stomach cancer. This was when the speaker seized the opportunity to invite his father to church. People say that when you’re at your dead’s end, that’s when you start opening your heart toward God. The speaker was very happy the father accepted the invitation to church. It was an evening service at Adam church, and it was his father’s first time going to a church. The speaker that day was late Dn John Chin. The speaker couldn’t remember the exact content, but he remembered his father tearing. His father joined the prayer and was moved by the Holy Spirit. This made the speaker very excited. After prayer, Dn Chin spoke to him and asked him how the service went. The speaker’s father responded that he had only cried thrice in his life. First, was when his grandmother passed away, the second was his mother passed away, and this is the third time. He felt like he had come home, and he blames himself for not coming home earlier. He felt that God was his Father. Later on, the speaker’s father had to go through an operation. Yes, Life’s Giant met him, but God was with him.
 
 A while later, the speaker’s father had a dream. The speaker’s father was on a boat with the speaker’s aunt and mother. On the boat, there was a captain. The captain steered the boat to a side of the river. At their side of the river, the waters were calm and still. On the other side of the river, there were strong currents and it seemed very dangerous. That dream really gave him the assurance that God was going to be with him, even though he faced this giant of cancer and illness. He knows that God will guide him through this still water and illness. He went through the surgery successfully and recovery was very quick. The speaker’s father, mother, and sister baptised later. In True Jesus Church, baptism is to wash away our sins; to give us a clear conscience before God, so we can be right before God. Thank God, after the father’s baptism, he was able to live normally for another year. He would come for services, and pray earnestly that he would receive the Holy Spirit. He had done so (prayed for the Holy Spirit) because, in the Bible, we are told that everyone has to receive the Holy Spirit to enter heaven. How do we know heaven exists? God gives us the Holy Spirit to let us know there’s a heaven. Thank God, the speaker’s father received the Holy Spirit. Unfortunately, his cancer relapsed in 1997. He battled for 6 months before he succumbed. God didn’t take away the illness. Instead, God allowed the illness, like a giant, to meet him. God did not remove his giants, but God removed his sins. God gave him eternal life and heaven, and the precious Holy Spirit. The speaker’s father passed away peacefully at home. The speaker thanks God because this giant brought his father to God. Meeting the giant caused him to look beyond the things he owned and had. He was able to look beyond himself and his capabilities. Meeting the giant in his life turned his eye to the living God: the Creator, Ruler, and God Almighty. Most importantly, when he faced death, he had confidence. 
 
-Let’s turn to Psalm 48:14
+Let’s turn to Psalm 48:14  
 Death is a final challenge all of us have to meet with. We may have a smooth-sailing life throughout, but death is a giant all of us cannot escape. This is a giant we all know we have to meet. Yet, some people have fear in their hearts. We know that the stakes are high. Is there a way out of it? Our Christian faith believes that our life doesn’t end with death, because beyond the grave, there is the hope of everlasting life. The wonderful thing is that God is forever and ever. As we meet the giant of death, He will be our guide. He is our guide in our entire life, giving us confidence as we meet life’s giants. There’s no need for us to walk alone. When we close our eyes for the very last time, God will be there to guide us through. 
 
 The speaker does not hope that we meet with frightening giants in our life. Though we never know what will happen tomorrow, we know that we have a living God that we can trust. He is our Creator, our Ruler, and our God Almighty. We can put our hands in His to go through life’s battles. We too can be like David: a giant slayer.
@@ -70,5 +70,5 @@ The speaker does not hope that we meet with frightening giants in our life. Thou
 
 
 
-----
+----  
 ****

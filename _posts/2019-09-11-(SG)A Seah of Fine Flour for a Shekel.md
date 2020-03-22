@@ -1,9 +1,9 @@
----
-layout: post
-title: A Seah of Fine Flour for a Shekel 一细亚细面卖一舍容勒
-category: sermon2019singapore
-tags: [faith,reflection]
-hymns: [185,394]
+---  
+layout: post  
+title: A Seah of Fine Flour for a Shekel 一细亚细面卖一舍容勒  
+category: sermon2019singapore  
+tags: [faith,reflection]  
+hymns: [185,394]  
 ---
 
 2 Kings 6:24-33
@@ -12,19 +12,19 @@ This passage tells us about Ben-Hadad, King of Syria, who was around Samaria. Th
 
 Something else happens that was more disturbing. A woman they king of Israel then that another woman suggested they boiled the first woman's son to eat him then boil the second woman's son on the next day to eat, but the second woman had hidden her son.
 
-Then comes the prophecy in 2 Kings 7:1. 
-Then Elisha said, “Hear the word of the Lord . Thus says the Lord : ‘Tomorrow about this time a seah of fine flour shall  be  sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.’ ”
+Then comes the prophecy in 2 Kings 7:1.  
+Then Elisha said, “Hear the word of the Lord . Thus says the Lord : ‘Tomorrow about this time a seah of fine flour shall  be  sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.’ ”  
 II Kings 7:1
 
 [Go on to read the whole of 2 Kings]
 
 Firstly, let us read Deuteronomy 28:15.
 
-'But it shall come to pass, if you do not obey the voice of the Lord your God, to observe carefully all His commandments and His statutes which I command you today, that all these curses will come upon you and overtake you'
+'But it shall come to pass, if you do not obey the voice of the Lord your God, to observe carefully all His commandments and His statutes which I command you today, that all these curses will come upon you and overtake you'  
 Deuteronomy 28:15
 
-And now some of those curses:
-'“Because you did not serve the Lord your God with joy and gladness of heart, for the abundance of everything, therefore you shall serve your enemies, whom the Lord will send against you, in hunger, in thirst, in nakedness, and in need of everything; and He will put a yoke of iron on your neck until He has destroyed you. The Lord will bring a nation against you from afar, from the end of the earth, as  swift as the eagle flies, a nation whose language you will not understand, a nation of fierce countenance, which does not respect the elderly nor show favor to the young. And they shall eat the increase of your livestock and the produce of your land, until you are destroyed; they shall not leave you grain or new wine or oil, or the increase of your cattle or the offspring of your flocks, until they have destroyed you. “They shall besiege you at all your gates until your high and fortified walls, in which you trust, come down throughout all your land; and they shall besiege you at all your gates throughout all your land which the Lord your God has given you. You shall eat the fruit of your own body, the flesh of your sons and your daughters whom the Lord your God has given you, in the siege and desperate straits in which your enemy shall distress you. The sensitive and very refined man among you will be hostile toward his brother, toward the wife of his bosom, and toward the rest of his children whom he leaves behind, so that he will not give any of them the flesh of his children whom he will eat, because he has nothing left in the siege and desperate straits in which your enemy shall distress you at all your gates. The tender and delicate woman among you, who would not venture to set the sole of her foot on the ground because of her delicateness and sensitivity, will refuse to the husband of her bosom, and to her son and her daughter, her placenta which comes out from between her feet and her children whom she bears; for she will eat them secretly for lack of everything in the siege and desperate straits in which your enemy shall distress you at all your gates.'
+And now some of those curses:  
+'“Because you did not serve the Lord your God with joy and gladness of heart, for the abundance of everything, therefore you shall serve your enemies, whom the Lord will send against you, in hunger, in thirst, in nakedness, and in need of everything; and He will put a yoke of iron on your neck until He has destroyed you. The Lord will bring a nation against you from afar, from the end of the earth, as  swift as the eagle flies, a nation whose language you will not understand, a nation of fierce countenance, which does not respect the elderly nor show favor to the young. And they shall eat the increase of your livestock and the produce of your land, until you are destroyed; they shall not leave you grain or new wine or oil, or the increase of your cattle or the offspring of your flocks, until they have destroyed you. “They shall besiege you at all your gates until your high and fortified walls, in which you trust, come down throughout all your land; and they shall besiege you at all your gates throughout all your land which the Lord your God has given you. You shall eat the fruit of your own body, the flesh of your sons and your daughters whom the Lord your God has given you, in the siege and desperate straits in which your enemy shall distress you. The sensitive and very refined man among you will be hostile toward his brother, toward the wife of his bosom, and toward the rest of his children whom he leaves behind, so that he will not give any of them the flesh of his children whom he will eat, because he has nothing left in the siege and desperate straits in which your enemy shall distress you at all your gates. The tender and delicate woman among you, who would not venture to set the sole of her foot on the ground because of her delicateness and sensitivity, will refuse to the husband of her bosom, and to her son and her daughter, her placenta which comes out from between her feet and her children whom she bears; for she will eat them secretly for lack of everything in the siege and desperate straits in which your enemy shall distress you at all your gates.'  
 Deuteronomy 28:47‭-‬57
 
 This was a curse from God. And with this in mind, we understand that the siege was allowed by God to punish them.
@@ -39,7 +39,7 @@ He definitely experienced the power of God firsthand. He also recognised that El
 
 In chapter 6, the king of Israel mentions God many times. But what was his reaction to the people eating their sons? He tore his clothes and put on sackcloth. This is supposed to be an action of remorse, like what the king of Nineveh did when Jonah told them of their impending punishment from God. King Ahab also tore his clothes and had sackcloth on after Elijah spoke to him for killing Naboth. However, what King Jehoram did was to blame Elisha, and saying that God would punish Elisha if he did not solve this. Although King Jehoram knew these were from God, he did not do what faith would have expected of him.
 
-You believe that there is one God. You do well. Even the demons believe—and tremble! But do you want to know, O foolish man, that faith without works is dead?
+You believe that there is one God. You do well. Even the demons believe—and tremble! But do you want to know, O foolish man, that faith without works is dead?  
 James 2:19‭-‬20
 
 The demons believe and know God yet they do not do God's will. This king of Israel believed that the disastrous famine was from God. But he did not truly repent to find out why they were encountering this famine. If he had gone to speak to Elisha to inquire of why they were encountering this, he would have learnt that this was happening because God had pronounced the curse. There was no desire to do actions that pleased God - he was only waiting for God to act.
@@ -66,7 +66,7 @@ When the four leprous men first came to the camp, they were overjoyed! They ate 
 
 This reminds us of what Paul says in 1 Corinthians 9:16.
 
-For if I preach the gospel, I have nothing to boast of, for necessity is laid upon me; yes, woe is me if I do not preach the gospel!
+For if I preach the gospel, I have nothing to boast of, for necessity is laid upon me; yes, woe is me if I do not preach the gospel!  
 I Corinthians 9:16 
 
 Do we feel that woe is upon us if we do not preach the gospel? God has chosen us to be His children and to share the good news. We may be like the leprous men at first who keep this to themselves. But the leprous men realised not sharing this was a great sin. Today, we must preach this great news. We know this news is good and true! 
@@ -79,5 +79,5 @@ Let us not just seek God's blessings. We must learn to reflect and repent always
 
 
 
-----
+----  
 ****

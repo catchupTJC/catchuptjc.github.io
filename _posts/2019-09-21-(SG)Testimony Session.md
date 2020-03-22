@@ -1,9 +1,9 @@
----
-layout: post
-title: Testimony of Hoong Wu and Rachel
-category: youthspiritualmeeting2019singapore
-tags: [testimony,courtship,prayer]
-hymns: []
+---  
+layout: post  
+title: Testimony of Hoong Wu and Rachel  
+category: youthspiritualmeeting2019singapore  
+tags: [testimony,courtship,prayer]  
+hymns: []  
 ---
 
 Hoong Wu’s POV
@@ -66,9 +66,9 @@ After a while, I had an interest in J. I tried explaining our church’s doctrin
 
 I prayed to God, “Can You help J believe in You?” I admitted then that this temptation was quite strong. A part of me hoped that God would make an exception for us. I continued discussing doctrines with me. 
 
-At that time, my mom was also aware of this and prayed with me. My mom made 3 things very clear to me: 
-1. We have no power to change a person’s beliefs unless God decides to work.
-2. The sheep of the Lord will listen to the sound of His voice. If a person refuses to listen to sound doctrine, it means he’s not willing to become a sheep.
+At that time, my mom was also aware of this and prayed with me. My mom made 3 things very clear to me:  
+1. We have no power to change a person’s beliefs unless God decides to work.  
+2. The sheep of the Lord will listen to the sound of His voice. If a person refuses to listen to sound doctrine, it means he’s not willing to become a sheep.  
 3. If I really want to date this person, I’d suffer. I would have to fight for my faith every day and be in danger of losing my faith. 
 
 I know what she said was true but the temptation didn’t go away. I didn’t want to lose my faith and I also acknowledged that I know I would not be able bear this for a long time. I don’t like conflicts, so how long more until I give in because I’m tired of arguing doctrines with him? How long more until I give in to going to his church? 
@@ -100,6 +100,6 @@ For sisters who are of marriageable age, I encourage you to pray to God. God can
 
 
 
-----
+----  
 ****
      

@@ -1,13 +1,13 @@
----
-layout: post
-title: Be Someone Able to Return Home (1) 做一个可以回家的人（一）
-category: sermon2019singapore
-tags: [home,family,eternity]
-hymns: [187,304]
----
+---  
+layout: post  
+title: Be Someone Able to Return Home (1) 做一个可以回家的人（一）  
+category: sermon2019singapore  
+tags: [home,family,eternity]  
+hymns: [187,304]  
+---  
 Why should we become someone who’s able to return home?
 
-Prov 27:8
+Prov 27:8  
 A man who wanders from his place is like a bird that wanders from its nest. Wandering seems enjoyable, but this enjoyment lasts temporarily. No matter what we do, we have to return back to the nest in the end. That’s why Chinese say: even though there may be a silver or gold nest outside, it’s incomparable to your own nest 
 
 Humans need a place to rest. Your home is somewhere that allows you to do so. Returning home is a habit that each person should have everyday. 
@@ -48,8 +48,8 @@ To be able to return to our heavenly home should be the hope of every Christian!
 
 But what we see is that many Christians want strongly to return to their earthly homes. They don’t feel so strongly about wanting to return to their heavenly home because they miss their earthly home. If you tell people “heavenly home is very nice”, they’d answer “yeah but wait a whole chotomateh”
 
-But there’s a circumstance where we would want to go back to heaven.
-Eccl 12:5
+But there’s a circumstance where we would want to go back to heaven.  
+Eccl 12:5  
 When our physical body deteriorates. Have you seen the expression on the elderly when young kids dash past them? It’s when our bodies are ailing and deteriorating that people cry out to Jesus they don’t want to be here anymore and want to go to heaven. It’s rarely the case when their bodies are fit. This is among many reasons of why people don’t want to go home. 
 
 What we need to worry about is whether we’ve prepared; someone ready to go home. Can we guarantee we’ll be able to go home? 
@@ -86,7 +86,7 @@ Sometimes we feel God is unfair. When we do God’s work, do we feel this same s
 
 Who wants to be at a loss? Who wants to give up something and lose something?
 
-Are we willing to sacrifice?
+Are we willing to sacrifice?  
 Our time. Our lives. Will we be like the older son who murmured about what he sacrificed in the house? He forgot his father bore him, raised him, took care of him. Later on the father said “all I have is yours”. The older son could only see what he had given and didn’t see what the father had given him. If not for what the father gave him, he wouldn’t be able to do all this. 
 
 Do we worry our children will be like this? They just stretch out their hands. They only ask for physical things and aren’t willing to contribute to the household. When the parents don’t give enough they get angry and ask why the parents brought them to this world. Some even beat their parents.
@@ -95,5 +95,5 @@ It’s important to be concerned about the things of God’s house. Let’s not 
 
 
 
-----
+----  
 ****

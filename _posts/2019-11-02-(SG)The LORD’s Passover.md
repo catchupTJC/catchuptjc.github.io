@@ -1,10 +1,10 @@
----
-layout: post
-title: The LORD’s Passover 耶和华的逾越节
-category: sermon2019singapore
-tags: [passover,holycommunion]
-hymns: [47,192]
-speaker: 
+---  
+layout: post  
+title: The LORD’s Passover 耶和华的逾越节  
+category: sermon2019singapore  
+tags: [passover,holycommunion]  
+hymns: [47,192]  
+speaker:  
 ---
 
 For our members in Singapore, our Holy Communion is a monthly affair. In some places, it is held twice annually. During our baptism, we also have our Holy Communion. Holding it ever so frequently should not diminish its meaning for us. We should at each Holy Communion feel very deeply for its significance because it is returning to the most significant and meaningful story of how God, the creator, loves His people; how He came in the form of man to save His people with a sacrifice that no other would make. It tells of great forbearance over a people who are always stiff-necked and disobedient. 
@@ -78,12 +78,12 @@ When John the Baptist was baptising people, some of the pretenders, scribes and 
 
 Today we need to ask ourselves: we who have been baptised in Jesus’ name, have we really fled? The Bible tells us to flee from many things. Paul tells the Corinthians, “Flee from adultery! Flee from idolatry! Because you have crossed the Red Sea.” Paul told Timothy to tell the churches to flee from the love of money and again he tells Timothy to flee from youthful lust. It makes a lot of sense for us to do two things: 
 
-To read the Bible and look at the things the Bible wants us to flee from. 
+To read the Bible and look at the things the Bible wants us to flee from.  
 Since we’ve fled from the wrath to come, make sure we really flee. Since fleeing from Egypt must be such a hasty thing, we must not delay. We must not even turn back. 
 
 What happened to Lot’s wife? Apart from telling us to flee, the Bible also tells us to remember Lot’s wife. Look at the Bible and the things the Bible tells us to flee from. 
 
-Look within ourselves. 
+Look within ourselves.  
 What are the things that have a hold on us? What are the things that belong to Egypt? Jesus says, “Give to God what belongs to God, give to Caesar what belongs to Caesar.” It’s not so bad when its, “What belongs to the world, give to the world what belongs to the world.” 
 
 But what if it belongs to the devil? Your lust, greed and the many things in you that only YOU know. 
@@ -124,7 +124,7 @@ The third thing to be mentioned is the grape juice. In Exodus 12 nothing is ment
 
 They had four cups of grape juice because they want to remember what God says in Exodus 6:6-7; 
 
-6 'Therefore say to the children of Israel: ‘I am the Lord ; I will bring you out from under the burdens of the Egyptians, I will rescue you from their bondage, and I will redeem you with an outstretched arm and with great judgments. 
+6 'Therefore say to the children of Israel: ‘I am the Lord ; I will bring you out from under the burdens of the Egyptians, I will rescue you from their bondage, and I will redeem you with an outstretched arm and with great judgments.  
 7 I will take you as My people, and I will be your God. Then you shall know that I am the Lord your God who brings you out from under the burdens of the Egyptians. '
 
 There are four statements here which the Israelites link to the four cups. When Jesus instituted the Holy Communion, there were also four cups there. 
@@ -159,5 +159,5 @@ When we see the Holy Communion in the setting of the Passover then we realise th
 
 
 
-----
+----  
 ****

@@ -1,14 +1,14 @@
----
-layout: post
-title: Here Am I! Send Me 我在这里，请差遣我
-category: sermon2019singapore
-tags: [service,willing,sendme,lovegod]
-hymns: [392,281]
+---  
+layout: post  
+title: Here Am I! Send Me 我在这里，请差遣我  
+category: sermon2019singapore  
+tags: [service,willing,sendme,lovegod]  
+hymns: [392,281]  
 ---
 
-Isa 6:8
-And I heard the voice of the Lord, saying:
-“Whom shall I send, and who will go for Us?”
+Isa 6:8  
+And I heard the voice of the Lord, saying:  
+“Whom shall I send, and who will go for Us?”  
 Then I said, “Here am I! Send me.”
 
 If this question was posed to you today, how would you respond/answer? Would you be like how children typically reply their parents? “I’m very busy now don’t trouble me. Go find brother or sister.” Or “I’ll help you later I’m busy now!” Or “Go google on your own!”
@@ -41,8 +41,8 @@ It’s a pity that when the speaker asked the young brothers again, they say the
 
 We should think about this. We shouldn’t just say “we don’t want” because how do you know God doesn’t want you?
 
-In Myanmar, the speaker worked with two adorable preachers (who’re strongly against KPOP lol). One of them is the most recent preacher to take up this role. During service, he bore testimony of how he became a preacher. The speaker wondered how he was able to endure that period. 
-A person had encouraged him to be a preacher. He said he didn’t want because he wanted to do teaching. He was already doing teaching work but he wanted to attain proper certification. He was diligent studying to get his certification. One day, there was something wrong with his eyelids. Before his exam, he realised he couldn’t open his eyelids. He could only vaguely sense some light. He went to many hospitals in Korea but no one could help him. It was then he remembered the thought of coming out to become a preacher. He then went to the theological college. He still had the eyelid problem when he was there. To read and study, he has to use his fingers to open his eye lids alamak
+In Myanmar, the speaker worked with two adorable preachers (who’re strongly against KPOP lol). One of them is the most recent preacher to take up this role. During service, he bore testimony of how he became a preacher. The speaker wondered how he was able to endure that period.  
+A person had encouraged him to be a preacher. He said he didn’t want because he wanted to do teaching. He was already doing teaching work but he wanted to attain proper certification. He was diligent studying to get his certification. One day, there was something wrong with his eyelids. Before his exam, he realised he couldn’t open his eyelids. He could only vaguely sense some light. He went to many hospitals in Korea but no one could help him. It was then he remembered the thought of coming out to become a preacher. He then went to the theological college. He still had the eyelid problem when he was there. To read and study, he has to use his fingers to open his eye lids alamak  
 He had this condition for 2 years but persisted in remaining in the theological course. One day during a typical service, he was seated listening to the word. Suddenly he felt that his eyelids felt different. From that point forth, his eyes recovered! He’s fully recovered now and you’d never be able to tell he had this condition before. 
 
 This brother didn’t want to be a preacher. But did he know whether God wanted him to be a preacher?
@@ -51,7 +51,7 @@ Not everyone needs to be a full time worker/preacher. But how are you so sure it
 
 Sometimes it may be the case: It’s not that I don’t want. It’s that I’m not suited. 
 
-Do you think Isaiah was suitable? He was a man of unclean lips (Isa 6:5). He wasn’t good enough but God still wanted to use him. This is a very real and genuine emotion that can’t just be brushed aside. Isaiah felt it too. But he voiced it out, and God cleansed him (Isa 6:6-7).
+Do you think Isaiah was suitable? He was a man of unclean lips (Isa 6:5). He wasn’t good enough but God still wanted to use him. This is a very real and genuine emotion that can’t just be brushed aside. Isaiah felt it too. But he voiced it out, and God cleansed him (Isa 6:6-7).  
 If you feel you’re not qualified in a certain manner, but if you have the heart to do His work and respond to God’s calling, and are willing to voice this out to God, God will purge us of this sin so we become suitable for this work. The fundamental question is whether we have the heart to carry this work out. 
 
 Brothers and sisters, do you have the heart to carry this work out?
@@ -66,7 +66,7 @@ In Taiwan, a large batch of preachers are about to retire. Will there be enough 
 
 Even though God doesn’t demand everyone of us to take up full time work, God has called each and everyone of us. 
 
-2 Cor 5:20
+2 Cor 5:20  
 We are ambassadors for Christ, as though God we’re pleasing through us. Paul wasn’t talking about himself. He used “WE are ambassadors for Christ”. This means the Corinth church and us. Ambassadors represent a country in another country. You have been sent by your own country to another country. So even though not every member has been called to do full time ministry, God has called out to each and everyone of us to do His work. What work? Reconciling people to God (2 Cor 5:19). We have been committed the word of reconciliation; to reconcile the world to God. We all have this commission/responsibility, even if we’re all not in this full time ministry. 
 
 Reconciling people to God means we have to warn others. Exhort others. Even judge others. This is the work we have as ambassadors. 
@@ -81,14 +81,14 @@ Gathering in service is very effective. After the service, we can gather and enc
 
 We may find service dry and tasteless. We just want to rush home. Perhaps we should spend a little more time in church after service. We are ambassadors of Christ. Our duty is to encourage one another. 
 
-The Singapore church is considered to be cold. The Korean preacher told this to the speaker. Several people have made such a comment too. 
+The Singapore church is considered to be cold. The Korean preacher told this to the speaker. Several people have made such a comment too.  
 In Singapore, we are very busy with our own family matters. The speaker’s neighbours had no idea his mother was hospitalised for 3 months until she passed away. Such is the Singapore society now. 
 
 Today, only a wall separates us from our neighbours (cf. fields of empty land in the past). Yet we’re even more distant. 
 
 Today visitors comment Singapore church feel cold. Let’s reflect on this. We’re ambassadors. Do we smile at one another? Or do we just have a sour face?
 
-Some people think: this person only cares about me out of responsibility.
+Some people think: this person only cares about me out of responsibility.  
 The speaker thinks: huh isn’t it good the person cares for you at least?
 
 Often, we only care for someone when they’re in trouble/sick. But on a normal basis, we don’t. This is a thinking point for us; to improve and reflect on.
@@ -103,11 +103,11 @@ Today, most of us would have preached to one person or another. But do we do it 
 
 Let us be diligent in doing this work, because there’re so many Christians preaching false gospels outside! There is poison in what they say. 
 
-In Myanmar, there was a someone who preached that Sabbath didn’t need to be kept because Jesus fulfilled the law. The speaker asked her to explain what the fulfilment of the law means. She said, “We just need to believe in Jesus. We don’t need to rely on the law anymore.”
-“Then how do you know you can’t worship idols?”
-She didn’t answer. Because this is only made known from the 10 commandments. 
-“Where in the Bible says we cannot worship idols?”
-She didn’t dare to answer. 
+In Myanmar, there was a someone who preached that Sabbath didn’t need to be kept because Jesus fulfilled the law. The speaker asked her to explain what the fulfilment of the law means. She said, “We just need to believe in Jesus. We don’t need to rely on the law anymore.”  
+“Then how do you know you can’t worship idols?”  
+She didn’t answer. Because this is only made known from the 10 commandments.  
+“Where in the Bible says we cannot worship idols?”  
+She didn’t dare to answer.  
 The speaker said they could discuss further next time. You still need to give others a chance. 
 
 Some Christians outside truly say strange things. They say we don’t need to keep the Sabbath because Jesus has fulfilled the law and yet also believe we can’t worship idols which is also in the law.
@@ -128,5 +128,5 @@ It’s easy when you’re first willing to talk to others. Especially when you s
 
 
 
-----
+----  
 ****

@@ -1,10 +1,10 @@
----
-layout: post
-title: No King in Israel? 以色列中没有王？
-category: sermon2019singapore
-tags: [israel,notoftheworld]
-hymns: [316,424]
-speaker: prpetershee
+---  
+layout: post  
+title: No King in Israel? 以色列中没有王？  
+category: sermon2019singapore  
+tags: [israel,notoftheworld]  
+hymns: [316,424]  
+speaker: prpetershee  
 ---
 
 Throughout the history of Israel, there are seen many failures. They had to be taught by God to learn how to obey His words. The whole of the ten tribes in the North were taken away and they never came back to reconstitute the nations. The two southern tribes didn’t learn their lessons and they were taken into captivity.
@@ -41,7 +41,7 @@ This, is the meaning of Judges 21:25. The behaviour of the people made it look l
 
 We read Judges 8:22-23; 
 
-22 'Then the men of Israel said to Gideon, “Rule over us, both you and your son, and your grandson also; for you have delivered us from the hand of Midian.” But Gideon said to them,
+22 'Then the men of Israel said to Gideon, “Rule over us, both you and your son, and your grandson also; for you have delivered us from the hand of Midian.” But Gideon said to them,  
 23 “I will not rule over you, nor shall my son rule over you; the Lord shall rule over you.” '
 
 Gideon was a judge who subdued to the oppressors of Israel, the Midianites. These people wanted to make him king because in v22 says; 
@@ -60,7 +60,7 @@ Read Judges 6:12;
 
 How could Gideon deliver the people out of the hands of the Midianites? Because the Lord was with them. Read Judges 6:14-15; 
 
-14 'Then the Lord turned to him and said, “Go in this might of yours, and you shall save Israel from the hand of the Midianites. Have I not sent you?”
+14 'Then the Lord turned to him and said, “Go in this might of yours, and you shall save Israel from the hand of the Midianites. Have I not sent you?”  
 15 So he said to Him, “O my Lord, how can I save Israel? Indeed my clan is the weakest in Manasseh, and I am the least in my father’s house.”'
 
 It was mentioned this morning that by choosing the smallest and weakest, the glory of God would be seen. Here Gideon admitted that he was weak, “How can I do anything for you?” He was the weakest and the least in his father’s house. 
@@ -157,8 +157,8 @@ The people of Dan went to this fake priest and this fake priest said, “Go! God
 
 Victory was given to them and they told this young Levi who became a priest in Judges 18:17-19; 
 
-17 'Then the five men who had gone to spy out the land went up. Entering there, they took the carved image, the ephod, the household idols, and the molded image. The priest stood at the entrance of the gate with the six hundred men who were armed with weapons of war. 
-18 When these went into Micah’s house and took the carved image, the ephod, the household idols, and the molded image, the priest said to them, “What are you doing?” 
+17 'Then the five men who had gone to spy out the land went up. Entering there, they took the carved image, the ephod, the household idols, and the molded image. The priest stood at the entrance of the gate with the six hundred men who were armed with weapons of war.  
+18 When these went into Micah’s house and took the carved image, the ephod, the household idols, and the molded image, the priest said to them, “What are you doing?”  
 19 And they said to him, “Be quiet, put your hand over your mouth, and come with us; be a father and a priest to us. Is it better for you to be a priest to the household of one man, or that you be a priest to a tribe and a family in Israel?” '
 
 “Eh, you only serve one man, not worth it lah. Come come, serve us! The whole tribe of Dan! You’ll be our priest. Don’t tell Micah ah, you bring his shrine and follow us to be our priest.” 
@@ -169,8 +169,8 @@ They did what was right in their eyes and wanted God to serve their purposes.
 
 What was their third problem? In 1 Samuel 8:5-7; 
 
-5 'and said to him, “Look, you are old, and your sons do not walk in your ways. Now make us a king to judge us like all the nations.” 
-6 But the thing displeased Samuel when they said, “Give us a king to judge us.” So Samuel prayed to the Lord . 
+5 'and said to him, “Look, you are old, and your sons do not walk in your ways. Now make us a king to judge us like all the nations.”  
+6 But the thing displeased Samuel when they said, “Give us a king to judge us.” So Samuel prayed to the Lord .  
 7 And the Lord said to Samuel, “Heed the voice of the people in all that they say to you; for they have not rejected you, but they have rejected Me, that I should not reign over them. '
 
 This was when they formally asked Samuel, the last judge, to give them a king. God knew their hearts, “These people asked for a king because they don’t want Me to be their king.” Their own words betrayed their intent. Because v5 says “Like all the nations”
@@ -203,7 +203,7 @@ We read Psalm 2:1;
 
 The nations represent global rebellion. If you were to read this psalm, it’s talking about God establishing His king. V6-7; 
 
-6 '“Yet I have set My King On My holy hill of Zion.” 
+6 '“Yet I have set My King On My holy hill of Zion.”  
 7 “I will declare the decree: The Lord has said to Me, ‘You are My Son, Today I have begotten You.'
 
 Who is this Son of mount Zion? It’s Jesus Christ, the king of kings. 
@@ -220,5 +220,5 @@ We are those who have recognised and respected God as our king. God has sent us 
 
 
 
-----
+----  
 ****

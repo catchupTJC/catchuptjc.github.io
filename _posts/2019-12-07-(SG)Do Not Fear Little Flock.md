@@ -1,10 +1,10 @@
----
-layout: post
-title: Do Not Fear, Little Flock 你们这小群，不用惧怕
-category: sermon2019singapore
-tags: [fear,faith,providence]
-hymns: [271,152]
-speaker: prpetershee
+---  
+layout: post  
+title: Do Not Fear, Little Flock 你们这小群，不用惧怕  
+category: sermon2019singapore  
+tags: [fear,faith,providence]  
+hymns: [271,152]  
+speaker: prpetershee  
 ---
 
 We are all humans and we have very real needs. Jesus knows what we need. 
@@ -21,8 +21,8 @@ The Lord Jesus wants us to free ourselves from worries and wait unto God. The TJ
 
 Jesus says, “Do not fear, little flock.” Why did He say to not fear? We’ll say, “It’s because we have God with us,” but let us see what Jesus says after that. We read Luke 12:30-32; 
 
-30 'For all these things the nations of the world seek after, and your Father knows that you need these things. 
-31 But seek the kingdom of God, and all these things shall be added to you. 
+30 'For all these things the nations of the world seek after, and your Father knows that you need these things.  
+31 But seek the kingdom of God, and all these things shall be added to you.  
 32 “Do not fear, little flock, for it is your Father’s good pleasure to give you the kingdom. '
 
 “The Lord is pleased to give you His kingdom.” 
@@ -101,12 +101,12 @@ If we have a need and that brings out our faith, that’s what God wants to see.
 
 We read 2 Kings 20:12-18; 
 
-12 'At that time Berodach-Baladan the son of Baladan, king of Babylon, sent letters and a present to Hezekiah, for he heard that Hezekiah had been sick. 
-13 And Hezekiah was attentive to them, and showed them all the house of his treasures—the silver and gold, the spices and precious ointment, and all his armory—all that was found among his treasures. There was nothing in his house or in all his dominion that Hezekiah did not show them. 
-14 Then Isaiah the prophet went to King Hezekiah, and said to him, “What did these men say, and from where did they come to you?” So Hezekiah said, “They came from a far country, from Babylon.” 
-15 And he said, “What have they seen in your house?” So Hezekiah answered, “They have seen all that is in my house; there is nothing among my treasures that I have not shown them.” 
-16 Then Isaiah said to Hezekiah, “Hear the word of the Lord : 
-17‘Behold, the days are coming when all that is in your house, and what your fathers have accumulated until this day, shall be carried to Babylon; nothing shall be left,’ says the Lord . 
+12 'At that time Berodach-Baladan the son of Baladan, king of Babylon, sent letters and a present to Hezekiah, for he heard that Hezekiah had been sick.  
+13 And Hezekiah was attentive to them, and showed them all the house of his treasures—the silver and gold, the spices and precious ointment, and all his armory—all that was found among his treasures. There was nothing in his house or in all his dominion that Hezekiah did not show them.  
+14 Then Isaiah the prophet went to King Hezekiah, and said to him, “What did these men say, and from where did they come to you?” So Hezekiah said, “They came from a far country, from Babylon.”  
+15 And he said, “What have they seen in your house?” So Hezekiah answered, “They have seen all that is in my house; there is nothing among my treasures that I have not shown them.”  
+16 Then Isaiah said to Hezekiah, “Hear the word of the Lord :  
+17‘Behold, the days are coming when all that is in your house, and what your fathers have accumulated until this day, shall be carried to Babylon; nothing shall be left,’ says the Lord .  
 18 ‘And they shall take away some of your sons who will descend from you, whom you will beget; and they shall be eunuchs in the palace of the king of Babylon.’ ”'
 
 Here, God healed King Hezekiah of his illness and gave him another 15 years to live. V12-18 talks about the time he boasted to the Babylonians. 
@@ -145,16 +145,16 @@ Why are we here? What are we living for? This is the glory of God and the ambiti
 
 In Deuteronomy 7:14-24; 
 
-14 'You shall be blessed above all peoples; there shall not be a male or female barren among you or among your livestock. 
-15 And the Lord will take away from you all sickness, and will afflict you with none of the terrible diseases of Egypt which you have known, but will lay them on all those who hate you. 
-16 Also you shall destroy all the peoples whom the Lord your God delivers over to you; your eye shall have no pity on them; nor shall you serve their gods, for that will be a snare to you. 
-17 “If you should say in your heart, ‘These nations are greater than I; how can I dispossess them?’— 
-18 you shall not be afraid of them, but you shall remember well what the Lord your God did to Pharaoh and to all Egypt: 
-19 the great trials which your eyes saw, the signs and the wonders, the mighty hand and the outstretched arm, by which the Lord your God brought you out. So shall the Lord your God do to all the peoples of whom you are afraid. 
-20 Moreover the Lord your God will send the hornet among them until those who are left, who hide themselves from you, are destroyed. 
-21 You shall not be terrified of them; for the Lord your God, the great and awesome God, is among you. 
-22 And the Lord your God will drive out those nations before you little by little; you will be unable to destroy them at once, lest the beasts of the field become too numerous for you. 
-23 But the Lord your God will deliver them over to you, and will inflict defeat upon them until they are destroyed.
+14 'You shall be blessed above all peoples; there shall not be a male or female barren among you or among your livestock.  
+15 And the Lord will take away from you all sickness, and will afflict you with none of the terrible diseases of Egypt which you have known, but will lay them on all those who hate you.  
+16 Also you shall destroy all the peoples whom the Lord your God delivers over to you; your eye shall have no pity on them; nor shall you serve their gods, for that will be a snare to you.  
+17 “If you should say in your heart, ‘These nations are greater than I; how can I dispossess them?’—  
+18 you shall not be afraid of them, but you shall remember well what the Lord your God did to Pharaoh and to all Egypt:  
+19 the great trials which your eyes saw, the signs and the wonders, the mighty hand and the outstretched arm, by which the Lord your God brought you out. So shall the Lord your God do to all the peoples of whom you are afraid.  
+20 Moreover the Lord your God will send the hornet among them until those who are left, who hide themselves from you, are destroyed.  
+21 You shall not be terrified of them; for the Lord your God, the great and awesome God, is among you.  
+22 And the Lord your God will drive out those nations before you little by little; you will be unable to destroy them at once, lest the beasts of the field become too numerous for you.  
+23 But the Lord your God will deliver them over to you, and will inflict defeat upon them until they are destroyed.  
 24  And He will deliver their kings into your hand, and you will destroy their name from under heaven; no one shall be able to stand against you until you have destroyed them. '
 
 God told them them none of their animals would be infertile. They’ll fight battles and others will be subject to them. “Kings will be your subjects”.
@@ -187,7 +187,7 @@ Jesus says, “Do not fear” is the manifestation of our faith.
 
 “God will give us the kingdom” this is the kingdom of our faith, do not lose this faith. In Luke 12:33-34; 
 
-33 'Sell what you have and give alms; provide yourselves money bags which do not grow old, a treasure in the heavens that does not fail, where no thief approaches nor moth destroys. 
+33 'Sell what you have and give alms; provide yourselves money bags which do not grow old, a treasure in the heavens that does not fail, where no thief approaches nor moth destroys.  
 34 For where your treasure is, there your heart will be also.'
 
 Those seated here today are not a poor group of people who have to worry about our next meal. About 90% have extra to give. Jesus says to focus on what’s important. Jesus told Pilate, “My kingdom is not of this world, I’m a servant of Christ.” 
@@ -196,5 +196,5 @@ We don’t fight with the physical world, we fight mental and spiritual warfares
 
 
 
-----
+----  
 ****

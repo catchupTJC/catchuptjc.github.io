@@ -1,10 +1,10 @@
----
-layout: post
-title: Prayer for the Holy Spirit (Evening) 祈求圣灵
-category: spiritualmeeting2019singapore
-tags: [prayer,worship]
-hymns: []
-speaker: 
+---  
+layout: post  
+title: Prayer for the Holy Spirit (Evening) 祈求圣灵  
+category: spiritualmeeting2019singapore  
+tags: [prayer,worship]  
+hymns: []  
+speaker:  
 ---
 
 We turn to Titus 3:5; 
@@ -40,5 +40,5 @@ Are we willing to let to Holy Spirit change and renew us? So that our actions an
 Praying for the Holy Spirit is not just to enter heaven but to reach another level in our spiritual nurture. All of us have our weaknesses but when we let the Holy Spirit renew us, our spiritual life will be better and better each day. You’ll find that your faith is true and has life in it. Then your faith will be a testimony for others, to lead them to believe in Jesus. This is one of our pursuits. Through such encouragement, hopefully everyone will pray for the Holy Spirit and for those who have received the Holy Spirit; we pray for Him to renew us.
 
 
-----
+----  
 ****

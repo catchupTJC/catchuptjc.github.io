@@ -1,9 +1,9 @@
----
-layout: post
-title: Forum/Q&A (Marriage Facilitators)
-category: youthspiritualmeeting2019singapore
-tags: [qanda,relationship,courtship,marriage]
-hymns:
+---  
+layout: post  
+title: Forum/Q&A (Marriage Facilitators)  
+category: youthspiritualmeeting2019singapore  
+tags: [qanda,relationship,courtship,marriage]  
+hymns:  
 ---
 
 Marriage facilitators: marriage facilitating/marriage facilitators 
@@ -148,5 +148,5 @@ Don’t know if you can live together - after you’ve chosen the right person, 
 
 
 
-----
+----  
 ****

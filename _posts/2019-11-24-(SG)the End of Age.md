@@ -1,10 +1,10 @@
----
-layout: post
-title: The End of Age 世界的末了
-category: spiritualmeeting2019singapore
-tags: [lastdays]
-hymns: [87,408]
-speaker: prsimonchin
+---  
+layout: post  
+title: The End of Age 世界的末了  
+category: spiritualmeeting2019singapore  
+tags: [lastdays]  
+hymns: [87,408]  
+speaker: prsimonchin  
 ---
 
 What is this age? “Age” in the Bible is the plural of ages. In Hebrews 9:26;
@@ -27,7 +27,7 @@ What is the standard now? Who is right and who is wrong? Those who say that it�
 
 For those who don’t believe in the word of God will face a day of mourning on Judgement Day. We turn to Matthew 24:30-31: 
 
-30 'Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory. 
+30 'Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.  
 31 And He will send His angels with a great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other.'
 
 These people don’t believe in Judgement and they also don’t believe in having a belief in the Lord, “If my life is going to last 70 years, I’ll enjoy it. I don’t know what will happen after and you can’t tell me. I don’t care even if anything happens. What I know is that I can live up to 70 years. Only the foolish don’t know how to enjoy.” 
@@ -40,7 +40,7 @@ When will that day be? V36 says;
 
 Even the Son of Man does not know because Jesus as the son of Man emptied Himself. As a man, He does not know what will happen. But He tells us in v38-39;
 
-38 'For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, until the day that Noah entered the ark, 
+38 'For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, until the day that Noah entered the ark,  
 39 and did not know until the flood came and took them all away, so also will the coming of the Son of Man be. '
 
 God was very fair in the days of Noah. God through Noah told the people there’ll be a day in which the world will be drowned. He told Noah to build the ark because He is going to send a great flood which will cover the earth. 
@@ -63,10 +63,10 @@ Sodom and Gomorrah is a true story and Jesus cited these events to tell us in v4
 
 He tells us to get ready. These things have happened and is proof of the judgement of God. You must be ready for the second coming of the son of man. Now we turn to Zephaniah 1:14-18; 
 
-14 'The great day of the Lord is near; It is near and hastens quickly. The noise of the day of the Lord is bitter; There the mighty men shall cry out. 
-15 That day is a day of wrath, A day of trouble and distress, A day of devastation and desolation, A day of darkness and gloominess, A day of clouds and thick darkness, 
-16 A day of trumpet and alarm Against the fortified cities And against the high towers. 
-17 “I will bring distress upon men, And they shall walk like blind men, Because they have sinned against the Lord ; Their blood shall be poured out like dust, And their flesh like refuse.” 
+14 'The great day of the Lord is near; It is near and hastens quickly. The noise of the day of the Lord is bitter; There the mighty men shall cry out.  
+15 That day is a day of wrath, A day of trouble and distress, A day of devastation and desolation, A day of darkness and gloominess, A day of clouds and thick darkness,  
+16 A day of trumpet and alarm Against the fortified cities And against the high towers.  
+17 “I will bring distress upon men, And they shall walk like blind men, Because they have sinned against the Lord ; Their blood shall be poured out like dust, And their flesh like refuse.”  
 18 Neither their silver nor their gold Shall be able to deliver them In the day of the Lord ’s wrath; But the whole land shall be devoured By the fire of His jealousy, For He will make speedy riddance Of all those who dwell in the land.'
 
 Zephaniah was a contemporary of the prophet Jeremiah. They were working in Jerusalem. Jerusalem was destroyed in 586 BC. Babylonians destroyed the temple and took the Jews as captive to Babylon for 70 years. That was the year 586 BC. Jeremiah and Zephaniah were prophets in the year 670 BC and told the people of God’s destruction. Zephaniah told the people that this is the day of the Lord and it may refer to the day of destruction of Jerusalem but scholars reckon it to also refer to the last day of the world. The reason is very clear as to why this destruction would come. In v17; 
@@ -101,13 +101,13 @@ The promise of Jesus Christ
 
 We turn to John 14:1-3; 
 
-1 '“Let not your heart be troubled; you believe in God, believe also in Me. 
-2 In My Father’s house are many mansions; if it were not so, I would have told you. I go to prepare a place for you.
+1 '“Let not your heart be troubled; you believe in God, believe also in Me.  
+2 In My Father’s house are many mansions; if it were not so, I would have told you. I go to prepare a place for you.  
 3 And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, there you may be also. '
 
 This is the promise of Jesus Christ when He was still preaching. Before He was crucified, He made this promise. He knew that He was about to be nailed on the cross but He wanted to comfort the believers. He knew that He had to be separated from His disciples and their faith was built because Jesus was in their presence physically. Their faith must keep growing to know Christ would be with them spiritually. Physically, Christ was taken to heaven but His presence will never be taken away from His disciples. This is the promise of the Lord and in the last chapter of the Bible in Revelation 22:12-13; 
 
-12 '“And behold, I am coming quickly, and My reward is with Me, to give to every one according to his work. 
+12 '“And behold, I am coming quickly, and My reward is with Me, to give to every one according to his work.  
 13 I am the Alpha and the Omega, the Beginning and the End, the First and the Last.”'
 
 Jesus assured His disciples physically and spiritually when He was in heaven. The words of Jesus are the words of God and is trustworthy. He is the alpha and omega; the first and the last. Alpha is the first letter of the Greek alphabet and omega is the last letter of the Greek alphabet. Jesus assured that He is the creator and lives forever. He will come. 
@@ -132,7 +132,7 @@ When Jesus rose, Peter went to the tomb and saw that it was empty. Mary Magdalen
 
 The Holy Spirit is also the witness. We turn to Acts 5:31-32; 
 
-31 'Him God has exalted to His right hand to be Prince and Savior, to give repentance to Israel and forgiveness of sins. 
+31 'Him God has exalted to His right hand to be Prince and Savior, to give repentance to Israel and forgiveness of sins.  
 32 And we are His witnesses to these things, and so also is the Holy Spirit whom God has given to those who obey Him.”'
 
 Peter was talking about the resurrection of Christ and also the ascension of Christ. He said, “Of this, we are witnesses.” He was speaking to the elders of the Sanhedrin and these were people who opposed Christ but the disciples bravely preached Christ. The Sanhedrin stopped them but Peter said that they cannot but tell people of what they’ve seen or heard. The Jews told them to not preach Jesus anymore and set them free. The apostles got together and prayed for miracles and wonders to be brought through them. The Holy Spirit filled them and the great grace were brought to the people because they bravely preached of Him and His resurrection. 
@@ -185,8 +185,8 @@ Keep the word of patience and endurance.
 
 In Revelation 3:10-12; 
 
-10 'Because you have kept My command to persevere, I also will keep you from the hour of trial which shall come upon the whole world, to test those who dwell on the earth. 
-11 Behold, I am coming quickly! Hold fast what you have, that no one may take your crown.
+10 'Because you have kept My command to persevere, I also will keep you from the hour of trial which shall come upon the whole world, to test those who dwell on the earth.  
+11 Behold, I am coming quickly! Hold fast what you have, that no one may take your crown.  
 12 He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. I will write on him the name of My God and the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And I will write on him My new name.'
 
 This time of trial will come upon the whole world. The destruction, the love of this world and sin of this world will come upon us. We will also experience this. Homosexuality also concerns our church. Though we don’t agree with homosexuality, in some places we cannot preach that it is wrong because it’s against the law and if it’s recorded, you can be charged. 
@@ -199,5 +199,5 @@ There can be many reasons for us to leave the church but there is one reason for
 
 
 
-----
+----  
 ****

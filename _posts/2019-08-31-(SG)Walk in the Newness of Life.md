@@ -1,12 +1,12 @@
----
-layout: post
-title: Walk in the Newness of Life 活出新生的样式
-category: sermon2019singapore
-tags: [startagain,strength,newman]
-hymns: [380,244]
+---  
+layout: post  
+title: Walk in the Newness of Life 活出新生的样式  
+category: sermon2019singapore  
+tags: [startagain,strength,newman]  
+hymns: [380,244]  
 ---
 
-Turn to Romans 6:4; 
+Turn to Romans 6:4;  
 'Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.'
 
 This passage talks about us being baptised into Jesus Christ. Being baptised is to be baptised into Jesus and to be resurrected with Him. V1-2; “shall we continue in sin that grace may abound?” 2; “how shall we who died in sin live no longer in it?” It continues to say that we are baptised into Jesus Christ and into His death. 
@@ -21,20 +21,20 @@ We know that when we are baptised our sins are washed away, but what happens aft
 
 Today we are living beings and we have very royal and precious status. Since we have a new life we have to think about how we want to grow in this life. Here says we should walk in newness of life because we have such an important status and we have to treasure it. When Paul was called, he said that he was a sinner. Just as Paul who was a persecutor of Christ, he said that he was the foremost of all sinners, but today what have I become? He was expressing this himself. We turn to 1 Corinthians 15:9-10; 
 
-9 'For I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the church of God. 
+9 'For I am the least of the apostles, who am not worthy to be called an apostle, because I persecuted the church of God.  
 10 But by the grace of God I am what I am, and His grace toward me was not in vain; but I labored more abundantly than they all, yet not I, but the grace of God which was with me. '
 
 Paul said that in the past he wasn’t worthy to be called an apostle and he was a persecutor of the church of God but he says that now that he has been called, he has a very precious status. He was full of thanksgiving because all these are the grace of God. Similarly, we are able to be born again through the grace of God. How is it that we’re able to come into Christ? The Bible tells us that God chose us and not we chose Him, and so all the more we ought to know how to repay the great grace of God. 
 
 Let us look at Psalm 116:1-8; 
 
-1 'I love the Lord , because He has heard My voice and my supplications. 
-2 Because He has inclined His ear to me, Therefore I will call upon Him as long as I live. 
-3 The pains of death surrounded me, And the pangs of Sheol laid hold of me; I found trouble and sorrow. 
-4 Then I called upon the name of the Lord : “O Lord , I implore You, deliver my soul!” 
-5 Gracious is the Lord , and righteous; Yes, our God is merciful. 
-6 The Lord preserves the simple; I was brought low, and He saved me. 
-7 Return to your rest, O my soul, For the Lord has dealt bountifully with you. 
+1 'I love the Lord , because He has heard My voice and my supplications.  
+2 Because He has inclined His ear to me, Therefore I will call upon Him as long as I live.  
+3 The pains of death surrounded me, And the pangs of Sheol laid hold of me; I found trouble and sorrow.  
+4 Then I called upon the name of the Lord : “O Lord , I implore You, deliver my soul!”  
+5 Gracious is the Lord , and righteous; Yes, our God is merciful.  
+6 The Lord preserves the simple; I was brought low, and He saved me.  
+7 Return to your rest, O my soul, For the Lord has dealt bountifully with you.  
 8 For You have delivered my soul from death, My eyes from tears, And my feet from falling.'
 
 This psalmist has received a lot of grace from God. It seems that this person has come to the very end, but God has delivered him. Some say that this was written by King Hezekiah. He was the king of Judah and was amongst the good kings. We know that he was sick to the point of death. Later on, he cried to the Lord and He gave him 15 more years of life. 
@@ -45,14 +45,14 @@ There was a general from Syria that wanted to conquer him (King Hezekiah). He kn
 
 v13-14; 
 
-13 'I will take up the cup of salvation, And call upon the name of the Lord . 
+13 'I will take up the cup of salvation, And call upon the name of the Lord .  
 14 I will pay my vows to the Lord Now in the presence of all His people.'
 
 v17-19;
 
-17 'I will offer to You the sacrifice of thanksgiving, And will call upon the name of the Lord .
-18 I will pay my vows to the Lord Now in the presence of all His people, 
-19 In the courts of the Lord ’s house, In the midst of you, O Jerusalem. Praise the Lord !'
+17 'I will offer to You the sacrifice of thanksgiving, And will call upon the name of the Lord .  
+18 I will pay my vows to the Lord Now in the presence of all His people,  
+19 In the courts of the Lord ’s house, In the midst of you, O Jerusalem. Praise the Lord !'  
 Since we have received this great grace, we need to walk before the Lord in the way of living and we have to be set apart. All of our actions have to show the newness of life. We were in darkness in the past because we were under the bondage of sin. 
 
 When a person meets with great danger or when he’s in the midst of great pain and suffering, very often he would call to God. He would ask God to help him, and when he’s well, he’ll do this and that for God. This is the vow to repay God. Before we get what we want, many would make such vows. 
@@ -107,7 +107,7 @@ We read Mark 4:20;
 
 This is the parable of the sower. In the beginning, we are able to accept the gospel and hence we are baptised. When the seeds are sown, some are able to bear fruits. Some thirtyfold, some sixty and some a hundred. We read v28-29;
 
-'For the earth yields crops by itself: first the blade, then the head, after that the full grain in the head. '
+'For the earth yields crops by itself: first the blade, then the head, after that the full grain in the head. '  
 'But when the grain ripens, immediately he puts in the sickle, because the harvest has come.”'
 
 Jesus says that this is something natural. Based on the laws of nature, the seeds will grow and when the grain ripens it can be harvested. This is done step by step. Our renewal happens step by step and is not immediate as well. This is what we have to pursue our entire life. What is natural is God creation and His protection. The heavens and earth are created by God - how the earth rotates, how life goes, is determined by God. Naturally, it should grow healthily and if you’re unable to grow it means you’re sick. If in the past we walk in the way of darkness and within us is evil, defile, unable to give thanks, have we changed now? If your spiritual life is unable to grow and unable to bear fruit it means your spiritual life is sick. Based on the will of God we should be able to grow naturally. Some grow faster and some slower and this is based on how much effort we grow in. Most importantly is we grow. If after believing in God for tens of years and we don’t change it means we have not grown - this is spiritual sickness. Only the spiritual doctor, Jesus, can heal us. 
@@ -136,8 +136,8 @@ To sow in tears means that much effort is put in and when they reap they will be
 
 We read Hebrews 10:37-39 as a conclusion; 
 
-37 '“For yet a little while, And He who is coming will come and will not tarry. 
-38 Now the just shall live by faith; But if anyone draws back, My soul has no pleasure in him.” 
+37 '“For yet a little while, And He who is coming will come and will not tarry.  
+38 Now the just shall live by faith; But if anyone draws back, My soul has no pleasure in him.”  
 39 But we are not of those who draw back to perdition, but of those who believe to the saving of the soul.'
 
 The author of Hebrews wrote this as an encouragement to us today, “I’m not those who draw back into rendition”, we must encourage ourselves like this. If we don’t grow, we may be excluded in the future. But if we say, “I’m not that kind of person, I’m those who believe to the saving to the souls.” 
@@ -146,5 +146,5 @@ We’ve been pushing All 8, and we should also think about what our family is li
 
 
 
-----
+----  
 ****

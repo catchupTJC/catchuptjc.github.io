@@ -1,10 +1,10 @@
----
-layout: post
-title: Crisis of Love-To Love Oneself More Than God (1) 爱的危机-爱自己胜过爱神 （一）
-category: spiritualmeeting2019singapore
-tags: [love,loveself,loveothers,lovegod]
-hymns: [363]
-speaker: dncaleblee
+---  
+layout: post  
+title: Crisis of Love-To Love Oneself More Than God (1) 爱的危机-爱自己胜过爱神 （一）  
+category: spiritualmeeting2019singapore  
+tags: [love,loveself,loveothers,lovegod]  
+hymns: [363]  
+speaker: dncaleblee  
 ---
 
 How do we ensure we love ourselves properly? 
@@ -13,13 +13,13 @@ We must start to accept ourselves
 
 Some people are dissatisfied with who they are and their lot in life, “I’m not happy with my current job but I can only do this”, “I’m not happy because I’m born so stupid, I cannot learn more than what I already know”. Such people have to learn to accept oneself. We turn to Judges 9:8-15; 
 
-8 '“The trees once went forth to anoint a king over them. And they said to the olive tree, ‘Reign over us!’ 
-9 But the olive tree said to them, ‘Should I cease giving my oil, With which they honor God and men, And go to sway over trees?’ 
-10 “Then the trees said to the fig tree, ‘You come and reign over us!’ 
-11 But the fig tree said to them, ‘Should I cease my sweetness and my good fruit, And go to sway over trees?’ 
-12 “Then the trees said to the vine, ‘You come and reign over us!’ 
-13 But the vine said to them, ‘Should I cease my new wine, Which cheers both God and men, And go to sway over trees?’ 
-14 “Then all the trees said to the bramble, ‘You come and reign over us!’ 
+8 '“The trees once went forth to anoint a king over them. And they said to the olive tree, ‘Reign over us!’  
+9 But the olive tree said to them, ‘Should I cease giving my oil, With which they honor God and men, And go to sway over trees?’  
+10 “Then the trees said to the fig tree, ‘You come and reign over us!’  
+11 But the fig tree said to them, ‘Should I cease my sweetness and my good fruit, And go to sway over trees?’  
+12 “Then the trees said to the vine, ‘You come and reign over us!’  
+13 But the vine said to them, ‘Should I cease my new wine, Which cheers both God and men, And go to sway over trees?’  
+14 “Then all the trees said to the bramble, ‘You come and reign over us!’  
 15 And the bramble said to the trees, ‘If in truth you anoint me as king over you, Then come and take shelter in my shade; But if not, let fire come out of the bramble And devour the cedars of Lebanon!’'
 
 This is a prophetic parable but more importantly, let’s learn from the examples brought up there. If a person can accept himself, he would be like the earlier three plants mentioned. For example, the olive. The olive knew its own role. When others wanted to make him king to sway over the other trees, v9 says; 
@@ -30,12 +30,12 @@ The olive tree knows that it’s only doing its part to honour God and help men.
 
 When a person doesn’t accept himself, it leads to vainless conflicts and problems. Let us learn about God’s love for ourselves in life. If you’re born this particular way - height and look, we accept it because it’s what God built for us. If you could change certain things by exercising, for instance, it’s fine. We must accept ourselves and our lots in life. If not, the Bible says, “Woe is us because we dare to question God.” We read Isaiah 45:9-10; 
 
-9 '“Woe to him who strives with his Maker! Let the potsherd strive with the potsherds of the earth! Shall the clay say to him who forms it, ‘What are you making?’ Or shall your handiwork say, ‘He has no hands’? 
+9 '“Woe to him who strives with his Maker! Let the potsherd strive with the potsherds of the earth! Shall the clay say to him who forms it, ‘What are you making?’ Or shall your handiwork say, ‘He has no hands’?  
 10 Woe to him who says to his father, ‘What are you begetting?’ Or to the woman, ‘What have you brought forth?’ ”'
 
 These two verses tell us the woes of people who question themselves and God, “Why am I here?”, “Why was I born this way?” But can we strife with our Maker? Instead, we must learn from David. David in life learnt and made an active decision to no longer go beyond his own means and do things beyond his lot. He could do it and so can we. We turn to Psalm 131:1-2; 
 
-1 'Lord , my heart is not haughty, Nor my eyes lofty. Neither do I concern myself with great matters, Nor with things too profound for me. 
+1 'Lord , my heart is not haughty, Nor my eyes lofty. Neither do I concern myself with great matters, Nor with things too profound for me.  
 2 Surely I have calmed and quieted my soul, Like a weaned child with his mother; Like a weaned child is my soul within me.'
 
 Here tells us the heart of David. He says to God, “God, I’m no longer haughty and my eyes are no longer lofty, looking for great things to do. I don’t concern with great matters which are beyond me, this is my lot in life. There are things too hard for me to understand and I won’t push myself to do so because it’s not expected of me.” 
@@ -52,13 +52,13 @@ Esteem oneself
 
 How does one measure the worth of oneself? How can I esteem myself? Often the way we measure ourselves is also the way we measure other people. When we look at this person, we think this person is of this certain worth to be my friend or this person is not very worthy to be my friend. We turn to James 2:1-8; 
 
-1 'My brethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with partiality. 
-2 For if there should come into your assembly a man with gold rings, in fine apparel, and there should also come in a poor man in filthy clothes, 
-3 and you pay attention to the one wearing the fine clothes and say to him, “You sit here in a good place,” and say to the poor man, “You stand there,” or, “Sit here at my footstool,” 
-4 have you not shown partiality among yourselves, and become judges with evil thoughts?
-5 Listen, my beloved brethren: Has God not chosen the poor of this world to be rich in faith and heirs of the kingdom which He promised to those who love Him? 
-6 But you have dishonored the poor man. Do not the rich oppress you and drag you into the courts? 
-7 Do they not blaspheme that noble name by which you are called? 
+1 'My brethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with partiality.  
+2 For if there should come into your assembly a man with gold rings, in fine apparel, and there should also come in a poor man in filthy clothes,  
+3 and you pay attention to the one wearing the fine clothes and say to him, “You sit here in a good place,” and say to the poor man, “You stand there,” or, “Sit here at my footstool,”  
+4 have you not shown partiality among yourselves, and become judges with evil thoughts?  
+5 Listen, my beloved brethren: Has God not chosen the poor of this world to be rich in faith and heirs of the kingdom which He promised to those who love Him?  
+6 But you have dishonored the poor man. Do not the rich oppress you and drag you into the courts?  
+7 Do they not blaspheme that noble name by which you are called?  
 8 If you really fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well; '
 
 V8 reminds us of the law to love thy neighbour as thyself; here is described as the royal law. How do you love your neighbour as yourself? How do you love yourself? It depends on how you measure another person. 
@@ -69,7 +69,7 @@ The people of the world not only measure others based on their wealth, but also 
 
 The question is: if we really want to be happy, how do we measure another person? Do we just follow the people of the world and the way we follow others? Or as Christians, the way we do things are completely different? We turn to 2 Corinthians 5:16-17; 
 
-16 'and He died for all, that those who live should live no longer for themselves, but for Him who died for them and rose again. 
+16 'and He died for all, that those who live should live no longer for themselves, but for Him who died for them and rose again.  
 17 Therefore, from now on, we regard no one according to the flesh. Even though we have known Christ according to the flesh, yet now we know Him thus no longer. '
 
 Here Paul tells us that we don’t regard someone of the flesh; their status, looks, education or wealth. It says in v16 we don’t look at Jesus from a fleshly perspective; 
@@ -84,7 +84,7 @@ Therefore, from now on, we regard no one according to the flesh. Even though we 
 
 This is a new way in which we should measure another person’s worth and also should be the new way we measure four worth so we can esteem ourselves. It’s a great thing for us to become the children of God. Elder John describes us in such a manner, “Behold the manner of love the Father has given unto us” in 1 John 3:1-2; 
 
-1 'Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him. 
+1 'Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him.  
 2 Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is. '
 
 This is how we can esteem ourselves as Christians because our status is completely different. If we measure the way God sees us; God now sees us as His children and as His children we later on have this right to see Him face to face. Elder John couldn’t describe how it’ll be like when we meet God in heaven but it must be truly glorious! All he knew was that we’ll meet Him face to face and this is something we can hold our heads high for. 
@@ -118,5 +118,5 @@ May God help us so we have the resolve to make the right decisions to love ourse
 
 
 
-----
+----  
 ****

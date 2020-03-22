@@ -1,10 +1,10 @@
----
-layout: post
-title: Where is the Spirit of the Lord? (1) 主的灵在哪里？（一）
-category: spiritualmeeting2019singapore
-tags: [lastdays,holyspirit]
-hymns: [82]
-speaker: prhojungyu
+---  
+layout: post  
+title: Where is the Spirit of the Lord? (1) 主的灵在哪里？（一）  
+category: spiritualmeeting2019singapore  
+tags: [lastdays,holyspirit]  
+hymns: [82]  
+speaker: prhojungyu  
 ---
 
 There are 3 questions for consideration for this sermon topic. The questions include: “What is the purpose of the Holy Spirit in the last days”, “Why is it that in the present times we feel that the moving of the Holy Spirit is lacking?” as well as “How do we work with the Holy Spirit?” 
@@ -13,10 +13,10 @@ What is the purpose of the spirit in this last days?
 
 We’ll read the Bible. We turn to John 16:7-11; 
 
-7 'Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you. 
-8 And when He has come, He will convict the world of sin, and of righteousness, and of judgment: 
-9 of sin, because they do not believe in Me; 
-10 of righteousness, because I go to My Father and you see Me no more; 
+7 'Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.  
+8 And when He has come, He will convict the world of sin, and of righteousness, and of judgment:  
+9 of sin, because they do not believe in Me;  
+10 of righteousness, because I go to My Father and you see Me no more;  
 11 of judgment, because the ruler of this world is judged.'
 
 Before the Lord Jesus left His disciples, He told them that they would send them the helper, the Holy Spirit, to be with them. V7; 
@@ -47,7 +47,7 @@ When Jesus returned to the Father, it signifies that the plan of salvation is co
 
 The Holy Spirit can help us to understand the truth. When we’ve received this salvation and can understand the truth of the Bible, then we can live according to the will of God. We can preserve the holiness God has given to us and on the day of judgement we won’t be condemned with the rest of the world. We see that the work of the Holy Spirit is to help men obtain this salvation and gospel. 
 
-The work of the Holy Spirit is the work of the gospel. We look in the time of Acts of the apostles, the growth of the church and gospel. If not for the working of the Holy Spirit, this wouldn’t have been possible. If Acts 2 didn’t happen, there’d be no chapter 3 to chapter 28. 
+The work of the Holy Spirit is the work of the gospel. We look in the time of Acts of the apostles, the growth of the church and gospel. If not for the working of the Holy Spirit, this wouldn’t have been possible. If Acts 2 didn’t happen, there’d be no chapter 3 to chapter 28.  
 All the works in the times of the Acts of the Apostles is the work of the Holy Spirit. 
 
 Similarly, TJC is established by the Holy Spirit and now we are writing the Acts of the apostles.  The Holy Spirit is guiding us to do His work to bring people to know Jesus to obtain salvation to be able stand on the day of judgement. This is what we can understand of the work of the Holy Spirit. 
@@ -81,9 +81,9 @@ In present times, they could just call the bridegroom and ask and it’d be more
 
 When we lack the moving of the Holy Spirit, we must think: have we entered into this state where it’s so peaceful we’re in spiritual slumber? On the other hand, are we constantly seeking to fill ourselves with this spiritual oil? Let’s look at an example in Acts 20:9-12; 
 
-9 'And in a window sat a certain young man named Eutychus, who was sinking into a deep sleep. He was overcome by sleep; and as Paul continued speaking, he fell down from the third story and was taken up dead. 
-10 But Paul went down, fell on him, and embracing him said, “Do not trouble yourselves, for his life is in him.” 
-11 Now when he had come up, had broken bread and eaten, and talked a long while, even till daybreak, he departed. 
+9 'And in a window sat a certain young man named Eutychus, who was sinking into a deep sleep. He was overcome by sleep; and as Paul continued speaking, he fell down from the third story and was taken up dead.  
+10 But Paul went down, fell on him, and embracing him said, “Do not trouble yourselves, for his life is in him.”  
+11 Now when he had come up, had broken bread and eaten, and talked a long while, even till daybreak, he departed.  
 12 And they brought the young man in alive, and they were not a little comforted.'
 
 There was a young man named Eutychus. While Paul was speaking, he was sleeping. While he was awake, he was safe but when he slept, he lost his sense of alert and fell out of the window and fell down three stories. When people went down, they discovered he was dead. In a medical perspective, if someone hits his head from that height, people would be afraid he’d lose his sense of feeling. There’s a medical term called coma index; it’s an index to see whether that person is conscience, and whether his eye reacts to stimulus, whether his mouth is capable of speaking and if his limbs have reaction. If he lacks any reaction, his coma index is 3. If he doesn’t recover, things would get complicated. From a medical perspective, perhaps Eutychus was in a coma. 
@@ -108,7 +108,7 @@ Once the speaker drove out and was trying to start the car but it couldn’t mov
 
 We must always be full with oil; but for us to be full with oil is not as simple as to just be full by ourselves, we must ask God for this spiritual oil to be in our hearts. We turn to 1 Kings 18:36-37; 
 
-36 'And it came to pass, at the time of the offering of the evening sacrifice, that Elijah the prophet came near and said, “ Lord God of Abraham, Isaac, and Israel, let it be known this day that You are God in Israel and I am Your servant, and that I have done all these things at Your word. 
+36 'And it came to pass, at the time of the offering of the evening sacrifice, that Elijah the prophet came near and said, “ Lord God of Abraham, Isaac, and Israel, let it be known this day that You are God in Israel and I am Your servant, and that I have done all these things at Your word.  
 37 Hear me, O Lord , hear me, that this people may know that You are the Lord God, and that You have turned their hearts back to You again.”'
 
 This is the prayer of Elijah asking the Lord to send down fire. We can learn from this prayer on how to ask from God to give us this spiritual oil. 
@@ -131,5 +131,5 @@ How then should we ask God for His grace and to be moved by His grace? We must r
 
 
 
-----
+----  
 ****

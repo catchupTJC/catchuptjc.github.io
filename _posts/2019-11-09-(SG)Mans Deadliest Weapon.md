@@ -1,10 +1,10 @@
----
-layout: post
-title: Man’s Deadliest Weapon 人最致命的武器
-category: sermon2019singapore
-tags: [speech]
-hymns: [217,399]
-speaker: 
+---  
+layout: post  
+title: Man’s Deadliest Weapon 人最致命的武器  
+category: sermon2019singapore  
+tags: [speech]  
+hymns: [217,399]  
+speaker:  
 ---
 
 What is man's deadliest weapon? Perhaps you may think that in this century, the deadliest weapon is the atomic bomb. We witnessed that at the end of WWIIi, America dropped two atomic bombs and the whole city Hiroshima was destroyed and many died. Because of this, the radiation affected many. This could be the deadliest weapon of mankind; you can see it. However, there is a weapon of men that we cannot see and is more deadly than the atomic bomb; that is our tongue. Today we shall use the words of Elder James for our learning and spiral nurture. 
@@ -13,16 +13,16 @@ Between men, we use language to communicate but many times we also use our langu
 
 As the Bible says, we hope that we can bridle our tongue, then we can be a perfect man. We first turn to James 3:1-12; 
 
-1 'My brethren, let not many of you become teachers, knowing that we shall receive a stricter judgment. 
-3 For we all stumble in many things. If anyone does not stumble in word, he is a perfect man, able also to bridle the whole body. 
-4 Indeed, we put bits in horses’ mouths that they may obey us, and we turn their whole body. 
-5 Look also at ships: although they are so large and are driven by fierce winds, they are turned by a very small rudder wherever the pilot desires. Even so the tongue is a little member and boasts great things. See how great a forest a little fire kindles! 
-6 And the tongue is a fire, a world of iniquity. The tongue is so set among our members that it defiles the whole body, and sets on fire the course of nature; and it is set on fire by hell. 
-7 For every kind of beast and bird, of reptile and creature of the sea, is tamed and has been tamed by mankind. 
-8 But no man can tame the tongue. It is an unruly evil, full of deadly poison. 
-9 With it we bless our God and Father, and with it we curse men, who have been made in the similitude of God. 
-10 Out of the same mouth proceed blessing and cursing. My brethren, these things ought not to be so. 
-11 Does a spring send forth fresh water and bitter from the same opening? 
+1 'My brethren, let not many of you become teachers, knowing that we shall receive a stricter judgment.  
+3 For we all stumble in many things. If anyone does not stumble in word, he is a perfect man, able also to bridle the whole body.  
+4 Indeed, we put bits in horses’ mouths that they may obey us, and we turn their whole body.  
+5 Look also at ships: although they are so large and are driven by fierce winds, they are turned by a very small rudder wherever the pilot desires. Even so the tongue is a little member and boasts great things. See how great a forest a little fire kindles!  
+6 And the tongue is a fire, a world of iniquity. The tongue is so set among our members that it defiles the whole body, and sets on fire the course of nature; and it is set on fire by hell.  
+7 For every kind of beast and bird, of reptile and creature of the sea, is tamed and has been tamed by mankind.  
+8 But no man can tame the tongue. It is an unruly evil, full of deadly poison.  
+9 With it we bless our God and Father, and with it we curse men, who have been made in the similitude of God.  
+10 Out of the same mouth proceed blessing and cursing. My brethren, these things ought not to be so.  
+11 Does a spring send forth fresh water and bitter from the same opening?  
 12 Can a fig tree, my brethren, bear olives, or a grapevine bear figs? Thus no spring yields both salt water and fresh.'
 
 Here Elder James gives us a beautiful encouragement. Here says the deadliest weapon of man is the tongue. This short passages used three analogies to talk about the tongue. 
@@ -45,19 +45,19 @@ We know that the book of James is a very practical book. It is a marrow for acti
 
 If we’re anchored on God, our life of faith will have a great change. Our tongues will also be used to exalt others and not argue. Our tongue may be the smallest organ, but it has the greatest destructive power. Elder James uses chapter 3 to talk about the tongue and from v13-18, he makes a comparison - A wisdom from above and a wisdom from the earth; 
 
-13 'Who is wise and understanding among you? Let him show by good conduct that his works are done in the meekness of wisdom.
-14 But if you have bitter envy and self-seeking in your hearts, do not boast and lie against the truth. 
-15 This wisdom does not descend from above, but is earthly, sensual, demonic. 
-16 For where envy and self-seeking exist, confusion and every evil thing are there. 
-17 But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy. 
+13 'Who is wise and understanding among you? Let him show by good conduct that his works are done in the meekness of wisdom.  
+14 But if you have bitter envy and self-seeking in your hearts, do not boast and lie against the truth.  
+15 This wisdom does not descend from above, but is earthly, sensual, demonic.  
+16 For where envy and self-seeking exist, confusion and every evil thing are there.  
+17 But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.  
 18 Now the fruit of righteousness is sown in peace by those who make peace.'
 
 James describes the tongue as a very destructive fire. The Chinese have a saying, “Once you speak a word, it’s hard to take it back.” Once you speak a word and the damage is done, you can’t take your words back. Meaning, you must think before you speak. It literally means that once you’ve said something, even if you have a chariot of four horses, you can’t take it back. You must bear responsibility for what you’ve said. Since it’s so, why not think carefully before speaking? 
 
 We read James 3:6-8; 
 
-6 And the tongue is a fire, a world of iniquity. The tongue is so set among our members that it defiles the whole body, and sets on fire the course of nature; and it is set on fire by hell. 
-7 For every kind of beast and bird, of reptile and creature of the sea, is tamed and has been tamed by mankind. 
+6 And the tongue is a fire, a world of iniquity. The tongue is so set among our members that it defiles the whole body, and sets on fire the course of nature; and it is set on fire by hell.  
+7 For every kind of beast and bird, of reptile and creature of the sea, is tamed and has been tamed by mankind.  
 8 But no man can tame the tongue. It is an unruly evil, full of deadly poison.
 
 We see how elder James talks about the tongue, especially in v8; 
@@ -72,7 +72,7 @@ Today we look at an example; this person nearly killed his family with a sentenc
 
 Here records of a man named Nabal; he was harsh and evil, and his wife was Abigail. He was also a rich man. David and his men were nearby guarded by their sheep and were able to carry out their duties smoothly. David sent his men to Nabal to ask for some food. What did Nabal say? We read 1 Samuel 25:10-11; 
 
-10 'Then Nabal answered David’s servants, and said, “Who is David, and who is the son of Jesse? There are many servants nowadays who break away each one from his master. 
+10 'Then Nabal answered David’s servants, and said, “Who is David, and who is the son of Jesse? There are many servants nowadays who break away each one from his master.  
 11 Shall I then take my bread and my water and my meat that I have killed for my shearers, and give it to men when I do not know where they are from?”'
 
 We see here that Nabal didn’t treat David well. Although David took care of his flock, he used such words to reply David’s men. Continuing further, this angered David. This almost caused his entire family to be killed. We read v13; 
@@ -81,15 +81,15 @@ We see here that Nabal didn’t treat David well. Although David took care of hi
 
 We can see that these words of Nabal also brought upon such a calamity upon himself. If not for the timely intercession of Abigail, Nabal’s entire family would have been killed. In this case, there are two people, the husband Nabal and his wife. One spoke hastily while the other spoke words of wisdom. We’ll read the wise words of Abigail that saved the entire household in v23-27;
 
-23 'Now when Abigail saw David, she dismounted quickly from the donkey, fell on her face before David, and bowed down to the ground. 
-24 So she fell at his feet and said: “On me, my lord, on me let this iniquity be! And please let your maidservant speak in your ears, and hear the words of your maidservant. 
-25 Please, let not my lord regard this scoundrel Nabal. For as his name is, so is he: Nabal is his name, and folly is with him! But I, your maidservant, did not see the young men of my lord whom you sent. 
-26 Now therefore, my lord, as the Lord lives and as your soul lives, since the Lord has held you back from coming to bloodshed and from avenging yourself with your own hand, now then, let your enemies and those who seek harm for my lord be as Nabal. 
+23 'Now when Abigail saw David, she dismounted quickly from the donkey, fell on her face before David, and bowed down to the ground.  
+24 So she fell at his feet and said: “On me, my lord, on me let this iniquity be! And please let your maidservant speak in your ears, and hear the words of your maidservant.  
+25 Please, let not my lord regard this scoundrel Nabal. For as his name is, so is he: Nabal is his name, and folly is with him! But I, your maidservant, did not see the young men of my lord whom you sent.  
+26 Now therefore, my lord, as the Lord lives and as your soul lives, since the Lord has held you back from coming to bloodshed and from avenging yourself with your own hand, now then, let your enemies and those who seek harm for my lord be as Nabal.  
 27 And now this present which your maidservant has brought to my lord, let it be given to the young men who follow my lord. '
 
 v30-31; 
 
-30 'And it shall come to pass, when the Lord has done for my lord according to all the good that He has spoken concerning you, and has appointed you ruler over Israel, 
+30 'And it shall come to pass, when the Lord has done for my lord according to all the good that He has spoken concerning you, and has appointed you ruler over Israel,  
 31 that this will be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. But when the Lord has dealt well with my lord, then remember your maidservant.”'
 
 We can see that Nabal and his wife were very different. The words they spoke were completely different. At that point, Abigail wanted to resolve the matter and she spoke with words of wisdom. She first acknowledged that her husband was foolish and evil, “a scoundrel Nabal”. She didn’t try to defend her husband and acknowledged that he was a scoundrel. She even put down her own husband saying that Nabal is his name and folly was with him. Abigail was truly a wise woman. Not only so, she even reminded David that he was to be king and to not let this incident be a mark in his record. To shed blood, how could he glorify God? Would his conscious be clear? 
@@ -98,9 +98,9 @@ Can we see the contrast between this husband and wife? With a sentence from his 
 
 We read what David replied to her. We read 1 Samuel 25:32-35; 
 
-32 'Then David said to Abigail: “Blessed is the Lord God of Israel, who sent you this day to meet me! 
-33 And blessed is your advice and blessed are you, because you have kept me this day from coming to bloodshed and from avenging myself with my own hand. 
-34 For indeed, as the Lord God of Israel lives, who has kept me back from hurting you, unless you had hurried and come to meet me, surely by morning light no males would have been left to Nabal!” 
+32 'Then David said to Abigail: “Blessed is the Lord God of Israel, who sent you this day to meet me!  
+33 And blessed is your advice and blessed are you, because you have kept me this day from coming to bloodshed and from avenging myself with my own hand.  
+34 For indeed, as the Lord God of Israel lives, who has kept me back from hurting you, unless you had hurried and come to meet me, surely by morning light no males would have been left to Nabal!”  
 35 So David received from her hand what she had brought him, and said to her, “Go up in peace to your house. See, I have heeded your voice and respected your person.”'
 
 We can see that the words Abigail spoke saved her entire house. 
@@ -125,10 +125,10 @@ All the more, the wrath of men cannot produce the righteousness of God. Today, w
 
 We read James 3:13-17; 
 
-13 'Who is wise and understanding among you? Let him show by good conduct that his works are done in the meekness of wisdom.
-14 But if you have bitter envy and self-seeking in your hearts, do not boast and lie against the truth. 
-15 This wisdom does not descend from above, but is earthly, sensual, demonic. 
-16 For where envy and self-seeking exist, confusion and every evil thing are there. 
+13 'Who is wise and understanding among you? Let him show by good conduct that his works are done in the meekness of wisdom.  
+14 But if you have bitter envy and self-seeking in your hearts, do not boast and lie against the truth.  
+15 This wisdom does not descend from above, but is earthly, sensual, demonic.  
+16 For where envy and self-seeking exist, confusion and every evil thing are there.  
 17 But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy. 
 
 Elder James said that since the potential destructive power of our tongue is so great. V13-18 makes the comparative wisdom of the earth and heaven. There’s a saying, “谈天说地”, meaning to talk about the things above and the earth”. The things of the earth is talking about the faults of others. When we talk about others, our fingers are like the finger of judgement pointing to others but we forget that four of our fingers are pointing back at us. We’re very good at criticising others, and this means to 谈天说地. 
@@ -149,5 +149,5 @@ We ought to pursue and ask God to help us so that in our lives of faith we may e
 
 
 
-----
+----  
 ****

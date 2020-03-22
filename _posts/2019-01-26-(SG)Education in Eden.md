@@ -1,23 +1,23 @@
----
-layout: post
-title: Education in Eden 伊甸园的教育
-category: sermon2019singapore
-tags: [prayer]
-hymns: [405,518]
+---  
+layout: post  
+title: Education in Eden 伊甸园的教育  
+category: sermon2019singapore  
+tags: [prayer]  
+hymns: [405,518]  
 ---
 
-The Heavenly Father created His children and the garden of Eden for them to live in. The garden of Eden can be considered a paradise. God’s children were able to enjoy all the grace of God in the garden of Eden. From the Garden of Eden, there was also education. As parents, we can learn from the lessons in the Garden of Eden that the Heavenly Father has left behind for us.
-1. The Heavenly Father teaches His children to pray to communicate with Him
+The Heavenly Father created His children and the garden of Eden for them to live in. The garden of Eden can be considered a paradise. God’s children were able to enjoy all the grace of God in the garden of Eden. From the Garden of Eden, there was also education. As parents, we can learn from the lessons in the Garden of Eden that the Heavenly Father has left behind for us.  
+1. The Heavenly Father teaches His children to pray to communicate with Him  
 This is the most basic but most important teaching.
 
-Gen 1:27
-“So God created man in His own image; in the image of God He created him; male and female He created them.”
+Gen 1:27  
+“So God created man in His own image; in the image of God He created him; male and female He created them.”  
 Are you able to see God telling His children to communicate with Him through prayers from this verse? All this verse says is that God created Man in His own image. What does this mean? It tells us that the main purpose of God creating Man is not to be servants, because God already created many servants - angels. If Man were created to be servants, He could’ve created them in the image of angels and not in His own image. God created Man in His own image so that they can become His children. He wants His children to have the same image as Him, so that Man is of the same type/类别 as God. We can teach our dog some simple commands and they can follow. But when you have problems and want to talk to somebody, you can’t talk to your dog. The dog may understand that its master is sad but all it can do is droop its tail and sit near him.
 
 Even if you were to speak to the dog, it’s like playing a violin to it. Because we’re not of the same type/类别 so we can’t have deep communication and develop an intimate relationship. Being of the same type/类别 as God allows us to have a deep communication with Him and to develop an intimate relationship. From God creating Man in His own image, we thus understand this to mean that God wants His children to communicate with Him deeply, and this is through prayer. 
 
-Isa 45:22-23
-“Every knee will bow to Me. Every tongue will swear loyalty to Me.”
+Isa 45:22-23  
+“Every knee will bow to Me. Every tongue will swear loyalty to Me.”  
 If we really believe in God and that we’re children created by Him, we’d be willing to listen and kneel down to pray before Him. This isn’t just an expression of our faith, it also shows our obedience and submission to Him. This is the basic duty of His children. We don’t just come before God in prayer when we have problems. We come before Him to pray as our duty as children. 
 
 In a family of God’s children, should not prayer be emphasised? This relates to the salvation of our souls. There’re many types of problems - major and minor. We don’t worry too much about problems that don’t affect our lives so much. But if our lives are at risk, we’d take it seriously. We draw near to God in prayers. This is important because it affects the salvation of our souls. Pitifully, we no longer regard this as so important. We’re busy after other things in the world we deem important, and end up sacrificing the importance of prayer. If we truly understand the importance of prayers and how it affects the salvation of our souls, we won’t dare to neglect it. 
@@ -26,7 +26,7 @@ Consider Daniel who was more busy than us and whose circumstances were more adve
 
 Prayer should not be a part time activity. It should not be some time. Or worse, no time. Instead, prayer should be on time. Full time. Best is if it’s over time. Because adversities and the end of a life can come anytime. 
 
-上床不知下床事 You don’t know if you get off your bed after getting on it
+上床不知下床事 You don’t know if you get off your bed after getting on it  
 出门不知路上事 You don’t know what will happen on the road when you go out
 
 We always say “再见”/“see you tomorrow” but we never know if we will really see each other again. We never know who will leave the world next. Not just old people, young children too. Our life is truly like a mist that can disappear anytime. We love our parents and our children. But we can’t guarantee 上床不知下床事, 出门不知路上事. But this doesn’t lead us to depression. Because we rely on God and trust Him. Although we cannot guarantee our life will continue, we can in prayer entrust our lives to Him. 
@@ -35,15 +35,15 @@ As parents, don’t you think we need to educate our children to pray together? 
 
 Prayer is the first and most important teaching from the Garden of Eden. Sadly many of us have neglected this and many children don’t kneel down to pray. In the previous theolo, some children confess that they don’t pray at home, nor do their parents. The speaker was surprised and sad. We no longer see this as an important aspect of our education. May the Lord help us that through this basic and important teaching, to lead ourselves and our children to pray to Him, for this is the most important thing - maintaining your relationship with God. We expand much money and time on many relationships but what becomes of them? Examine our relationship with God. What relationship will last eternally? Guarantee our salvation? Guarantee entering the heavenly home of ourselves and our children?
 
-2. Our Heavenly Father educates His children to do work in the garden of Eden
-Gen 2:15
+2. Our Heavenly Father educates His children to do work in the garden of Eden  
+Gen 2:15  
 The garden of Eden is a paradise. There is much happiness and enjoyment. But in the garden of Eden, it’s not just a place to eat, drink and make merry. God also gave tasks and work for Man to do; to cultivate and keep this garden. Don’t think God has treated them as servants. The garden belongs to them. That’s why they have the responsibility to cultivate it. 
 
 The gardens and roads in Singapore are very clean. The horticulture is very beautiful. Sometimes when flowers and grass grow haphazardly, their beauty is hidden. When we cultivate it then their beauty can truly be shown. Wouldn’t we want to cultivate it? Do you know how much the Singapore government spends to cultivate the plants in Singapore?
 
 The Heavenly Father gave the beautiful garden of Eden to His children. His children have to have the responsibility to cultivate it. 
 
-Heb 1:14
+Heb 1:14  
 The angels are ministering spirits to His children. Why doesn’t God leave the work of cultivating the garden to the angels then? If the angels cultivate the garden, it’ll probably look much better. Because angels don’t get fatigued and aren’t lazy. Man are prone to laziness and cutting corners. God has a myriad of angels to get them to work but He entrusted the duty of cultivating the garden to His children. God wanted His children to understand that while they are given this garden to enjoy, they have the responsibility to take care of it. 
 
 If you want to marry off your daughter and find out that the brother is good but turns out to be lazy and irresponsible, what’s the use of having a sweet mouth? “You must be responsible to establish your relationship. You’re so lazy and irresponsible. How can I entrust my daughter in your hands?”
@@ -60,13 +60,13 @@ Then you’d realise that you’ve neglected a very important aspect of educatio
 
 If we’re just waiting for others to serve us then we’re just breeding grievances against each other. We need to teach our children the home is not a hotel or a restaurant. You can eat and stay but there are also responsibilities. Home is paradise but God doesn’t want us to just enjoy the bliss of the garden of Eden and not know the responsibilities we have. 
 
-3. The Heavenly Father educates His children to maintain discipline and to execute punishment when needed
-Gen 2:16-17
+3. The Heavenly Father educates His children to maintain discipline and to execute punishment when needed  
+Gen 2:16-17  
 God told Adam what he could and couldn’t do right from the beginning. He also told them what punishment they’d meet if they violated this. When Adam and Eve violated God’s command, God punished them accordingly. Was God too harsh? 
 
-This is the education we must learn from our Heavenly Father to educate our children the dos and don’ts as a Christian. Help them to understand why they can’t do this and that. Help them to understand why their cousins can do this but they can’t. 
-“Issit because their mother loves them more that’s why they can do that and we can’t?”
-“It’s because they don’t believe in Jesus.”
+This is the education we must learn from our Heavenly Father to educate our children the dos and don’ts as a Christian. Help them to understand why they can’t do this and that. Help them to understand why their cousins can do this but they can’t.  
+“Issit because their mother loves them more that’s why they can do that and we can’t?”  
+“It’s because they don’t believe in Jesus.”  
 We must explain to them. We don’t just tell them they can’t do it. We need to tell them WHY. They may forget so we have to say it again. This is not being long winded. Peter too said he had already said this but still saw the need to remind the believers again. Is it because old then become long winded?”
 
 Besides explaining why something is wrong. We must explain the consequences of doing something wrong. When children do wrong, some parents will have a tender heart and decide not to beat the children. The wife will say, “Aiya he already said sorry don’t beat him ah if not I beat you!”
@@ -111,5 +111,5 @@ So that every child can be saved. Because every soul that we have is so precious
 
 
 
-----
+----  
 ****

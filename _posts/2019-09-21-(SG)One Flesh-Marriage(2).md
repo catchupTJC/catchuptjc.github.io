@@ -1,9 +1,9 @@
----
-layout: post
-title: One Flesh-Marriage(2) 一体-婚姻（二）
-category: youthspiritualmeeting2019singapore
-tags: [relationship,marriage]
-hymns: [333,299]
+---  
+layout: post  
+title: One Flesh-Marriage(2) 一体-婚姻（二）  
+category: youthspiritualmeeting2019singapore  
+tags: [relationship,marriage]  
+hymns: [333,299]  
 ---
 
 How do we maintain and manage our marriage? In the morning we mentioned about preparation, which is to depart from your parents, and then the two shall become one. The adjustment one needs to have in marriage is to be one with your wife. In the morning the speaker talked about how in marriage two shall become one, how to live in harmony with your wife and how the two need to communicate. 
@@ -18,17 +18,17 @@ Let’s read what the Bible says in Genesis 2:24;
 
 and Matthew 5:31-32; 
 
-31 '“Furthermore it has been said, ‘Whoever divorces his wife, let him give her a certificate of divorce.’ 
+31 '“Furthermore it has been said, ‘Whoever divorces his wife, let him give her a certificate of divorce.’  
 32 But I say to you that whoever divorces his wife for any reason except sexual immorality causes her to commit adultery; and whoever marries a woman who is divorced commits adultery.'
 
 Marriage is for life, till death. Divorce is not something you choose because of a personality mismatch. The Bible’s teaching is clear. Let us turn to Mark 10:6-12;
 
-6 'But from the beginning of the creation, God ‘made them male and female.’
-7 ‘For this reason a man shall leave his father and mother and be joined to his wife, 
-8 and the two shall become one flesh’ ; so then they are no longer two, but one flesh. 
-9 Therefore what God has joined together, let not man separate.” 
-10 In the house His disciples also asked Him again about the same matter. 
-11 So He said to them, “Whoever divorces his wife and marries another commits adultery against her. 
+6 'But from the beginning of the creation, God ‘made them male and female.’  
+7 ‘For this reason a man shall leave his father and mother and be joined to his wife,  
+8 and the two shall become one flesh’ ; so then they are no longer two, but one flesh.  
+9 Therefore what God has joined together, let not man separate.”  
+10 In the house His disciples also asked Him again about the same matter.  
+11 So He said to them, “Whoever divorces his wife and marries another commits adultery against her.  
 12 And if a woman divorces her husband and marries another, she commits adultery.”'
 
 The Bible teaches us this clearly but to satisfy men’s needs and wants, sometimes they choose divorce. This is sad because once a couple divorced, the first to suffer is the couple’s children. Can you imagine a child losing his father/mother? It’s true that the decisions of the parents affect the children. Do not even think of this phrase in an argument. If you say this phrase, your emotional bank will go bankrupt immediately because it contains a lot of negative thoughts. 
@@ -81,30 +81,30 @@ Although the writer gives just a summarised description of the marriage between 
 
 After they were married, there were challenges that they faced. Let us read Genesis 25:20-21; 
 
-20 'Isaac was forty years old when he took Rebekah as wife, the daughter of Bethuel the Syrian of Padan Aram, the sister of Laban the Syrian. 
+20 'Isaac was forty years old when he took Rebekah as wife, the daughter of Bethuel the Syrian of Padan Aram, the sister of Laban the Syrian.  
 21 Now Isaac pleaded with the Lord for his wife, because she was barren; and the Lord granted his plea, and Rebekah his wife conceived. '
 
 After they were married, Rebekah was barren. What did the husband do? He didn’t complain, “I married you, but you’re unable to bear children!” If he puts the blame on his wife, how can the relationship can better? It can only be worse. They should have had a family altar. They put the matter to God and pleaded to Him. Rebekah conceived. 
 
 The speaker wonders if the married couples here pray together. An elder once said this, “Every night, the wife needs to hear the prayer of the husband, and the husband needs to hear the sound of his wife praying. Together, as they hear each other pray, the relationship grows.” This is because they’ve placed God in the centre and God will help their relationship. Of course, it would be better. You can see that from the Bible after Isaac and Rebekah have been married for over 20 years in Genesis 26:8-9; 
 
-8 'Now it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked through a window, and saw, and there was Isaac, showing endearment to Rebekah his wife. 
+8 'Now it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked through a window, and saw, and there was Isaac, showing endearment to Rebekah his wife.  
 9 Then Abimelech called Isaac and said, “Quite obviously she is your wife; so how could you say, ‘She is my sister’?” Isaac said to him, “Because I said, ‘Lest I die on account of her.’ ”'
 
 Even though they’ve been married for a long time, Isaac showed endearment to Rebekah still. The endearment here is something quite obviously only shared between husband and wife, which is why you see in v9, “Quite obviously she is your wife.” 
 
 From here, you can see that God blessed their relationship with a happy marriage. The word “endearment” tells us a lot about their relationship. If we want our marriage to be happy, the relationship has to steer towards God. If you want to go towards God, it is essential to pray and read the Bible. A marriage with God’s in the centre will only grow sweeter and sweeter. Even though our outward appearance are not as beautiful and handsome before, that is no longer important. What’s important is that we’ve put God in the centre of the relationship and you’ve built the relationship for God. When both parties put in the effort to grow towards God, your love will grow sweeter and sweeter. You won’t need any New Zealand Manuka honey. A love built upon the foundation of God will be sweet and will allow us to have a healthy marriage. It doesn’t matter how much money you have, because these are just physical possessions. 
 
-Finally, the speaker would like to give everyone five phrases. 
-1. Everyday, give each other a beautiful smile. 
-2. Every day, look at one another for three seconds. Admire one another. 
-3. Every day, touch one another three times. You can hold hands, give each other a hug. 
-4. Travel four seasons (meaning, go out together). Whether it’s going overseas or within the country. You can go to Marina Bay or Jewel.
+Finally, the speaker would like to give everyone five phrases.  
+1. Everyday, give each other a beautiful smile.  
+2. Every day, look at one another for three seconds. Admire one another.  
+3. Every day, touch one another three times. You can hold hands, give each other a hug.  
+4. Travel four seasons (meaning, go out together). Whether it’s going overseas or within the country. You can go to Marina Bay or Jewel.  
 5. Pray together for five minutes. Hear her pray, and she can also hear you pray. 
 
 We ask God to bless every couple here that they may have a blissful marriage, that every one may be a model couple and give glory to God. 
 
 
-----
+----  
 ****
      

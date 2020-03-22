@@ -1,12 +1,12 @@
----
-layout: post
-title: Memory and Faith 回忆与信仰
-category: sermon2019singapore
-tags: [faith,memories,loveothers]
-hymns: [468,136]
+---  
+layout: post  
+title: Memory and Faith 回忆与信仰  
+category: sermon2019singapore  
+tags: [faith,memories,loveothers]  
+hymns: [468,136]  
 ---
 
-Luke 22:60-62
+Luke 22:60-62  
 The Lord Jesus turned and looked at Peter, causing memories in Peter to be evoked. It was this memory that caused Peter to weep bitterly. 
 
 Memories are good things that humans have. Memories can influence many things in our lives, including our lifestyle. Good memories allows us to live our lives with strength. Good memories help us to receive and treasure more things. As for bad memories, the Bible exhorts us to forget what is behind 
@@ -21,7 +21,7 @@ The speaker would like to share a very important memory of his. It was a miracle
 
 After the elder scolded them, the prayer was very miraculous. It was in the Old TK Church. The prayer ate into dinner time. Everyone was praying. He had already received the Holy Spirit but that particular prayer session has put faith in a certain position to this day. He sang spiritually! It’s never happened again to him. In that prayer, many miraculous things happened. More than 40 people received the Holy Spirit. He still remembers the scene. When the prayer ended the elder said, “Don’t move. Those who are sure you spoke in tongues, stand up.” Even the children of the cooks who helped out who joined in the prayer received. A neighbour of TK who was walking past commented that he heard the sound of flooding in church. He ran over to check it out and found out it was the sound of prayers! For those praying in the hall, they heard the sound of thunder coming in through the door. 
 
-Rev 19:4-6
+Rev 19:4-6  
 v4 describes the worship they were making before God. v5 talks about the voice that came from the throne, which represents the church. If the church doesn’t have the Holy Spirit, they wouldn’t be able to comprehend v6 “voice of a great multitude...sound of many waters”. 
 
 The memory the speaker had: he sang in spiritual tongues, more than 40 people received the Holy Spirit, and many people hearing the sound of thunder.
@@ -42,8 +42,8 @@ Apart from children receiving the Holy Spirit, they also encountered with proble
 
 The speaker would like to share this encouragement to the Myanmar church. The many children who received the Holy Spirit in the recent camp surely shows the Lord Jesus will work with Myanmar church. 
 
-The speaker will now like to talk about another testimony. 
-Rev 2:4-5
+The speaker will now like to talk about another testimony.  
+Rev 2:4-5  
 Preaching the gospel requires love. When we first came to believe in Jesus, we experience the full abundance of the love of our Lord. We should therefore remember how our Lord has loved us. Then with our actions, show our love to God and each other. Singapore Church is now advocating the All 8 movement where the whole family comes to believe. The work of saving souls requires a great amount of love. 
 
 It’s been more than 10 years since the speaker was a resident preacher at Klang church. The sister of the late Dn Thomas Cheh(?). Sis Cheh contracted lung cancer and she was in the terminal stage. Her husband was very superstitious and in the committee of the temple. In her life, he didn’t like it when she went to church. Still she went. When she contracted cancer, it’s common sense that her husband would get angry with her for going. She was the sole believer because her husband didn’t allow her to bring the children. 
@@ -58,8 +58,8 @@ During the funeral, the helper related what she witnessed. They told the helper 
 
 After the funeral, her husband came to church on his own. Elder Cheh’s wife grabbed hold of the speaker and told him to note him. “Check if he means to cause trouble.” Because this seemed out of character. He came every Friday and Saturday. And he would come and leave quickly. One day, they managed to stop him and asked him why he had been coming. He replied:
 
-There’re two reasons I come to church:
-1. The doctor told me lung cancer is supposed to be very painful but my wife didn’t have any pain at all. Your Lord Jesus must be very great 
+There’re two reasons I come to church:  
+1. The doctor told me lung cancer is supposed to be very painful but my wife didn’t have any pain at all. Your Lord Jesus must be very great  
 2. I have seen your love 
 
 He got baptised. He brought all the children. The whole family came to Christ. This entire family came to believe because of the persistence of Sis Cheh. When one comes to believe, the whole family can come to believe. 
@@ -70,5 +70,5 @@ A few years ago, he too passed away from cancer. Because of the persistence of o
 
 
 
-----
+----  
 ****

@@ -1,17 +1,17 @@
----
-layout: post
-title: Come, for all things are now ready 请来罢！样样都齐备了！
-category: sermon2019singapore
-tags: [banquet]
-hymns: [421,195]
-speaker: 
+---  
+layout: post  
+title: Come, for all things are now ready 请来罢！样样都齐备了！  
+category: sermon2019singapore  
+tags: [banquet]  
+hymns: [421,195]  
+speaker:  
 ---
 
 We often here similar titled sermons when it’s very close to the Spiritual Meeting. Tomorrow night is the beginning of our Spiritual Meeting and so the speaker thought to use this title for our mutual encouragement. 
 
 Who spoke these words (the title)?
 
-Luke 14:16-17
+Luke 14:16-17  
 A certain man gave a great supper. The English word ‘supper’ doesn’t refer to the supper we understand in Singapore (we like to jio people after dinner to go for supper). Over here, supper is a proper meal; it’s actually dinner. Which is why the Chinese Bible translates it as a banquet or feast.  
 
 The man gave a great supper. What was Jesus actually referring to? Of course He wasn’t referring to our Spiritual Meeting, we apply it as an extension application. 
@@ -20,14 +20,14 @@ What was Jesus referring to? We read v15. This parable was spoken in response to
 
 In fact if we look at the sayings of Jesus, He often describes us eating and drinking in the Kingdom of God. 
 
-Luke 22:30
+Luke 22:30  
 Here Jesus says to His disciples that they may eat and drink at His table.
 
 This is of course not physical food or drink, because we know on the Last Day, everything will be destroyed by fire. So the great supper isn’t a supper in food or drink. What it’ll be like? We do not know. But we know that only those who put on the spiritual body can participate. We can therefore say this is a spiritual feast in the new heavens and earth. 
 
 What about our Spiritual Meeting? It’s also a Spiritual feast. Why? Spiritually speaking, we eat and drink during the Spiritual Meeting. We receive spiritual food - the word of God. In fact it is the time for us to really focus on the word of God. There are 13 sermons in total and 1 witnessing session. This is equal to 3 weeks worth of sermons compressed into 3 days. What do we drink? We drink spiritually from rivers of living waters. Our Spiritual Meeting is really a time for us to focus on our prayers as well. We have about 12 official prayer sessions. In Adam, we also have about 5 RE prayer sessions during the break (not compulsory, voluntary). It’s really a time for us to focus on our prayers, to ask God for strength through prayers. 
 
-Just a little bit of history:
+Just a little bit of history:  
 Do we know how Spiritual Meetings came about? Why do True Jesus Churches all over the world have Spiritual Meetings? Conducting Spiritual Meetings is definitely not one of our basic beliefs. We don’t have an article of faith that says we can’t be saved if we don’t participate in one. It’s a True Jesus Church tradition. A good tradition! But how did it start?
 
 It started out very early in our history. Some of our early workers like Barnabas Zhang would go to newly pioneered areas to preach the gospel. Often, they’d target Christians from other churches, invite them to join us, study the word of God together, study our doctrines, and this was often followed by praying for the Holy Spirit. The pattern was: debate the word of God, study the word of God, then pray. This lasted for many days. They called these sessions Spiritual Meetings. In those times, it was really meant for evangelism when our church started. Lasted for one week or so. By the end of the week, many of them would’ve received the Holy Spirit and get baptised. 
@@ -64,12 +64,12 @@ For us to understand the Spiritual Meeting is really a spiritual feast, it’s l
 
 Let us endeavour to do these two things in the Spiritual Meetings too. 
 
-Luke 14
-This supper is a great supper. “A certain man gave a GREAT supper” 
+Luke 14  
+This supper is a great supper. “A certain man gave a GREAT supper”  
 This particular parable has a parallel in Matt 22. 
 
-Matt 22
-v2-3 tells us a king arranged a marriage for his son. He sends down His servants to call the people they’ve invited. This king is very pitiful because the first time he sends his servants out, nobody wants to come. Then he had to send them out a second time. 
+Matt 22  
+v2-3 tells us a king arranged a marriage for his son. He sends down His servants to call the people they’ve invited. This king is very pitiful because the first time he sends his servants out, nobody wants to come. Then he had to send them out a second time.  
 v4 he had to send them out to try to convince them to please come! He had to tell them “I’ve done everything! I’ve prepared dinner! I’ve killed the ox, the fatted cattle. Everything I’ve prepared!” It’s really a grand, royal banquet. Yet he has to try to convince them its a sumptuous meal - please come! 
 
 It was a grand banquet - he had prepared everything. If you think of a grand banquet - the grandest one the speaker can think of is by King Ahaseurus in Esther 1.
@@ -80,9 +80,9 @@ But the banquet Jesus is referring to; the banquet in the Kingdom of Heaven, wil
 
 The banquet by King Ahaseurus only lasted 180 days. The one thrown by the King of Kings lasts forever. It’s a wedding banquet nobody can miss.
 
-In the world, when some people aren’t invited by their friends for weddings, they feel very slighted. “Wah! How come I’m not invited?” The speaker knows of someone who felt very slighted for not being invited for a wedding banquet. This person kept complaining to him. He asked the speaker, “Were you invited?” 
-“Yeah.” 
-“Why didn’t he invite me? I thought we were close enough!” 
+In the world, when some people aren’t invited by their friends for weddings, they feel very slighted. “Wah! How come I’m not invited?” The speaker knows of someone who felt very slighted for not being invited for a wedding banquet. This person kept complaining to him. He asked the speaker, “Were you invited?”  
+“Yeah.”  
+“Why didn’t he invite me? I thought we were close enough!”  
 The speaker tried to explain there were limited spaces and it wasn’t possible to invite everyone. But he couldn’t be consoled. He kept complaining to the speaker. Thinking back the speaker says he should’ve used reverse psychology HAHA “Lucky you! You save a red packet!” LOL
 
 In the world if you’re not invited to a banquet don’t need to feel slighted or angry. You don’t miss out much. But the heavenly banquet is really something nobody can miss out. 
@@ -95,7 +95,7 @@ In the world, sometimes the banquets serve good food, sometimes lousy food. But 
 
 In fact we can infer how grand it is by the reaction of the people who missed out. 
 
-Matt 8:11-12
+Matt 8:11-12  
 Many will come from east and west and sit down. This sit down is not just sit down, it’s sit down in a meal. The Chinese Bible says sit down as in a feast. We’re going to feast in the Kingdom of Heaven. 
 
 The reaction of people who missed out? Weeping and gnashing of teeth. Makes the speaker think of his 1.5 years daughter. When you take something away from her, she’ll cry and cry like the world has crashed. But she didn’t gnash her teeth. And at least if you can distract her and spin her around, she’ll stop. Here tells us people who missed out on the grand banquet in heaven are inconsolable. They weep and gnash their teeth. Because this is the banquet no one can afford to miss.
@@ -108,7 +108,7 @@ Nowadays we tend to feel fewer and fewer people receive the Holy Spirit. We star
 
 If we look at the feasts in the Old Testament, they had 7 feasts. God wants them to gather 3 times in a year. 
 
-Deut 16:16
+Deut 16:16  
 There’re 7 feasts but these are the 3 they have to come before the Lord - (1) unleavened bread, (2) weeks, (3) tabernacles which is in the 7th month. 3 times a year. For some of them, it’s a very very long journey. 
 
 If you’re staying at Dan - the northern tip - and have to come down to Jerusalem where the temple is, it’s about 200km by foot. That’s many days of journey! And then they were subject to robbers in the old days. Which is why many of them travelled in groups when they go down. It’s a long and dangerous journey. 
@@ -123,28 +123,28 @@ There was an RE prayer. A sister didn’t feel like praying so she went home. He
 
 Sometimes we really don’t know. It could be God is going to pour His grace on you this time. Then you miss out. Wouldn’t it be such a pity? Let’s not miss out on this great spiritual feast.
 
-Finally let’s look at those invited but chose not to turn up. 
-Luke 14:18-20
+Finally let’s look at those invited but chose not to turn up.  
+Luke 14:18-20  
 Who were these people who were invited? They were invited beforehand before the preparations were even ready! The culture of those days was like this: Invite beforehand. Accepting is making a commitment to go. Master of the house will prepare the meal. When it’s ready they’ll send another invitation to ask them to come. 
 
 These people had accepted the first invitation. But when it was time to keep their commitment, they refused to come. Who is it referring to? The Jews. They were specially chosen by God in the Old Testament; they were given the oracles of God. But when Christ came and asked them to come to Him, they didn’t want to come. Which is how the gospel came to us. v21 People in the highways. Streets. Lame in the city. These were invited because the rest didn’t want to come. 
 
 But why didn’t they want to come? If we take a look at their reasons, we see they’re invalid. The Bible said they made EXCUSES. This wasn’t an impromptu invitation. They were already invited and they had already committed. “When it was time, they in one afford made excuses.”
 
-I bought a piece of ground I need to inspect it! Very strange. Don’t you inspect a ground BEFORE you decide to buy it?
-I bought oxen, I need to test it out. Again very strange. Don’t you test the oxen BEFORE you decide to buy it?
+I bought a piece of ground I need to inspect it! Very strange. Don’t you inspect a ground BEFORE you decide to buy it?  
+I bought oxen, I need to test it out. Again very strange. Don’t you test the oxen BEFORE you decide to buy it?  
 I married a wife. Obviously he’d know he’s going to get married on that day right when he saw the first invitation. He’s not going to war! (Last time if you get married you don’t need to go to war for a year!) But this isn’t a war, it’s a feast! He’s just asked to part with his wife for one evening. In fact, he could’ve asked her to come along!
 
 Nonsense excuses. That’s why the master got very angry! That’s why he told his servants to call other people. 
 
 What was the real underlying reason they didn’t want to come? We turn to the parallel parable in Matt 22:5. The real reason was that they made LIGHT of the invitation. They didn’t think it was something important. It’s of little relevance to them. That’s why each one of them went about their own business rather than that of the king. 
 
-What about us? We look at these excuses and think about us. We might inadvertently give these kind of excuses too. 
-“Some business to go about, please excuse me from the Spiritual Meeting” 
-“Work very busy, please excuse me from Spiritual Meeting” 
+What about us? We look at these excuses and think about us. We might inadvertently give these kind of excuses too.  
+“Some business to go about, please excuse me from the Spiritual Meeting”  
+“Work very busy, please excuse me from Spiritual Meeting”  
 Of course some of us have work that doesn’t allow us to take leave. For some, these are excuses.
 
-The speaker isn’t talking about real valid reasons. These people were making excuses because underlying they didn’t esteem it. 
+The speaker isn’t talking about real valid reasons. These people were making excuses because underlying they didn’t esteem it.  
 “I esteem the heavenly banquet! I’m just not so concerned about the Spiritual Meeting...” “I’ll surely attend the heavenly banquet! But maybe not the Spiritual Meeting...”
 
 We have to ask ourselves this question: Is that likely? Spiritual Meeting is like a proxy. Even though it’s not the great feast in the Kingdom of Heaven, nevertheless we know it’s a TASTE of the great feast. If we’re not interested in the spiritual feast on earth, we have to ask ourselves if we’re really really interested in the ultimate feast. 
@@ -164,5 +164,5 @@ The only question for us is: are WE ready?
 May God help us.
 
 
-----
+----  
 ****

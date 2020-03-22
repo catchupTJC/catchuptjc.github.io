@@ -1,16 +1,16 @@
----
-layout: post
-title: Teach Our Children To Fear God 教导孩童当敬畏真神
-category: sermon2019singapore
-tags: [feargod,family]
-hymns: [3,51]
+---  
+layout: post  
+title: Teach Our Children To Fear God 教导孩童当敬畏真神  
+category: sermon2019singapore  
+tags: [feargod,family]  
+hymns: [3,51]  
 ---
 
 Every generation of believers must remain fearful of the Almighty One. That’s why teaching children not just of the knowledge of God, but also to fear God, is important. 
 
 People who commit sin don’t necessarily not know the Bible. There are preachers who have committed sin - covetousness, sexual immorality. Children, as well, have fallen into acts of immorality. Some of them have gone through RE and theological courses. It’s not that they don’t know the word. It is the lack of fear in them that result in their committing of sin. Our generation is a perverse generation, causing the fear of God to be lacking. But in that True Jesus Church, our children must be taught to fear God.
 
-Psa 33:6-9, 34:9-10
+Psa 33:6-9, 34:9-10  
 These two passages talk about the fear of God. Why must we fear God? Because God is the Almighty creator. When we see creation, we see how great He is. Man should have a sense of terror and reverence for God. Then only will we know how to keep His commandments. 
 
 Today, God cannot be seen by us. But when Man loses the knowledge that God is our creator and we are a creature of God whose lives belong to God, Man begins to live his life according to his own wishes rather than the will of God. This is why many abominable things are done. Whatever the Lord has commanded, even though Man may know, Man may not keep due to the lack of fear. 
@@ -21,7 +21,7 @@ Only when we know how to fear God do we know how to conduct ourselves properly i
 
 Thank the Lord most of our children have been baptised. About 30-40% were baptised when they were infants. But they must be taught to fear God. If not, they won’t remain in the faith to serve God. They’ll fall to sin and commit many evil things. On the day of judgement, they won’t be amongst those able to receive everlasting life. 
 
-Prov 3:5-7
+Prov 3:5-7  
 What is the fear of God? To depart from evil. The world is getting more and more evil. Even in a disciplined society like Singapore, still much evil is committed. Evil things are abominable before God; against the commandments of the Lord; sins. Those who commit such sins deserve punishment. But those who fear God know how to depart from evil. 
 
 Children can refer to those in the church and in our family. In Christian families, children are baptised when young. We baptise them from young because baptism saves their souls. But after that, it is our duty as parents to raise them up. Children are a heritage of the Lord. Meaning to say: children are God’s property. Teaching them to fear God is our responsibility. It is also the church’s duty of course. 
@@ -30,13 +30,13 @@ Although there are little details of Jacob teaching Joseph. But from Joseph’s 
 
 Sins are not just committed by adults but also by teenagers. In Malaysia, a boy of 13 and a girl of 11 had a child. How to get them married? Impossible! That is a sin. These things are committed all time. It is frightening when we hear reports of sexual immorality happening in church. These people have been brought up in the church and gone through RE. Yet they commit this sin still! Why? Because of the lack of the fear of God. 
 
-This was why when God gave the commandments, the Israelites were told to “keep the commandments and fear God.”
-Deut 6:1-15
-The book of Deuteronomy is the second reading of the law by Moses. It was the 40th year and they were about to cross the Jordan into the land of promise. Moses read the laws to remind them what God had said to them. 
-v4-5 “Hear, O Israel: the Lord our God, the Lord is one!
+This was why when God gave the commandments, the Israelites were told to “keep the commandments and fear God.”  
+Deut 6:1-15  
+The book of Deuteronomy is the second reading of the law by Moses. It was the 40th year and they were about to cross the Jordan into the land of promise. Moses read the laws to remind them what God had said to them.  
+v4-5 “Hear, O Israel: the Lord our God, the Lord is one!  
 This has become the creed of Israel, and they recite this daily. This was how the people were supposed to learn to fear God, by being reminded that God is the creator who brought them out of Egypt’s bondage; the God who led them through the treacherous wilderness. This was to be recited by both old and young, so that the children would know to fear God too.
 
-v7 “You shall teach them DILIGENTLY to your children.”
+v7 “You shall teach them DILIGENTLY to your children.”  
 Diligent, and not casual. Today many of us are very casual with our children’s faith. We don’t read them Bible stories. We don’t show them how to pray. The only time they pray is when they come for RE. There needs to be a family altar! If you yourself don’t even read the Bible or pray, how can there be a family altar at home?
 
 Thank God that how serious the children are when praying in front has improved. In the past, a majority were playing. Now, only 1 or 2 mischievous ones play. Many small ones have also begun speaking in tongues! This reflects how parents have been serious and diligent in setting up a family altar.
@@ -47,7 +47,7 @@ What is the consequence of not raising our children in the fear of God? Eli’s 
 
 Why did they grow up as such? Because Eli himself despised the sacrifices of God. 
 
-1 Sam 2:27-34
+1 Sam 2:27-34  
 Eli honoured his sons more than he honoured God. His sons did not only commit evil but also showed contempt for God. When they were incorrigible and were unable to be corrected, Eli should’ve handed them to the elders to be decided what to do (Deut 21), probably they would’ve been stoned. But Eli didn’t. Of course one should love one’s son. But when they’re so abominable before God, not dealing with them would result in calamity for the whole family. Indeed, judgement was pronounced upon their family: not a young man will remain in his house. Eli and his two sons died. The ark of the covenant was captured. Upon hearing this, Eli’s daughter-in-law gave birth and died. 
 
 Because Eli did not fear God nor inculcated the fear of God in his children, calamity befell them. 
@@ -58,5 +58,5 @@ We hope our future generation will have the fear of God like Joseph. But it begi
 
 
 
-----
+----  
 ****

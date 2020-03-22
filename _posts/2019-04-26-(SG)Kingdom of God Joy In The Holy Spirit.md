@@ -1,12 +1,12 @@
----
-layout: post
-title: Kingdom of God - Joy In The Holy Spirit 神的国 - 圣灵中的喜乐
-category: sermon2019singapore
-tags: [holyspirit]
-hymns: [204,35]
+---  
+layout: post  
+title: Kingdom of God - Joy In The Holy Spirit 神的国 - 圣灵中的喜乐  
+category: sermon2019singapore  
+tags: [holyspirit]  
+hymns: [204,35]  
 ---
 
-Rom 14:17-18
+Rom 14:17-18  
 “for the Kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit”
 
 This sermon will only focus on the aspect of joy. Paul makes a contrast between “eating and drinking” and the “righteousness, peace and joy in the Holy Spirit”. 
@@ -17,11 +17,11 @@ Have we robbed our fellow Christians of the joy in the heavenly kingdom by the t
 
 We must understand that joy is very important. In fact, joy is a motivator for Christians. God understands the psyche/thinking of a man. It is joy that keeps us going. We observe that when a person loses joy, he often gives up. We observe people who used to be enthusiastic about their jobs lose their passion because they realise there’s no joy in what they’re doing. 
 
-Psa 5:11
+Psa 5:11  
 God understands the thinking of a man. Therefore, He blesses us with joy. He wants us to seek refuge in Him to have this joy, because He knows this is what keeps us going. 
 
-Psa 16:11
-“You will show me the path of life; in Your presence is fullness of joy; at Your right hand are pleasures forevermore.”
+Psa 16:11  
+“You will show me the path of life; in Your presence is fullness of joy; at Your right hand are pleasures forevermore.”  
 This is the reward God wants to give to us. Not just joy, but a FULLNESS of joy to accompany us THROUGHOUT our lives. 
 
 A question: do we experience joy in God?
@@ -34,15 +34,15 @@ There are many people who have stopped coming to church: lost sheep. Could it ha
 
 Take note that this joy is in the SPIRIT. It’s not something frivolous or uncertain. The joy we have in this world sometimes depends on our mood. It changes according to how we feel. When we’re in a good mood, we have joy. When we're in a bad mood, we don’t have joy. However, the joy Paul talks about is anchored in the Holy Spirit. 
 
-Rom 8:13-15
+Rom 8:13-15  
 A person who belongs to Christ must live affording to the spirit. 
 
 There has been a recent push for schools to advocate fun while learning. This doesn’t mean the rigour of learning will be compromised. Rather, it helps children develop joy while learning. When they develop joy while learning, they will naturally enjoy learning. 
 
 Likewise, we must first have joy in the Lord. This joy can motivate us to achieve the standards of God. Slowly, we inch towards His expectations, while relying on the Holy Spirit. 
 
-Rom 8:26-27
-“Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us with groaning which cannot be uttered.”
+Rom 8:26-27  
+“Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us with groaning which cannot be uttered.”  
 “Now He who searches the hearts knows what the mind of the Spirit is, because He makes intercession for the saints according to the will of God.”
 
 These verses are often used to encourage people who have not received the Holy Spirit yet. But these verses are also relevant to those who have received the Holy Spirit. We need to allow the Holy Spirit to search us, and make intercessions for us, so we can reach God’s expectations. 
@@ -53,7 +53,7 @@ Let’s consider the Jews during the Holocaust. How were they able to cope? Was 
 
 As for us, let us rely on the Holy Spirit. God wants to give us this joy in the spirit. So that in whatever hardship/painful moments we have/times we’re fearful, God has given us this joy to overcome all these things. This joy is so abundant and full. It will carry us into the heavenly kingdom. 
 
-Isa 65:17-19
+Isa 65:17-19  
 This is a parallel to Rev 22. John saw the new heavens and earth, the kingdom of God to come. He could see the beauty of the place God has prepared for us; a place full of joy and happiness, a place where there’re no more pain and sorrows. This is a vision we should hold on to. 
 
 Why did we become a Christian? Why do we devote ourselves to the matters of God weekly? Isn’t it for the hope of the heavenly kingdom to come? Let us then hold fast to this hope. Nothing can separate us from the love of Christ. Nothing should take us away from this joy. Let us also not rob others of this joy. Let’s remember the ultimate goal: bring these people to heaven too. 
@@ -62,5 +62,5 @@ May we find this joy that’s in God. Remember this joy is in the Holy Spirit.
 
 
 
-----
+----  
 ****

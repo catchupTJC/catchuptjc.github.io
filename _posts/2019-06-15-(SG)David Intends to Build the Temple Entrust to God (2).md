@@ -1,9 +1,9 @@
----
-layout: post
-title: David Intends to Build the Temple - Entrust to God (2) 大卫起意建圣殿 - 当交托给神（二）
-category: sermon2019singapore
-tags: [willing,dedication,service]
-hymns: [439,363]
+---  
+layout: post  
+title: David Intends to Build the Temple - Entrust to God (2) 大卫起意建圣殿 - 当交托给神（二）  
+category: sermon2019singapore  
+tags: [willing,dedication,service]  
+hymns: [439,363]  
 ---
 
 David the man after the heart of God neglected to inquire of God, prophet Nathan also neglected to. David gathered the leaders to discuss, thought it was good, but didn't inquire so it turned out bad. They wanted to bring the ark to Jerusalem because he wanted to inquire, but in bringing it to Jerusalem he neglected to inquire. We learn that Man ought to place God first in their lives and inquire of God in everything.
@@ -14,13 +14,13 @@ He was a shepherd and warrior and psalmist. Became a king and prophet, a very ca
 
 Many good aspects.
 
-1 chr 22:6-8
+1 chr 22:6-8  
 Why David wasn't allowed to build the temple. Shed too much blood, and when Solomon ascended throne there would be peace to build it. God is omniscient. He has His own timing. David later committed adultery and sword wouldn't leave his house. Sons all vied for throne,  siblings incest - kingdom not stable. When Solomon ascended that was the most appropriate time. But David heart - he wasn't discouraged when not allowed to build the temple. 
 
-1 chr 22:1-3
+1 chr 22:1-3  
 He made preparations. He wasn't discouraged when though not the one to build it - didn't just stop since he wouldn't lay foundation. Active in preparing materials - clearly loved God. Man who loves God wouldn't take into consideration whether he can do the work, but whether he can participate in helping out. Work done by son but he still thought it a great grace. 
 
-2 Sam 7:18-20
+2 Sam 7:18-20  
 He felt it was a Great grace to participate. Do we have this kind of mentality? Should we feel gratitude to be able to participate in the work of building the temple? Would we also emulate David who put in much effort to prepare the materials? Put in heart and effort. 
 
 Everyone in church today - redeemed by blood of Jesus to rebuild the spiritual temple of the last day's. Can we be like David - felt it was such a joy to be able to participate. 
@@ -28,14 +28,14 @@ Everyone in church today - redeemed by blood of Jesus to rebuild the spiritual t
 
 David was. Very important participant in this work. 
 
-1 chr 22:1-5, 28:11,12-19, 
+1 chr 22:1-5, 28:11,12-19,  
 The whole plan was given to David by God . This is his response who felt gratitude to receive this plan. 
 
-For every Christian, we have been called and chosen. He has given the blueprint for spiritual temple to us. Have we put our hear mind soul to do the work? Do we feel it's a great grace to participate or find it a burden? Or that we don't need to participate, just come and spectate here is enough. 
+For every Christian, we have been called and chosen. He has given the blueprint for spiritual temple to us. Have we put our hear mind soul to do the work? Do we feel it's a great grace to participate or find it a burden? Or that we don't need to participate, just come and spectate here is enough.  
 David didn't have this mentality. Even though not the one to carry out the work, he was nonetheless involved. 
 
-1 kings 6:38
-7 years. But 7:1 his own house took 13 years. Don't question why. Magnificent palace but 7 years because David made all the plans and material preparations. 
+1 kings 6:38  
+7 years. But 7:1 his own house took 13 years. Don't question why. Magnificent palace but 7 years because David made all the plans and material preparations.  
 If we see what rehoboam said, his father Solomon placed heavy burden on them. But spirit of David wasn't just to???, he esteemed it. We might not be leader. Some are discouraged when not asked to do it, and just say oh okay entrust to God lor. Excuse and pull out of the work since not entrusted to them, discouraged and don't participate. Learn from spirit of David. 
 
 Some are not very old, will sy I've done enough and let the young ppl do. Retired, won't do any work in churchand stop participating in church work. But David kept making preparations. Son Will do but keep supporting. Attitude we ought to learn. If we have such an attitude only then will the church truly prosper. 
@@ -43,7 +43,7 @@ Some are not very old, will sy I've done enough and let the young ppl do. Retire
 Esteem it. 
 
 
-Psa 90:16-17
+Psa 90:16-17  
 Moses struck rock and couldn't enter. Doing the work he suffered much from the people, even asked for death from God. Writing this psalm he still praises God. Not allowed to enter but not discouraged, he continued to believe in the promise . Didn't say I'm not allowed to enter so not bother about it. 
 
 How he was great  was he wasn't concerned about own benefit or fame or hopes and achievements, just wanted God's work to continue on to future generations. When He said Joshua would take over, even though not allowed to enter, his heart already entered land of Canaan. Died on peripheral but he knew that God is faithful and would bring them in to Canaan and complete the work. 
@@ -78,5 +78,5 @@ When building, inquire and entrust to His hands. Jesus broke body to establish t
 
 
 
-----
+----  
 ****

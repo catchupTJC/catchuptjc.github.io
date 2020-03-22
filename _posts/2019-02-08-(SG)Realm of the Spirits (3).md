@@ -1,45 +1,45 @@
----
-layout: post
-title: Realm of the Spirits (3) 灵界（三）
-category: sermon2019singapore
-tags: [spiritualwarfare]
-hymns: [67,68]
+---  
+layout: post  
+title: Realm of the Spirits (3) 灵界（三）  
+category: sermon2019singapore  
+tags: [spiritualwarfare]  
+hymns: [67,68]  
 ---
 
 This series is not systematic theology; it is topical. The speaker picks random topics he finds beneficial for the congregation and shares it. It is dynamic. As and when you have any questions, raise it to the speaker along the corridor and it’ll be answered or raised in the next sermon. 
 
-Demonic apparitions will be discussed. 
-The Origin of Idols
+Demonic apparitions will be discussed.  
+The Origin of Idols  
 Demons and angels are essentially the same type of beings. Can angels materialise? Yes, because an angel talked to Mary about Jesus; angels have approached Lot. So if angels can materialise and appear before Man, so can demons because they’re essentially the same being. 
 
-The Jews believe in ghosts according to the New Testament. 
-Matt 14:26
-...they were troubled, saying, “It is a ghost!” 
+The Jews believe in ghosts according to the New Testament.  
+Matt 14:26  
+...they were troubled, saying, “It is a ghost!”  
 Note that not just one but several of them reasoned that what they saw was a ghost. And they weren’t common people, they were disciples. This shows common Jewish teaching was that ghosts exist. The Greek word for ghost is ‘fantasma’, which is why we have the English word phantom. What is ‘fantasma’? We read another verse first before coming back to this. 
 
-Mark 6:49
+Mark 6:49  
 It’s confirmed by not just one gospel writer but two that the Jews believe in ghosts - a supernatural being that can be seen. We will come to what exactly these ghosts are. For now, just hold on that Jews believe in ghosts. 
 
 The next point: are evil spirits always evil? Are they called evil spirits because they’re always evil? Can evil spirits/demons do good things? What do you think?
 
-2 Cor 11:14
+2 Cor 11:14  
 Evil spirits/Satan can do good things because they pretend to be angels (i.e. by doing good things). So don’t get the idea that good things MUST come from angels, bad things MUST come from demons. That’s not true because demons can confer good things. 
 
 By putting these two points together, we come to the conclusion this is probably the origin of idols. Demons materialise and appear to Man. They help Man and do good things to Man. To commemorate and be grateful to the help of the supernatural beings that appeared to them, Man make an image of this supernatural being. Hoping that when they need further help in the future, they can talk to the image and somehow have a WiFi connection to the spirit. That’s probably the origin of idols. 
 
 Is this the speaker’s reasoning or is there biblical support that idols have links to demons?
 
-Lev 17:7
+Lev 17:7  
 When the people sacrificed, obviously they sacrificed to idols; they put the meat or grain before the idols. But in Leviticus which records the words of God to Moses, God referred to those idols as demons. So when people sacrifice to idols, they’re actually sacrificing to demons according to Leviticus. This is a clear Christian teaching but it’s very offensive to our friends who perform such rituals. So most of the time we don’t say it. It’s fine if we don’t say it but we have to know it is the truth. 
 
-Deut 32:16-17
+Deut 32:16-17  
 Deuteronomy is even more offensive. They’re not just talking about idols - objects in those times made of stone or wood. Deuteronomy is more blunt. They say that, “Okay let’s not talk about your idols. Even your gods are demons!” So it’s not pleasant for this kind of sermon to be spoken but it’s a truth that must be understood. 
 
 Why are idols and deities worshipped by other people? They’re demons. Probably in the past some of these demons manifested themselves to Man, did some good work, and people began to worship them. 
 
 Many people would say, “Well this is Old Testament teaching. Is there any New Testament support for this fact?”
 
-1 Cor 10:19-21
+1 Cor 10:19-21  
 This is clear that the New Testament teaching is the same as what’s said in Leviticus: when you sacrifice to idols, you sacrifice to demons. v19-20 showcase this very clearly (read). 
 
 So if you know that idols are linked to demons, and idols and even the deities other people worship (Deuteronomy calls them foreign gods), they’re not from the imagination but real demons that have appeared to Man. 
@@ -56,8 +56,8 @@ In the New Testament, the Greek word to refer to the chief demon is Diabolos whi
 
 There’s another demon called Beelzebub. He’s the prince of the demons and you can find his name in Mark 3:22. It’s unclear whether Beelzebub refers to Satan or a lower ranking devil. 
 
-The next one is Apollyon. That name is found in Rev 9:11. It means ‘destroyer’. The Hebrew word for Apollyon is Abaddon which means the same thing - destruction or destroyer. Sometimes depending on the Bible version you use, you’d see Destroyer or Abaddon. 
-Job 26:6
+The next one is Apollyon. That name is found in Rev 9:11. It means ‘destroyer’. The Hebrew word for Apollyon is Abaddon which means the same thing - destruction or destroyer. Sometimes depending on the Bible version you use, you’d see Destroyer or Abaddon.  
+Job 26:6  
 “Sheol is naked before Him, and destruction/Abaddon has no covering.”
 
 
@@ -96,48 +96,48 @@ After Legion, we have Daimonion and Shedim. These are not names but a collective
 
 
 
-Lev 17:7
+Lev 17:7  
 The original Greek word for ‘demon’ is ‘Sheirim’. But depending on the version you use, some versions translate it as ‘goat demon’. Because part of ‘Shei’ in the Hebrew root is ‘goat’. 
 
 So that’s what we have about the names. 
 
-Are ghosts disembodied souls or demons?
+Are ghosts disembodied souls or demons?  
 Now, it is a common belief especially among Chinese that ghosts are disembodied souls - people would die, souls leave their bodies, and these souls appear to Man as ghosts. So what do you think?
 
 Are ghosts disembodied spirits/souls, or are they demons? In other words, does it come from fallen angels or does it come from Man?
 
-Dan 12:2
+Dan 12:2  
 Those who die, sleep. Those who sleep in the dust of the earth shall awake. 
 
-1 Cor 15:51
+1 Cor 15:51  
 The New Testament also describes death as sleep. 
 
-Acts 7:60
-Then he knelt down and cried out with a loud voice, “Lord, do not charge them with this sin.” And when he had said this, he fell asleep. 
+Acts 7:60  
+Then he knelt down and cried out with a loud voice, “Lord, do not charge them with this sin.” And when he had said this, he fell asleep.  
 This describes Stephen who died and the Bible used the phrase ‘he fell asleep’.
 
 So we have clear teachings from both the Old Testament and New Testament that the soul sleeps upon death. So wondering ghosts cannot be disembodied souls. 
 
-There’re other reasons. 
-Eccl 9:5
+There’re other reasons.  
+Eccl 9:5  
 “The dead know nothing.”
 
-Psa 146:4
+Psa 146:4  
 Those who are dead have no thoughts. So it is quite clear that ghosts can be seen because they appear and materialise. But they’re not souls of dead people. They must be demons, which leads us to the next short topic before the sermon ends. 
 
 If dead people sleep and have no thoughts and know nothing, how is it that there are people who communicate with the dead? There’re various words and terms in English for communicating with the dead: ‘seance’. We know that they are not communicating with the dead so we don’t have to be afraid when people tell us when they’ve talked to their father, mother, brother. We know that the dead know nothing and have no thoughts, they go to sleep. The conclusion must be that it is the demons disguise themselves as your dead relative. And that’s why the Old Testament especially prohibits any form of attempted communication with the dead. 
 
-Exo 22:18
-“You shall not permit a sorceress to live.”
+Exo 22:18  
+“You shall not permit a sorceress to live.”  
 A sorceress, those who perform magic and communicate to the dead, are not allowed in the land of Israel. 
 
-Lev 20:6
-“And the person who turns to mediums and familiar spirits, to prostitute himself with them, I will set My face against that person and cut him off from his people.”
+Lev 20:6  
+“And the person who turns to mediums and familiar spirits, to prostitute himself with them, I will set My face against that person and cut him off from his people.”  
 This is a clear prohibition against people who try to communicate with the dead. 
 
 These are not allowed. The Chinese translates it not as communication with the dead but with demons. 
 
-Lev 20:27
+Lev 20:27  
 “A man or a woman who is a medium, or who has familiar spirits, shall surely be put to death; they shall stone them with stones. Their blood shall be upon them”
 
 This is what we learn this evening about the kingdom of Satan. They are not your relatives. Your dead relative cannot come back, they sleep. Whether good or bad, they can’t come back. 
@@ -146,5 +146,5 @@ Only two sort of came back - Moses and Elijah. On the mount of transfiguration, 
 
 
 
-----
+----  
 ****

@@ -1,18 +1,18 @@
----
-layout: post
-title: Blessed Is He Who Fears The Lord (2) 敬畏神的人有福的（二）
-category: spiritualmeeting2019singapore
-tags: [blessing,feargod,godisupthere]
-hymns: [228,246]
----
+---  
+layout: post  
+title: Blessed Is He Who Fears The Lord (2) 敬畏神的人有福的（二）  
+category: spiritualmeeting2019singapore  
+tags: [blessing,feargod,godisupthere]  
+hymns: [228,246]  
+---  
 We know that blessed is he who fears the Lord. We also know the reasons why we should fear God.
 
 Do we know what are some actions we have to take to fear the Lord?
 
 When one fears the Lord, it’s not something abstract and unobservable. Rather, when one fears the Lord, he takes actions that are visible. These actions will be listed:
 
-1. He who fears the Lord will have absolute obedience to the words of the Lord 
-Gen 22:12
+1. He who fears the Lord will have absolute obedience to the words of the Lord  
+Gen 22:12  
 When God instructed Abraham to offer Isaac, without any doubt or question, Abraham offered Isaac. He didn’t adhere to God’s word not because his love for the Lord was so great but because he obeyed God. He believed in the promise of God. God said in Isaac his seed would be. If Isaac were to die, how would he have descendants? God won’t go back on His promises but fulfil them. That’s why he believes that if he offers Isaac up and Isaac dies, God would resurrect Isaac. So with regards to the instruction of the Lord, he had no struggles and had no doubt. Because he believed, he obeyed the instructions of the Lord. When the angel saw that Abraham obeyed, he said, “Now I know you truly fear the Lord.”
 
 A person who truly fears the Lord will carry the actions of the Lord out. 
@@ -21,26 +21,26 @@ Some people say they fear the Lord but have many doubts about the word of the Lo
 
 For example, God commanded that we should keep the Sabbath. Some believers don’t observe the Sabbath but claim to fear the Lord. 
 
-Some believers say, “There’s no need to observe the Sabbath but you must observe Sunday.”
+Some believers say, “There’s no need to observe the Sabbath but you must observe Sunday.”  
 On one hand you claim to fear the Lord but you don’t do according to the words of God but Man. 
 
 Abraham feared the Lord and carried out whatever commanded. Are we absolute in believing and carrying out God’s word?
 
-2. He who fears the Lord is one who departs from evil
-Prov 3:7
+2. He who fears the Lord is one who departs from evil  
+Prov 3:7  
 To truly fear the Lord, we have to depart from evil. We know Job feared the Lord. He truly departed from evil. God testified for Job. 
 
-Job 2:3
+Job 2:3  
 The Lord said to Satan, “Have you considered my servant Job? There is none like him on the earth a blameless and upright man who shuns evil.”
 
 If we claim to fear the Lord, besides being blameless and upright, we also ought to shun evil. 
 
-What does it mean to shun evil? 
-Psa 1:1 (read)
-“He who walks not in the counsel of the ungodly, nor stands in the oath of sinners, nor sits in the seat of the scornful.”
+What does it mean to shun evil?  
+Psa 1:1 (read)  
+“He who walks not in the counsel of the ungodly, nor stands in the oath of sinners, nor sits in the seat of the scornful.”  
 Many Christians claim to fear the Lord. But in their daily lives, they don’t depart from evil but draw near to evil. How are they to face the judgement at the end?
 
-Exo 20:18-20
+Exo 20:18-20  
 The Israelites envied Moses because God spoke to him face to face. Even when God spoke to them, it was through Moses. Therefore they murmured in their hearts. “Why doesn’t God speak to us directly? Why can’t we personally come before God to receive His words? Why must it go through Moses?” Seems like God is biased. 
 
 God said, “Alright. Come to the foot of Mount Sinai and I’ll talk to you directly.”
@@ -66,13 +66,13 @@ Many people say, “I’m just taking a look. Is that a sin?” No. Looking is n
 
 “我只是玩一下而已!” people claim. As if “我只是玩二下而已” then it’s wrong lol
 
-3. He who fears the Lord hates evil
-Prov 8:13
+3. He who fears the Lord hates evil  
+Prov 8:13  
 What evil is this? Not just things like idolatry. The evil encompasses also encompasses pride, arrogance, the evil way, a perverse mouth.
 
 If we fear the Lord, we should also hate things the Lord hates. If we love things God hates, don’t you think you’re opposing God?
 
-Num 25:10-13
+Num 25:10-13  
 The people of Israel committed sexual immorality with the women of Moab. God punished them with a plague. Those who died in the plague were 24,000. They didn’t die at one shot. First some died from the plague, then the rest got the plague too. The cries got louder and louder. Truly fearful. They prayed to the Lord to stop and for forgiveness. But the Lord’s anger didn’t abate. How terrifying it is! People continued to drop dead. Despite such a terrifying scenario, people STILL committed evil. A man of Israel took a woman from Moab and went into the tent before all the eyes of the multitude. 
 
 Why didn’t anybody dare to stop them? The man was the son of a leader of Israel. The Midianite woman was also the daughter of a leader. They were people with power, which was why the multitude didn’t dare to stop them. Yet Phinehas took a javelin and satay them. Only then the wrath of God stopped. “Phinehas has caused My wrath to stop against the children of Israel. Because he was zealous with my zeal, I didn’t consume the children or Israel with my zeal.”
@@ -81,12 +81,12 @@ Phinehas had the same mind as God. He hates what the Lord hates and removed the 
 
 This caused the punishment to stop. 
 
-A man who fears the Lord has the same mind/heart and walks with the Lord. 
+A man who fears the Lord has the same mind/heart and walks with the Lord.  
 一个敬畏神的人就会与神同心，才可以同行
 
 Therefore if we think we love the Lord but don’t hate what the Lord hates but draw near to them, then how can we claim to fear the Lord?
 
-Often we say: may the Lord abide with us, yet we don’t share the same mind as the Lord
+Often we say: may the Lord abide with us, yet we don’t share the same mind as the Lord  
 许多人说：愿主跟我们同行，可是我们没有与主同心
 
 How can two walk together if we’re not of the same mind? 如果不同心，我们如何同行
@@ -111,7 +111,7 @@ Phinehas didn’t just sacrifice animals to make atonement for the people. He al
 
 We are spiritual priests. We sacrifice and make atonement forbotjers. But can we like Phinehas get rid of evil to preserve the holiness of the temple? To disallow men from defiling the temple?
 
-4. He who fears the Lord will humble himself and receive chastisement from God
+4. He who fears the Lord will humble himself and receive chastisement from God  
 Some sermons make us laugh. Some give us comfort and encouragement. Are there some sermons that make us very angry and feel aversion?
 
 What makes us feel angry and feel aversion? What sentence?
@@ -122,7 +122,7 @@ But if the speaker is speaking the word of God, what you’re angry about is the
 
 If a man fears the Lord, he will humble himself and receive God’s chastisement. 
 
-2 Kings 22:18-20
+2 Kings 22:18-20  
 When Josiah was king, he resolved to bring the entire nation to the Lord. That’s why the first thing he did was to command the temple to be repaired. The temple lay in desolation but he wanted it to be repaired. In the process of the repair, someone found the book of the law and brought it to the king. When the king heard the word, he tore his clothes. Why? He discovered they had been going against the word of God all along. That’s why they faced with such calamity. Now there’s a greater calamity coming. “If we don’t repent and transgress the words of the Lord, this land will lay in desolation and the people will be cursed.” After hearing the word, he tore his clothes and repented. 
 
 “What does the Lord want us to do next?”
@@ -135,7 +135,7 @@ Josiah tore his clothes and inquired of God what he should do. Because God saw h
 
 More importantly, his son also received the words of the Lord but his response was entirely different from his father’s. 
 
-Jer 36
+Jer 36  
 The words of the Lord came upon Jeremiah. When the Lord sent forth His judgement it was to give them the time to repent. Therefore when the Lord asks the prophet to proclaim the judgement, it was to give them time to repent. When people heard, they quickly wrote the words down on scrolls to read to people to have time to repent. 
 
 One scroll was taken to the king to be read to also. After just hearing a few lines, he cut it and even threw it into the fire. The people around him all saw what happened but none spoke up. They weren’t afraid of the Lord. They also didn’t receive the words of rebuke and didn’t repent. Because of this, God allowed them to reap what they sow. Judah was hence destroyed by Babylon. 
@@ -146,8 +146,8 @@ A man who fears God isn’t one that doesn’t commit any wrong but he at least 
 
 His rebuke isn’t to shame us but to cleanse us.
 
-5. He who fears the Lord will trust in the Lord wholeheartedly 
-Psa 115:9-1
+5. He who fears the Lord will trust in the Lord wholeheartedly  
+Psa 115:9-1  
 The psalmist time and again tells the people to trust in the Lord. “You who fear the Lord, trust in the Lord. The Lord is God. He is our help.”
 
 You say you fear the Lord. Yet you also inquire of idols. How can you claim to fear the Lord?
@@ -161,5 +161,5 @@ We who fear the Lord should be like Joshua. Even if only we and our household ar
 May God help us to fear the Lord. So we don’t just receive blessings but cause our family to receive blessings too. 
 
 
-----
+----  
 ****

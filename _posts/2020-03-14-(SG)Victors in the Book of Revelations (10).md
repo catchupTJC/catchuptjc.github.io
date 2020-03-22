@@ -1,14 +1,14 @@
----
-layout: post
-title: Victors in the Book of Revelations (10)
-category: sermon2020singapore
-tags: [revelation,sevenchurches,lukewarm,unprofitableservant,talent,rich,victor,heart,throne]
-hymns: [242,437]
-speaker: prchinaunquek
----
+---  
+layout: post  
+title: Victors in the Book of Revelations (10)  
+category: sermon2020singapore  
+tags: [revelation,sevenchurches,lukewarm,unprofitableservant,talent,rich,victor,heart,throne]  
+hymns: [242,437]  
+speaker: prchinaunquek  
+---  
 Through the 7 churches in the book of Revelation, God reveals the problems the church can face. We learn from these problems. This sermon will discuss the problems the church of Laodecia faced. 
 
-Rev 3:15-16
+Rev 3:15-16  
 The first problem the Laodecian church had was that their spiritual state was like lukewarm water - neither cold nor hot. They thought this state was acceptable. But Jesus said because they were lukewarm, He would vomit them out of His mouth. This was a serious problem concerning their lives. 
 
 Actually according to our experience, lukewarm water is the most acceptable for drinking. Too hot or too cold water is what we would spit out. Why would we spit out lukewarm water?
@@ -19,14 +19,14 @@ The Laodecian church believers were very talented. They were so rich, they lacke
 
 There’re indeed very talented people. But it’s a pity they only employed their talents in the world but aren’t willing to do so for the church of God. They contribute so much to society but not to the church. Of course if they aren’t children of God, there’s nothing to say. But if they are, then it’s a pity they only contribute to the world. 
 
-Matt 25:30
+Matt 25:30  
 The Lord Jesus classified the servant who received one talent as the unprofitable servant. He could’ve at least put the talent into the bank but even this he didn’t do. So the Master threw him into the outer darkness. We’re all useful, that’s why Jesus chose us. But are we willing to be used by the Lord? At the very least we ought to be concerned for and pray for the church. In the eyes of God, this is very basic and fundamental. If we do these things, we’re considered a profitable servant. This can be done by even young children and the elderly. We need to put in time and effort to fulfil this fundamental responsibility. If we take a step further, we ought to use our talents to serve God. Whether up on the pulpit or below the pulpit, in preaching or pastoring; we ourselves know where our gifts are. We ought to put in effort in those areas. 
 
 After all, Jesus said that to more who is given, more is required. Jesus knows how much we have. We ourselves know how much we have been given. Of course we shouldn’t compare ourselves with other people but we should do our utmost towards the Lord. 
 
 We shouldn’t be like the Laodecians who used their talents in the world but not on the church of God at all. 
 
-Rev 3:17
+Rev 3:17  
 The second problem was that they themselves reckoned their spiritual state was good/rich. From a physical viewpoint, they were indeed rich. The city of Laodecia was a financial and economic centre. It was one of the richest city in minor Asia. In AD61, there was a great earthquake. A few surrounding cities were destroyed - Ephesus and Sardis didn’t have the financial capability to rebuild their cities. They needed to seek help from the Roman government. But the city of Laodecia didn’t need to seek for help. They were able to rebuild the city bigger and more beautiful than before. Roman historians praised the city of Laodecia as a model city in their records. Therefore members in the church of Laodecia thought they were rich spiritually. The Lord Jesus also reckoned they were right that they were rich and had need of nothing in the matters of this life. But with regards to eternal life, they had nothing. They were wretched, miserable, poor and naked. 
 
 Would you want to pursue wealth in this life or wealth in the life to come? If we seek riches in this life, the speaker suggests we should first seek riches in the eternal life. After seeking riches in eternal life, then you can seek riches in this life to enjoy yourself. But most times people who seek riches for eternal life place less emphasis on seeking riches in this life. 
@@ -39,7 +39,7 @@ Truly, our lives are temporary. Often in uncertain times, we think we need to be
 
 God loved the Laodecia church and so pointed out their problems to them. 
 
-Rev 3:18-19
+Rev 3:18-19  
 Often our children say we have changed and don’t love them when we scold them. They’ll mention some distant relative will give them $200 when they just ask. But then they complain we are so stingy in giving them money. The child doesn’t understand. 
 
 Only when he gets married and becomes a father himself does he realise how much his father loves him. 
@@ -58,11 +58,11 @@ Some people say not to buy from IKEA because it always breaks down HAHA. But eve
 
 Let us have the realisation to buy from the Lord not the world. 
 
-What do we need to buy from the Lord?
-1. Gold
+What do we need to buy from the Lord?  
+1. Gold  
 Gold refers to our faith. But not all gold can withstand the fire. Only genuine gold. Likewise not all faith can pass through the test of fire. That’s why we just buy from the Lord hold refined in fire. In other words we must ask the Lord to strengthen our faith so it can pass all tests. Because only a genuine true faith can withstand to the end. 
 
-2. White garments
+2. White garments  
 Laodecia city is famous for making this garment called Tremitha. It’s very popular in minor Asia. Those who donned it were looked up to. It’s even guaranteed this garment will never spoil in your lifetime. But in the eyes of the Lord, there’re no garments that will last forever. Only the white garment bought from the Lord will last forever. We’d be clothed and not be naked. 
 
 But haven’t we already put on this white garment from the Lord when we get baptised. Why do we still need to buy then? Not as a spare. But because we may get our garments dirty. We can’t cleanse ourselves. We can only rely on the Lord to cleanse our garments so it’ll still be white. We can only buy this and ask of this from the Lord. 
@@ -75,16 +75,16 @@ It is when we don’t have a repentant heart and only believe the Lord will have
 
 If we ask the Lord to forgive us of shortcomings, He will forgive us. There’s the need to come to the Lord to buy the white garment so we may be presented clean before Him. 
 
-3. Eye salve
+3. Eye salve  
 The third thing we need to buy is eye salve. The city of Laodecia is famous for its medicine - ears and eyes. So the people of Laodecia had sharp eyes and ears because of the eye salve and ear medicine. But their spiritual eyes were blinded. They couldn’t see the way to eternal life but only the riches before them. That’s why Jesus said to get eye salve from Him to anoint their eyes. What does this refer to? The Holy Spirit. 
 
-Eph 1:18
-“the eyes of your understanding being enlightened”
+Eph 1:18  
+“the eyes of your understanding being enlightened”  
 We often see a person who receives the Holy Spirit looks lightly upon things in the world and pursues eternal riches. 
 
 The Lord Jesus is waiting for us. But there’s a deadline. When it comes, He’ll close the door of grace. At that time we’ll have to knock on the door but He won’t open the door again. Can we then say the Lord Jesus is merciless for having closed the door? The Lord Jesus will tell us we have opened the door for so long and called out to us so often. We have heard His calling but have not heeded. We keep thinking there’s more time before the door closes but we don’t know when it will. While it’s still open, let us grab hold of the opportunity. Let us ask the Holy Spirit to fill us. 
 
-Rev 3:20-21
+Rev 3:20-21  
 Isn’t the Lord already in our hearts when we believe? This should be the case but in reality, many members don’t have the Lord in their hearts. They only think of the Lord once in a while. To have the Lord sitting in your heart is very different than thinking about the Lord sometimes. 
 
 Logically speaking, when we talk about the heart it refers to the mind. But emotionally, it’s different. 
@@ -95,13 +95,13 @@ Actually Jesus can enter our hearts without needing to knock. We already belong 
 
 The Lord Jesus could’ve immediately entered our hearts. Why does He stand and knock then? Because He doesn’t want to force anyone. Logically, He could rule our hearts but emotionally, He doesn’t want to do this. He wants us to esteem this relationship and love. 
 
-Song of Solomon talks about this kind of love. 
-Song 5:2-3
+Song of Solomon talks about this kind of love.  
+Song 5:2-3  
 The Beloved refers to Jesus and the Shunammite woman refers to us the church. The Beloved knocks on the door. “Open for me, my sister my love. For my head is covered with dew, my locks with the drops of the night.”
 
 Imagine how long He had walked in the night or had been knocking to have His locks all wet from the drops of the night?
 
-But the Shunnamite woman replied, “I have taken off my robe; How can I put it on again? I have washed my feet; How can I defile them?”
+But the Shunnamite woman replied, “I have taken off my robe; How can I put it on again? I have washed my feet; How can I defile them?”  
 This was a childish excuse. How long does it take to wash feet and put on a robe?
 
 She thought she had all the reason in the world to not open the door. But after a long time she was conscience stricken. However, her Beloved had turned away. 
@@ -124,12 +124,12 @@ We used to do what we wanted in our lives. But when we believed, we understood J
 
 But if we want to enter into eternal life, there’s only one way. By allowing Jesus to enter our hearts and letting Him rule our lives. 
 
-Rev 3:21
-“To Him who overcomes, I’ll grant to sit with Me on My throne.”
+Rev 3:21  
+“To Him who overcomes, I’ll grant to sit with Me on My throne.”  
 If we don’t allow the Lord to dine with us, we won’t be able to sit with Him on His throne. 
 
 Let us become victors. To overcome ourselves. To open up the door to the Lord to dine with us. Then in the future in the Kingdom of Heaven we will sit with Him on His throne. 
 
-Mag the Lord help us. Let us be a victor; to allow the Lord to come into our hearts and dine with us.
-----
+Mag the Lord help us. Let us be a victor; to allow the Lord to come into our hearts and dine with us.  
+----  
 ****

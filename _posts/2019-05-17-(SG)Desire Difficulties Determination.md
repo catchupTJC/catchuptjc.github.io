@@ -1,9 +1,9 @@
----
-layout: post
-title: Desire, Difficulties, Determination 渴慕，艰难，决心
-category: sermon2019singapore
-tags: [trial,will,seekgod]
-hymns: [163,498]
+---  
+layout: post  
+title: Desire, Difficulties, Determination 渴慕，艰难，决心  
+category: sermon2019singapore  
+tags: [trial,will,seekgod]  
+hymns: [163,498]  
 ---
 
 This sermon is a reflection on the speaker’s recent trip to Myanmar. Two weeks ago, he was over there for a week to assist in the youth Bible camp. 
@@ -14,43 +14,43 @@ Their Bible camp is similar to how we run it in Singapore. He thanks God for bei
 
 His thoughts and reflections after having gone for 3 of such camps over the last 4 years will be shared in this sermon. It’s summarised into 3Ds.
 
-1. Desire
-The desire for God. The desire to be with God. The desire for things of God. The desire to be pleasing before God. Do we have such godly or spiritual desires? When he thinks about some of the students in the camp, he feels some of them really do have this desire. According to Google maps, the journey to the church where the camp is held is 16h 47min. The last quarter of the 
+1. Desire  
+The desire for God. The desire to be with God. The desire for things of God. The desire to be pleasing before God. Do we have such godly or spiritual desires? When he thinks about some of the students in the camp, he feels some of them really do have this desire. According to Google maps, the journey to the church where the camp is held is 16h 47min. The last quarter of the  
 The children take this 16-17h bus ride to the camp. The mountain roads can be very bumpy and windy. Usually, it’s night time when they’re crossing the mountain area. You can’t see the road outside because it’s pitch black. It’s hard to sleep. A lot of people get motion sickness. Every trip you hear vomiting sounds. It’s a two way journey. 
 
 The students in the bus are happy though. Why? Their desire for God. Their desire to stay in the house of God, for this week long camp every year. Their desire to be away from their daily environment; to be in church; to be immersed in the word of God, singing hymns and praising God. Praying and drawing close to God, and experiencing God. 
 
 The speaker is reminded of another character in the Bible who also had a very strong desire for God. A man after the heart of God. David. 
 
-Psa 27:4-5 (read)
+Psa 27:4-5 (read)  
 David greatly desired to dwell in God’s house, be in God’s presence and to behold His beauty. 
 
-Psa 51:1-2, 10-11
+Psa 51:1-2, 10-11  
 We see David’s desire for God once more, but in a different context from Psa 27. David had just committed a very big sin: murder and adultery. He prayed to God for mercy and forgiveness. He desired for renewal and a clean heart. He desired that God’s spirit would not leave him. He had committed a grave sin but he didn’t want God to leave him. 
 
-Psa 63:1-8
+Psa 63:1-8  
 Take note of the verbs that David uses in these verses as you read through them.
 
-David once again expresses his desire for God. Many actions follow his desire for God. 
-v2 I have LOOKED for you in the sanctuary
-v3 My lips shall PRAISE You. I will LIFT up my hands
-v6 I MEDITATE on You
+David once again expresses his desire for God. Many actions follow his desire for God.  
+v2 I have LOOKED for you in the sanctuary  
+v3 My lips shall PRAISE You. I will LIFT up my hands  
+v6 I MEDITATE on You  
 v8 My Soul FOLLOW close behind You
 
 David’s desire for God motivates his desire in life. From David’s desire and the young brothers and sisters in Myanmar, let us reflect: how much do WE desire God?
 
 Amongst the many things we desire, like financial or emotional stability, a good career and family, a good life, do we have room to desire God and things that are God’s? It could be for the Holy Spirit, for us who have not received Him yet. Or the desire to fulfil God’s word and will in our lives. Or the desire to do more or just be a little better in God’s eyes. Or the desire to keep our faith until we die. Do we have these desires? We can know/gauge we do based on the decisions and actions we’ve made in our lives. In fact, the Lord Jesus Christ tells us this in Matthew. 
 
-Matt 16:24-27
+Matt 16:24-27  
 Jesus Christ tells us what we have to do if we REALLY desire for Him is to take actions. We have to deny ourselves; this means putting aside our personal interest. We have to take up the cross of the Lord Jesus Christ, which means to bear the word of God in our lives; to take up the duties and responsibilities Christians have to bear. Even to bear sufferings in our lives. This isn’t just during peaceful times, or only during times we’re of grave need where we turn to God. We have to strive to live this out in our EVERYDAY lives. Even those mundane periods of life when nothing significant seems to be happening. We can in fact learn to cultivate godly desires. If you’re sincere towards God, and with the power of the Holy Spirit, we CAN change. We can change our physical desires to spiritual desires. Then we manifest it into real actions and behaviours. This is very important because of the second D. 
 
-2. Difficulties
+2. Difficulties  
 Difficulties we face in keeping the faith. 
 
-2 Tim 3:10-13
+2 Tim 3:10-13  
 Here Paul talks about persecutions, afflictions, endurance, evil men, deception. Because all who desire to live godly in Christ Jesus will encounter them. 
 
--picture of the Myanmar students 2 years ago-
+-picture of the Myanmar students 2 years ago-  
 Not all who attended 2 years ago attended the camp this year. Some of them had to work. Some had school. Some of their families don’t attend the True Jesus Church anymore. For varying reasons, some didn’t turn up for this year’s camp. While the speaker was over there and heard the stories of what some of our brothers and sisters have gone through there, he realises how difficult it can be to be a True Jesus Church Christian there. They really face many many difficulties. Poverty. A number of members there are poor. Some of them live from hand to mouth. Some need their young children to work to support their family. 
 
 Poverty makes keeping the faith very challenging, because we’re too preoccupied to make ends meet. It becomes hard to keep the Sabbath. Poverty can drive people to do things against their conscience and beliefs. Some members go overseas to make more money, places with no churches. They make more money but in exchange, lose their faith. 
@@ -71,25 +71,25 @@ In Singapore, we also have religious influences that pull us away from church. E
 
 Challenges to our faith come from different angles. In 2 Tim 3, Paul talks about the diffident difficulties Christians have to go through. 
 
-2 Tim 3:14-17
+2 Tim 3:14-17  
 This is a solution Paul proposes. We have to continue in the things we have learnt and are assured of. We should not stop or turn back to the old ways or the old person. The world is definitely changing. But the gospel that will make us wise for salvation will always remain the same. We have to persist. If we stumble, we have to be humble enough to be willing to be corrected, by God’s word. 
 
 We have to continue to improve until we become complete (v17), which is what our Heavenly Father desires for us to be: perfect and complete. That’s why we need the 3rd D. 
 
-3. Determination
+3. Determination  
 To remain in the faith, and the one true church. We have to believe very deeply in our hearts that the Lord is in our kiddy and the one true church. Because we preach the truth affording to the Bible. We don’t want to cheapen the gospel just to get more people in. We also have the abidance of the Holy Spirit, evidence by tongue speaking. We also have signs, wonders and miracles in the true church.
 
 In the Myanmar Bible camp, 12 students received the Holy Spirit. By God’s grace, He allowed one of the brothers to see a vision of heaven. It was during a student initiated prayer. The brother and some of his friends all prayed for the Holy Spirit (they were young). He testified that as he prayed, he felt a strong light shining upon him. He felt like he was being lifted up to heaven. Before him, he saw a building made of gold. There were many shiny ponds around him. Above him, he saw figures like birds flying around in the sky singing loudly. He said it was a beautiful sight. He said his prayer felt very sweet. He said he felt his tongue rolling very smoothly. Because he had received the Holy Spirit. The spirit of God. The same spirit we also have here. 
 
 The truth is that: we don’t really need these signs or visions to confirm or affirm our faith. Just think how we have experienced God one way or another in our walk of faith. Some of us have big spiritual experiences in the past. Some of us have smaller spiritual experience, yet we know it’s supernatural, it’s not our own doing. Things like: when we pray, we suddenly feel very comforted. Or very sad. We know it’s not our own doing but the spirit of God living in us. We have to engrave these experiences in our hearts. At the very least, on the day you receive the Holy Spirit, when your tongues started to roll on its own, it’s not your own doing, shows you God is abiding and living in you. In times you’re feeling very down, we have there memories to remind us we have God in our lives. So we become more determined to remain in the faith, in the True Jesus Church. 
 
-1 Pet 5:8-10
+1 Pet 5:8-10  
 We will experience all these same sufferings as our brothers and sisters around the world. Whether it’s physical, or moral/faith-based ones. These same difficulties unite us together because these are the sufferings of Christ. They arise only because we desire to remain as the followers of Christ. Because we desire to carry the cross of the Lord Jesus. Because we desire to be raised from the dead to eternal life. 
 
 Dear brothers and sisters. At times you may feel alone. But you’re not. We’re all part of this brotherhood, having to experience these same sufferings. So hang in there. One day, just like what Peter says here, we will be perfected and established. We will find rest in eternal glory. May He be the glory forever and ever. Amen. 
 
 
 
-----
+----  
 ****
      

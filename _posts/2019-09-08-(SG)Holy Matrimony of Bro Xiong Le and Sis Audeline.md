@@ -1,14 +1,14 @@
----
-layout: post
-title: Holy Matrimony of Bro Xiong Le and Sis Audeline
-category: sermon2019singapore
-tags: [event,marriage]
-hymns: [298,300]
----
-We turn to Genesis 2:21-24; 
-21 “And the LORD God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place. 
-22 Then the rib which the LORD God had taken from man He made into a woman, and He brought her to the man. 
-23 And Adam said: “This is now bone of my bones And flesh of my flesh; She shall be called Woman, Because she was taken out of Man.” 
+---  
+layout: post  
+title: Holy Matrimony of Bro Xiong Le and Sis Audeline  
+category: sermon2019singapore  
+tags: [event,marriage]  
+hymns: [298,300]  
+---  
+We turn to Genesis 2:21-24;  
+21 “And the LORD God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place.  
+22 Then the rib which the LORD God had taken from man He made into a woman, and He brought her to the man.  
+23 And Adam said: “This is now bone of my bones And flesh of my flesh; She shall be called Woman, Because she was taken out of Man.”  
 24 Therefore a man shall leave his father and mother and be joined to his wife, and they shall become one flesh.”
 
 We know from here that God instituted marriage.You need to manage your marriage according to the commandments of the Bible and God’s purpose. Though you leave your parents today and are joint together, don’t forget the 5th commandment to honour your parents. Spend time with them because they Long for your presence. Let us read Genesis 2:18; 
@@ -49,5 +49,5 @@ May God bless your marriage. The speaker congratulates the couple for finding ea
 
 
 
-----
+----  
 ****

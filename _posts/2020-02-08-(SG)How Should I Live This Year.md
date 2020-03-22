@@ -1,11 +1,11 @@
----
-layout: post
-title: How Should I Live This Year?
-category: sermon2020singapore
-tags: [reflection,fame,status,envy,gifts,health,pride,resolution]
-hymns: [183,452]
-speaker: prchinaunquek
----
+---  
+layout: post  
+title: How Should I Live This Year?  
+category: sermon2020singapore  
+tags: [reflection,fame,status,envy,gifts,health,pride,resolution]  
+hymns: [183,452]  
+speaker: prchinaunquek  
+---  
 “How should I live my life this year?” was an article in the Reader’s Digest. The author told his friends, “I’m 41 years old this year. I’m a lawyer and a scholar of economics. I’m also a script writer. What should I aim for next?” A friend half jokingly said to him, “To live till 42!” He acknowledged the answer. He had felt unwell recently. He had seen the doctor recently who told him, “I think you shouldn’t exert yourself and work as if your life depends on it. Aim to survive to the next year.” He didn’t expect his friend to say the same thing.
 
 On that particular day, he left for home earlier. His child was about to go up to bed and was surprised to see him. His child happily said, “Goodnight!”
@@ -16,12 +16,12 @@ And so he penned this article: How should I live my life this year?
 
 He covered 3 points which will be shared for mutual encouragement. 
 
-1. I will stop striving for a name/status
+1. I will stop striving for a name/status  
 He asked himself this question: “Is my striving for fame to better myself or am I just trying to satisfy my own vanity? By striving so hard, how much stress have I put on myself and how many conflicts have I gotten myself into? It’s given me much sorrows and sleepless nights.” This impacts our health. Wealth, fame and status is important. But if it impacts our health negatively, then it’s not important! Because we can’t bring our wealth into the coffin. But wealth can bring you into the coffin. 
 
 He had the realisation to stop striving for fame or status. Are we also striving for the same things? Striving for fame won’t only affect your health negatively, it’ll also impact your faith negatively. 
 
-Gal 5:25-26
+Gal 5:25-26  
 For us believers in Christ, we know we have to live in the Spirit. Whether we can live in the Spirit depends on whether we walk in the Spirit. We often walk by our own means. We do whatever we think is good or worth it. We disregard what other people say or view us. We may listen to their suggestions but walk by our own means. 
 
 But after we have believed in Christ, we understand we shouldn’t walk by our own means but by the Spirit. Of course if what we think is good and doesn’t go against the teachings of the Bible, then go ahead. But if what we think is good goes against the teachings of the Bible, 
@@ -36,7 +36,7 @@ But if we can walk in the Spirit, we won’t become conceited or strive for fame
 
 Sometimes many years have passed since the event, but we’re still unable to untie the knot in our hearts. 
 
-如果你去数天数，一年三百六十五，忙忙碌碌，吵吵闹闹，斤斤计较又何苦？十年三千六百五，恩恩怨怨，是是非非，退后一步多幸福？百年三万六千五，你去数一数，你能活到多少数？还有什么烦恼不能放？
+如果你去数天数，一年三百六十五，忙忙碌碌，吵吵闹闹，斤斤计较又何苦？十年三千六百五，恩恩怨怨，是是非非，退后一步多幸福？百年三万六千五，你去数一数，你能活到多少数？还有什么烦恼不能放？  
 If we count, one year has 365 days, you go about busily, there’s much noise in our lives, why bother being so calculating? Ten years have 3650 days, gratitude and resentment, rights and wrongs, if we take a step back how what happiness we’d have? One hundred years have 36,500 days, go and count, how much longer can you live? What troubles are you still not able to let go of?
 
 Are there any troubles we’re not able to cast aside? If we look ahead, how many years can we count? Perhaps we have a long or short way ahead. No matter what it is, it’s not in our control, so don’t be worried how much longer we can live. Instead, what’s important is how we should live our lives this year. 
@@ -63,17 +63,17 @@ Calm ourselves down and see what is truly important in life.
 
 The author hence wants to stop striving for a name/status.
 
-2. I will stop looking so highly upon myself. 
+2. I will stop looking so highly upon myself.  
 The author thought he had the capability and was conceited. If you don’t have capability and are conceited, you’ll be smacked. If you have the capability and you’re conceited, people won’t like it but will still submit because you’re capable. Just because you’re capable doesn’t mean you should be conceited.
 
 The author was capable and realised he looked down on people and made them feel bad. He realised he needed to change his bad attitude and mentality. 
 
 Often we think the problem lies with other people, but have we reflected upon whether the problem lies with us? Have we thought too highly upon ourselves?
 
-Rom 12:3
+Rom 12:3  
 Don’t think of ourselves more highly than we ought to think. If we do, then we’d be conceited and look down on other people. If we look too lowly, we may get depressed. We should think about ourselves soberly, then we’ll be a happy person. With the right understanding of ourselves, we’ll be happy. 
 
-Psa 131:1-3 (read)
+Psa 131:1-3 (read)  
 Do you agree with these words? Perhaps if these were the words of the speaker, we may not. But these were the words of David - a talented king. He understood what his capabilities and limitations were. There’re many things in life that can’t be resolved with money or wisdom. We need to rely on God to resolve these matters. 
 
 While you may be talented, it’s important to acknowledge your limitations. Some people think they’re very capable and so set many high targets and requirements. They only have two hands but think they have more than that. 
@@ -88,15 +88,15 @@ Truly a person may be capable, but a person in high position may lose himself. L
 
 Therefore the author doesn’t want to look so highly upon himself.
 
-3. I will stop being envious of other people. 
+3. I will stop being envious of other people.  
 The author was a very knowledgable and educated person. On the surface, he appeared a polite gentleman. But he liked to compare himself with others. “If others can do it, so can I.” “If Singapore can do it, Malaysia can do it.” Do we do this? “Why does he have, and I don’t?” 
 
 We like to compare with other people. But let’s not just compare. We have to understand that our capabilities and environment is different from the other. We also have to consider how much effort is put in. We only see the glorious outcome but don’t see how much sweat and blood he has shed to get there. 
 
 A child told his father, “I’m not afraid of not being educated, or having skills. As long as I have a tin can (to beg) that’s enough. I’ve heard of beggars who go home to hotels!”
 
-The father said, “Do you know the price you have to pay to be a beggar?”
-“You don’t need to pay for a tin can what!”
+The father said, “Do you know the price you have to pay to be a beggar?”  
+“You don’t need to pay for a tin can what!”  
 There is indeed a price to pay.
 
 We’re envious of others for being talented. “That’s why they’re living such a good life!” But did you know all the work the gifted person has put in to get there? While you’re still asleep, he’s up early and studying. While you’re watching TV in the evening, he’s revising. While you’re enjoying in the weekend, he’s studying in the library. 
@@ -105,8 +105,8 @@ Don’t be envious of the success of others. Know the effort that goes behind it
 
 There’re many things in life we may feel is unfair but actually if we think about it, it’s quite fair. Don’t be envious of the other person, there is always a price to pay to get where you are. 
 
-There’s an envy Jesus mentioned of that we should take note of though.
-Matt 20:11-15
+There’s an envy Jesus mentioned of that we should take note of though.  
+Matt 20:11-15  
 Some men bore the burden and heat of the day and received one denarius. There were also some who only worked for an hour and also received one denarius. Of course you’d be envious! You’d say it’s unfair!
 
 But the master said, “Take your denarius and go. I’ve done you no wrong. Did we not agree that I’ll give you a denarius if you worked for the day? As for the person I gave a denarius for working an hour, that’s between me and him. You only work for one person. That person has a family of 4 to feed. It’s not that he didn’t want to work, he couldn’t find work! I wanted to give him a job, why is the good I do an evil to you?”
@@ -125,6 +125,6 @@ Truly, we don’t know what will happen to us. We need the Lord to preserve us. 
 
 How should we live our lives this year? Listen to His teachings. Follow our Lord closely. Don’t leave Him even to death. This is the greatest blessing in life. May we resolve to receive this blessing. Preserve ourselves in the Lord that we may be able to return to the Lord. 
 
-Wealth. Relationships. Will all pass away one day. That’s not the most important in life. It’ll pass on the twinkling of an eye. What’s most important is whether we can make it home. 
-----
+Wealth. Relationships. Will all pass away one day. That’s not the most important in life. It’ll pass on the twinkling of an eye. What’s most important is whether we can make it home.  
+----  
 ****

@@ -1,29 +1,29 @@
----
-layout: post
-title: Serve The Lord Together 一起事奉主（一）
-category: spiritualmeeting2019singapore
-tags: [service,loveofgod]
-hymns: [496,248]
+---  
+layout: post  
+title: Serve The Lord Together 一起事奉主（一）  
+category: spiritualmeeting2019singapore  
+tags: [service,loveofgod]  
+hymns: [496,248]  
 ---
 
-Previous sermons have discussed:
+Previous sermons have discussed:  
 The source of a blessed family is the fear of the Lord. There are also soulmates in the Lord. They will grow together as a family; they grow spiritually in pursuing the truth of God. A blessed family isn’t just one who hears but also does the word of God. Since the word of God brings us life. We believe we will be blessed when we do the word of God. Practically, we’ll do according to the word of God, and have a household blessed by God. 
 
 This sermon will discuss why we should serve God and what the spirit of our service is. 
 
 We will examine how determined a person was in bringing his family/household before God.
 
-Joshua 24:14-24
+Joshua 24:14-24  
 As we read through this passage, take note how many times the word ‘serve’ appears. What Joshua said in v15 is well known “choose for yourselves this day whom you will serve, whether the gods which your fathers served that were on the other side of the River, or the gods of the Amorites...But as for me and my house, we will serve the Lord.”
 
 Despite being advanced in age, Joshua did not forget to remind the people of their covenant with God. He told the people that they must serve the Lord. 
 
-Gen 35
+Gen 35  
 This dialogue happened at Shechem. Before this, there was an incident that happened at this place too. Jacob had taken all the household idols and buried them in Shechem, because he was about to return to Bethel to fulfil His vow. He drew a very clear line: since I’m going to return to this true God, I must get rid of these false gods. The speaker’s opinion is that Joshua purposely returned to Shechem because of the significance of what had happened in the past. 
 
-v2-13 Summary of the history of the Israelites. He talked about how he used Moses and Aaron to bring the people out of Egypt. 
-v14-24 The stipulation of the covenant 
-v25 Since the covenant had been established, they wrote it down
+v2-13 Summary of the history of the Israelites. He talked about how he used Moses and Aaron to bring the people out of Egypt.  
+v14-24 The stipulation of the covenant  
+v25 Since the covenant had been established, they wrote it down  
 v26-27 The witnessing of it 
 
 Joshua was different from the rest of the people. Out of the 12 spies, only Joshua and Caleb had faith and gave a good report. “Since this land is given by God, why should we delay?” 
@@ -32,8 +32,8 @@ At a ripe old age, Joshua still wanted to serve God. He clearly proclaimed, “A
 
 Do we serve God as a family today? What is our motivation for serving God? Let’s take a look at Paul. 
 
-Gal 2:20
-Jesus Christ is our benefactor. Through him we have eternal life and salvation. As for Paul, an apostle to the Gentiles, why did he never forget his love for God?
+Gal 2:20  
+Jesus Christ is our benefactor. Through him we have eternal life and salvation. As for Paul, an apostle to the Gentiles, why did he never forget his love for God?  
 “who loved me and gave himself for me”
 
 If we were to change ‘me’ to ‘Paul’, it wouldn’t be biblically correct because Jesus doesn’t just save Paul, Jesus wants to save all men. 
@@ -50,35 +50,35 @@ Sometimes when the whole family serves God, we may reach a plateau where we no l
 
 Does the love of Jesus Christ motivate us today?
 
-“who loved me and gave Himself for me”
+“who loved me and gave Himself for me”  
 A really touching phrase. Are we moved? Are we willing to serve?
 
 We know our benefactor has saved us. What kind of attitude/spirit should we adopt to serve?
 
-We can see Joshua was fully committed in his service. 
-Joshua 24:19-20 (read)
+We can see Joshua was fully committed in his service.  
+Joshua 24:19-20 (read)  
 This was Joshua’s challenge to the people. 
 
 This is why in v14, he says to the people to put away their gods and serve God. See his commitment! He’s not a mere participant. 
 
-A person said:
+A person said:  
 Consider an egg and bacon breakfast. Participating VS commitment is like an egg and bacon breakfast. An egg is from a chicken who lays an egg. The hen is a mere participant. But the pig needs to sacrifice. It needed to be slaughtered to get the bacon. When we compare the hen and the pig, which is committed? The pig. It gave up its life to provide the bacon. The hen is just a participant that can just leave. 
 
 When serving God, we should be committed and not just a participant. Only then can we walk far in the journey of serving God. 
 
-What kind of spirit should we have in service?
-• A spirit of repaying God’s grace 
+What kind of spirit should we have in service?  
+• A spirit of repaying God’s grace  
 Don’t look down on women. Don’t claim women only like to talk. In fact, women were braver than Jesus’ disciples. While the disciples fled, the ones who followed Jesus to the cross were the women. 
 
-Matt 27:55-56
+Matt 27:55-56  
 Many women who followed Jesus from Galilee, ministering to Him, were there looking on from afar. 
 
-Who were these women?
+Who were these women?  
 Mary Magdalene, Mary the mother of Jesus, and the mother of Zebedee’s sons. 
 
 Why were they there? Didn’t they know it was a difficult path to take? It was a path full of obstacles. The voices of objection were more/louder than the voices of invitation. Why were they willing to go through these hardships?
 
-Luke 8:1-3
+Luke 8:1-3  
 The team of people following Jesus included these women. What were these women doing? v3b says these women provided for Him from their substance. It wasn’t that they didn’t have anything to do.
 
 Amongst the women was Mary Magdalene who was possessed by 7 demons. 1 demon is bad enough. 7 must’ve been unbearable. When Jesus freed Mary Magdalene freed from darkness, from henceforth, she served Jesus gratefully(感恩的心). The other women has also been healed of evil spirits and infirmities. Their gratefulness was what motivated their love and service; this was why they were willing to sacrifice.
@@ -89,7 +89,7 @@ Is this really the Jesus who died for me 200 years ago? Is He really my God?
 
 The speaker recently taught in the Junior Youth Bible Seminar. He talked about how the faith of the patriarchs were passed on because every generation held on to their faith. He also asked the students to share their testimonies. 
 
-One sister shared:
+One sister shared:  
 “I didn’t have much feelings towards God. I disliked coming to church and attending RE class. But after that she had some experience and said that coming to church wasn’t so bad. Last time, He was my mother’s God. Now He’s my God.”
 
 Because these women touched God, they were willing to serve Him. They could not but repay the grace of Jesus. 
@@ -108,8 +108,8 @@ What is grace? Grace is something given to us without us having to lift a finger
 
 We receive freely. Why don’t we then love Jesus?
 
-[What kind of spirit do we ought to have?]
-Joshua 24:24
+[What kind of spirit do we ought to have?]  
+Joshua 24:24  
 “His voice we will obey”
 
 Obeying is an important attitude to have. Your relationship with God is determined by whether you’re willing to obey Him. If you have a good relationship with Him, you’d obey. 
@@ -120,9 +120,9 @@ Why do we obey the word of God? Because we believe His word is true. Because we 
 
 That was the man Joshua was. 
 
-That’s why God said Joshua is His servant. 
-Joshua 24:29
-“Now it came to pass after these things that Joshua the son of Nun, the servant of the Lord, died.”
+That’s why God said Joshua is His servant.  
+Joshua 24:29  
+“Now it came to pass after these things that Joshua the son of Nun, the servant of the Lord, died.”  
 A very faithful man who had a very close relationship with God. Faithfully serving God till he died. That’s why God concludes Joshua was His servant when he died. These are the words of God. It doesn’t matter how Man looks at you. 
 
 It’s no use making the claim yourself. It’s in vain!
@@ -136,5 +136,5 @@ When God makes the conclusion of our lives, will God say we are His faithful ser
 Let us ask God to help us that we may have the right attitude and spirit in the midst of service; that we may be motivated to continue to serve Him.
 
 
-----
+----  
 ****

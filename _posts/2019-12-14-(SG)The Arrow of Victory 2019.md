@@ -1,13 +1,13 @@
----
-layout: post
-title: The Arrow of Victory 2019
-category: sermon2019singapore
-tags: [reflection]
-hymns: [442,436]
-speaker: prchinaunquek
+---  
+layout: post  
+title: The Arrow of Victory 2019  
+category: sermon2019singapore  
+tags: [reflection]  
+hymns: [442,436]  
+speaker: prchinaunquek  
 ---
 
-2 Kings 13:14-17
+2 Kings 13:14-17  
 Elisha became sick to the point of death. Yet he still taught Joash the king of Israel about the arrow of victory. Joash wept before Elisha. Elisha understood the Kings difficulties and fears and told him to take a bow and some arrows and told him to shoot the arrows. This is the arrow of the Lord’s deliverance and God will help you destroy the enemies. 
 
 In 2018 the speaker spoke on the arrow of victory in 2018. Then, he encouraged everyone: whether the road of 2018 is smooth or bumpy, we have much fears about our future. But prophet Elisha taught us that this is the arrow of the Lord’s victory. As long as you have the Lord’s abidance, we will surely overcome our troubles. 
@@ -48,7 +48,7 @@ When he went to the clinic concerning his sickness, he asked about his family hi
 
 He recommended him visit a private doctor because need to wait a long time for a colonoscopy in public hospitals. 
 
-But his insurance only covered public hospitals so he waited for public hospitals. After a week, SGH called him. He thought there was news. They apologised that they had so many patients. They weren’t able to arrange an appointment for him. He asked
+But his insurance only covered public hospitals so he waited for public hospitals. After a week, SGH called him. He thought there was news. They apologised that they had so many patients. They weren’t able to arrange an appointment for him. He asked  
 More than a month later. He was helpless and could only wait. When Bro Sen Kee heard of this, he recommended transferring to another hospital and to have an appointment earlier. 
 
 After the scope, the doctor said he had bad news. The tumour was very big 6-7cm in size. He also had to undergo CT and MRI scans to determine if the cancer had spread.
@@ -81,5 +81,5 @@ Your doctor or wealth cannot comfort you when faced with impending death. Only t
 
 
 
-----
+----  
 ****

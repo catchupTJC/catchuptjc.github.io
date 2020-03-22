@@ -1,9 +1,9 @@
----
-layout: post
-title: Riding the Waves of Modern Age 乘驾现代的浪潮
-category: sermon2019singapore
-tags: [lifeonearth,overcometheworld]
-hymns: [69,395]
+---  
+layout: post  
+title: Riding the Waves of Modern Age 乘驾现代的浪潮  
+category: sermon2019singapore  
+tags: [lifeonearth,overcometheworld]  
+hymns: [69,395]  
 ---
 
 The world we’re living in is very inter-connected. For example, we have smartphones and we may have more than one. While using all these gadgets, it gives us a multi-sensory experience. The speaker shows a picture of a surfer riding a wave. Such a person must have very good skills, and his entire being is surrounded by water; one mistake and he’ll tumble into the water. Today we are in this wave of the modern age and many things in today’s society are very useful and convenient. However, they also come with dangers. 
@@ -32,19 +32,19 @@ In this letter that Paul wrote to Timothy, he talked about the danger of the las
 
 With these modern amenities, it’s easier for us to fall into the category of being egoistic than altruistic. We have to come to this realisation. We turn to Hebrews 10:24-25; 
 
-24 'And let us consider one another in order to stir up love and good works, 
+24 'And let us consider one another in order to stir up love and good works,  
 25 not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.'
 
 Here says to consider.. stir up works. If we’re alone in our world, we’re unable to do these 3 things and they’re very important in the last days. The author of Hebrews in v25 says that one thing we can do to achieve these 3 things is to not forsake the assembling of ourselves. When we come to service, we’ll see people. We must remember to exalt one another, so much more as you see the Day approaching. When we see things that can negatively influence us, we have to warn others to be aware. If we don’t come for service and don’t have this interaction with other believers, not only will we be unable to consider one another, stir up love and good works, we’re unable to do this for others. We may say that we can send encouragement to people through our phones, but let’s not be limited to just this mode of communicating. We must avoid being separated from other people. 
 
 We know that we have to build up a strong relationship with Jesus. We may think, “Matters of faith are between me and God,” but it’s not the only relationship God wants us to build up. We read 1 John 4:20-21; 
 
-20 'If someone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen? 
+20 'If someone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?  
 21 And this commandment we have from Him: that he who loves God must love his brother also.'
 
 Even if we tell ourselves that we’re God-fearing but we don’t want to see others, then our God-fearing[ness] is false. We also read Romans 15:1-2; 
 
-1 'We then who are strong ought to bear with the scruples of the weak, and not to please ourselves. 
+1 'We then who are strong ought to bear with the scruples of the weak, and not to please ourselves.  
 2 Let each of us please his neighbor for his good, leading to edification. '
 
 Paul here encourages us to go one step further in our encouragement. If you think you’re strong, you must strengthen those who are weak. Not for your pleasure, but leading to people’s edification. If we do so, then we would please God. The Lord Jesus is our role model. V3 says; 
@@ -67,7 +67,7 @@ Do such symptoms resonate with you? Can we escape from all these troubles? The k
 
 Are these things to worry about? One thing to be sure of is that the truth never changes. If we spend our time chasing knowledge, we’ll never catch up. Our smartphones can give us information readily, but the danger is that whatever we see online may not be true. What’s true is in the Bible. What’s better worth of our time is to search for the truth in the Bible. In Hebrews 5:13-14; 
 
-13 'For everyone who partakes only of milk is unskilled in the word of righteousness, for he is a babe. 
+13 'For everyone who partakes only of milk is unskilled in the word of righteousness, for he is a babe.  
 14 But solid food belongs to those who are of full age, that is, those who by reason of use have their senses exercised to discern both good and evil.'
 
 Here encourages us to be skilled in the word of righteousness. If we’re unskilled, we’re like babies; we’re easily deceived. We of our full age can eat solid food, so we must have our senses exercised to discern both good and evil. If we’re discerning, we can tell what’s good and bad. The word in the Bible is something we must become skilled in - it doesn’t refer to just memorising the Bible, it refers to when we read the Bible and listen to the word of God, and if we can use it to edify. Can we understand? Can we explain it to others? Does it become a part of our faith, to act it out of our lives? If we can, then we’ve become skilled in the word of righteousness and can discern between good and evil and won’t be easily deceived by others and we’re firm in the Word. 
@@ -81,5 +81,5 @@ Secondly, when we use our gadgets, it’s difficult to take notes. This applies 
 The speaker shows a guy riding on top of the waves. The first picture the guy was surrounded by water. When we ride the waves, we must be in control of it and not be controlled by it.
 
 
-----
+----  
 ****

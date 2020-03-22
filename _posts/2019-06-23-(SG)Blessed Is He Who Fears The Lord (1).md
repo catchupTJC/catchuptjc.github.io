@@ -1,11 +1,11 @@
----
-layout: post
-title: Blessed Is He Who Fears The Lord (1) 敬畏神的人有福的（一）
-category: spiritualmeeting2019singapore
-tags: [blessing,feargod,godisupthere]
-hymns: [227]
----
-Deut 10:12-13
+---  
+layout: post  
+title: Blessed Is He Who Fears The Lord (1) 敬畏神的人有福的（一）  
+category: spiritualmeeting2019singapore  
+tags: [blessing,feargod,godisupthere]  
+hymns: [227]  
+---  
+Deut 10:12-13  
 Moses asked the people of God, “What does the Lord your God require of you? To fear Him.”
 
 Why does God want people to fear Him? That we may be blessed. 
@@ -16,10 +16,10 @@ For our own good, shouldn’t we love God and fear Him?
 
 But one isn’t born with the fear of God. It needs to be learnt. 
 
-Deut 4:10
+Deut 4:10  
 God gathered the people to let them hear His words that they may learn to fear God. They’re also to teach their children how to fear God. 
 
-Deut 17:18-20
+Deut 17:18-20  
 God specially instructs those who are kings to write for themselves a copy of the law of God. That they may read and learn how to fear God. Why did God Give this special instruction to Kings? Only when a king himself fears God can he lead his people to fear God. In this way, his country and people can be blessed by God. It’s unlikely any of us will be king of a country, but we may become the head of our household. 
 
 To lead our household, we ourselves must fear God. Only then can we bring our family and children to fear Him. Then, the whole family will be blessed. 
@@ -34,20 +34,20 @@ But we do not lose hope. We should continue to pray for them. To ask the spirit 
 
 We must learn to fear God all the days of your life. Fear God for as long as you live. Only when you do so will you truly be God fearing and be blessed. 
 
-What is fearing God/敬畏神?
-Based on the two Chinese characters 敬畏:
-敬 connotes something that is strict and in order
-畏 connotes fear
+What is fearing God/敬畏神?  
+Based on the two Chinese characters 敬畏:  
+敬 connotes something that is strict and in order  
+畏 connotes fear  
 So fearing God is something that is (1) orderly/strict and, (2) fear. 
 
 We may think being strict and orderly is something we ought to do. But having fear doesn’t seem right. Shouldn’t we come to God full of joy since He has forgiven our sins? Why do we need to come before Him in fear? Isn’t it bad to worship God with such pressure in our hearts?
 
 But if we think about it one step further, coming before God and worshiping Him with a heart that fears Him is good and something we ought to have. 
 
-Psa 2:11
+Psa 2:11  
 We should serve God with fear. But not only with fear, but also with rejoicing. So worshipping God has both fear and rejoicing. It is a fearful joy/fear that’s also rejoicing LOL
 
-Does this really exist?
+Does this really exist?  
 Consider: While young, when our father is working outside, we are excited for him to come home because he’ll bring gifts and food. So we eagerly await his arrival because he brings gifts and grace. But our hearts also fear our father because we may have done things that aren’t right that may disappoint him. He might punish us. So a child waiting for his father to come home will both rejoice and fear. But this fear is good. It tells the child that he should stop doing that things that disappoint his father; he shouldn’t do things that enrage his father and result in punishment. 
 
 The heart that fears will be able to preserve and keep you. When we worship God, we need to both come before him orderly and with respect, and to fear Him. This is a good fear because it reminds us to be mindful of our actions. This fear causes us to keep His word and makes us be afraid of breaking His commandments. Such a fear pleases God. 
@@ -62,9 +62,9 @@ Their mindset was to eat, drink and be merry. When they die, that’s it.
 
 But what if there’s a judgement? How then do we face the Lord? Hence we must have a God fearing heart. This is what He’s pleased with. 
 
-Why must we have a God fearing heart?
-1. We fear God because He is the Creator 
-Rev 4:10-11
+Why must we have a God fearing heart?  
+1. We fear God because He is the Creator  
+Rev 4:10-11  
 These verses tell us that we fear God because He’s the Creator. These 24 elders fell down before God to worship Him. They cast down their crowns before God. They expressed their greatest form of fear to God. Let us hear what they say. 
 
 “You are worthy, O Lord, to receive glory and honour and power; for You created all things”
@@ -87,8 +87,8 @@ Is there any crown we have that we are unwilling to take down?
 
 Someone who understands and fears God will willingly take his crown down and worship Him. 
 
-2. We worship God because God is holy
-Isa 6:1-5
+2. We worship God because God is holy  
+Isa 6:1-5  
 Here we see the glory and holiness of God. We hear seraphim praising God. The content of their prayers is ‘holiness’. Other than praising God is holy, they also say God is holy(?)
 
 Let’s not be mistaken that holiness is just a characteristic of God. Actually all of God’s characteristics are holy. 
@@ -135,8 +135,8 @@ In some form or other, we are a teacher of others. Lips that teach others ought 
 
 Our God is holy. On one hand, we praise God who is holy. On the other hand, we use the same mouth that don’t edify. Would our holy God be pleased with that? Hence we must rely on the Holy Spirit to cleanse us of our uncleanness, that we may be able to come before God. 
 
-3. We fear God for He is the God that will judge
-Rev 14:7
+3. We fear God for He is the God that will judge  
+Rev 14:7  
 There was an angel flying in the midst of heaven proclaiming, “Fear God!” Proclaiming/saying with a loud voice ensures everyone hears it and also shows the message is important. 
 
 Amongst all the messages that’s been proclaimed, the most important is to fear God. Consider the last verse in Ecclesiastes. “This is the conclusion of the matter: fear God.”
@@ -149,8 +149,8 @@ Not doing good when we can is a sin. Even if we do do good, for whom are you doi
 
 So under the judgement of God, whether good or evil, He will question. Therefore remind ourselves to fear Him and keep His commandments. 
 
-Rev 20:11-13
-This passage talks about the judgement on the last day. 
+Rev 20:11-13  
+This passage talks about the judgement on the last day.  
 All the works the dead had done were written on the book. 
 
 We may have forgotten the things we have done when we were young. But God has already recorded everything we have done in our lives. How are we able to escape the judgement of God?
@@ -159,13 +159,13 @@ Good thing there’s another book: the Book of Life. It records those who believ
 
 We hence need a God fearing heart to preserve our names in there Book of Life. 
 
-Heb 12:28-29
-How can we keep our names in the Book of Life that we may enter heaven? Have grace, by which we may serve God acceptably with reverence and godly fear. 
+Heb 12:28-29  
+How can we keep our names in the Book of Life that we may enter heaven? Have grace, by which we may serve God acceptably with reverence and godly fear.  
 The author also reminds us God is a consuming fire. We know fire is terrifying and dare not play with it. But a child doesn’t know its dangers. They play with it and get burnt. They only know after they get hurt, or only when they burn the whole house down. Adults should know fire is dangerous. Yet many Christians still play with fire in their faith. So the author of Hebrews reminds us our God is a consuming fire. In the future He’ll execute the judgement of consuming fire. We hence need a God fearing heart, serve God with reverence and godly fear. Otherwise we’ll face the judgement of consuming fire in the future. 
 
 Blessed is he who fears the Lord. Let’s ask God to help us be a person who fears God. 
 
 
 
-----
+----  
 ****

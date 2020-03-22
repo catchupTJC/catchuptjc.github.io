@@ -1,11 +1,11 @@
----
-layout: post
-title: Nehemiah Sees The Need Of Jerusalem 尼希米看见耶路沙冷的需要
-category: sermon2020singapore
-tags: [work,service,jerusalem,nehemiah,church]
-hymns: [392,415]
-speaker: prpetershee
----
+---  
+layout: post  
+title: Nehemiah Sees The Need Of Jerusalem 尼希米看见耶路沙冷的需要  
+category: sermon2020singapore  
+tags: [work,service,jerusalem,nehemiah,church]  
+hymns: [392,415]  
+speaker: prpetershee  
+---  
 The Bible tells us to pray for many things, one of which is for the workers, because the work is plenty but the labourers are few. We should also seek for the Lord’s will on what to do, as we all have our roles. So aside from praying for more workers, we should also pray for wisdom to know our role.
 
 Perhaps there is more we can do than what we are already doing. Or perhaps there’s a need for more adjustment so we align ourselves to the role God wants us to be. 
@@ -16,7 +16,7 @@ The church is described as the spiritual Jerusalem. In his epistles to the Galat
 
 When we look at the Old Testament, many descriptions of Jerusalem or Zion are applicable to us. 
 
-Isa 60:18
+Isa 60:18  
 The walls and gates of Jerusalem are called salvation and praise. This means that within her walls are a community of people that have been redeemed by God. And we are continually praising God because we are saved by Him. He’s not only our Creator but also our Saviour and Redeemer. 
 
 The Bible also says the word of God will be preached from Jerusalem to the whole world. As Christians, we should strive for her continual welfare. 
@@ -25,11 +25,11 @@ Like Psa 122 tells us “Jerusalem is like a city compact together. It’s where
 
 Let us focus on praying for the welfare of the church so the church becomes the church Christ delights in. 
 
-Neh 1
+Neh 1  
 Nehemiah was working as a cupbearer of the king at that time. In the Persian palace, he heard news of Jerusalem. He asked Hanani one of his brethren concerning the Jews and Jerusalem.
 
-Sometimes we do not know things because we do not bother to ask. 
-“How come I don’t know this happened?” Because you didn’t ask.
+Sometimes we do not know things because we do not bother to ask.  
+“How come I don’t know this happened?” Because you didn’t ask.  
 “How do I know what to ask?” You will know what to ask if you know what’s happening. Some of us leave, talk, don’t pay attention when it comes to the announcements after prayer. 
 
 Even if we don’t receive any news, we can always ask about the welfare of the church. It cannot be when we attend church every week, we don’t know what to ask about. Not only do we know what’s happening in Singapore, we know what’s happening elsewhere. 
@@ -46,10 +46,10 @@ We should also be concerned for churches near us. After Singapore set up its coo
 
 The most basic thing we can do is to pray. 
 
-Phil 2:19-24
+Phil 2:19-24  
 Paul talks to Philippi about their welfare. v19-24 talks about those who are concerned and those who are not so concerned about the church. Paul was very anxious to hear about the state of the Philippians, so he sent Timothy to find out. Paul trusted Timothy as well, that Timothy would be as concerned about the Philippians as he was. 
 
-v28-31 explains why he had to send Timothy. “I’ve no one likeminded who will so sincerely care for your faith.” “For all seek their own”
+v28-31 explains why he had to send Timothy. “I’ve no one likeminded who will so sincerely care for your faith.” “For all seek their own”  
 We think coming to church to worship God is enough. Minding our own business. This was something said about the people at that time. The speaker doesn’t think he was overly pessimistic. This is something we should be cautious about. Let us not be like the people around Paul at that time. 
 
 Others may be indifferent but we should be concerned about Singapore at least. When it comes to Wednesday evening prayer, many of us come to seek the Holy Spirit. But for those of us who have already received the Holy Spirit, what kind of preparedness do we have when we come for Wednesday evening prayer? Since it’s a prayer service we should be prepared for prayer.
@@ -58,10 +58,10 @@ What do we pray for here as a church together? Apart from praying for the people
 
 What have we been praying everyday about? If we have been leading a life of prayer and praying for the church, then we’ll be able to be prepared when here for Wednesday night services. Then it’ll be a real concerted prayer because we’re praying for the same thing. And we keep ourselves updated by asking. 
 
-Neh 1
+Neh 1  
 Hanani and the people who came told Nehemiah about the people in Jerusalem who were in great distress. The wall of Jerusalem were brown down and the gates were burnt with fire. 
 
-“When I heard these words, I sat down and wept.”
+“When I heard these words, I sat down and wept.”  
 Some people ask but they don’t hear. Sometimes it becomes a matter of politeness. “Oh how are you?”
 
 Someone told the speaker that her supervisor at work knew that she was sick because she had been on MC/hospitalised. When she came back to work, the supervisor asked how she was. Before she could answer, the supervisor walked away. So was he really interested in her welfare? How would she have felt? It’s all fake right?
@@ -82,12 +82,12 @@ There was a time many people were concerned about the setting up of the 4th chur
 
 If Jerusalem is supposed to be a city compact together, it shouldn’t be a wall full of gaps with just a few stones left. 
 
-Acts 8:14-15
+Acts 8:14-15  
 This was a newly pioneered place; Philip had gone there to preach. But those who believed had not received the Holy Spirit. Concerned, Peter and John went down. Likewise, Paul and Timothy were concerned for the church. Timothy was sent to find out and report back to Paul. 
 
 If we hear and don’t act, know that our adversaries will hear and act. 
 
-Neh 4:1, 7-8
+Neh 4:1, 7-8  
 When Sanballat heard they walls of Jerusalem were being restored, he was furious and very indignant. A group of them transpired to come and attack Jerusalem and create confusion.
 
 Both Nehemiah and the group heard the same thing, but different emotions were evoked; negative ones for the latter.
@@ -96,7 +96,7 @@ They acted. How about Nehemiah? Of course he acted, because he saw the need.
 
 In Myanmar, we preach. But an ex-preacher who committed adultery also acted. He set up his own church and taught his own teachings. Another preacher went to interpret for him. He acted but for the wrong camp. He too was excommunicated. 
 
-Neh 1:11
+Neh 1:11  
 Nehemiah prayed. Why did he pray? Because he saw the need to rebuild Jerusalem. He asked, he heard, he saw the need to rebuild Jerusalem. 
 
 So he asked that the Lord grant him favour before the presence of the king that he served.
@@ -107,12 +107,12 @@ He identified himself with the people of Judah. “WE have acted against you and
 
 He didn’t just see the problem. He also saw the solution. The solution was to get the people to return to God, to obey the commandments, to go back to Jerusalem. He saw his role. What he could do, and what he should do. 
 
-We SHOULD do what we CAN do right? 
+We SHOULD do what we CAN do right?  
 And don’t expect people to do what we CAN do. 
 
 When we see a difficulty ahead, we pray God clears the difficulty for us. Therefore Nehemiah prayed to be granted mercy in the sight of the king. And God allowed the king to know Nehemiah was troubled, and we know the rest of the story. 
 
 Start off with a genuine concern. Then our prayer will be sincere and listened to by God. Ask God to help us see the needs and gaps in the church, and what we as individuals can do. 
  
-----
+----  
 ****

@@ -1,12 +1,12 @@
----
-layout: post
-title: The Victorious Arrow and 2019 得胜箭与2019
-category: sermon2019singapore
-tags: [reflection]
-hymns: [442,436]
-speaker: prchinaunquek
----
-We turn to 2 Kings 13:14; 
+---  
+layout: post  
+title: The Victorious Arrow and 2019 得胜箭与2019  
+category: sermon2019singapore  
+tags: [reflection]  
+hymns: [442,436]  
+speaker: prchinaunquek  
+---  
+We turn to 2 Kings 13:14;  
 'Elisha had become sick with the illness of which he would die. Then Joash the king of Israel came down to him, and wept over his face, and said, “O my father, my father, the chariots of Israel and their horsemen!”'
 
 Here records that prophet Elisha had an illness unto death and he gave a teaching to Joash, the king of Israel. Here, Joash cried before Elisha. Elisha understood his cries and told him to shoot the arrow. Elisha asked king Joash to open the window to shoot the arrow, and he did. 
@@ -99,5 +99,5 @@ What matters is that you have the peace and the joy of the Lord with you at all 
 
 
 
-----
+----  
 ****
