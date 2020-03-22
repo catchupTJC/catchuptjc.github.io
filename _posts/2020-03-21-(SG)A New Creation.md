@@ -63,6 +63,7 @@ In our prayer, these are things we can reflect on. The things we have done, the 
 Sometimes it’s quite surprising, somewhat sad when the speaker is made aware of situations. “That’s not even how a human being would react, let alone a Christian; let alone a True Jesus Church Christian.” Why? Do we not understand the word of God? If we know the word of God, why would we behave like this? Of course we all have our weaknesses; we will have our times of weaknesses; none of us are perfect. So we’ll sometimes do/say the wrong things and make the wrong decisions. This is normal. But at least when we have done/said the wrong things and made the wrong decisions, we won’t be hardened in our hearts and not admit it to even ourselves. So when people encourage us and point it out to us, we don’t become defensive and certainly don’t become aggressive. That’s not what it’s like to be a Christian. 
 
 Some Christians in the Bible will be covered, may we learn from these lessons. 
+
 [1 Complacent/indifferent Christians]
 1 Cor 5:1-2
 “It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles—that a man has his father’s wife! 
