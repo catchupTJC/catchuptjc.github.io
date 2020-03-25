@@ -13,7 +13,7 @@ After God rejected Saul as king, He sought a man after His own heart to be the n
 
 How did David exhibit being after the heart of God?
 
-## 1 David was after the heart of God with regards to his faith
+## 1. David was after the heart of God with regards to his faith
 1 Sam 17:36-37  
 David’s shepherd life was typically peaceful and tranquil. But there were times of danger. In the face of lions and bears, David didn’t flee, because he wasn’t focused on the danger the bears posed on him. What was in his mind was the danger posed to the sheep. This was his responsibility as the shepherd - to protect the sheep. He relied on God for help, defeated the beasts and saved the sheep from danger. 
 
