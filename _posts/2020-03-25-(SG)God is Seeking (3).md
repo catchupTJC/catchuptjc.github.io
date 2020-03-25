@@ -38,7 +38,7 @@ Jesus tells us to pray in this manner, “Lead us not into temptation but delive
 
 Let us emulate the faith of David. In the face of danger and tribulation, don’t be fixated on death and fear, but focus on how to turn to and rely on God. 
 
-## 2 David was after the heart of God in his battles
+## 2. David was after the heart of God in his battles
 1 Sam 5:19, 22  
 David had fought many victorious battles before this but wasn’t arrogant about his past victories. He continued to trust in God and carried out what was according to God’s heart. So before this battle, he inquired of the Lord on whether he should go up against them. If God gave the okay, then he would go. 
 
@@ -50,7 +50,7 @@ David followed the heart of God in his battles. Likewise, our lives of faith are
 
 Do we follow the heart of God in our battles?
 
-## 3 David followed the heart of God in his service
+## 3. David followed the heart of God in his service
 2 Sam 6:3, 6-7  
 David used new carts to transport the ark of God. It was out of good intention to use new carts, but this wasn’t according to the will of God. God intended for man to carry the ark, not for it to be transported on a cart. When the oxen that pulled the cart stumbled, the ark almost fell off. Out of good intention, Uzzah put out his hand to stop it from falling and was struck dead. God had already commanded that the ark cannot be touched by human hands.
 
@@ -69,7 +69,7 @@ If one day God grants us with an elevated status/more wealth than others, would 
 
 Before God, we shouldn’t focus on how to maintain our reputation amongst people? Rather, put aside our own prestige and come together with God’s people to worship Him. This is a man after the heart of God. 
 
-## 4 David was after the heart of God with regards to his offerings
+## 4. David was after the heart of God with regards to his offerings
 1 Chron 29:14-15  
 The earlier passages show David had offered A LOT. But here David said his offering doesn't count as much, because all things came from God. David said this because he understood if God didn’t grant him the opportunity, he wouldn’t be able to get what he had; if God didn’t sustain his life, he wouldn’t even be able to receive it. Since, shouldn’t we offer a small portion to Him? Why aren’t people able to offer willingly? Because they feel what they have earned is out of their hard fought efforts. They forget if they weren’t even alive, they wouldn’t even be able to work and gain this. 
 
