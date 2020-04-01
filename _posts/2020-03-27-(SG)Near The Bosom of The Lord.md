@@ -96,5 +96,6 @@ The speaker met someone who left one of the greatest impressions on him. In Semb
 This man had the greatest sense of hope because he was so sure and affirmed of the  faith he had.
 
 It is hoped we will all be disciples loved by the Lord, and a follower who draws close to the bosom of the Lord. 
+
 ----
 ****
