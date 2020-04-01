@@ -96,5 +96,6 @@ Let us be like David. When we really want to do something for God but God doesn�
 David was a man after the heart of God. He respected and esteemed God’s will above his. It wasn’t that he didn’t have any opinions. Rather, it was that he was willing to lay aside his own to listen to God’s. 
 
 May the Lord help us to grow like David to have a heart after God’s heart; seeking to do His will. 
+
 ----
 ****
