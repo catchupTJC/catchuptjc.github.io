@@ -2,11 +2,11 @@
 layout: post
 title: Temple To Synagogue To Home
 category: sermon2020singapore
-tags: [reflection]
+tags: [livestreaming,home,religiouseducation,services,opportunity,blessing,fellowship,evangelism,gospel,virus]
 hymns: [413,430]
 speaker: prpetershee
 ---
-In the Old Testament, God instituted one specific place of worship - the temple in Jerusalem. It was filled with the glory and holiness of God. But soon religion became cold, formal and lifeless - worst still - corrupt. So God allowed the Babylonians to destroy the temple and take His people to captivity. Although God allowed some of the Jews to return 70 years later to rebuild the temple, many Jews remained in foreign lands even to the time of Jesus. The diaspora (scattered Jews) worshipped in buildings we know as synagogues as they were far away from the temple. 
+In the Old Testament, God instituted one specific place of worship - the temple in Jerusalem. It was filled with the glory and holiness of God. But soon religion became cold, formal and lifeless - worse still - corrupt. So God allowed the Babylonians to destroy the temple and take His people to captivity. Although God allowed some of the Jews to return 70 years later to rebuild the temple, many Jews remained in foreign lands even to the time of Jesus. The diaspora (scattered Jews) worshipped in buildings we know as synagogues as they were far away from the temple. 
 
 In the gospels we read of Jesus teaching in the synagogues in the north where He lived. But when He went down south to Jerusalem, He would teach at the temple grounds. That was how the Jewish people practised their faith in those days in those times. 
 
@@ -22,7 +22,7 @@ They gathered at the precinct in the temple known as Solomon’s porch. The gath
 
 Now that we are on the WFH arrangement, which means ‘worship from home’, there are some advantages to it. The early Christians worshipped from each others’ homes. 
 
-4 advantages of this current COVID-18 situation:  
+4 advantages of the current WFH arrangement:  
 ## 1. You bring Jesus into your house
 Although a number of us attend church 3/4 times a week, not many of us worship as a family in our own homes. We segregate our activities - secular from spiritual. The speaker doesn’t know if our home is Christian or secular. So although sometimes the entire family belongs to the church, all Christians, all believers, but we do our own things. Very seldom do we worship together. Even when we say our prayers before bed, many of us do it individually by ourselves. That is if we pray at all. 
 
