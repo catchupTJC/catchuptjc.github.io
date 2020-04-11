@@ -33,7 +33,7 @@ Is what we believe in today the same as what the people then believed in? If it�
 
 How do we know when we have received the Holy Spirit? The answer to this is clearly mentioned here. When the Holy Spirit came upon them, they spoke in tongues. This was evidence they had received the Holy Spirit. The reason Paul asked and acted in this way had to be because he had a similar experience. He must’ve understood the importance of this teaching - after believing in Jesus, one will receive the Holy Spirit evidenced by speaking in tongues. That’s why Paul prayed for them that they may receive the Holy Spirit. Without this understanding and experience, Paul wouldn’t have asked this question. What was Paul’s experience?
 
-Acts 9:3-7
+Acts 9:3-7  
 Paul, then named Saul, was a persecutor of Christians. He was on the road to Damascus on the way to persecute Christians. A light shone on him and he fell on the ground blinded. God used this method to choose him. He then understood Jesus was the Saviour God had sent. 
 
 v10-11 also records that in the three days he couldn’t see, he prayed to God and repented. God then sent a man named Ananias who came and prayed for him. Paul understood Jesus is the Saviour. Because of that, he was baptised into Christ. Both his physical eyesight and the eyes of his heart were restored. When Ananias laid hands on him, it’s recorded he was filled with the Holy Spirit. From that point onwards, he courageously testified of the gospel of Jesus. After Paul understood the truth, he was very certain in the gospel/truth he believed in. His belief was established on the words of God. 
@@ -61,13 +61,13 @@ What was the problem created in the Corinthian church?
 
 The issue of the Corinth church was that without someone able to interpret tongues, everyone still wanted to prophesy in tongues. Prophesying in tongues without interpretation is not able to edify the listeners. The tongues they spoke wasn’t able to be understood by anyone. 
 
-1 Cor 14:26-28
+1 Cor 14:26-28  
 *”How is it then, brethren? Whenever you come together, each of you has a psalm, has a teaching, has a tongue, has a revelation, has an interpretation. Let all things be done for edification. If anyone speaks in a tongue, let there be two or at the most three, each in turn, and let one interpret. But if there is no interpreter, let him keep silent in church, and let him speak to himself and to God."*
 If there is no one who is able to interpret the prophesying in tongues, it doesn’t edify anyone. And even if there is someone who is able to interpret the tongues, only 2 or 3 should speak, and they should take turns. 
 
 Paul wasn’t stopping them from speaking in tongues, the gift of prophesying in tongues and the interpreting of tongues is not something that happens frequently. Such a revelation only happens when God requires of it. But the Corinth church just prophesied in tongues even when there was no interpreter of tongues. It was very chaotic and Paul had to tell them to do it orderly. 
 
-1 Cor 15:39-40
+1 Cor 15:39-40  
 *”Therefore, brethren, desire earnestly to prophesy, and do not forbid to speak with tongues. Let all things be done decently and in order.”*
 But Paul clarifies not to forbid the speaking in tongues because it is speaking to God and edifies oneself. It is also a guarantee and evidence of God abiding with them.
 
@@ -78,11 +78,11 @@ If Paul thinks speaking in tongues is unimportant, he wouldn’t have asked the 
 
 Why did Paul place so much emphasis on receiving the Holy Spirit evidenced by speaking in tongues? Because it’s related to the salvation of Christians. 
 
-Eph 1:13-14
+Eph 1:13-14  
 *”In Him you also trusted, after you heard the word of truth, the gospel of your salvation; in whom also, having believed, you were sealed with the Holy Spirit of promise, who is the guarantee of our inheritance until the redemption of the purchased possession, to the praise of His glory.”*  
 In the letters of Paul, what did he say to the believers? They had already heard the gospel of salvation, received the truth, believed in Christ and received the Holy Spirit of promise as a seal. The Holy Spirit is the guarantee of their inheritance. Note that not all who believe have the Holy Spirit. Paul wrote this letter to BELIEVERS. Some misunderstand that once one believes, one would’ve received the Holy Spirit. 
 
-2 Cor 5:5
+2 Cor 5:5  
 *”Now He who has prepared us for this very thing is God, who also has given us the Spirit as a guarantee."*
 
 Rom 8:9  
@@ -106,7 +106,7 @@ Acts 11:15-18
 Here clearly tells us that whether it was the Gentiles who came to believe (family of Cornelius) or the Jews, it was the same Holy Spirit the apostles received on the day of Pentecost. This is the same Holy Spirit that lives in the hearts of men. It’s not a special grace, but the promised Holy Spirit God has given to them. Before and after His resurrection, Jesus had told His disciples to pray for the Holy Spirit. This is something we need to pray for after believing.
 
 We look at the testimony of another apostle.  
-Acts 8:14
+Acts 8:14  
 *”Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them”*  
 The people in Samaria believed in Jesus and were baptised already. But they still had yet to receive the Holy Spirit! Why were Peter and John sent to them after hearing they had received the word of God? To lay hands on them that they may receive the Holy Spirit. This was something John personally saw and experienced the Lord working in him. 
 
@@ -126,8 +126,8 @@ Luke 11:11-13
 *”If a son asks for bread from any father among you, will he give him a stone? Or if he asks for a fish, will he give him a serpent instead of a fish? Or if he asks for an egg, will he offer him a scorpion? If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!””*  
 The Lord Jesus tells us we have to PRAY for the Holy Spirit. We have to believe that God will give us the Holy Spirit. We must ask sincerely for the Holy Spirit. This was the teaching the Lord Jesus told the disciples before He resurrected. 
 
-Post-resurrection, what did Jesus instruct His disciples?
-Luke 24:49
+Post-resurrection, what did Jesus instruct His disciples?  
+Luke 24:49  
 *”Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem until you are endued with power from on high.”*  
 The Lord Jesus promised the disciples that they would receive the Holy Spirit. 
 
@@ -139,7 +139,7 @@ Consider again when Cornelius received the Holy Spirit. Peter said it was the sa
 
 This shows that believing in Jesus doesn’t mean you will automatically have the Holy Spirit in you. 
 
-Acts 2:1-4
+Acts 2:1-4  
 On the day of Pentecost, the Holy Spirit was poured down and they spoke in tongues. 
 
 In v17, Peter used the prophecy in Joel 2:28ff to testify of God’s promise. This was to encourage the believers of Jesus then.
@@ -147,7 +147,7 @@ In v17, Peter used the prophecy in Joel 2:28ff to testify of God’s promise. Th
 v33 *“Therefore being exalted to the right hand of God, and having received from the Father the promise of the Holy Spirit, He poured out this which you now see and hear.”*  
 Those who came back to Jerusalem to keep the feast could SEE and HEAR the Holy Spirit that was poured down on the disciples. The Holy Spirit is something we can see and hear. 
 
-How can we receive the promised Holy Spirit?
+How can we receive the promised Holy Spirit?  
 Acts 2:38  
 *“Repent, let everyone of you be baptised in the name of Jesus Christ, and you shall receive the gift of the Holy Spirit.”*
 
