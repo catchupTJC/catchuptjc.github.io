@@ -123,7 +123,7 @@ Receiving the Holy Spirit is not just a feeling. It was something Simon could se
 We have seen the testimony of 3 apostles. Let us now look at what the Lord Jesus Himself tells us. 
 
 Luke 11:11-13  
-*”If a son asks for bread from any father among you, will he give him a stone? Or if he asks for a fish, will he give him a serpent instead of a fish? Or if he asks for an egg, will he offer him a scorpion? If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!””*  
+*”If a son asks for bread from any father among you, will he give him a stone? Or if he asks for a fish, will he give him a serpent instead of a fish? Or if he asks for an egg, will he offer him a scorpion? If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!”*  
 The Lord Jesus tells us we have to PRAY for the Holy Spirit. We have to believe that God will give us the Holy Spirit. We must ask sincerely for the Holy Spirit. This was the teaching the Lord Jesus told the disciples before He resurrected. 
 
 Post-resurrection, what did Jesus instruct His disciples?  
