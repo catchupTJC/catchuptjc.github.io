@@ -91,9 +91,9 @@ If anyone doesn’t have the spirit of Christ, he is not His. The spirit dwellin
 
 Rom 8:26  
 *”Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us with groanings which cannot be uttered.”*
-The Holy Spirit prays for us by making intercession with groaning which cannot be uttered. We may not be able to express what we want to say but the Holy Spirit intercedes for us. From this verse, some people may infer that the Holy Spirit is in the heart and not given. They apply this inference to Acts 19 and say that the disciples already had the Holy Spirit in their hearts before Paul went to Ephesus. When Paul laid hands on them, they received special grace - the gift of tongue speaking. Meaning that they already had the Holy Spirit and tongue speaking was an added gift; not the evidence of having received the Holy Spirit. Is this really so.
+The Holy Spirit prays for us by making intercession with groaning which cannot be uttered. We may not be able to express what we want to say but the Holy Spirit intercedes for us. From this verse, some people may infer that the Holy Spirit is in the heart and not given. They apply this inference to Acts 19 and say that the disciples already had the Holy Spirit in their hearts before Paul went to Ephesus. When Paul laid hands on them, they received special grace - the gift of tongue speaking. Meaning that they already had the Holy Spirit and tongue speaking was an added gift; not the evidence of having received the Holy Spirit. Is this really so?
 
-Let’s consider the testimony of another apostle. 
+Let’s consider the testimony of another apostle.  
 Acts 10:44-47  
 *”While Peter was still speaking these words, the Holy Spirit fell upon all those who heard the word. And those of the circumcision who believed were astonished, as many as came with Peter, because the gift of the Holy Spirit had been poured out on the Gentiles also. For they heard them speak with tongues and magnify God.
 Then Peter answered, “Can anyone forbid water, that these should not be baptized who have received the Holy Spirit just as we have?”*  
