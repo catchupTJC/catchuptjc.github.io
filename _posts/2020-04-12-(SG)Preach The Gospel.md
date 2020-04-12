@@ -79,7 +79,7 @@ The speaker has been in Myanmar for 2 years. He’s been in 2 regions - Yangon a
 Col 4:3-4  
 We must pray that God opens the door for the word. That is to pray to God to give us the opportunity to preach. As long as we have this heart to preach, God will open the door for us. 
 
-This is an important point for us to remember when preaching. But actually we know all this, but we don’t do it. 
+This is an important point for us to remember when preaching. Actually we know all this, but we don’t do it. 
 
 Why don’t we? There’re a few reasons. Perhaps one reason is that we don’t know how to preach. It could be that we don’t know how to open our mouths to preach or we don’t know how to explain the verses in the Bible. Something can be done about this. If we find difficulty in opening our mouths, try to find some conversation starters. If we find it difficult to explain the verses in the Bible, we can read the Bible more so we can preach to people. These are things we can learn from those already currently preaching. Every Saturday there’re people who are giving Bible studies to truthseekers. All we have to do is ask if we can join in the Bible studies and ask how they lead the Bible study. It requires effort, we can’t preach without putting in effort. But it’s up to us whether we think about doing such things. Let’s not say we don’t know how to because we can learn from others. 
 
