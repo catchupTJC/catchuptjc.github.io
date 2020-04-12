@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: Reunion
-category:sermon2020singapore  
+category: sermon2020singapore  
 tags: [reflection]  
 hymns: [468,208]  
 speaker: dngabriellim  
