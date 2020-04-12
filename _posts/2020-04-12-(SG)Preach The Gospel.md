@@ -18,7 +18,7 @@ What exactly does this mean? It should be a conclusion to the work the Lord Jesu
 What was the Lord Jesus’ reply?
 
 v7-8  
-*And He said to them, “**It is not for you to  know times or seasons** which the Father has put in His own authority. But you shall receive power when the Holy Spirit has come upon you; and you shall be  witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”*
+*And He said to them, “**It is not for you to  know times or seasons** which the Father has put in His own authority. But you shall receive power when the Holy Spirit has come upon you; and **you shall be  witnesses to Me** in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”*
 
 “It is not for you to know times or seasons.”
 This means God has His own time. 
