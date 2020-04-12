@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: Reunion 团圆  
+title: Reunion
 category:sermon2020singapore  
 tags: [reflection]  
 hymns: [468,208]  
