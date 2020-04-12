@@ -20,7 +20,7 @@ What was the Lord Jesus’ reply?
 v7-8  
 *And He said to them, “**It is not for you to  know times or seasons** which the Father has put in His own authority. But you shall receive power when the Holy Spirit has come upon you; and **you shall be  witnesses to Me** in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”*
 
-“It is not for you to know times or seasons.”  
+“It is not for you to know times or seasons.” 
 This means God has His own time. 
 
 And we are to be witnesses to God to the end of the earth. 
@@ -81,7 +81,7 @@ We must pray that God opens the door for the word. That is to pray to God to giv
 
 This is an important point for us to remember when preaching. But actually we know all this, but we don’t do it. 
 
-Why don’t we? There’re a few reasons. Perhaps one reason is that we don’t know how to preach. It could be that we don’t know how to open our mouths to preach or we don’t know how to explain the verses in the Bible. Something can be done about this. If we find difficulty in opening our mouths, try the find some conversation starters. If we find it difficult to explain the verses in the Bible, we can read the Bible more so we can preach to people. These are things we can learn from those already currently preaching. Every Saturday there’re people who are giving Bible studies to truthseekers. All we have to do is ask if we can join in the Bible studies and ask how they lead the Bible study. It requires effort, we can’t preach without putting in effort. But it’s up to us whether we think about doing such things. Let’s not say we don’t know how to because we can learn from others. 
+Why don’t we? There’re a few reasons. Perhaps one reason is that we don’t know how to preach. It could be that we don’t know how to open our mouths to preach or we don’t know how to explain the verses in the Bible. Something can be done about this. If we find difficulty in opening our mouths, try to find some conversation starters. If we find it difficult to explain the verses in the Bible, we can read the Bible more so we can preach to people. These are things we can learn from those already currently preaching. Every Saturday there’re people who are giving Bible studies to truthseekers. All we have to do is ask if we can join in the Bible studies and ask how they lead the Bible study. It requires effort, we can’t preach without putting in effort. But it’s up to us whether we think about doing such things. Let’s not say we don’t know how to because we can learn from others. 
 
 Another reason we might give is that we don’t have anymore friends to preach to. If that’s the case, then thank God, you have exhausted your efforts in preaching to your friends. But if this is the case, you would find a way to find more people to preach to. It’s not that you don’t have anymore friends to preach to, it’s that we have not put in our utmost effort to preach to the friends we have. “Oh he’s fervent in another church.” “He’s a Buddhist.” These are valid reasons but it doesn’t mean we can’t preach to him/her. We must find ways to preach to them; we shouldn’t find excuses to not preach to them. 
 
