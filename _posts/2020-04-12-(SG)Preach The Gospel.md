@@ -10,7 +10,7 @@ If we look objectively at the preaching situation in Singapore, about 40-50 peop
 
 Even though this is the case, we thank God we still have the time to put in this effort. We must quickly go out and preach the gospel. 
 
-Acts 1:6
+Acts 1:6  
 This passage records the words Jesus spoke before He ascended to heaven. At this time, the disciples asked Jesus a very important question, “Lord, will You at this time restore the kingdom to Israel?”
 
 What exactly does this mean? It should be a conclusion to the work the Lord Jesus had done in the last 3 years - restoring the Kingdom of Israel. 
@@ -37,21 +37,21 @@ If we do ask, how will the Lord respond to us? Perhaps He may answer us like He 
 
 Consider the situation of the pandemic now. 2000 years ago, the Lord Jesus already prophesied such a situation would happen. After seeing this situation, do we think about the work we must do? What must we think of?
 
-Matt 24:14
+Matt 24:14  
 The Last Days are here. Among us some brothers and sisters have asked what part of the Last Days we are in now. We must come back to v14. Since we know it is the Last Days, have we put in our effort to preach to the world? Didn’t the Lord Jesus say we need to preach to all the world and be witnesses of the gospel?
 
 If we truly feel we are in the Last Days and are becoming anxious, why are we not becoming witnesses? Let us use this opportunity to reflect on our own preaching efforts. 
 
 When preaching, there’re a few things we must know. The Lord Jesus can just preach by Himself. Some people are personally moved/led/called by God to come to church. But this isn’t the case for the majority. Often it’s through the invitation of friends that they come to church. And so Paul says this. 
 
-Rom 10:15-17
+Rom 10:15-17  
 We must have people go out to preach. People have to personally bring the gospel to others. We may say that in the past, transport wasn’t as good as today, that’s why they had to send people out to preach. But today, we can paste posters outside. The point is, we still need people to go out to preach. This is a method by which God has used since time past. 
 
 In the Old Testament, everything God wanted to say was said through the prophets who in turn said to the people. Why didn’t He tell the people directly instead of going through the prophets? This doesn’t seem to be a very efficient method. But we find this is what God does, and man accepts this method. Bearing witness is a method the Lord accepts; bearing witness is a method God used in both the Old Testament and New Testament. Today, what we must do is to bear witness. 
 
 Acts 1:8 says we must best witness to the ends of the earth. We must go out to preach the gospel. If we don’t, how will the gospel be brought to other people? We may say, “People can go online to download the Bible. They can read the Bible and understand it themselves.” If it were so easy, many other churches would come to believe in our church. Why are there still so many denominations that don’t believe baptism washes away sins? It is our responsibility to use the Bible and tell them of it. We are witnesses. We cannot push this responsibility to others. And don’t be too worried about doing this work because God will be with us. 
 
-Mark 16:20
+Mark 16:20  
 As long as we go out and preach the gospel, the Lord will work with us and confirm the word through accompanying signs just as He did in this verse. When we best witness, the Lord is accompanying us. When we go out to preach, even if very few listen to us, we know the Lord is working with us. 
 
 It’s our job to preach the gospel. Where’re these people? This is the place we have to sow the seed. We must labour to bring the gospel to each household. 
@@ -71,12 +71,12 @@ We also have the benefit of technology now where we’re able to utilise it to p
 This is a responsibility we have to take on today. This is something we are likely all aware of but are not putting in the utmost effort to do. 
 
 At any point in time, we must preach the gospel.  
-2 Tim 4:2
+2 Tim 4:2  
 Whether in season or out of season, we must preach the word. We must have the attitude that we must always see the opportunity to preach. When we’re friends with someone, we must think how we can ultimately preach the gospel to them. Are there any of us who have preached to all of friends? If there is, thank God. Make new friends and preach to them as well! If not, we have to think how we are going to bring the gospel to our friends in season and out of season. 
 
 The speaker has been in Myanmar for 2 years. He’s been in 2 regions - Yangon and Kale. The preaching effort in Yangon is not as good. When he’s in Yangon, he spends more time speaking sermons and leading Bible studies with the families there. But in Kale, it’s different. His co-worker there is fervent in preaching. Although his life is more mundane there as there’re less places to go to and eat at, it’s there he truly feels he’s living as a preacher. They go out to find anyone to preach to. If they meet any friends or relatives, they’d invite them for sermons. If a member says their relative is interested, they’d visit their house. When there, the speaker would spend the morning and evening preaching. This was truly in season and out of season; as long as there was the opportunity, they’d preach. We too should preach whenever there’s the opportunity. And we must take time to pray for this matter. 
 
-Col 4:3-4
+Col 4:3-4  
 We must pray that God opens the door for the word. That is to pray to God to give us the opportunity to preach. As long as we have this heart to preach, God will open the door for us. 
 
 This is an important point for us to remember when preaching. But actually we know all this, but we don’t do it. 
