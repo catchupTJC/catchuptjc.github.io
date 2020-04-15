@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #EverydayChristianHeroes
+title: Everyday Christian Heroes
 category: sermon2020singapore
 tags: [virus,compassion,jesus,preaching,evangelism,souls,commission]
 hymns: [283,256]
