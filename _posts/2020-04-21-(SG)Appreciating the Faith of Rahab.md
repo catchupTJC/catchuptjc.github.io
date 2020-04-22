@@ -20,7 +20,7 @@ Joshua 2:9
 We know that she received the spies. But **why** did she receive these spies? The words of Rahab showed she had faith and belief in the true God of Israel. But how did she know about the God of Israel? How did she come to have this faith?
 
 Joshua 2:10
-*For we have heard how the Lord dried up the water of the Red Sea for you when you came out of Egypt, and what you did to the two kings of the Amorites who were on the other side of the Jordan, Sihon and Og, whom you utterly destroyed.*
+*For we have heard how the Lord dried up the water of the Red Sea for you when you came out of Egypt, and what you did to the two kings of the Amorites who were on the other side of the Jordan, Sihon and Og, whom you utterly destroyed.*  
 How Rahab came to believe/develop her faith was because of what she heard. The first thing we can learn from Rahab is that faith comes from hearing. How did Rahab hear? Different people hear differently; Rahab’s faith blossomed after hearing. 
 
 v10 describes events that are more than 40 years apart. She mentioned how the Israelites defeated Sihon and Og; this happened before they crossed the Jordan River. Og was a giant king; to have been destroyed would’ve been big news. It’s no wonder Rahab heard of it. But somehow she also heard of the the Israelites miraculous crossing of the Red Sea, which happened when they first departed from Egypt 40 years ago. When Rahab heard about this and combined these two incidents together, she must’ve wondered how the Israelites were able to get out of Egypt and cross the Red Sea. She didn’t just take it as a fable. After careful reflection, she came to the conclusion that this God was the true God of heaven and earth; the God of the children of Israel. So she wanted to align herself with the Israelites and their God. 
@@ -38,6 +38,7 @@ Rom 10:14-17
 “How beautiful are the feet of those who preach the gospel of peace,
 Who bring glad tidings of good things!”
 But they have not all obeyed the gospel. For Isaiah says, “Lord, who has believed our report?” So then faith comes by hearing, and hearing by the word of God.*
+
 If faith comes from hearing, we must think about the people around us. Family. Friends. Have they heard the gospel through us? Have they even had the opportunity to consider matters of salvation? It’s our duty as Christians to pass the message of salvation so others may have the chance to believe and be saved. 
 
 What can we learn from Rahab’s faith?
