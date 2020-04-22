@@ -15,7 +15,7 @@ onload = function() {
                     function onClickPlay() {
                         if (!flag) {
                             flag = true;
-                            utterance = new SpeechSynthesisUtterance(document.querySelector('body').textContent); 
+                            utterance = new SpeechSynthesisUtterance(document.querySelector('#readFrom').textContent); 
                      
                             let sval = Number(speakerMenu.value);                            
                             utterance.voice = allVoices[sval];
