@@ -100,7 +100,7 @@ The Lord Jesus reminds us that the Heavenly Father takes care of the birds in th
 
 A bird stood on a tree branch. It had never been afraid of the branch breaking because it didn’t believe in the strength of the branch, but in the wings God had given it. The environment we are in may be like the branch of the tree. The faith we have in God are like the wings of the bird. Do we trust in the strength of the branch or in our wings? No matter how strong the branch may be, it can be easily broken in a storm, but the wings of our faith can allow us to soar and overcome these calamities. Even though we may pass through many waters, or fire, the Lord will lead His children onwards. 
 
-** Sing hymn 442: God Leads Us Along**
+**Sing hymn 442: God Leads Us Along**
 
 We ask God to have mercy on us. Presently, it’s hard for us to predict tomorrow. There’re many educated specialists and people with power who may predict what may happen tomorrow and plan for the future. But the coronavirus has destroyed all our plans. However, we’re not afraid because we see the throne in heaven. We see that before the throne is a sea of glass like crystal. Even though there may be storms on earth, the sea of glass in heaven is peaceful and calm. 
 
