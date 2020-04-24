@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Incident in Philippi
-category: sermon2020ipoh
+category: sermon2020malaysia
 tags: [paul,slavegirl,demonpossessed,prayer,ministry,divinework,busy,satan,deceive,watchful,vigilant,evilspirit,peace,suffering,persecution]
 hymns: [277,166]
 speaker: elderjoshuaphoong
@@ -11,7 +11,7 @@ From the record of Acts 16:16-22, we will consider three points:
 2. What obstacles happen along the way?  
 3. What are the persecutions?  
 
-Acts 16:16. 
+Acts 16:16  
 When Paul arrived in Philippi, he went to the place of prayer. He did similarly when he arrived at other cities. In the midst of missionary work, Paul always prayed, and this goes to show how prayer is important in our ministry. We cannot say we are too busy with divine work and therefore don’t have time for prayer. 
 
 Psa 127:1  
