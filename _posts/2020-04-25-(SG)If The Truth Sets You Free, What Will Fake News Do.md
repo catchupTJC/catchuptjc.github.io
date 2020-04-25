@@ -2,7 +2,7 @@
 layout: post
 title: If The Truth Sets You Free, What Will Fake News Do?
 category: sermon2020singapore
-tags: [reflection]
+tags: [truth,fakenews,virus,falsedoctrine,interpretation,mask,holyspirit,milk,solidfood,mature,armourofgod,safedistancing,sabbath,baptism,footwashing,humanwisdom,devil]
 hymns: [24,364]
 speaker: prpetershee
 ---
