@@ -63,14 +63,14 @@ We need to slowly learn more and more and go deeper into the word of God.
 
 Just because we may not be able to practice safe distancing taking public transport, does that mean we shouldn’t try to practice safe distancing at all?
 
-What should be our right attitude? We do what we can, as much as we can. At first when we didn’t have the advice to stay home, employers were advised to let people work from home as much as possible. That would slowly ease the traffic in the MRT. We do as much as we can, and we do what we can. 
+What should be the right attitude? We do what we can, as much as we can. At first when we didn’t have the advice to stay home, employers were advised to let people work from home as much as possible. That would slowly ease the traffic in the MRT. We do as much as we can, and we do what we can. 
 
 Some people apply this same thing to the doctrines that we have. “Because we can’t do it all the time, it’s meaningless to do it at all.” 
 
 These are some disagreements people have:  
 *“We can’t keep the Sabbath all the time, some jobs don’t allow that. So the teaching to keep the Sabbath is meaningless.”*  
 *“You say receiving the Holy Spirit must be evidenced by tongue speaking. Some people are dumb. They don’t have a tongue or can’t speak. So you mean God is excluding such people from receiving the Holy Spirit?”*  
-*“You say baptism is necessary for salvation. But what if you’re in a desert with no water. Or what if you go to prison and preach to the prisoners? They can’t come out to be baptised!” Or people who are very sick can’t be baptised. So you can’t say baptism is necessary. Or if a person dies before he is baptised, or worse still died in the midst of getting baptised?”*  
+*“You say baptism is necessary for salvation. But what if you’re in a desert with no water. Or what if you go to prison and preach to the prisoners? They can’t come out to be baptised! Or people who are very sick can’t be baptised. So you can’t say baptism is necessary. Or if a person dies before he is baptised, or worse still died in the midst of getting baptised?”*  
 *“You preach the necessity of footwashing. How about people who don’t have feet?”*
 
 There are some things that can’t be practiced in some situations. But does it take away the truth of the Bible? If it can be done in a majority of cases, are you not going to do it? Just like how we can practise safe distancing in many/most cases, even in the MRT. So instead of challenging what we know is workable/works, just because it can’t be done sometimes, let us do what we can, as much as we can.
