@@ -67,7 +67,7 @@ What should be our right attitude? We do what we can, as much as we can. At firs
 
 Some people apply this same thing to the doctrines that we have. “Because we can’t do it all the time, it’s meaningless to do it at all.” 
 
-These are some disagreements people have:
+These are some disagreements people have:  
 *“We can’t keep the Sabbath all the time, some jobs don’t allow that. So the teaching to keep the Sabbath is meaningless.”*  
 *“You say receiving the Holy Spirit must be evidenced by tongue speaking. Some people are dumb. They don’t have a tongue or can’t speak. So you mean God is excluding such people from receiving the Holy Spirit?”*  
 *“You say baptism is necessary for salvation. But what if you’re in a desert with no water. Or what if you go to prison and preach to the prisoners? They can’t come out to be baptised!” Or people who are very sick can’t be baptised. So you can’t say baptism is necessary. Or if a person dies before he is baptised, or worse still died in the midst of getting baptised?”*  
