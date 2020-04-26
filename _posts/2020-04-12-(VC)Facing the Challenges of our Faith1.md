@@ -2,7 +2,7 @@
 layout: post
 title: Facing the Challenges of our Faith (1)
 category: sermon2020vancover
-tags: [faith,]
+tags: [faith,trials]
 hymns: [516,515]
 speaker: prtimothyyeung
 ---
