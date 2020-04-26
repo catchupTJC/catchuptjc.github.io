@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FACING THE CHALLENGES OF OUR FAITH (1)
+title: Facing the Challenges of our Faith (1)
 category: sermon2020vancover
 tags: [faith,]
 hymns: [516,515]
