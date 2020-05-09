@@ -6,9 +6,6 @@ tags: [revelation,worship,awe,majesty,judgement,righteous,fourlivingcreatures,li
 hymns: [186,185]
 speaker: prchinaunquek
 ---
- The Heavenly Worship in the Book of Revelation (3) 启示录的天上敬拜（三）
-186: Heaven Is My Home
-
 A main point discussed in previous sermons is for us to be able to see the throne which is in heaven. The throne in heaven is about the worship in heaven, and this is for us to reflect on whether our worship on earth is similar to the worship in heaven.
 
 There are a few points we ought to learn and pursue based on the heavenly worship recorded in Rev 4.
