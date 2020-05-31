@@ -2,7 +2,7 @@
 layout: post  
 title: Victors in the Book of Revelation (8)  
 category: sermon2020singapore  
-tags: [revelation,seven churches,prodigalson,repent]  
+tags: [revelation,sevenchurches,prodigalson,repent]  
 hymns: [184,43]  
 speaker: prchinaunquek  
 ---  
