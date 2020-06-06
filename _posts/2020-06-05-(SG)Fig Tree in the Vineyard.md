@@ -2,7 +2,7 @@
 layout: post  
 title: Fig Tree in the Vineyard  
 category: sermon2020singapore  
-tags: [reflection]  
+tags: [parable,figtree,bearfruit,grace,repentance,fruitofthespirit,righteousness,balaam,hezekiah]  
 hymns: [96,445]  
 speaker: dnphilipshee  
 ---
