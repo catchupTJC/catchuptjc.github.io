@@ -8,8 +8,8 @@ speaker: dnjoshuachong
 ---
 The topic for mutual encouragement today is taken from Colossians. We first turn to Colossians 1:13-14;
 
-13 'He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, 
-14 in whom we have redemption through His blood, the forgiveness of sins.'
+*13 'He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, 
+14 in whom we have redemption through His blood, the forgiveness of sins.'*
 
 These 2 verses are a summary of the gospel in short. If we were to read Paul’s epistles, he’d often retell this passage. Why does Paul keep reminding us of this grace of salvation? Paul understands our weaknesses; humans tend to take things for granted. 
 
@@ -22,16 +22,16 @@ We were elated when we first believed but how long did the joy of salvation last
 
 Let’s take a closer look at Colossians 1:13;
 
-'He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, 
+*'He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, *
 
-“We have been delivered from the power of darkness”
+*“We have been delivered from the power of darkness”*
 This is the state we were born into; we were once in darkness. The kingdom of the Son is ruled by the Son. The domain of darkness is ruled by the devil and he exerts influence on people. We turn to Ephesians 2:2;
 
-'in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the sons of disobedience, '
+*'in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the sons of disobedience, '*
 
 Here, Paul calls the devil the prince of the power of the air. In other words, he has the power and authority over everyone in his dominion; it’s not just those demon-possessed that are under his control but the whole world. How were we under control when we were in the domain of darkness? Let’s turn back to Colossians 1:21;
 
-'And you, who once were alienated and enemies in your mind by wicked works, yet now He has reconciled '
+*'And you, who once were alienated and enemies in your mind by wicked works, yet now He has reconciled '*
 
 Here Paul describes us as enemies in our minds. The English Bible uses the word “mind”, meaning that it’s the mind that is in enmity with God. Our lust tempts us but it’s our mind that comes out with ways that satisfy these lusts. No one needs to teach us how to sin. Take a look at a child; we don’t have to teach the child to sin but the child instinctively knows how to do what’s wrong. Recently the speaker’s daughter has been destroying things in the house; she even split a CD into two. When she spoils something and you ask her, “Who spoilt it?” She’d point back at the speaker, “Papa spoil!” 
 
@@ -41,24 +41,24 @@ Many times she’s just being cheeky but when we reflect on ourselves, we’re t
 
 Let us look at the final state of the world just before the flood came. We read Genesis 6:5;
 
-'Then the Lord saw that the wickedness of man was great in the earth, and that every intent of the thoughts of his heart was only evil continually. '
+*'Then the Lord saw that the wickedness of man was great in the earth, and that every intent of the thoughts of his heart was only evil continually. '*
 
 At the end just before the flood, every intent of the thoughts of men’s hearts were evil. It’s not surprising for the sons of men to be evil but it’s surprising for the sons of God to fall so quickly. Except for Noah, everyone’s thoughts were evil. Why was this so? Weren’t they just worshipping God before? Paul explains in Romans 1:28;
 
-'And even as they did not like to retain God in their knowledge, God gave them over to a debased mind, to do those things which are not fitting; '
+*'And even as they did not like to retain God in their knowledge, God gave them over to a debased mind, to do those things which are not fitting; '*
 
 The mind and knowledge of God are very closely linked together. When a person gives up the knowledge of God, here says that the mind becomes debased; was originally precious but is now a lower level. V30 tells us one of the characteristics of a debased mind;
 
-'backbiters, haters of God, violent, proud, boasters, inventors of evil things, disobedient to parents, '
+*'backbiters, haters of God, violent, proud, boasters, inventors of evil things, disobedient to parents, '*
 
 “Inventors of evil things” 
 Men will think of evil ways to satisfy the flesh. This is also our minds when we were in the power of darkness; this is exactly what we were like. 
 
 We turn to Ephesians 4:17-19; 
 
-17 'This I say, therefore, and testify in the Lord, that you should no longer walk as the rest of the Gentiles walk, in the futility of their mind, 
+*17 'This I say, therefore, and testify in the Lord, that you should no longer walk as the rest of the Gentiles walk, in the futility of their mind, 
 18 having their understanding darkened, being alienated from the life of God, because of the ignorance that is in them, because of the blindness of their heart; 
-19 who, being past feeling, have given themselves over to lewdness, to work all uncleanness with greediness.'
+19 who, being past feeling, have given themselves over to lewdness, to work all uncleanness with greediness.'*
 
 When we read these verses, let us not think that they do not have anything to do with us. Paul tells us to not continue to walk like this, meaning that we USED TO walk like this. What will happen if we continue to walk like this? V19 tells us;
 
@@ -78,7 +78,7 @@ Sometimes our memories are not very reliable. When we deal with hardships, like 
 
 We go back to Colossians 1:14;
 
-'in whom we have redemption through His blood, the forgiveness of sins.'
+*'in whom we have redemption through His blood, the forgiveness of sins.'*
 
 There was a price to be paid. When we were in the power of darkness, there was no price paid for us to be in that power; we were born into that. But when we came into Christ’s kingdom, Christ had to pay a big price. Christ’s kingdom is also very different from the domain of darkness. When you’re under the domain of darkness, you’ve no choice but to submit to the power of darkness. It’s not a matter of choice; you’ll sin even if you do not want to. 
 
@@ -86,10 +86,10 @@ In Christ’s kingdom, Christ doesn’t force you. It doesn’t mean, “I want 
 
 Does this mean we can do as we please as sons of Christ? “Since God doesn’t compel us to do things, does this mean I can do whatever I want?” Of course not because Christ ultimately will rule over His kingdom. We read Colossians 1:15-18;
 
-15 'He is the image of the invisible God, the firstborn over all creation. 
-16 For by Him all things were created that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through Him and for Him. 
-17 And He is before all things, and in Him all things consist. 
-18 And He is the head of the body, the church, who is the beginning, the firstborn from the dead, that in all things He may have the preeminence.'
+*15 'He is the image of the invisible God, the firstborn over all creation. 
+*16 For by Him all things were created that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through Him and for Him. 
+*17 And He is before all things, and in Him all things consist. 
+*18 And He is the head of the body, the church, who is the beginning, the firstborn from the dead, that in all things He may have the preeminence.'
 
 In v18, Paul concluded that in all things Christ may have the preeminence. How is Christ shown to be the preeminence here? V15 says that He is the image of the invisible God. The speaker has a JC classmate who once asked him, “If we cannot see God, why can’t we have an image to represent Him? I’m not worshipping the image but it’ll help me focus my attention!” He kept asking, “Why is this not allowed in Christianity?” 
 
@@ -97,13 +97,13 @@ This is because there can be NO OTHER IMAGE OF GOD. Here says that Christ is the
 
 V15 also tells us that He is the firstborn of all creation. We know that the firstborn is a very important status in the Old Testament and is superior to the rest of the children. Hence, when here describes Christ as the firstborn over all creation, it means that He is supreme over all creation. This passage says that He is BEFORE creation, He holds all things together, all things were made by Him, through Him and for Him. Christ is not an afterthought after men sinned. Right from the beginning, creation was made FOR Him. Christ is the supreme objective of creation. 
 
-V18 also tells us that He is the firstborn of new creation, on top of being firstborn of creation. He is the first to rise from the dead and therefore is also the head of the church. Here we see a lot of firsts, and hence Paul concluded in v18 that He is the supreme of all things. 
+*V18 also tells us that He is the firstborn of new creation, on top of being firstborn of creation. He is the first to rise from the dead and therefore is also the head of the church. Here we see a lot of firsts, and hence Paul concluded in v18 that He is the supreme of all things. 
 
 How does this apply to us as Christians today? 
 It has everything to do with us. As the head of the church, Christ must be preeminent in the church. Sometimes, there may be people in the church who want to be preeminent. We turn to 3 John 9-10;
 
-9 'I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us. 
-10 Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.'
+*9 'I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us. *
+*10 Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.'*
 
 Here John says that there is a man called Diotrephes who likes to be preeminent in the church; he doesn’t receive apostles and doesn’t allow people to receive apostles. You may think that he is inhospitable, so why is he described as wanting to be preeminent? He is later described as a backstabber. But Elder John knew his mentality. When workers come and members receive them, he feels that they’ve taken the limelight from him; Diotrephes is no longer the limelight. This is also why Diotrephes spoke malicious words against them because he thinks that when he cards them in the bad light, he is in the good light. Everything he did was to keep himself in the limelight. As John says here, Diotrephes wants to be preeminent in the church. 
 
@@ -115,16 +115,16 @@ We submit not because we’re inferior and the other party is superior. We submi
 
 Finally, what happens if Christ is not preeminent in our lives? What if we do as we please even after we’ve been delivered from the power of darkness? In conclusion, we turn to 1 Corinthians 15:24-25;
 
-24 'Then comes the end, when He delivers the kingdom to God the Father, when He puts an end to all rule and all authority and power. 
-25 For He must reign till He has put all enemies under His feet. '
+*24 'Then comes the end, when He delivers the kingdom to God the Father, when He puts an end to all rule and all authority and power.* 
+*25 For He must reign till He has put all enemies under His feet. '*
 
 V28;
 
 'Now when all things are made subject to Him, then the Son Himself will also be subject to Him who put all things under Him, that God may be all in all.'
 
 This verse tells us that ultimately all things will become subject to Christ. All things will be put under Him. There are 2 ways in which this will be realised: 
-1.	Those who subject to Him voluntarily will be the subject in His kingdom 
-2.	The people put under His feet are His enemies 
+## 1.	Those who subject to Him voluntarily will be the subject in His kingdom 
+## 2.	The people put under His feet are His enemies 
 Ultimately, it’s either we voluntarily bow down at His knees, or we will be crushed under His feet as His enemies. Either way, here says that Christ will ultimately prevail. He will ultimately preeminent. The question is: which group do you prefer? 
 
 Will we be those who bow down voluntarily before Him or be crushed under His feet involuntarily as His enemies?
