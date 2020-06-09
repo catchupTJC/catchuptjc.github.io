@@ -116,11 +116,11 @@ We submit not because we’re inferior and the other party is superior. We submi
 Finally, what happens if Christ is not preeminent in our lives? What if we do as we please even after we’ve been delivered from the power of darkness? In conclusion, we turn to 1 Corinthians 15:24-25;
 
 *24 'Then comes the end, when He delivers the kingdom to God the Father, when He puts an end to all rule and all authority and power.* 
-*25 For He must reign till He has put all enemies under His feet. '*
+*25 For He must reign till He has put all enemies under His feet.'*
 
 V28;
 
-'Now when all things are made subject to Him, then the Son Himself will also be subject to Him who put all things under Him, that God may be all in all.'
+*'Now when all things are made subject to Him, then the Son Himself will also be subject to Him who put all things under Him, that God may be all in all.'*
 
 This verse tells us that ultimately all things will become subject to Christ. All things will be put under Him. There are 2 ways in which this will be realised: 
 #### 1.	Those who subject to Him voluntarily will be the subject in His kingdom 
