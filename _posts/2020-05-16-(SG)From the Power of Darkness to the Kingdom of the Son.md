@@ -22,7 +22,7 @@ We were elated when we first believed but how long did the joy of salvation last
 
 Let’s take a closer look at Colossians 1:13;
 
-*'He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love, *
+*'He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love,*
 
 *“We have been delivered from the power of darkness”*
 This is the state we were born into; we were once in darkness. The kingdom of the Son is ruled by the Son. The domain of darkness is ruled by the devil and he exerts influence on people. We turn to Ephesians 2:2;
@@ -123,8 +123,8 @@ V28;
 'Now when all things are made subject to Him, then the Son Himself will also be subject to Him who put all things under Him, that God may be all in all.'
 
 This verse tells us that ultimately all things will become subject to Christ. All things will be put under Him. There are 2 ways in which this will be realised: 
-## 1.	Those who subject to Him voluntarily will be the subject in His kingdom 
-## 2.	The people put under His feet are His enemies 
+#### 1.	Those who subject to Him voluntarily will be the subject in His kingdom 
+#### 2.	The people put under His feet are His enemies 
 Ultimately, it’s either we voluntarily bow down at His knees, or we will be crushed under His feet as His enemies. Either way, here says that Christ will ultimately prevail. He will ultimately preeminent. The question is: which group do you prefer? 
 
 Will we be those who bow down voluntarily before Him or be crushed under His feet involuntarily as His enemies?
