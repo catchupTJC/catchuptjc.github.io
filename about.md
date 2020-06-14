@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<r>This is a simple sermon note repositary for loving church members who want to share God's words. 
-<br>
-<br><i>Therefore we must give the more earnest heed to the things we have heard, lest we drift away (Hebrews 2:1).</i>
+<r>This is a simple sermon note repositary for loving church members who want to share God's words. <b>Please note that the sermon notes are written by many different people and may not be a complete representative of the True Jesus Church stand.</b>
 <br>
 <br>Catchuptjc is a platform for members to catch up on True Jesus Church (TJC) sermons they might have missed, or to re-read sermons they have heard. (Sometimes after a sermon, we walk away not remembering what we've learnt, let alone the title of the sermon!) 
 <br>
