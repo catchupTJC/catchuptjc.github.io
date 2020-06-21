@@ -137,9 +137,10 @@ If we consider even further; when the situation is good enough for normal servic
 Remember what Abraham did — how he was obedient in his worship. He didn’t give any excuses or ask for another way of doing things, instead, he fully obeyed. He went to where God directed him to worship. He went to perform this worship though it would have brought a lot of inconvenience for an old man as well as the pain of offering this son. He did all these things because he fully obeyed God and was obedient to Him. Let us learn from Abraham’s attitude in worship so that we can truly worship God from our hearts. 
 
 As a summary, be reminded of the right attitudes we must have when we come to worship God:  
-Have humility to allow us to see how lowly we are to truly appreciate our great our God is  
-Have faith to truly believe that when we spend our time and concentration in service to worship, He will reward us  
-The attitude of being obedient is very important regardless of whether it is before, during or after the service so that our worship is an acceptable and sweet-smelling offering to God. 
+1. Have humility to allow us to see how lowly we are to truly appreciate our great our God is  
+2. Have faith to truly believe that when we spend our time and concentration in service to worship, He will reward us  
+3. The attitude of being obedient is very important regardless of whether it is before, during or after the service so that our worship is an acceptable and sweet-smelling offering to God. 
+
 Let us give thanks to God for the great grace He has given to us. We trust that He will guide us through these difficult times where things are slowly going back to the way things were.
 
 ----
