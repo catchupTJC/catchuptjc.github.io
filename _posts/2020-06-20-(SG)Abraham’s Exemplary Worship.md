@@ -44,7 +44,7 @@ We read Genesis 22:1-14;
 
 This passage tells us about Abraham and his worship. The very first mention of the word ‘worship’ is in v5. Let us read v5 again; 
 
-*And Abraham said to his young men, “Stay here with the donkey; the lad and I will go yonder and worship, and we will come back to you.” *
+*And Abraham said to his young men, “Stay here with the donkey; the lad and I will go yonder and worship, and we will come back to you.”*
 
 Abraham had already journeyed for 3 days and when he saw that the place was somewhere beyond yonder, he told the young man (/his servants) to stay put while Abraham and his son went over there. He instructed the young men to stay there with the donkeys. Realise that the servants have been following him for 3 day and have been helping to carry his wood and items. The donkeys have also been following along the trip to make Abraham and his son’s journey easier. 
 
