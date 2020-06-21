@@ -6,6 +6,7 @@ tags: [reflection,uncertainty,virus,worry,thanksgiving,prayer,peace,contentment]
 hymns: []
 speaker: dntimothyhsieh
 ---
+Summary:  
 1. Worry not about tomorrow!
 2. Pay attention to what we have to do today - contentment comes when we think about the grace of God 
 3. If worry still plagues us, go outside and look at the birds of the air and lilies of the field and see how God has kept all these alive!
