@@ -6,6 +6,10 @@ tags: [reflection,uncertainty,virus,worry,thanksgiving,prayer,peace,contentment]
 hymns: []
 speaker: dntimothyhsieh
 ---
+1. Worry not about tomorrow!
+2. Pay attention to what we have to do today - contentment comes when we think about the grace of God 
+3. If worry still plagues us, go outside and look at the birds of the air and lilies of the field and see how God has kept all these alive!
+
 As humans, we don’t like uncertainty in our lives and get stressed when we cannot control our environment.
 
 Social scientists conducted an experiment where when you lift up a virtual stone and see a snake underneath, you’d get an electric shock. They were trying to test the stress of the participants. When they first started they had high levels of stress because they didn’t know which stone had a snake underneath. After a few rounds of the experiment, they were able to anticipate which stones had a snake underneath and their stress levels reduced. 
