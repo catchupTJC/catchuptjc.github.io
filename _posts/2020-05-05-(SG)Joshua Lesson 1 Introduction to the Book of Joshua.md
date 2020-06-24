@@ -2,7 +2,7 @@
 layout: post
 title: Joshua Lesson 1: Introduction to the Book of Joshua
 category: sermon2020singapore
-tags: [reflection,joshua,courage,leadership,egypt,canaan,israelites,conquering,salvation,deliverance,faith,commandments,inheritance,]
+tags: [reflection,joshua,courage,leadership,egypt,canaan,israelites,conquering,salvation,deliverance,faith,commandments,inheritance,caleb]
 hymns: [196,59]
 speaker: prchinaunquek
 ---
