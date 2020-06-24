@@ -79,9 +79,7 @@ Chapter 23-24 records the final encouragement of Joshua. It is a special reaffir
 
 The last segment of Joshua records Joshua being buried.
 
-————
-
-The Importance of the Book of Joshua
+## The Importance of the Book of Joshua
 
 The book of Joshua is a very important part of the Old Testament history because it seems to be a conclusion of the 5 Books of Moses - the Pentateuch. 
 
@@ -111,6 +109,7 @@ Gal 3:16, 29
 29 And if you are Christ’s, then you are Abraham’s seed, and heirs according to the promise.*
 
 Through Jesus Christ we have become descendants of Abraham. Hence we are able to receive the promised inheritance of God. The book of Joshua records how the people conquered and entered Canaan are lessons for us. Their success is what we must also pursue after. Their failures are a warning to us. Because our lot is to receive this better inheritance in the Kingdom of God. We also have to fight this good fight. We must read the book of Joshua with the eyes of the prophets, so we won’t think it’s just very dry history. It’s actually a fight for life; a record of how life is won. When we have fought the good fight, we too can receive the more beautiful reward in heaven. Let’s put in effort to learn from the book of Joshua because God through his servant recorded this history as a lesson for us; to teach us that these lessons aren’t only for ourselves but also to teach our children; to teach us how to keep the commandment of God; to teach us how we have to face the battle of our faith; to teach us how we ought to finally receive the inheritance - the land of Canaan. 
+
 
 ----
 ****
