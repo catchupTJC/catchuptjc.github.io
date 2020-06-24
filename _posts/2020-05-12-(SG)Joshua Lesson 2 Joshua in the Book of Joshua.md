@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joshua Lesson 2: Joshua in the Book of Joshua
+title: Joshua Lesson 2 Joshua in the Book of Joshua
 category: sermon2020singapore
 tags: [reflection,joshua,courage,leadership,canaan,israelites,salvation,deliverance,faith,inheritance,caleb]
 hymns: [59]
@@ -143,6 +143,7 @@ Eph 3:20-21
 21 to Him be glory in the church by Christ Jesus to all generations, forever and ever. Amen.*
 
 We say in our hearts: “God, You don’t have to exceedingly abundantly fulfil all I ask for. Just fulfil one thing and I’ll be happy! You don’t have to go above and beyond what I ask. Just fulfil as I asked and I’ll be so thankful.” When God doesn’t heed our prayers, we should self-reflect instead of questioning God. Are the things we ask for for our own glory or God’s glory? We may rebut and ask, “Am I not a child of God? Shouldn’t God help His children?” That’s not wrong to say. But isn’t a child of God also expected to bring glory to God? Did we think of glorifying God? Paul said "to Him be glory in the church by Christ Jesus". When the church receives glory, it means Jesus receives glory, because Jesus is the head of the church. Aren’t we believers of the church? Shouldn’t we show concern for the church so the church receives glory? Or do we murmur and criticise the church? Are we indifferent towards the church? God wants the church and Jesus to receive glory, but we cause shame to the church and cause the name of Jesus to be mocked. How then can God be pleased with our prayers and answer them? Therefore, we should learn from the prayer of Joshua. It wasn’t just a prayer of faith, it was also a prayer that brought glory to God. 
+
 
 ----
 ****
