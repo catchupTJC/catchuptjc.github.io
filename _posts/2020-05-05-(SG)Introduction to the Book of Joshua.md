@@ -2,7 +2,7 @@
 layout: post
 title: Joshua Lesson 1 Introduction to the Book of Joshua
 category: sermon2020singapore
-tags: [reflection,joshua,courage,leadership,egypt,canaan,israelites,conquering,salvation,deliverance,faith,commandments,inheritance,caleb]
+tags: [reflection,joshua,courage,leadership,canaan,israelites,salvation,deliverance,faith,inheritance,caleb]
 hymns: [196,59]
 speaker: prchinaunquek
 ---
@@ -84,12 +84,12 @@ The last segment of Joshua records Joshua being buried.
 The book of Joshua is a very important part of the Old Testament history because it seems to be a conclusion of the 5 Books of Moses - the Pentateuch. 
 
 Themes:  
-1. Genesis: sin of man
-2. Exodus: salvation/deliverance of man
-3. Leviticus: to be consecrated; to separate holy from unholy
-4. Numbers: the journey of faith
-5. Deuteronomy: to keep God’s commandments
-6. Joshua: receiving of the inheritance
+1. Genesis: sin of man  
+2. Exodus: salvation/deliverance of man  
+3. Leviticus: to be consecrated; to separate holy from unholy   
+4. Numbers: the journey of faith  
+5. Deuteronomy: to keep God’s commandments  
+6. Joshua: receiving of the inheritance  
 
 The theme of the 1st book Genesis (that records creation) is about the sin of man. The theme of Exodus is the salvation/deliverance of man. The theme of Leviticus is to be consecrated; to separate holy from unholy. The theme of Numbers is the journey of faith. The theme of Deuteronomy is to keep God’s commandments. And the theme of Joshua is the receiving of the inheritance. 
 
