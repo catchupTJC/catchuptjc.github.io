@@ -10,7 +10,7 @@ The book of Joshua records the history of how the Israelites conquered the land 
 
 When studying the book of Joshua, we cannot do so without understanding what kind of person Joshua was, especially when he was one chosen by God to be Moses’ successor in leadership. He relied on God to overcome the land of Canaan. He is a character for the emulation of our faith. Joshua belonged to the tribe of Ephraim. His original name was Hoshea (Num 13:16) which means ‘ salvation'. When Moses chose him to be his successor, he changed his name to Joshua which means ‘Jehovah/the LORD is salvation'. Why did Moses change his name to Joshua? Usually a name change is for a better meaning and purpose. The meaning ‘salvation’ is good but who can absolutely save? It is the Lord who is the absolute Saviour. Moses saw in Joshua a potential successor for the next generation. Therefore he specially changed Joshua’s name to reflect that it is the Lord who saves. Even though conquering the land of Canaan was a journey fraught with difficulties, the Lord IS the Saviour. The land of Canaan CAN be ultimately conquered. 
 
-Joshua 1:1-3
+Joshua 1:1-3  
 *1 After the death of Moses the servant of the Lord, it came to pass that the Lord spoke to Joshua the son of Nun, Moses’ assistant, saying: 
 2 “Moses My servant is dead. Now therefore, arise, go over this Jordan, you and all this people, to the land which I am giving to them—the children of Israel. 
 3 Every place that the sole of your foot will tread upon I have given you, as I said to Moses.*
@@ -37,7 +37,7 @@ Joshua 11:15
 *Whatever the Lord Moses, Moses similarly commanded Joshua. And Joshua left NOTHING undone of all that the Lord had commanded Moses.*
 
 Some examples:  
-Joshua 8:30-31, 33-35, 14:1-2
+Joshua 8:30-31, 33-35, 14:1-2  
 *30 Now Joshua built an altar to the Lord God of Israel in Mount Ebal, 
 31 as Moses the servant of the Lord had commanded the children of Israel, as it is written in the Book of the Law of Moses: “an altar of whole stones over which no man has wielded an iron tool.” And they offered on it burnt offerings to the Lord, and sacrificed peace offerings.
 33 Then all Israel, with their elders and officers and judges, stood on either side of the ark before the priests, the Levites, who bore the ark of the covenant of the Lord, the stranger as well as he who was born among them. Half of them were in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the Lord had commanded before, that they should bless the people of Israel. 
@@ -75,7 +75,7 @@ Joshua 9:3-6, 14-15, 18
 *3 But when the inhabitants of Gibeon heard what Joshua had done to Jericho and Ai, 
 4 they worked craftily, and went and pretended to be ambassadors. And they took old sacks on their donkeys, old wineskins torn and mended, 
 5 old and patched sandals on their feet, and old garments on themselves; and all the bread of their provision was dry and mouldy. 
-6 And they went to Joshua, to the camp at Gilgal, and said to him and to the men of Israel, “We have come from a far country; now therefore, make a covenant with us.”
+6 And they went to Joshua, to the camp at Gilgal, and said to him and to the men of Israel, “We have come from a far country; now therefore, make a covenant with us.”  
 14 Then the men of Israel took some of their provisions; but they did not ask counsel of the Lord. 
 15 So Joshua made peace with them, and made a covenant with them to let them live; and the rulers of the congregation swore to them.
 18 But the children of Israel did not attack them, because the rulers of the congregation had sworn to them by the Lord God of Israel. And all the congregation complained against the rulers.*
