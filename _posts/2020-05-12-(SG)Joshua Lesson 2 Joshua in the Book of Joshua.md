@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joshua Lesson 2 Joshua in the Book of Joshua
+title: Joshua Lesson 2 - Joshua in the Book of Joshua
 category: sermon2020singapore
 tags: [reflection,joshua,courage,leadership,canaan,israelites,salvation,deliverance,faith,inheritance,caleb]
 hymns: [59]
