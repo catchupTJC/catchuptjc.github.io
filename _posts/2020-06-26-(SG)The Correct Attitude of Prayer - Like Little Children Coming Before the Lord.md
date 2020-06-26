@@ -6,9 +6,7 @@ tags: [reflection]
 hymns: [218,225]
 speaker: prsilaskong
 ---
-In previous sermons, the correct attitude of prayer based on two parables in Luke 18 were discussed. The first was on the parable of the widow; our attitude when coming before God in prayer ought to be persistent and not discouraged. The second was on the parable of the tax collector; our attitude when coming before God in prayer should be humble and grateful. 
-
-This sermon will cover the third parable in Luke 18.
+In previous sermons, the correct attitude of prayer based on two parables in Luke 18 were discussed. The first was on the parable of the widow; our attitude when coming before God in prayer ought to be persistent and not discouraged. The second was on the parable of the tax collector; our attitude when coming before God in prayer should be humble and grateful. This sermon will cover the third parable in Luke 18.
 
 Luke 18:15-17  
 After Jesus spoke on the parable of the widow and the tax collector, people carried their infants to Jesus so that He might touch them. This was to seek His blessings. But when they came before the Lord, the disciples inhibited the people from bringing their children before the Lord. Why did they do so? The disciples rebuked them because based on their understanding of Jesus, they saw Jesus as someone who would revive Israel to be glorious again; that Jesus would lead them to overthrow the Roman Empire. Who would have wanted to be a slave? If the Messiah was there to build the earthly kingdom, was there anything else more important than this? It was because the disciples had this great expectation that an incident happened in 18:35-39. A blind man sat by the road begging, crying out to the Lord Jesus to have mercy on him. v39 records that those who went before rebuked him to be quiet. They didn’t allow anyone to prevent the Lord Jesus from reaching Jerusalem. 
