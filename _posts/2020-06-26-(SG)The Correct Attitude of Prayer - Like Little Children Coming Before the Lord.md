@@ -2,13 +2,15 @@
 layout: post
 title: The Correct Attitude of Prayer - Like Little Children Coming Before the Lord
 category: sermon2020singapore
-tags: [reflection]
+tags: [prayer,children,purity,humility,mature,discernment,milk,obedience]
 hymns: [218,225]
 speaker: prsilaskong
 ---
 In previous sermons, the correct attitude of prayer based on two parables in Luke 18 were discussed. The first was on the parable of the widow; our attitude when coming before God in prayer ought to be persistent and not discouraged. The second was on the parable of the tax collector; our attitude when coming before God in prayer should be humble and grateful. This sermon will cover the third parable in Luke 18.
 
 Luke 18:15-17  
+*Then they also brought infants to Him that He might touch them; but when the disciples saw it, they rebuked them. But Jesus called them to Him and said, “Let the little children come to Me, and do not forbid them; for of such is the kingdom of God. Assuredly, I say to you, whoever does not receive the kingdom of God as a little child will by no means enter it.”*
+
 After Jesus spoke on the parable of the widow and the tax collector, people carried their infants to Jesus so that He might touch them. This was to seek His blessings. But when they came before the Lord, the disciples inhibited the people from bringing their children before the Lord. Why did they do so? The disciples rebuked them because based on their understanding of Jesus, they saw Jesus as someone who would revive Israel to be glorious again; that Jesus would lead them to overthrow the Roman Empire. Who would have wanted to be a slave? If the Messiah was there to build the earthly kingdom, was there anything else more important than this? It was because the disciples had this great expectation that an incident happened in 18:35-39. A blind man sat by the road begging, crying out to the Lord Jesus to have mercy on him. v39 records that those who went before rebuked him to be quiet. They didn’t allow anyone to prevent the Lord Jesus from reaching Jerusalem. 
 
 Perhaps they thought children were insignificant and immature. They should not get in Jesus’ way from getting to Jerusalem. But in reality, we know the Lord Jesus’ purpose of going to Jerusalem was to be nailed on the cross and die. He intended to submit to the will of God so that He would be able to complete the great will of salvation. What the Lord Jesus thought about and set out to do was starkly different from what the disciples envisioned. 
