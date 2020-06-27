@@ -1,3 +1,4 @@
+---
 layout: post
 title: The Heavenly Worship in the Book of Revelation (6) 
 category: sermon2020singapore
