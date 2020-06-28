@@ -6,6 +6,11 @@ tags: [reflection,heaven,home,faith,Abraham,Paul,death]
 hymns: [104,199]
 speaker: brojoashchin
 ---
+Summary:  
+1. Have we become too comfortable with our current norm on earth?
+2. Renew our hope in entering our heavenly home! 
+
+
 The speaker shared an old country song named ‘Take Me Home, Country Road’ by John Denver (https://www.youtube.com/watch?v=1vrEljMfXYo) .The speaker was hit by a wave of emotion and the closest thing to describe it would be a feeling of nostalgia. A lot of people feel the same when they hear this song. They feel this sense of longing even though they've never seen the mountains the singer sings about. Since the speaker rarely feels these strong emotions, he decided to delve more into these feelings.
 
 As Christians we are always longing for or looking forward to our home, though we've never seen it.” Just like the comments on the video, "I long for West Virginia even though I've never been there."
@@ -55,14 +60,17 @@ When we are content with what we have on earth, we will store more and more trea
 Though it may be subconscious, as we get more comfortable on earth, we store more of these precious treasures on earth and this could stand in the way of our longing for heaven.
 Of course, this is not bad. This is not to say that we should make ourselves suffer. People in the bible also enjoyed blessings on the earth.
 Instead, here are some perspectives and examples from the bible.
-(a) Lot's wife
+
+(a) Lot's wife  
 Lot and his family stayed in Sodom. The two angels told Lot that God was going to destroy Sodom. But they were so hesitant. Even as they were running for their lives, Lot's wife surely knew that behind them was a scene of destruction. She could probably smell the sulphurous smell of the brimstone, or feel the heat of the fire, or could see the brightness. There was nothing for her to return to. And yet, she still longed to take one last look at Sodom, because that was where her heart was.
-(b) Israelites in the wilderness
+(b) Israelites in the wilderness  
 They constantly complained against Moses, they longed for the melons and fish that they enjoyed in Egypt. They had forgotten that they were slaves.
 Let's think back on ourselves. As we go to heaven, will we cast a longing eye back on the world that is going to be destroyed? Will we view our time on earth with tinted lenses? Will we think "Oh this is such a waste, that the earth is no more." Will we think only of all the good things that we enjoy in this world, and conveniently ignore the evil and suffering in this world presently. Will we still long for the things we enjoyed previously but then forget that the world was evil and corrupt?
-Yes, we can enjoy what God has given us on this earth, our lives, family, church. But we must always be ready to drop all of this at any point. Like Paul said, in Phil 1:23 *For I am hard-pressed between the two, having a desire to depart and be with Christ, which is far better. Nevertheless to remain in the flesh is more needful for you.*
+Yes, we can enjoy what God has given us on this earth, our lives, family, church. But we must always be ready to drop all of this at any point. Like Paul said, in Phil 1:23  
+*For I am hard-pressed between the two, having a desire to depart and be with Christ, which is far better. Nevertheless to remain in the flesh is more needful for you.*
 In church, we should be aware that what we have here is just a shadow of what we have in heaven. When we spend time in fellowship, it should propel us to look forward to heaven even more and not want to stay put because what we have here seems good to us. If that's the case, we have to be careful. Are we content to stay on earth?
 One takeaway from all of this: It is important to realise that we may like some parts of the world. But the world as a whole is in a bad state. Hence we cannot be content with living in this world.
+
 ## 2. Heaven may not attract us so much
 Ask ourselves seriously: We know in our heads that heaven is meant to be a better place no tears, no sorrow. But we lack the imagination to imagine what heaven is like, hence it doesn't attract us. When we read the book of Revelation, we see this description of the worship in heaven. Then we might think, "Huh then life in heaven is just continuously praising God?"
 We might think "Oh we won't have the things we enjoy on this earth currently. No games, no movies..." And because of this, we may think, “I know when I die, heaven is probably going to be a great place, but there are so many things I want to do, want to try.” This stands in our way of longing for heaven like the patriarchs.
