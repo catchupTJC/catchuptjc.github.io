@@ -45,6 +45,7 @@ Paul is talking about how his outward man is perishing everyday, as he looks to 
 While we take this as an exhortation from Paul, do we realise that Paul was a human too and these were his actual feelings?
 
 The speaker feels detached from how Paul feels and a sort of incongruence. It is quite difficult to be keenly aware that this body of ours is perishing slowly. Which of us is always keenly aware that we are dying? When we wake up in the morning, do we think, "Yes, my body is dying today. My cells are dying." We don't. It's quite difficult to think of it - that we're finally returning to the battle-place. It is difficult to have this mindset, but Paul seems to have this mindset. While it is difficult, we must realise that this is the weight of our faith - not having seen this hope, we long for the unparalleled goodness that has been promised to us by God.
+
 Heb 11:1   
 *Now faith is the substance of things hoped for, the evidence of things not seen.*
 
@@ -65,6 +66,7 @@ Instead, here are some perspectives and examples from the bible.
 
 (a) Lot's wife  
 Lot and his family stayed in Sodom. The two angels told Lot that God was going to destroy Sodom. But they were so hesitant. Even as they were running for their lives, Lot's wife surely knew that behind them was a scene of destruction. She could probably smell the sulphurous smell of the brimstone, or feel the heat of the fire, or could see the brightness. There was nothing for her to return to. And yet, she still longed to take one last look at Sodom, because that was where her heart was.
+
 (b) Israelites in the wilderness  
 They constantly complained against Moses, they longed for the melons and fish that they enjoyed in Egypt. They had forgotten that they were slaves.
 Let's think back on ourselves. As we go to heaven, will we cast a longing eye back on the world that is going to be destroyed? Will we view our time on earth with tinted lenses? Will we think "Oh this is such a waste, that the earth is no more." Will we think only of all the good things that we enjoy in this world, and conveniently ignore the evil and suffering in this world presently. Will we still long for the things we enjoyed previously but then forget that the world was evil and corrupt?
