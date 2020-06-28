@@ -70,8 +70,11 @@ Lot and his family stayed in Sodom. The two angels told Lot that God was going t
 (b) Israelites in the wilderness  
 They constantly complained against Moses, they longed for the melons and fish that they enjoyed in Egypt. They had forgotten that they were slaves.
 Let's think back on ourselves. As we go to heaven, will we cast a longing eye back on the world that is going to be destroyed? Will we view our time on earth with tinted lenses? Will we think "Oh this is such a waste, that the earth is no more." Will we think only of all the good things that we enjoy in this world, and conveniently ignore the evil and suffering in this world presently. Will we still long for the things we enjoyed previously but then forget that the world was evil and corrupt?
-Yes, we can enjoy what God has given us on this earth, our lives, family, church. But we must always be ready to drop all of this at any point. Like Paul said, in Phil 1:23  
+Yes, we can enjoy what God has given us on this earth, our lives, family, church. But we must always be ready to drop all of this at any point.
+
+Phil 1:23  
 *For I am hard-pressed between the two, having a desire to depart and be with Christ, which is far better. Nevertheless to remain in the flesh is more needful for you.*
+
 In church, we should be aware that what we have here is just a shadow of what we have in heaven. When we spend time in fellowship, it should propel us to look forward to heaven even more and not want to stay put because what we have here seems good to us. If that's the case, we have to be careful. Are we content to stay on earth?
 One takeaway from all of this: It is important to realise that we may like some parts of the world. But the world as a whole is in a bad state. Hence we cannot be content with living in this world.
 
@@ -80,8 +83,10 @@ Ask ourselves seriously: We know in our heads that heaven is meant to be a bette
 We might think "Oh we won't have the things we enjoy on this earth currently. No games, no movies..." And because of this, we may think, “I know when I die, heaven is probably going to be a great place, but there are so many things I want to do, want to try.” This stands in our way of longing for heaven like the patriarchs.
 So what can we do if we can't imagine what heaven is like?
 There are many things about heaven that will remain mysteries to us until we get there. 
+
 2 Cor 12:4   
 *how he was caught up into Paradise and heard inexpressible words, which it is not lawful for a man to utter.*
+
 If all the terms and conditions of believing in Jesus were all laid out in the Bible, described fully in the bible, then Christianity would be more of a contract, and less of a faith, because we know exactly what we're getting into. Indeed, heaven is supposed to be beyond what we can imagine. If we want to try to imagine what heaven is like in order to desire heaven then let us remember that heaven is beyond what we can imagine. Let's not even try to imagine.
 We must have faith in our God and Creator who is the creator of everything we have on this earth. Let us have faith in His wonderful design.
 
