@@ -13,9 +13,9 @@ Summary:
 
 The speaker shared an old country song named ‘Take Me Home, Country Road’ by John Denver (https://www.youtube.com/watch?v=1vrEljMfXYo) .The speaker was hit by a wave of emotion and the closest thing to describe it would be a feeling of nostalgia. A lot of people feel the same when they hear this song. They feel this sense of longing even though they've never seen the mountains the singer sings about. Since the speaker rarely feels these strong emotions, he decided to delve more into these feelings.
 
-As Christians we are always longing for or looking forward to our home, though we've never seen it.” Just like the comments on the video, "I long for West Virginia even though I've never been there."
+As Christians we are always longing for or looking forward to our home, though we've never seen it. Just like the comments on the video, "I long for West Virginia even though I've never been there."
 
-These emotions are quite far removed from the speaker. After all, we have been in the comfort of our own homes for a long time. If anything, we'll be sick of our homes, not nostalgia. Our situation is nothing like this. We're supposed to long for our homes. But is this our actual state? Do we constantly pine for our heavenly home? Or is it just a passing feeling when this thought is out of sight and mind?
+These emotions are quite far removed from the speaker. After all, we have been in the comfort of our own homes for a long time. If anything, we'll be sick of our homes, not nostalgic. Our situation is nothing like this. We're supposed to long for our homes. But is this our actual state? Do we constantly pine for our heavenly home? Or is it just a passing feeling when this thought is out of sight and mind?
 
 Let's explore these feelings in relation to our faith because they can play a positive role in our lives of faith.
 What are these feelings of nostalgia and longing?  
@@ -26,6 +26,7 @@ Importance of longing for heaven: heroes of faith
 Heb 11:9-10, 13-16   
 *By faith he dwelt in the land of promise as in a foreign country, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise; for he waited for the city which has foundations, whose builder and maker is God.
 These all died in faith, not having received the promises, but having seen them afar off were assured of them, embraced them and confessed that they were strangers and pilgrims on the earth. For those who say such things declare plainly that they seek a homeland. And truly if they had called to mind that country from which they had come out, they would have had opportunity to return. But now they desire a better, that is, a heavenly country. Therefore God is not ashamed to be called their God, for He has prepared a city for them.*
+
 When we read about these heroes of faith, it is clear from the way they led their life that it was different from the others in the land of Canaan. While others tried to stake their claim on land, to leave a legacy for ourselves, these heroes rather believed in God's promise, than have faith in their own hands. Abraham defeated 4 kings himself. But he didn't go out to conquer the lands, rather he sought a better country, that is heaven.
 This is an important motivation for our faith - to desire heaven.
 
@@ -39,6 +40,7 @@ We often bring up this verse to talk about Paul's faith and dedication to his mi
 2 Cor 4:7-11, 16-18   
 *But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us. We are hard-pressed on every side, yet not crushed; we are perplexed, but not in despair; persecuted, but not forsaken; struck down, but not destroyed— always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body. For we who live are always delivered to death for Jesus’ sake, that the life of Jesus also may be manifested in our mortal flesh.
 Therefore we do not lose heart. Even though our outward man is perishing, yet the inward man is being renewed day by day. For our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory, while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.*
+
 Paul is talking about how his outward man is perishing everyday, as he looks to the things that are eternal. This once again gives us insight into Paul's psyche. He had no confidence in this flesh, this current life. He almost feels as if he's stuck in this fleshly body and everyday he's dying. He can't wait to be liberated and escape this dying body to go to heaven.
 While we take this as an exhortation from Paul, do we realise that Paul was a human too and these were his actual feelings?
 
