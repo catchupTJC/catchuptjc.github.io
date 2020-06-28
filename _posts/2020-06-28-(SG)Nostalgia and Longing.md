@@ -34,9 +34,11 @@ Take the illustration of soldiers.
 When a soldier fights for their home country, what gives them the motivation to fight? Their longing to return to times of peace and to return to their families. Maybe those who have served National Service have had this feeling before, while suffering in the jungle. The simple comfort of home could be the only comfort. Similarly for the patriarchs, they were longing for their true home. The actions they showed were because of this longing - they were content to live as sojourners. This was accounted to them as faith. This longing for heaven is so important because this is our faith.
 
 We will look at another example - Paul. Paul in many of his epistles made clear his longing for his heavenly home. 
+
 Phil 1:21-23   
 *For to me, to live is Christ, and to die is gain. But if I live on in the flesh, this will mean fruit from my labor; yet what I shall choose I cannot tell. For I am hard-pressed between the two, having a desire to depart and be with Christ, which is far better.*
 We often bring up this verse to talk about Paul's faith and dedication to his mission. But have we really thought and considered the weight of these words?
+
 2 Cor 4:7-11, 16-18   
 *But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us. We are hard-pressed on every side, yet not crushed; we are perplexed, but not in despair; persecuted, but not forsaken; struck down, but not destroyed— always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body. For we who live are always delivered to death for Jesus’ sake, that the life of Jesus also may be manifested in our mortal flesh.
 Therefore we do not lose heart. Even though our outward man is perishing, yet the inward man is being renewed day by day. For our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory, while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.*
