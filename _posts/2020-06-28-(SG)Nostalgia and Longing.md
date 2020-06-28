@@ -59,7 +59,10 @@ Why is this so? Some points for consideration:
 
 ## 1. Maybe we are satisfied with our current norm on earth.
 This is normal and reasonable, since this earth where we stay is all that we've ever known. The moment we are born and aware of anything, we are on this earth. But there is the subtle but significant difference between "My life on this earth is ok but I know Jesus has promised us heaven" vs "This world is refused, and I have no confidence in the flesh, hence I eagerly look forward to heaven."
-When we are content with what we have on earth, we will store more and more treasures on earth. Matt 6:21 For where your treasure is, there your heart will be also.
+When we are content with what we have on earth, we will store more and more treasures on earth.   
+Matt 6:21   
+*"For where your treasure is, there your heart will be also."*
+
 Though it may be subconscious, as we get more comfortable on earth, we store more of these precious treasures on earth and this could stand in the way of our longing for heaven.
 Of course, this is not bad. This is not to say that we should make ourselves suffer. People in the bible also enjoyed blessings on the earth.
 Instead, here are some perspectives and examples from the bible.
