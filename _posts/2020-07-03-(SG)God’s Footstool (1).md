@@ -6,7 +6,7 @@ tags: [reflection]
 hymns: [16,359]
 speaker: prsilaskong
 ---
-Summary:
+Summary:  
 What is God’s footstool according to the Bible?  
 1. **Earth** is God’s footstool: this helps us understand He is ruler of all  
 2. **Mount Zion** is God’s footstool: let us therefore come near and worship Him often!  
