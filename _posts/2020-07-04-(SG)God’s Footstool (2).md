@@ -8,9 +8,9 @@ speaker: prsilaskong
 ---
 Summary:  
 Who are the enemies God made His footstool?  
-1. Satan: Overcome the temptation of the evil one. Since Jesus was triumphant, so will we!  
-2. Lust of the flesh: Overcome our desires so we don’t become overcome by it.  
-3. Death: The final enemy. Do not fear death; we’ll sit on the throne with Him.
+1. **Satan**: Overcome the temptation of the evil one. Since Jesus was triumphant, so will we!  
+2. **Lust of the flesh**: Overcome our desires so we don’t become overcome by it.  
+3. **Death**: The final enemy. Do not fear death; we’ll sit on the throne with Him.
 
 In the previous sermon, what God’s footstool is according to the Bible was covered:  
 1. Heaven is God’s throne and earth His footstool. This reminds us to trust in God’s power and have firm faith no matter what our circumstances.  
