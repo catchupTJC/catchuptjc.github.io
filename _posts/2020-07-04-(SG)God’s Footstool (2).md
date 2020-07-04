@@ -2,7 +2,7 @@
 layout: post
 title: God’s Footstool (2)
 category: sermon2020singapore
-tags: [reflection]
+tags: [enemy,footstool,satan,lust,death,victory]
 hymns: [12,454]
 speaker: prsilaskong
 ---
