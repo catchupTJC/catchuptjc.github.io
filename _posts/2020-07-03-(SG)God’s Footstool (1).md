@@ -2,7 +2,7 @@
 layout: post
 title: God’s Footstool (1)
 category: sermon2020singapore
-tags: [reflection]
+tags: [footstool,heaven,throne,earth,mountzion,worship,church,arkofthecovenant,wordofgod,commandments,heart]
 hymns: [16,359]
 speaker: prsilaskong
 ---
