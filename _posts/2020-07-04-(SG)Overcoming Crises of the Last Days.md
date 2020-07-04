@@ -15,14 +15,14 @@ For us, the real tectonic shift is when Christ comes again. When Christ comes ag
 
 Today, the speaker will discuss a few crises for us Christians in the Last Days. 
 
-## 1. The rise of scoffers
+## 1. The rise of scoffers  
 We turn to 2 Peter 3:3-4;   
 
 *knowing this first: that scoffers will come in the last days, walking according to their own lusts, and saying, “Where is the promise of His coming? For since the fathers fell asleep, all things continue as they were from the beginning of creation.”* 
 
 V3 says that the first thing coming in the Last Days is the coming of the scoffers. What do they scoff at? V4 says that they question where the promise of His coming is. The first crisis is to question the second coming of Christ, “There is nothing to be ready for because Christ is not coming!” They even have evidence. Everything has been running since the beginning and when they look around, there is no sign of Christ coming again. The real reason listed here is that they want to walk according to their own lust. Because if Christ is not coming, there is no judgement. If there is no judgement, there is nothing for them to answer to! They can do whatever they want in their lives. 
 
-A thought experiment: 
+A thought experiment:  
 If we know that Christ is coming tomorrow, will we dare to sin? Obviously, not. We would probably be praying till He comes again. 
 
 In 1984, the speaker went back to Sabah, Malaysia, for holiday. He was about 7-10 years old then. He heard a “vision” (not from God) because it talks about when Jesus Christ would come again. Someone saw the first 2 digits of when Christ would come again. He saw ’19’ and the last two digits were blanked out. We can definitely say that such a vision is not from God because Jesus says that no one knows the day or hour of that Day. The speaker was very young then and didn’t know any better. He then thought, “Perhaps this is true?” because there was no prediction of the exact, day, hour, and even year. It was a range of years. It had a great impact on the speaker when he first heard it because many thoughts went through his mind. He did some calculations and thought there was at most 15 years before Jesus Christ came again. He didn’t have the Holy Spirit then and wondered if he had enough time to pray for the Holy Spirit. It was very unsettling for the speaker. 
@@ -67,123 +67,89 @@ Carousing means merry-making and drinking wine. This would refer to the pleasure
 
 Presently, we have even more pleasures to be distracted by. There are endless things for us to surf on the internet. Of course, many of these things are neutral and really are harmless by themselves. However, they become a danger when we are so involved in pleasure-seeking it becomes the goal of our lives and we seek only to stimulate our senses; we become oblivious to His coming. 
 
-We can also be distracted by the cares of this life. Many times, we have many immediate concerns. Very often, we  we can put God aside and solve our problems first. THEN, I will give God my due attention. The problem is: when will that future be? Very often, our problems are also never-ending and therefore we never have enough time to leave for God. These 2 things, pleasures and cares of this life, can make a person a drunkard. A drunkard doesn’t know what is happening around him and hence v35 says;   
+We can also be distracted by the cares of this life. Many times, we have many immediate concerns but we decide to put God aside and solve our problems first and leave thoughts for the future, the second coming, and matters of God for later. The problem is: when will that future be? Very often, our problems are also never-ending and therefore we never have enough time to leave for God. These 2 things, pleasures and cares of this life, can make a person a drunk. A drunk doesn’t know what is happening around him and hence v35 says;   
+
 *For it will come as a snare on all those who dwell on the face of the whole earth*
 
+A snare is used to catch animals. The psalmist always says that he is like a bird caught in a snare. If a bird sees the snare, it would avoid the snare. if the bird is caught in the snare, it means that it didn’t see the snare. 
 
-A snare is used to catch animals. The psalmist always says that he is like a bird caught in a snare. If a bird sees the snare, he would avoid it. if he is caught in the snare, it means it didn’t see the snare. 
+There was only once when the speaker saw a bird caught unaware. The speaker used to stay in a multipurpose hall in church whenever he returned to Sabah. Sometimes, he will stand and watch birds fly from one side of the hall to another. One day, the worker in church closed all the windows from the other side. The sunlight came from the other side so it was very bright. There was a particular bird that didn’t realise that. The speaker was standing by the railing and saw the bird fly from one side to another. Then it flew right across the 2 badminton courts. The bird thought that it could fly through the glass, whammed into the glass and dropped down. This also caught the speaker by surprise and hence he ran to take a look. It was too late and he ran to his mother, “I just saw a bird, it looks like it doesn’t have a brain!” 
 
-There was only once the speaker saw a bird caught unaware. He used to stay in a multipurpose hall in church whenever he returned to Sabah. Sometimes, he will just stand and watch birds fly from one side of the hall to another. One day, the worker in church closed all the windows from the other side. The sunlight comes from the other side so it was very bright. There was a particular bird that didn’t realise that. The speaker was standing by the railing and saw the bird fly from one side to another. It flew right across the 2 Badminton courts. The bird thought that it could fly through the glass, whaled into the glass and dropped down. This also caught the speaker by surprise and ran to take a look. It was too late and he ran to his mother, “I just saw a bird, it looks like it doesn’t have a brain!” 
+Sometimes, we may be like this bird. We think that our future is bright, sunny, and everything looks good ahead. We think that we can continue flying and flying forever. Until, the snare catches us unaware. 
 
-Sometimes, we may be like this bird. We think that our future is bright, sunny, and everything looks good ahead. We think that we can continue flying and flying forever. Until, the snare catches us unaware. How do we avoid being caught unaware? How do we overcome distractions in this life? Jesus’ solution here is to ‘watch and pray’. Watch and pray, that you may be counted worthy. ‘Watch and pray’ is the solution to prevent ourselves from being drunk. 
+How do we avoid being caught unaware? How do we overcome distractions in this life? Jesus’ solution here is to ‘watch and pray’. ‘Watch and pray’, that you may be counted worthy. ‘Watch and pray’ is the solution to prevent ourselves from being drunk. 
 
 Turn to Ephesians 5:18;  
+
 *And do not be drunk with wine, in which is dissipation; but be filled with the Spirit,*
 
+Here Paul contrasts being drunk with wine and being filled with the Holy Spirit. Why? 
+Recall the day of Pentecost. The Holy Spirit came and the disciples were filled with the Holy Spirit. The mockers said, “They are filled with new wine!” To the world, the one filled with the Holy Spirit looks like a drunkard. It is not just because he speaks in tongues and people think that he is drunk but because he looks so different in every aspect of his life that he looks drunk to the world. Hence, the world would say to him, “You are oblivious to the things in life!” In reality, these people are the most in-tuned with spiritual reality. 
 
-Here Paul contrasts being drunk with wine and being filled the the Holy Spirit. Why? 
-If we turn back to the day of Pentecost. The Holy Spirit came and the disciples were filled with the Holy Spirit. The mockers said, “They are filled with new wine!” To the world, the one filled with the Holy Spirit looks like a drunkard. It is not just because he speaks in tongues and people think he is drunk but he looks so different in every aspect of his life that he looks drunk to the world. Hence, the world would say to him, “You are oblivious to the things of life!” In reality, they were most intune with the spiritual reality. Hence, Paul says to not be drunk with wine but be drunk with the Holy Spirit. You are either drunk with the wine of the grape-coloured, the world, or with the new wine of the Holy Spirit. The one filled with the Holy Spirit is not drunk according to the Bible because the Day is always in His mind. He knows there is a possibility that he may be counted unworthy. Therefore, he always watches and pray that he may be counted worthy. Do we also live, watch, and pray with the end in mind? 
+Hence, Paul says to not be drunk with wine but be drunk with the Holy Spirit. There are 2 wines you can be drunk with. You are either drunk with the wine of the grape-coloured, the world, or with the new wine of the Holy Spirit. The one filled with the Holy Spirit is not drunk according to the Bible because the Day is always in His mind. He knows there is a possibility that he may be counted unworthy. Therefore, he always watches and prays that he may be counted worthy. Do we also live, watch, and pray with the end in mind? 
 
 ## 3. Specific spiritual challenges to be on the lookout for
 Turn to 2 Timothy 3:1;  
+
 *But know this, that in the last days perilous times will come:*
 
-
 There will be perilous times in the last days. What does it mean? Read v3-4;  
+
 *unloving, unforgiving, slanderers, without self-control, brutal, despisers of good, traitors, headstrong, haughty, lovers of pleasure rather than lovers of God,*
 
+The world we live in makes it difficult especially in the Last Days — it is hard to keep the Word of God. Here it says that men will be lovers of themselves. All the other characteristics stem from the fact that men are very self-centred in the Last Days. The speaker was reading Quora the other day and someone asked a question, “My child insists on wearing a mask, how do I convince him otherwise?” Many asked him why he didn't want his child to wear a mask because this is good. But this is men in the Last Days; they only think about themselves and not of others. 
 
-
-The world we live in makes it difficult especially in the Last Days— it is hard to keep the Word of God. Here it says that men will be lovers of themselves. All the other characteristics stem from the fact that men are very self-centred in the Last Days. The speaker was reading Quora the other day and someone asks a question, “My child insisted on wearing a mask, how do I convince him otherwise?” Many asked him why he didn't want his child to wear a mask if it is good. But this is men in the Last Days, they only think about themselves and not others. Here it mentions that they are boasters and proud. In other words, “Think of how great I am!” There is no gratitude, they are traitors. Everything revolves around their own benefit and they’re willing to do anything to benefit themselves. 
+Here it also mentions that they are boasters and proud. In other words, “Think of how great I am!” There is no gratitude and they are traitors. Everything revolves around their own benefit and they’re willing to do anything to benefit themselves. 
 
 “Rugal, despisers of good”  
 They’re willing to do anything as long as it benefits themselves. 
 
 Read v7;  
+
 *always learning and never able to come to the knowledge of the truth.*
 
+How can we always learn but not come to a knowledge of something? Is it because they’re not smart? The fact is that it has nothing to do with intellectualism. V6 says that its because they want to follow their own lusts;  
 
-How we can always learn but not come to a knowledge of something? It is because they’re not smart. The fact is that it has nothing to do with intellectual. V6 says that its because they want to follow their own lusts;  
-*For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts*
-
+*For of this sort are those who creep into households and make captives of gullible women loaded down with sins, led away by various lusts*  
 
 They don’t want to listen to what is good but only to what they want to hear. But we learn the Truth not for academic knowledge; we learn the Word of God not to stimulate the mind; the Truth is supposed to set us free. If there is no desire to give up the self, you will never understand the Truth. Therefore, v5 says;  
+
 *having a form of godliness but denying its power*
 
+In other words, godliness is just a means of gain to them, “It is not about giving up myself. Everything is about how this can benefit me, even godliness.” He is his own god. 
 
-In other words, godliness is just a means of gain to them, “It is not about giving up myself. Everything is about how can this benefit me, even godliness.” He is his own god. 
+How can we overcome this self-centred crisis in the Last Days?   
+Read v10-11;   
 
-How can we overcome this self-centred crisis in the Last Days? Read v10-11;   
-*But you have carefully followed my doctrine, manner of life, purpose, faith, longsuffering, love, perseverance, persecutions, afflictions, which happened to me at Antioch, at Iconium, at Lystra—what persecutions I endured. And out of them all the Lord delivered me.*
-
+*But you have carefully followed my doctrine, manner of life, purpose, faith, longsuffering, love, perseverance, persecutions, afflictions, which happened to me at Antioch, at Iconium, at Lystra—what persecutions I endured. And out of them all the Lord delivered me.*  
 
 **1. Learn from the examples of the people with great faith in the Bible**  
- Paul asked Timothy to follow his example. Sometimes, we look at the wrong examples and we excuse ourselves because, “That person in church is also like that. Therefore, I can also be like that!” But Paul asked Timothy to follow his example and not the wrong examples of the self-centred men in the world but also in church.
+Paul asked Timothy to follow his example. Sometimes, we look at the wrong examples and we excuse ourselves because, “That person in church is also like that. Therefore, I can also be like that!” But Paul asked Timothy to follow his example and not the wrong examples of the self-centred men in the world (and sometimes even church).  
 
-**2. Be willing to pay a price**
-Read v12;  
-*Yes, and all who desire to live godly in Christ Jesus will suffer persecution.*
+**2. Be willing to pay a price**  
+Read v12; 
 
+*Yes, and all who desire to live godly in Christ Jesus will suffer persecution.*  
 
 There is a price to be paid for our faith. To give up the self, you must be willing to endure sufferings. Oftentimes, we still ask God, “What benefit can I get?” 
 
 Actually, God is asking us, “What can you give up for Me?”
 
 What are we willing to give up for our faith? V12 says,  
+
 *“All who desire to live godly life will suffer.”*
 
-**3. To overcome the self, the scripture is indispensable**  
+**3. To overcome the self, the scripture is indispensable**    
 Read v15;  
+
 *and that from childhood you have known the Holy Scriptures, which are able to make you wise for salvation through faith which is in Christ Jesus.*  
 
+Paul tells us that the scripture makes us wise for salvation. Unfortunately, in the Last Days, people don’t like to learn from the scripture. They feel that these are things they already know because they read the Bible often. Hence, they want to listen to something new; something that would scratch their itching ears. But Paul tells Timothy that it is the scripture that will make us wise for salvation. If we continue in all these things as Paul told Timothy, we can be confident to meet the Lord when He comes again. 
 
-
-Paul tells us that the scripture makes us wise for salvation. Unfortunately, in the Last Days, people don’t like to learn from the scripture. They feel that these are things they already know because they’ve read the Bible often. Hence, they want to listen to something new, something that would scratch their itching ears. But Paul tells Timothy that it is the scripture that will make us wise for salvation. If we continue in all these things as Paul told Timothy, we can be confident to meet the Lord when He come again. The question is: when Christ comes again, would we have become indifferent like the scoffers? Would be we weighed down by carousing, drunkenness, and the cares of this life? Will we be like the self-centred man who denies the godliness? Or, will we be ready to meet Him? 
+The question is: when Christ comes again, would we have become indifferent like the scoffers? Would be we weighed down by carousing, drunkenness, and the cares of this life? Will we be like the self-centred man who denies godliness? Or, will we be ready to meet Him? 
 
 ----
 ****
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
