@@ -138,7 +138,7 @@ Read v15;
 
 
 
-Paul tells us that the scripture makes us wise for salvation. Unfortunately, in the Last Days, people don’t like to learn from the scripture. They feel that these are things they already know because they’ve read the Bible often. Hence, they want to listen to something new, something that would scratch their itching ears. But Paul tells Timothy that it is the scripture that will make us wise for salvation. If we continue in all these things as Paul told Timothy, we can be confident to meet the Lord when He come again. The question is: when Christ comes again, would we have become indifferent like the scofferS? Would be we weighed down by carousing, drunkenness, and the cares of this life? Will we be like the self-centred man who denies the godliness? Or, will we be ready to meet Him? 
+Paul tells us that the scripture makes us wise for salvation. Unfortunately, in the Last Days, people don’t like to learn from the scripture. They feel that these are things they already know because they’ve read the Bible often. Hence, they want to listen to something new, something that would scratch their itching ears. But Paul tells Timothy that it is the scripture that will make us wise for salvation. If we continue in all these things as Paul told Timothy, we can be confident to meet the Lord when He come again. The question is: when Christ comes again, would we have become indifferent like the scoffers? Would be we weighed down by carousing, drunkenness, and the cares of this life? Will we be like the self-centred man who denies the godliness? Or, will we be ready to meet Him? 
 
 ----
 ****
