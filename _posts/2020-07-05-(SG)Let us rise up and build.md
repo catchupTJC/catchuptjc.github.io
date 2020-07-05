@@ -7,6 +7,11 @@ hymns: [244,170]
 speaker: brogabriellin
 ---
 
+Summary:  
+1. Am I a temple meet for God's dwelling?
+2. Let us build up a place to stir up love and good works! 
+
+
 How time has passed so quickly. Before we know it, it is already July 2020. We are in phase 2 of reopening. Elections are coming. Very quickly 7 months of dealing with COVID-19 has passed by. The saying goes, time and tide waits for no man. These special times have disrupted many of our lives and work. However, look back and you will also see the grace of God in our lives. Consider how He has provided for each of us. Also how He has preserved us and ignited a flame within all of us. Many of us have started attending more services because of the pandemic. Many of us have begun to pray more and to read the bible more because of the plague. That is all good. And we thank God for His providence.  
 Time indeed passes very quickly. Before we know it, it is already July 2020. Consider, what have you done for the Lord? What happened to all the resolutions you made for your faith? Before the turn of the year, during lunch in church, a few older brothers asked some of the younger brothers, what would you do for the Lord? What is your ambition, so to speak, for God? Before age and decay catch up with you. Before you know it you are already 40 and older. Before you know it, you are wearing glasses and unable to read.   
 
