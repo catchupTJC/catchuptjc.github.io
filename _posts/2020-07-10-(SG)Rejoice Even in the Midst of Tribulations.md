@@ -167,12 +167,10 @@ When a person’s heart is in darkness, he is without hope for he cannot see the
 When we have the Word of God in our hearts and is lit by the Lord, that becomes the word of life. That is when we have a lot of hope. When we have the Word of God in the midst of tribulations and it shines brightly in our hearts, it will be full of joy. Some of us may be very knowledgeable of the Bible but our hearts are dark because the world has darkened our lamp; we did not allow Jesus Christ to light our lamps. When we study the Word of God, let it not be just knowledge. When we have light of the Lord is when we have hope, salvation, and are able to behold God face to face. Then, the Word of God will become a lamp to our feet and light to our path. We will know what to do and walk according to the will of God. If our lives are conducted according to the will of God, because He has lit our lives up, it will be a life of rejoicing. Even though we may meet with sufferings, we will rejoice.
 
 These 3 things are things we must do, then, we will rejoice.   
-**1. Trust in the Lord**   
-
-**2. Praise and sing hymns always**   
-Hymns don’t just refer to those in our hymn book. There are many hymns in the Bible - Psalms; short passages written by great men like Moses and David praising God. These are hymns we keep in our hearts. Sing this to the Lord and be joyful!  
-
-**3. Pray always to the Lord to light our hearts**  
+**1. Trust in the Lord**    
+**2. Praise and sing hymns always**    
+Hymns don’t just refer to those in our hymn book. There are many hymns in the Bible - Psalms; short passages written by great men like Moses and David praising God. These are hymns we keep in our hearts. Sing this to the Lord and be joyful!   
+**3. Pray always to the Lord to light our hearts**   
 Don’t let the world darken our hearts; let the Lord light our hearts. 
 
 ----
