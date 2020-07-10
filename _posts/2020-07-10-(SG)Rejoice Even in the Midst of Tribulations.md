@@ -52,7 +52,6 @@ This was what Paul and Barnabas exhorted the believers. In their first missionar
 Recall the first martyr in Acts. In Acts 7, Stephen was stoned to death but we remember his death as victorious because he kept his faith to the end. Though his enemies opposed him greatly; planted false witnesses to accuse him; Stephen continued to keep the Word of Truth and proclaimed Jesus. Even when these people were going to stone him, the face of Stephen was likened to the face of an angel; full of serenity. When he looked up to Heaven, a vision was shown to him and he saw Jesus Christ at the right hand of His Father. Stephen was really exhorted and was full of joy. He then told this vision to the people. The people hated him because they were enemies of Christ, and went on to stone him. But Stephen was filled with the peace of the Lord. As he was stoned, he prayed for those who persecuted him as well as for those who stoned him; he asked the Lord to forgive them for they didn’t know what they were doing. 
 
 That was Stephen — full of faith, love from God, and courage. He went through sufferings and finally death by stoning. He suffered all these for Christ and we believe he has a kingdom in heaven. Hence, he was shown a vision when he looked up to heaven, seeing Jesus at the right hand of the Father shows that the salvation was with Stephen. Jesus ascended to heaven and was still interceding for Stephen. This is why Stephen had no fear. In the midst of tribulations, he continued to have hope and rejoice. This is the first reason. 
-
 **2. Because it is through sufferings and tribulations we cultivate spiritual character**
 We always say that we must cultivate a spiritual character and only through tribulations we are able to cultivate this spiritual character. In Romans 5:1-5;
 
@@ -128,7 +127,6 @@ Read 2 Corinthians 12:9-10;
 10 Therefore I take pleasure in infirmities, in reproaches, in needs, in persecutions, in distresses, for Christ’s sake. For when I am weak, then I am strong.*
 
 Paul took pleasure in infirmities, reproaches, needs and persecutions. The Lord said, “My grace is sufficient for you.” This was the path the Lord wanted Paul to take. Though Paul needed to go through hardships, he took pleasure in sufferings. When the Lord said, “My grace is sufficient for you,” Paul took pleasure in the aforementioned because he was suffering in the will of God. Our sufferings are not forever and without purpose when we suffer for the Lord. 
-
 **3. Know sufferings are temporary**  
 Paul said the temporal sufferings prepare us for the eternal weight of glory in the kingdom of heaven (2 Cor 4:17). In life, we go through sufferings. As compared to the glory to be received in the kingdom of heaven, our sufferings are nothing. Though Paul had to suffer, he had no worries because he knew these sufferings are but a preparation for the eternal kingdom in heaven. As Christians, our sufferings are not for nothing. We don’t just suffer because there is COVID-19 or because the world is cruel, but because God has prepared this for us. 
 
@@ -168,10 +166,9 @@ When a person’s heart is in darkness, he is without hope for he cannot see the
 
 When we have the Word of God in our hearts and is lit by the Lord, that becomes the word of life. That is when we have a lot of hope. When we have the Word of God in the midst of tribulations and it shines brightly in our hearts, it will be full of joy. Some of us may be very knowledgeable of the Bible but our hearts are dark because the world has darkened our lamp; we did not allow Jesus Christ to light our lamps. When we study the Word of God, let it not be just knowledge. When we have light of the Lord is when we have hope, salvation, and are able to behold God face to face. Then, the Word of God will become a lamp to our feet and light to our path. We will know what to do and walk according to the will of God. If our lives are conducted according to the will of God, because He has lit our lives up, it will be a life of rejoicing. Even though we may meet with sufferings, we will rejoice.
 
-These 3 things are things we must do, then, we will rejoice.  
- 
-**1. Trust in the Lord**  
-**2. Praise and sing hymns always**  
+These 3 things are things we must do, then, we will rejoice.   
+**1. Trust in the Lord**   
+**2. Praise and sing hymns always**   
 Hymns don’t just refer to those in our hymn book. There are many hymns in the Bible - Psalms; short passages written by great men like Moses and David praising God. These are hymns we keep in our hearts. Sing this to the Lord and be joyful!  
 **3. Pray always to the Lord to light our hearts**  
 Don’t let the world darken our hearts; let the Lord light our hearts. 
