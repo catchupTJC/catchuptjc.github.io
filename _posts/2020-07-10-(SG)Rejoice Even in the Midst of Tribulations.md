@@ -127,6 +127,7 @@ Read 2 Corinthians 12:9-10;
 10 Therefore I take pleasure in infirmities, in reproaches, in needs, in persecutions, in distresses, for Christ’s sake. For when I am weak, then I am strong.*
 
 Paul took pleasure in infirmities, reproaches, needs and persecutions. The Lord said, “My grace is sufficient for you.” This was the path the Lord wanted Paul to take. Though Paul needed to go through hardships, he took pleasure in sufferings. When the Lord said, “My grace is sufficient for you,” Paul took pleasure in the aforementioned because he was suffering in the will of God. Our sufferings are not forever and without purpose when we suffer for the Lord. 
+
 **3. Know sufferings are temporary**  
 Paul said the temporal sufferings prepare us for the eternal weight of glory in the kingdom of heaven (2 Cor 4:17). In life, we go through sufferings. As compared to the glory to be received in the kingdom of heaven, our sufferings are nothing. Though Paul had to suffer, he had no worries because he knew these sufferings are but a preparation for the eternal kingdom in heaven. As Christians, our sufferings are not for nothing. We don’t just suffer because there is COVID-19 or because the world is cruel, but because God has prepared this for us. 
 
