@@ -46,14 +46,14 @@ The way of following Jesus Christ is to take up Christ. Therefore, sufferings ar
 If we suffer for righteousness sake, we suffer for Christ; we suffer because we keep the faith in the Lord Jesus Christ, we suffer because we love Christ! Such sufferings are glorious. This is why believers will still be able to rejoice. 
 
 ## Why do we rejoice in the midst of tribulations?
-**1. Because it is through many tribulations we enter the Kingdom of God**  
-This was what Paul and Barnabas exhorted the believers. In their first missionary journey, they went to Galatia. As they passed through from one town to another, many came to believe. Then Paul exhorted them to keep strong in their faith though they may meet many tribulations. 
+**1. Because it is through many tribulations we enter the Kingdom of God**   
+This was what Paul and Barnabas exhorted the believers. In their first missionary journey, t hey went to Galatia. As they passed through from one town to another, many came to believe. Then Paul exhorted them to keep strong in their faith though they may meet many tribulations. 
 
 Recall the first martyr in Acts. In Acts 7, Stephen was stoned to death but we remember his death as victorious because he kept his faith to the end. Though his enemies opposed him greatly; planted false witnesses to accuse him; Stephen continued to keep the Word of Truth and proclaimed Jesus. Even when these people were going to stone him, the face of Stephen was likened to the face of an angel; full of serenity. When he looked up to Heaven, a vision was shown to him and he saw Jesus Christ at the right hand of His Father. Stephen was really exhorted and was full of joy. He then told this vision to the people. The people hated him because they were enemies of Christ, and went on to stone him. But Stephen was filled with the peace of the Lord. As he was stoned, he prayed for those who persecuted him as well as for those who stoned him; he asked the Lord to forgive them for they didn’t know what they were doing. 
 
 That was Stephen — full of faith, love from God, and courage. He went through sufferings and finally death by stoning. He suffered all these for Christ and we believe he has a kingdom in heaven. Hence, he was shown a vision when he looked up to heaven, seeing Jesus at the right hand of the Father shows that the salvation was with Stephen. Jesus ascended to heaven and was still interceding for Stephen. This is why Stephen had no fear. In the midst of tribulations, he continued to have hope and rejoice. This is the first reason. 
 
-**2. Because it is through sufferings and tribulations we cultivate spiritual character**
+**2. Because it is through sufferings and tribulations we cultivate spiritual character**  
 We always say that we must cultivate a spiritual character and only through tribulations we are able to cultivate this spiritual character. In Romans 5:1-5;
 
 *1 'Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,
@@ -91,7 +91,7 @@ The church is strengthened because of these elderly sisters. Their spiritual cha
 
 We say that the Holy Spirit makes us strong. But, if tribulations don’t come upon us, we don’t really need to endure sufferings and our spiritual characters will still remain weak. When we suffer tribulations, we must still rejoice because we will grow in character.
 
-**3. We will receive strength from the Lord and fight the spiritual war well**
+**3. We will receive strength from the Lord and fight the spiritual war well**  
 Turn to Revelation 7:9;
 
 *'After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands, '*
@@ -114,10 +114,10 @@ Post COVID-19, our lives will be very different and tough but this is not consid
 
 ## How can we have joy in suffering?
 
-**1. Know assuredly that suffering tribulations for Christ is suffering for righteousness’ sake**  
+**1. Know assuredly that suffering tribulations for Christ is suffering for righteousness’ sake**   
 If we suffer for ourselves, it is not for righteousness’ sake. If we suffer according to the biblical suffering; keeping the word of righteousness, upholding our faith and trust in God, that is suffering for Christ. The reward of the kingdom of heaven is for us. The TJC has the truth, the Holy Spirit, the grace, and mercy of the blood of Christ. All these enable us to walk righteously to our God. Let us examine ourselves, are we truly walking in righteousness? Sometimes the speaker reflects on his deeds and wonders why he acts in such ways. We may term these as “unrighteousness” and “injustice”. It may not be seen of adultery or murder but they are with jealousy, malice, division, and envy hidden in the things we do. We say that we keep the word of God but we are unable to work with each other. Preachers always say, “Do we 同工 or 同攻击?” We always say to walk together (同工), but we are actually attacking one another (同攻击). This is because we lack righteousness. There needs to be total submission to God because it is when we can walk righteously with God. Then, our sufferings are for Christ and righteousness.
 
-**2. Know that the grace of God is sufficient for us**  
+**2. Know that the grace of God is sufficient for us**   
 These sufferings are only temporary and will not be too great to overcome us because the grace of Christ is always sufficient for us. When COVID-19 began and the death toll kept increasing, there was much fear. In Singapore, we may not feel this fear as much especially when the mortality rate is low and infections are mostly limited to a certain group of people. With most factors in control, we feel safe in comparison to those in other countries. As a result, we do not seek the grace of God as much. If we were in America now where the situation has already lost control; the CDC has no control, the president neglects the advice of the health advisories; there is much more fear. 
 
 Victoria, Australia is now experiencing a second wave; many are trying to move out to another state. Though Western Australia is closed, many have managed to enter still. We don’t know how, but they have ways to. We know that there are many tribulations in the world. We may escape from this pandemic temporarily, but other tribulations will come. What we know for sure is this: God’s grace is sufficient for us. If we know this, we can rejoice. Paul was contended with afflictions and sufferings when God told him, “My grace is sufficient for you.” 
@@ -129,14 +129,14 @@ Read 2 Corinthians 12:9-10;
 
 Paul took pleasure in infirmities, reproaches, needs and persecutions. The Lord said, “My grace is sufficient for you.” This was the path the Lord wanted Paul to take. Though Paul needed to go through hardships, he took pleasure in sufferings. When the Lord said, “My grace is sufficient for you,” Paul took pleasure in the aforementioned because he was suffering in the will of God. Our sufferings are not forever and without purpose when we suffer for the Lord. 
 
-**3. Know sufferings are temporary**  
+**3. Know sufferings are temporary**   
 Paul said the temporal sufferings prepare us for the eternal weight of glory in the kingdom of heaven (2 Cor 4:17). In life, we go through sufferings. As compared to the glory to be received in the kingdom of heaven, our sufferings are nothing. Though Paul had to suffer, he had no worries because he knew these sufferings are but a preparation for the eternal kingdom in heaven. As Christians, our sufferings are not for nothing. We don’t just suffer because there is COVID-19 or because the world is cruel, but because God has prepared this for us. 
 
 A few preachers and the speaker went to Myanmar. he was asked, “Why did these people born In Myanmar go through so many sufferings? This place is not for human beings!” We thank God that the group of believers in that place received the Holy Spirit (about 30 of them). A Spiritual Meeting was conducted there and the work of the Holy Spirit was seen. This is the grace of God and it was unseen in the preacher’s country. These people are chosen and God had planned for them to go through such sufferings so that they may receive the grace of the Lord; they can receive the glory of God in the kingdom of heaven if they can keep the faith. Of course, we don’t choose to suffer but if God wills that we need to suffer, let us not murmur. Rather, let us rejoice. When we know how to rejoice, our faith will be sufficient for us to overcome tribulations. 
 
 ## What should we be doing to rejoice in tribulation?
 
-**1. Grow to trust in the Lord**  
+**1. Grow to trust in the Lord**   
 We always say to trust in the Lord but let it not be just a slogan; act it out. When we meet with troubles, hardships, and setbacks, learn to trust in the Lord. Whether it be an exam, going to church to conduct classes, or church work, remember this: because God has chosen me, I have to learn to trust in the Lord. 
 
 When the speaker just came out to become a FT preacher, he felt inadequate. His Bible knowledge was 0 because he had not attended any RE lessons. Sabbath sermons were also in Chinese dialects and he couldn’t understand what the sermon speaker was saying. But the Lord allowed the speaker to come to SG. He came in April 1970, attended a SM, and received the Holy Spirit. One month later, he came out to study. When the speaker attended the SM, he had no plans to study in SG at all. When the speaker received the Holy Spirit, he knew that he had to be close to the church. Thank God he was given such an opportunity.
@@ -145,14 +145,14 @@ In 1977, when the first Bible course in English for preachers was conducted, the
 
 **Though we don’t always get an immediate answer after prayer, when we look back, God has never forsaken us. Though not every prayer gets answered, God has never let us down in the events necessary for us.** This is how God takes care of us. If we are thankful for the Lord, we know that the grace of God is always with us. Then, we can trust in the Lord. Especially in these trying times when the government also said that it will be tough. Even if we have a job, times will be tough. Our children will lead a tough time growing up and the church will also meet with difficulties in upcoming generations. 
 
-**2. Always praise Him and give thanks in all circumstances**  
+**2. Always praise Him and give thanks in all circumstances**   
 When Paul and Silas were in prison, they sang hymns to praise God. They were put into the inner prison where their legs were fastened; it wasn’t easy. But they knew how to give thanks and praise God and their faith were strengthened. This is why they had a lot of joy. We have to learn to sing hymns. 
 
 When the speaker was in Taiwan in 1978, the trainee preachers went on an excursion to visit all the hill churches. There were certain places where they had to walk quite a long distance (about 4-5 hours). One day, they were late and the sun had set. In the hills, the torch is useless, especially if you don’t know the way. An experienced preacher who was leading said to walk in the centre of the path and not the side. They then had to cross a monkey bridge to reach the other side where the church was. The preacher said, “Sing [hymns]!” All of them sang loudly. There was a lot of fear in their hearts; they didn’t know where they were going and what was ahead of them. None of them had walked on a monkey bridge before. Thank God they arrived at their destination safely. The next day after the morning session, they left the place. They had to cross the same monkey bridge. Now that there was daylight, they saw how rotten the ropes were and how old the planks were. No wonder the preacher told them to sing loudly. 
 
 When we meditate on the lyrics in hymns, they’ll give us much hope and joy. God loves our singing and that is when you have a lot of joy. Let not hymn singing be something dreary but let us love to sing. 
 
-**3. Pray always to the Lord to light our hearts**  
+**3. Pray always to the Lord to light our hearts**   
 In Psalm 18:28; 
 
 *'For You will light my lamp; The Lord my God will enlighten my darkness.'*
