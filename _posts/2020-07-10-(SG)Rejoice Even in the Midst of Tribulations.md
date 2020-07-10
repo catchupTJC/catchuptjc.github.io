@@ -53,7 +53,7 @@ Recall the first martyr in Acts. In Acts 7, Stephen was stoned to death but we r
 
 That was Stephen — full of faith, love from God, and courage. He went through sufferings and finally death by stoning. He suffered all these for Christ and we believe he has a kingdom in heaven. Hence, he was shown a vision when he looked up to heaven, seeing Jesus at the right hand of the Father shows that the salvation was with Stephen. Jesus ascended to heaven and was still interceding for Stephen. This is why Stephen had no fear. In the midst of tribulations, he continued to have hope and rejoice. This is the first reason. 
 
-**2. Because it is through sufferings and tribulations we cultivate spiritual character**  
+**2. Because it is through sufferings and tribulations we cultivate spiritual character**   
 We always say that we must cultivate a spiritual character and only through tribulations we are able to cultivate this spiritual character. In Romans 5:1-5;
 
 *1 'Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,
@@ -91,7 +91,7 @@ The church is strengthened because of these elderly sisters. Their spiritual cha
 
 We say that the Holy Spirit makes us strong. But, if tribulations don’t come upon us, we don’t really need to endure sufferings and our spiritual characters will still remain weak. When we suffer tribulations, we must still rejoice because we will grow in character.
 
-**3. We will receive strength from the Lord and fight the spiritual war well**  
+**3. We will receive strength from the Lord and fight the spiritual war well**   
 Turn to Revelation 7:9;
 
 *'After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands, '*
