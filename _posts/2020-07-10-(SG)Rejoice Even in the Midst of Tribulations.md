@@ -168,8 +168,10 @@ When we have the Word of God in our hearts and is lit by the Lord, that becomes 
 
 These 3 things are things we must do, then, we will rejoice.   
 **1. Trust in the Lord**   
+
 **2. Praise and sing hymns always**   
 Hymns don’t just refer to those in our hymn book. There are many hymns in the Bible - Psalms; short passages written by great men like Moses and David praising God. These are hymns we keep in our hearts. Sing this to the Lord and be joyful!  
+
 **3. Pray always to the Lord to light our hearts**  
 Don’t let the world darken our hearts; let the Lord light our hearts. 
 
