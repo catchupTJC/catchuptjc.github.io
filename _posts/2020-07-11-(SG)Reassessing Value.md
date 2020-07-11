@@ -7,7 +7,7 @@ hymns: [367,380]
 speaker: dnphilipshee
 
 ---
-Summary: 
+Summary:  
 What do people traditionally attribute value to? What about the Christians in TJC? Many attribute value to material possessions. What do people associate value to?
 
 1. Food and clothing  
