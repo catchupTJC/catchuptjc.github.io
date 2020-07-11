@@ -8,7 +8,7 @@ speaker: dnphilipshee
 
 ---
 Summary: 
-What do people traditionally attribute value to? What about the Christians in TJC? Let’s talk about the traditional assets of value. Many attribute value to material possessions. What do people associate value to?
+What do people traditionally attribute value to? What about the Christians in TJC? Many attribute value to material possessions. What do people associate value to?
 
 1. Food and clothing  
 2. Status, recognition, knowledge 
