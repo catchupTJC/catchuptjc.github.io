@@ -2,7 +2,7 @@
 layout: post
 title: Re-assessing Value
 category: sermon2020singapore
-tags: [reflection]
+tags: [reflection,values,wealth,childrenofgod,sacrifice]
 hymns: [367,380]
 speaker: dnphilipshee
 
