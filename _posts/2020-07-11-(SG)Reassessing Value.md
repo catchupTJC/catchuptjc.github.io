@@ -37,7 +37,8 @@ What do people traditionally attribute value to? It is important for us to calib
 These were the words of Jesus. 
 
 What do people traditionally attribute value to? What about the Christians in TJC? Let’s talk about the traditional assets of value. Many attribute value to material possessions. What do people associate value to?
-##1. Food and clothing 
+
+##1 Food and clothing 
 Read Luke 12:15; 
 
 *'And He said to them, “Take heed and beware of covetousness, for one’s life does not consist in the abundance of the things he possesses.”*
@@ -105,7 +106,7 @@ These are very assuring words but the question is if we have the faith to receiv
 “I am young but now I am old”.  
 This is not theory but a testimony. Through the psalmist’s life, he had never seen the righteous forsaken, he had never seen the descendant of the righteous begging for bread. Yes, we need food and clothing, but worrying adds no value. Value is in the trust and faith in seeking the kingdom and righteous — this is value that will not be forsaken. 
 
-##2. Status, recognition, knowledge   
+##2 Status, recognition, knowledge   
 Turn to Matthew 23:6-7;
 
 *6 'They love the best places at feasts, the best seats in the synagogues, 
@@ -153,7 +154,7 @@ We turn to 1 Corinthians 6:20;
 You and I are of value. Why? Because we were bought at a price. What price? Read 1 Peter 1:18-19; 
 
 *18 'knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, 
-19 but with the precious blood of Christ, as of a lamb without blemish and without spot. '*
+19 but with the precious blood of Christ, as of a lamb without blemish and without spot.*
 
 We were bought at a price. Not with silver or gold but with something more precious: the blood of Christ. God came as a man to die on the cross for us. Is that worth a million dollars? Is that a billion dollars? More than that, it is infinite. **For an infinite man to become a finite man is infinite in the sacrifice itself. For Him who is life to die is an infinite sacrifice.** You and I are of huge value because of the sacrifice of the Lord for us! That is true value and something we have to learn and recognise. This is why it is so important for us to pursue and preserve our salvation at all costs to hold fast our statuses as children of God. It does not matter if you’re a king or beggar, a fool or hunger, well or sick, tall or short, good looking or not, it all doesn’t matter. What matters is this: I have been bought with a price. Not with silver or gold, but with the precious blood of the Lord Jesus Christ. 
 
