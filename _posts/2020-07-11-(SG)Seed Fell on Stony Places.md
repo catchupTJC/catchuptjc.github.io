@@ -7,6 +7,9 @@ hymns: [436,220]
 speaker: dnchinchungling
 ---
 
+Summary:  
+In this sermon, the speaker expounds on the second type of seed in the parable of the sower - the seed that fell on stony places. What kind of seed is this? And what should we do, that we may be rooted in faith and not become a seed in the stony places? 
+
 Turn to Matthew 13:5-6;  
 
 *5 'Some fell on stony places, where they did not have much earth; and they immediately sprang up because they had no depth of earth. 
