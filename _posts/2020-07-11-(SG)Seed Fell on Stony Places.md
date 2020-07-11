@@ -30,9 +30,9 @@ When Jesus first went out to preach the gospel, He performed many miracles and h
 When Jesus first embarked on His ministry, He went about Galilee preaching about the kingdom. The region of Galilee would refer to the Northern part of Israel, around the sea of Galilee. Jesus’ fame spread quickly (remember that they did not have technology like now to transmit messages. Messages are transmitted by word of mouth, people, or foot). Jesus in His ministry performed ministry and naturally people brought those ill to Him. News of Jesus spread rapidly and even reached places like Deacapolis and Judea which weren’t nearby. When Jesus Christ first embarked on His ministry, He had a strong and attractive influence on others. Of course, Jesus is God and if God appeared, people would go before Him. As for these people themselves, why were they attracted to Him? Why did they seek Jesus? 
 
 **1. The people wanted to seek physical peace**  
-In v24, they brought the sick to him; wanted to receive physical peace. 
+In v24, they brought the sick to him; wanted to receive physical peace.  
 
-**2. Jesus performed things the people had never seen before. **  
+**2. Jesus performed things the people had never seen before**   
 In Matthew 7:7-8;  
 
 *7 '“Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. 
