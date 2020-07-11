@@ -1,9 +1,11 @@
+---
 layout: post
 title: Re-assessing Value
 category: sermon2020singapore
 tags: [reflection]
 hymns: [367,380]
 speaker: dnphilipshee
+
 ---
 
 There was a student who said to his teacher, “You are teaching useless things!” The teacher heard that, thought for a while and responded, “You should not be saying such things about yourself.” 
