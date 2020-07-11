@@ -102,9 +102,10 @@ In the same record in Matthew 6, the Lord said to seek His kingdom and righteous
 
 These are very assuring words but the question is if we have the faith to receive. 
 
-“I am young but now I am old”. 
+“I am young but now I am old”.  
 This is not theory but a testimony. Through the psalmist’s life, he had never seen the righteous forsaken, he had never seen the descendant of the righteous begging for bread. Yes, we need food and clothing, but worrying adds no value. Value is in the trust and faith in seeking the kingdom and righteous — this is value that will not be forsaken. 
-##2. Status, recognition, knowledge 
+
+##2. Status, recognition, knowledge   
 Turn to Matthew 23:6-7;
 
 *6 'They love the best places at feasts, the best seats in the synagogues, 
@@ -131,7 +132,7 @@ Let us look at the example of Paul. Turn to Philippians 3:4-8;
 
 This was Paul. He was also a pharisee who achieved status, recognition and knowledge in the flesh. Hence he said in the latter part of v4;
 
-* If anyone else thinks he may have confidence in the flesh, I more so: *
+*If anyone else thinks he may have confidence in the flesh, I more so:*
 
 But that was not what Paul associated value to and that is why in v7-8; 
 
