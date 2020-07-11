@@ -38,7 +38,7 @@ These were the words of Jesus.
 
 What do people traditionally attribute value to? What about the Christians in TJC? Let’s talk about the traditional assets of value. Many attribute value to material possessions. What do people associate value to?
 
-##1 Food and clothing 
+## 1. Food and clothing 
 Read Luke 12:15; 
 
 *'And He said to them, “Take heed and beware of covetousness, for one’s life does not consist in the abundance of the things he possesses.”*
@@ -106,7 +106,7 @@ These are very assuring words but the question is if we have the faith to receiv
 “I am young but now I am old”.  
 This is not theory but a testimony. Through the psalmist’s life, he had never seen the righteous forsaken, he had never seen the descendant of the righteous begging for bread. Yes, we need food and clothing, but worrying adds no value. Value is in the trust and faith in seeking the kingdom and righteous — this is value that will not be forsaken. 
 
-##2 Status, recognition, knowledge   
+## 2. Status, recognition, knowledge   
 Turn to Matthew 23:6-7;
 
 *6 'They love the best places at feasts, the best seats in the synagogues, 
