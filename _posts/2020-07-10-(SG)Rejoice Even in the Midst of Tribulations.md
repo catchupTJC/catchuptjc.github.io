@@ -12,13 +12,13 @@ This sermon covers 3 main points:
 (2) How can we have joy in suffering?  
 (3) What should we be doing to rejoice in tribulation?
 
-During this pandemic, we have gone through the Circuit Breaker and hence have been home for a long time. We thank God that though we are impeded from freedom, we are not suffering. Among the first century believers who believed in Christ and practiced their faith, they were not only opposed but also persecuted. Yet, the Bible exhorts believers to rejoice always in the midst of tribulations. Turn to Philippians 4:4; 
+During this pandemic, we have gone through the Circuit Breaker and hence have been home for a long time. We thank God that though we are impeded from freedom, we are not suffering. Among the first century believers who believed in Christ and practised their faith, they were not only opposed but also persecuted. Yet, the Bible exhorts believers to rejoice always in the midst of tribulations. Turn to Philippians 4:4; 
 
 *'Rejoice in the Lord always. Again I will say, rejoice!'*
 
 This letter to the Philippians was written by apostle Paul. At that time, he was imprisoned for the first time in Rome. Though his freedom was taken away, he exhorted the believers to rejoice; this is due to his faith in Jesus Christ. With this faith, believers will be able to rejoice in all circumstances. We don’t only rejoice in good times but also in times of tribulations. Those who met with tribulations rejoiced because they knew that their sufferings were for Christ. 
 
-Jesus’ sermon on the mount said. “Blessed are those persecuted for righteousness sake for theirs is the kingdom of God.” Believing in God and practicing our faith is to walk in righteousness with God. Many times, those who keep their faith in Jesus Christ will meet with sufferings and persecutions but such sufferings are for righteousness sake.
+Jesus’ sermon on the mount said. “Blessed are those persecuted for righteousness sake for theirs is the kingdom of God.” Believing in God and practising our faith is to walk in righteousness with God. Many times, those who keep their faith in Jesus Christ will meet with sufferings and persecutions but such sufferings are for righteousness sake.
 
 Elder Peter also exhorted those who suffer for Christ not to be discouraged. Turn to 1 Peter 3:13-15;
 
@@ -47,7 +47,7 @@ If we suffer for righteousness sake, we suffer for Christ; we suffer because we 
 
 ## Why do we rejoice in the midst of tribulations?
 **1. Because it is through many tribulations we enter the Kingdom of God**   
-This was what Paul and Barnabas exhorted the believers. In their first missionary journey, t hey went to Galatia. As they passed through from one town to another, many came to believe. Then Paul exhorted them to keep strong in their faith though they may meet many tribulations. 
+This was what Paul and Barnabas exhorted the believers. In their first missionary journey, they went to Galatia. As they passed through from one town to another, many came to believe. Then Paul exhorted them to keep strong in their faith though they may meet many tribulations. 
 
 Recall the first martyr in Acts. In Acts 7, Stephen was stoned to death but we remember his death as victorious because he kept his faith to the end. Though his enemies opposed him greatly; planted false witnesses to accuse him; Stephen continued to keep the Word of Truth and proclaimed Jesus. Even when these people were going to stone him, the face of Stephen was likened to the face of an angel; full of serenity. When he looked up to Heaven, a vision was shown to him and he saw Jesus Christ at the right hand of His Father. Stephen was really exhorted and was full of joy. He then told this vision to the people. The people hated him because they were enemies of Christ, and went on to stone him. But Stephen was filled with the peace of the Lord. As he was stoned, he prayed for those who persecuted him as well as for those who stoned him; he asked the Lord to forgive them for they didn’t know what they were doing. 
 
