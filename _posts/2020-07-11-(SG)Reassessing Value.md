@@ -8,8 +8,7 @@ speaker: dnphilipshee
 
 ---
 Summary:  
-What do people traditionally attribute value to? What about the Christians in TJC? Many attribute value to material possessions. What do people associate value to?
-
+What do people traditionally attribute value to? What about the Christians in TJC? Many attribute value to material possessions. What do people associate value to?  
 1. Food and clothing  
 2. Status, recognition, knowledge 
 
@@ -23,14 +22,14 @@ During this period of the pandemic, we saw how at the earlier stage people were 
 
 There was another joke that arose. We always deem oil as valuable and if you have oil, you are a rich nation. Many countries spend a lot of money to try to discover oil because they think that when they do so, the nation will become rich. Oftentimes, we see people in oil-rich nations live a wealthy life, but did you know that at one point of time recently, toilet paper had more value than oil? That is when people realise why some hoard toilet paper; because they know that the prices of oil will crash to negative. Indeed, at one point, people had to lose money when they held onto oil because its value went down to negative. We may not be able to understand that and it is not the speaker’s intention to give a lesson on commodity prices but instead is trying to say that the value of things can change just so rapidly. In some countries, there is this thing called “Negative Interest Rate”; when you have no cash balance in the bank, not only do you have no interest but you also have to pay the bank. What has happened to oil can happen to many commodities, even to our cash balances. What is the concept of value? What truly has value? 
 
-It is time for us to re-access. If we have oil, there’s value? If we have gold, there’s value? If we have cash balances, there's value? Some reckon cash as king; gold is king, hold gold; is that true value? Turn to Philippians 3:7-8;
+It is time for us to re-assess. If we have oil, there’s value? If we have gold, there’s value? If we have cash balances, there's value? Some reckon: "Cash is king, hold cash!", "Gold is king, hold gold!" Is that true value? Turn to Philippians 3:7-8;
 
 *7 'But what things were gain to me, these I have counted loss for Christ. 
 8 Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ*
 
-These were the words of Paul when he was reflecting what was truly valuable. Many times, value in itself is something relative; at one point toilet paper was worth more than oil. Here, Paul said, “In the past, there were things I counted as gain but now they are counted as loss for Christ. I could all things loss for the excellence of Christ Jesus.” The last part of v8 says that he counts all these as rubbish so that he may gain Christ. We can see how Paul recalibrated his understanding for value. What was valuable to him in the past is now of no value. What did he see as the true value that he has gained? The knowledge of Christ. As we come to worship today, we will discuss how on we can re-assess the values in our lives
+These were the words of Paul when he was reflecting what was truly valuable. Many times, value in itself is something relative; at one point toilet paper was worth more than oil. Here, Paul said, “In the past, there were things I counted as gain but now they are counted as loss for Christ. I could all things loss for the excellence of Christ Jesus.” The last part of v8 says that he counts all these as rubbish so that he may gain Christ. We can see how Paul recalibrated his understanding for value. What was valuable to him in the past is now of no value. What did he see as the true value that he has gained? The knowledge of Christ. As we come to worship today, we will discuss how on we can re-assess the values in our lives.
 
-What do people traditionally attribute value to? It is important for us to calibrate it accurately because in whatever we attribute value to will be how we direct our entire lives. Those will be the things we worry about, pursue, and occupy our hearts. These will be the things we inculcate in our children, the things we push to our children. Turn to Luke 12:34; 
+What do people traditionally attribute value to? It is important for us to calibrate it accurately because whatever we attribute value to will be how we direct our entire lives. Those will be the things we worry about, pursue, and occupy our hearts. These will be the things we inculcate in our children, the things we push to our children. Turn to Luke 12:34; 
 
 *'For where your treasure is, there your heart will be also.'*
 
@@ -46,9 +45,9 @@ Read Luke 12:15;
 People who are covetous are those who cannot be satisfied; they want more and more; they want things that aren’t theirs. There is no gratefulness, contentment and satisfaction in what they have and they’re constantly reaching out for things they do not yet have and perhaps even deserve. Jesus tells us to take heed and beware of covetousness. Jesus here says that one’s life is not in the abundance of things one possesses. While one may attribute value to material possessions, Jesus tells us here clearly that this is not what life is about; one’s life does not consist in the abundance of things he possesses. Do we live our lives according to these teachings of the Lord? Before this verse, v13-14 talks about a person in the crowd who came to Jesus; 
 
 *13 'Then one from the crowd said to Him, “Teacher, tell my brother to divide the inheritance with me.” 
-14 But He said to him, “Man, who made Me a judge or an arbitrator over you?” *
+14 But He said to him, “Man, who made Me a judge or an arbitrator over you?”*
 
-Very interestingly, this man came to Jesus not to be taught the truth, but rather asked Him to get his brother to give him what he wants. What was of value to this person? It was not who Jesus really is, not the truth that Jesus preached, not the salvation that Jesus brings, but rather, “Since You seem to be so respected, why not You tell my brother? You’re a teacher, please tell my brother [to give me the inheritance].” Here we can see that as far as this person was concerned, there was no value in the relationships he had. There was no value in what his father had inculcated, there was only value in wealth. Hence, Jesus said, “One’s life does not consist of things in the abundance of things he possesses.” As Christians, we should never ever end up in the state where our minds are all about material possessions; where fighting for inheritance is more important than salvation and relationships. Do we see value in the wealth we accumulate, do we see them as our only source of assurance? 
+Very interestingly, this man came to Jesus not to be taught the truth, but rather asked Him to get his brother to give him what he wants. What was of value to this person? It was not who Jesus really was, not the truth that Jesus preached, not the salvation that Jesus brought, but rather, “Since You seem to be so respected, why not You tell my brother? You’re a teacher, please tell my brother [to give me the inheritance].” Here we can see that as far as this person was concerned, there was no value in the relationships he had. There was no value in what his father had inculcated, there was only value in wealth. Hence, Jesus said, “One’s life does not consist of things in the abundance of things he possesses.” As Christians, we should never ever end up in the state where our minds are all about material possessions; where fighting for inheritance is more important than salvation and relationships. Do we see value in the wealth we accumulate, do we see them as our only source of assurance? 
 
 In this passage, Jesus spoke a parable in v16-21; 
 
@@ -104,7 +103,7 @@ In the same record in Matthew 6, the Lord said to seek His kingdom and righteous
 These are very assuring words but the question is if we have the faith to receive. 
 
 “I am young but now I am old”.  
-This is not theory but a testimony. Through the psalmist’s life, he had never seen the righteous forsaken, he had never seen the descendant of the righteous begging for bread. Yes, we need food and clothing, but worrying adds no value. Value is in the trust and faith in seeking the kingdom and righteous — this is value that will not be forsaken. 
+This is not theory but a testimony. Through the psalmist’s life, he had never seen the righteous forsaken, he had never seen the descendants of the righteous begging for bread. Yes, we need food and clothing, but worrying adds no value. Value is in the trust and faith in seeking the kingdom and righteous — this is value that will not be forsaken. 
 
 ## 2. Status, recognition, knowledge   
 Turn to Matthew 23:6-7;
@@ -112,7 +111,7 @@ Turn to Matthew 23:6-7;
 *6 'They love the best places at feasts, the best seats in the synagogues, 
 7 greetings in the marketplaces, and to be called by men, ‘Rabbi, Rabbi.’ '*
 
-The Bible tells us here that the pharisees sought status; they love the best seats and being called in the marketplace as Rabbi. This is what they sought because they see a lot of value in this; the statuses they hold, the recognition they receive, the knowledge they perceive to have. This is why the way they conducted their lives were very different. On the outside, they may look religious and respectable but it didn’t stack up to anything deep inside. We turn to Matthew 21:45-46;
+The Bible tells us here that the Pharisees sought status; they love the best seats and being called in the marketplace as Rabbi. This is what they sought because they see a lot of value in this; the statuses they hold, the recognition they receive, the knowledge they perceive to have. This is why the way they conducted their lives were very different. On the outside, they may look religious and respectable but it didn’t stack up to anything deep inside. We turn to Matthew 21:45-46;
 
 *45 'Now when the chief priests and Pharisees heard His parables, they perceived that He was speaking of them. 
 46 But when they sought to lay hands on Him, they feared the multitudes, because they took Him for a prophet.'*
@@ -121,7 +120,7 @@ Here says that when the chief priests heard the parable, they perceived that Jes
 
 *'Then His disciples came and said to Him, “Do You know that the Pharisees were offended when they heard this saying?”'*
 
-The disciples told Jesus that the pharisees were offended by His words. In many respects, Jesus pointed out the errors and hypocrisies of the pharisees. Hence, they were offended because Jesus really gave them no face. As a result, they suffered from a bruised ego. Their reaction was to plot against Jesus. Wherein lies the value? They associated a lot of value to statuses, titles, and physical recognitions they achieve. They did not attribute the value of what Jesus was saying to them. This is something for us to think about. What about we today? 
+The disciples told Jesus that the Pharisees were offended by His words. In many respects, Jesus pointed out the errors and hypocrisies of the pharisees. Hence, they were offended because Jesus really gave them no face. As a result, they suffered from a bruised ego. Their reaction was to plot against Jesus. Wherein lies the value? They associated a lot of value to statuses, titles, and physical recognitions they achieve. They did not attribute the value of what Jesus was saying to them. This is something for us to think about. What about us today? 
 
 Let us look at the example of Paul. Turn to Philippians 3:4-8; 
 
@@ -131,7 +130,7 @@ Let us look at the example of Paul. Turn to Philippians 3:4-8;
 7 But what things were gain to me, these I have counted loss for Christ. 
 8 Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ '*
 
-This was Paul. He was also a pharisee who achieved status, recognition and knowledge in the flesh. Hence he said in the latter part of v4;
+This was Paul. He was also a Pharisee who achieved status, recognition and knowledge in the flesh. Hence he said in the latter part of v4;
 
 *If anyone else thinks he may have confidence in the flesh, I more so:*
 
@@ -144,7 +143,7 @@ Nicodemus was the same; he was also a Pharisee and ruler of the Jews. He came to
 
 Today, we may also pursue worldly recognitions. If God has blessed us with the ability, then go get our diplomas, degrees, masters, doctorates! But let us not be in the state where we think that these in themselves are of huge value, or that we should set our entire lives around them and boast about it. “Just because I’m a PhD, I’m more valuable than a Masters,” or “Just because I have a degree, I have less value than others.” If we think like that, we have attributed the wrong concept of value. Paul had these, but they were rubbish to him. As far as we are concerned, let us not be superior just because we have. Likewise, let us not feel inferior just because we do not have. 
 
-The biblical characters who had some achievements in the secular sense; Daniel, Joseph; did not politic their way up. They did not strife in any way to get up there. They stepped on nobody to get up there, it was God who placed them there. When God placed them there, there was a very clear role God wanted them to play, and they played the role faithfully. So, the value is not in the title and status in itself. Our value is in the fact that we are children of God. This is what we need to understand when we attribute values. As we raise our children, inculcate the right values in them. For all the children listening to this sermon, do not tell your parents that Dn Shee said that we don’t have to study so hard. Do the best that God has given you and use it to serve the Lord — that is where value is. Value is not the status in itself and we need not get offended when people do not recognise it. 
+The biblical characters who had some achievements in the secular sense - Daniel, Joseph - did not politic their way up. They did not strive in any way to get up there. They stepped on nobody to get up there, it was God who placed them there. When God placed them there, there was a very clear role God wanted them to play, and they played the role faithfully. So, the value is not in the title and status in itself. Our value is in the fact that we are children of God. This is what we need to understand when we attribute values. As we raise our children, inculcate the right values in them. For all the children listening to this sermon, do not tell your parents that Dn Shee said that we don’t have to study so hard. Do the best that God has given you and use it to serve the Lord — that is where value is. Value is not the status in itself and we need not get offended when people do not recognise it. 
 
 What truly is our value?  
 We turn to 1 Corinthians 6:20;
