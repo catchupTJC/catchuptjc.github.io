@@ -2,10 +2,18 @@
 layout: post
 title: Matthew 6 When You Pray
 category: sermon2020singapore
-tags: [reflection,prayer,humility,submissiveness,matthew,hannah]
+tags: [reflection,prayer,humility,submissive,matthew,hannah]
 hymns: [407,403]
 speaker: prpetershee
 ---
+
+Summary:  
+In this sermon, the speaker expounds on the three times Jesus said, "when you pray..." in Matt 6.  
+1. When we pray, let's not put on a show.  
+2. When we pray, it is a private matter between us and God.  
+3. When we pray, let's not use vain repetitions.   
+Prayer is seeking God’s kingdom and submitting to God. Let us seek God in our lives, allow the Holy Spirit to transform us, so that His purpose will be fully achieved in our lives.  
+
 
 Jesus told a parable about two men who went to the temple to pray. One of them, a Pharisee, told God, “I fast twice a week, I give all that I possess!” There is something similar in the passage we are going to study this evening. For our Closer Day by Day schedule, we are currently reading Matthew 6. Let’s take a look at Matthew 6. In this chapter, Jesus said 3 times, “When you pray.”  
 
