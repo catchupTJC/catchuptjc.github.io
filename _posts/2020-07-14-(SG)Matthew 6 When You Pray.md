@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matthew 6: When You Pray
+title: Matthew 6 When You Pray
 category: sermon2020singapore
 tags: [reflection,prayer,humility,submissiveness,matthew,hannah]
 hymns: [407,403]
