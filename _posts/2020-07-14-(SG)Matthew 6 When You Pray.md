@@ -11,7 +11,7 @@ Summary:
 In this sermon, the speaker expounds on the three times Jesus said, "when you pray..." in Matt 6.  
 1. When we pray, let's not put on a show.  
 2. When we pray, it is a private matter between us and God.  
-3. When we pray, let's not use vain repetitions.   
+3. When we pray, let's not use vain repetitions.    
 Prayer is seeking God’s kingdom and submitting to God. Let us seek God in our lives, allow the Holy Spirit to transform us, so that His purpose will be fully achieved in our lives.  
 
 
