@@ -125,7 +125,8 @@ Shall abide under the shadow of the Almighty.*
 
 Just like the song earlier, “under the shadow of His wings, that's the safest place”, there is peace in this security. Brothers and sisters, one of the reasons why we should pray is because in this toilsome life, we really need a time for peace; to go to a place we feel secure. Many suffer from stress because they don’t know where to find the peace and security on a daily basis. We pray not just because it is a duty, we pray because it is a need; we NEED to pray! We are created to pray everyday! If we live one single day without praying to God, something will be misadjusted in our lives. Let’s learn to pray; not just to fall on our knees and mumble some words for 10 minutes (sometimes less), but to go to that secret place — a place that will calm our soul. Then, we will be able to face the world with peace.   
 
-“I know a fount where sins are washed away” 
+“I know a fount where sins are washed away"
+
 Turn to Psalm 27:4-5;  
 
 *One thing I have desired of the Lord,
@@ -175,34 +176,34 @@ In the inner chamber, there is intimacy. Outside, in the clefts of the rock, the
 *He brought me to the banqueting house,
 And his banner over me was love.*
 
-The beloved is imagining how the bridge groom talks to her. The groom would say to the bride, “Oh my doves in the clefts of the rock, let me see your face, let me hear your voice.” It is not because of COVID-19 that he is veiled. Here it says, “Let me see your face.” After seeing the face, he says, “Turn away! I can't behold your loveliness!” This sounds like a romance story but the love between man and wife comes from God and God here wants to portray the love between the church and Christ here. Jesus says go into the secret place and shut the door.   
+The beloved is imagining how the bride groom talks to her. The groom would say to the bride, “Oh my doves in the clefts of the rock, let me see your face, let me hear your voice.” It is not because of COVID-19 that he is veiled. Here it says, “Let me see your face.” After seeing the face, he says, “Turn away! I can't behold your loveliness!” This sounds like a romance story but the love between man and wife comes from God and God here wants to portray the love between the church and Christ here. Jesus says go into the secret place and shut the door.   
 
 Imagine your prayer to be such a communion with God. David says, “I would like to behold the beauty of the Lord”, and here Christ tells the church, “Let me see your face, let Me hear your voice.” God delights to see our face, God delights to hear our voice. If we view prayer as this, isn’t this a beautiful thing?  
 
-##3. In prayer, don’t say words you don’t mean.
+## 3. In prayer, don’t say words you don’t mean.
 Turn back to Matthew 6:7;   
 
 *And when you pray, do not use vain repetitions as the heathen do. For they think that they will be heard for their many words.*
 
 
-When you pray, don’t use empty and reparative words. When you pray, you must know why you are praying. Jesus taught His disciples in v9;   
+When you pray, don’t use empty and repetitive words. When you pray, you must know why you are praying. Jesus taught His disciples in v9;   
 
 *In this manner, therefore, pray:
 Our Father in heaven,
 Hallowed be Your name.*
 
 
-The first thing after praising God is this, “Your kingdom done, your will.... in heaven”. V13 also talks about the kingdom;  
+The first thing after praising God is this, “Your kingdom done, your will be done as it is in heaven”. V13 also talks about the kingdom;  
 *For Yours is the kingdom and the power and the glory forever*
 
 Jesus ends this chapter in v33 saying;  
 *But seek first the kingdom of God and His righteousness, and all these things shall be added to you.*
 
 
-When we pray, what do we seek? What is at the TOP of our minds? What is your chief concern? Jesus puts first in the prayer, “Your kingdom come, your will on earth as it is in heaven.“ This is because the kingdom of God is our lifelong pursuit. We want to enter the kingdom; we want to ensure that our citizenship is secured because this place that we live is ruled by the god of this world, that is Satan, and we are suffering under his reign. Our chief concern is the kingdom! Not only for ourselves to remain in the kingdom but also to advance His kingdom; to bring people in. We pray for our physical needs, but look at how Jesus put it in this prayer.   
+When we pray, what do we seek? What is at the TOP of our minds? What is our chief concern? Jesus puts first in the prayer, “Your kingdom come, your will on earth as it is in heaven.“ This is because the kingdom of God is our lifelong pursuit. We want to enter the kingdom; we want to ensure that our citizenship is secured because this place that we live is ruled by the god of this world, that is Satan, and we are suffering under his reign. Our chief concern is the kingdom! Not only for ourselves to remain in the kingdom but also to advance His kingdom; to bring people in. We pray for our physical needs, but look at how Jesus put it in this prayer.   
 *“Give us this day our daily bread, and forgive us our debts, as we forgive our debtors”*  
 
-This reminds us at the same time that while we have our physical needs, we also have our spiritual needs. When Jesus teaches us to pray, “give us this day our daily bread..” it means — we commit your needs to God, then STOP WORRYING! Instead of worrying and asking ourselves, “What should I eat? What should i wear? What about my next meal?”, just say to God, “Give us this day our daily bread.” Read Matthew 6:25-26;   
+This reminds us at the same time that while we have our physical needs, we also have our spiritual needs. When Jesus teaches us to pray, “give us this day our daily bread..” it means — we commit our needs to God, then STOP WORRYING! Instead of worrying and asking ourselves, “What should I eat? What should i wear? What about my next meal?”, just say to God, “Give us this day our daily bread.” Read Matthew 6:25-26;   
 
 *Therefore I say to you, do not worry about your life, what you will eat or what you will drink; nor about your body, what you will put on. Is not life more than food and the body more than clothing? Look at the birds of the air, for they neither sow nor reap nor gather into barns; yet your heavenly Father feeds them. Are you not of more value than they?*
 
@@ -229,13 +230,15 @@ The Lord will judge the ends of the earth.
 And exalt the horn of His anointed.”*
 
 
-The Lord lifted up the horn of His anointed, He gave strength to His king. From a very simple woman’s lips came forth a prophecy. At that time, Israel had no human king, but here, Hannah said that God gave strength to His king, to His anointed King. Hannah was inspired by the Holy Spirit to look beyond herself to God’s kingdom.   
-When we look at the world around us, it is very worrying because it affects us. But when we look at it as “it affects our livelihood”, it is a very shallow perception. The truth is: the world around us is so worrying because it is moving further and further away from God. The only solution is when God rules over us. Hence, “Your kingdom comes, your will be done...” This is the solution to all our woes.    
+The Lord lifted up the horn of His anointed, He gave strength to His king. From a very simple woman’s lips came forth a prophecy. At that time, Israel had no human king, but here, Hannah said that God gave strength to His king, to His anointed King. Hannah was inspired by the Holy Spirit to look beyond herself to God’s kingdom.
+
+When we look at the world around us, it is very worrying because it affects us. But when we look at it as “it affects our livelihood”, it is a very shallow perception. The truth is: the world around us is so worrying because it is moving further and further away from God. The only solution is when God rules over us. Hence, “Your kingdom comes, your will be done be done on earth as it is in heaven." This is the solution to all our woes.
+
 Matt 6:24  
 *No one can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. You cannot serve God and mammon.*
  
 
-Another thing about prayer is that prayer is submission. Jesus received strength in His submission. In the Garden of Gethsemane, He says, “Take this bitter cup. Not My will but YOur will.” Because He was so determined to do God’s will, He was strengthened. He was strengthened because He was resolved to do God’s will. Prayer changes things. But very often it is not changing outside. Prayer is submission because it changes our hearts to be humble and submissive. Jesus wants us to have the presence of our minds in prayers instead of mindless words. In Romans 8:26-28;    
+Another thing about prayer is that prayer is submission. Jesus received strength in His submission. In the Garden of Gethsemane, He says, “Take this bitter cup. Not My will but YOUR will.” Because He was so determined to do God’s will, He was strengthened. He was strengthened because He was resolved to do God’s will. Prayer changes things. But very often it is not changing outside. Prayer is submission because it changes our hearts to be humble and submissive. Jesus wants us to have the presence of our minds in prayers instead of mindless words. In Romans 8:26-28;    
 
 *Likewise the Spirit also helps in our weaknesses. For we do not know what we should pray for as we ought, but the Spirit Himself makes intercession for us with groanings which cannot be uttered. Now He who searches the hearts knows what the mind of the Spirit is, because He makes intercession for the saints according to the will of God.
 And we know that all things work together for good to those who love God, to those who are the called according to His purpose.*
@@ -250,7 +253,7 @@ V28;
 *all things work together for good to those who love God, to those who are the called according to His purpose.*
 
 
-The things in our lives work in our good because it is called according to His purpose. The more we pray in the spirit, the more we are guided to understand His will. When we understand His will, the more we are fashioned and moulded by the Holy Spirit to conform to HIs will so that His purpose for us may be fulfilled in our lives. Brothers and sisters, this is what prayers are all about. 
+The things in our lives work in our good because it is called according to His purpose. The more we pray in the spirit, the more we are guided to understand His will. When we understand His will, the more we are fashioned and moulded by the Holy Spirit to conform to HIS will so that His purpose for us may be fulfilled in our lives. Brothers and sisters, this is what prayers are all about. 
 
 Prayer is seeking God’s kingdom and submitting to God. Let us seek God in our lives, allow the Holy Spirit to transform us, so that His purpose will be fully achieved in our lives. 
 
