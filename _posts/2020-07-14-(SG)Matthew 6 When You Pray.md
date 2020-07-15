@@ -43,17 +43,17 @@ Matt 6:16-18
 *Moreover, when you fast, do not be like the hypocrites, with a sad countenance. For they disfigure their faces that they may appear to men to be fasting. Assuredly, I say to you, they have their reward. But you, when you fast, anoint your head and wash your face, so that you do not appear to men to be fasting, but to your Father who is in the secret place; and your Father who sees in secret will reward you openly.*
 
 
-Praying, fasting, giving to God and men are intricately linked. How you pray will also be likely how you fast, and it will also likely be how you give. These 3 things are basic ways we seek to honour God. If you put up an act, it brings no honour to act. Is He pleased with us? Will He accept what we give?
+Praying, fasting, giving to God and men are intricately linked. How you pray will also be likely how you fast, and it will also likely be how you give. These 3 things are basic ways we seek to honour God. If you put up an act, it brings no honour to God. Is He pleased with us? Will He accept what we give?
 
 Let us look at these 3 areas this evening. 
 
-##1. Don’t put up a show when you pray
+## 1. Don’t put up a show when you pray
 
 It is because prayer is not talking to yourself or others, but to God. Though sometimes we say, “Dear God...”, we are saying things we want to hear — this is how Jesus puts it in that parable. Prayer is also not something we do to impress others because though we say, “God...”, we sometimes say it to impress others. This is also what Jesus said in v5;   
 
 *And when you pray, you shall not be like the hypocrites. For they love to pray standing in the synagogues and on the corners of the streets, that they may be seen by men. Assuredly, I say to you, they have their reward.*
 
-Sometimes we are also tempted to think of beautiful and flattery words to speak when we lead prayers, but this is not the point of prayer. Hence, we must always be very mindful that prayers are between us and God. This is why in church during regular services, we say our own prayers though they are congregational prayers. When we pray, what do we seek? Jesus says in v5 that those who pray in the open have their reward. 
+Sometimes we are also tempted to think of beautiful and flowery words to speak when we lead prayers, but this is not the point of prayer. Hence, we must always be very mindful that prayers are between us and God. This is why in church during regular services, we say our own prayers though they are congregational prayers. When we pray, what do we seek? Jesus says in v5 that those who pray in the open have their reward. 
 
 
 In prayers, what kind of reward do you want? Do you want the applause of men, or the recognition of God? This evening is going to be a prayer service, so let's take advantage of this service to remind ourselves how to pray. Turn to Luke 18. The conclusion of this parable is found in v13-14;  
@@ -67,7 +67,8 @@ He was a sinner. What did the Pharisee say about himself?
 
 This is the reward we want in prayer. We want God to acknowledge that our prayers are something that He would want. In the prayer that Jesus taught us in Matthew 6:12;   
 
-*And forgive us our debts, As we forgive our debtors.*  
+*And forgive us our debts, As we forgive our debtors.*
+
 This is the reward we want — we want God to forgive our debts; we want God to grant us the mercy. Read Isaiah 57:15;   
 
 *For thus says the High and Lofty One
@@ -78,34 +79,35 @@ To revive the spirit of the humble,
 And to revive the heart of the contrite ones.*
 
 
-A contrite heart and humble spirit was portrayed in the tax collector. Though God introduced Himself here as high and mighty, He will still look upon us though we have sinned. What we need is a contrite heart and a hunger spirit. Then, not only will He look at us with mercy, but He will dwell with us; “I will dwell.... humble spirit.” When He says “contrite heart”, it means that this person has sinned and hence has a need for contrition. God chooses to be with someone who knows has sinned and is contrite instead of with someone who deems himself high and mighty. The best reward for us is to have God with us and spiritual revival. “.... contrite”. Why is there such a requirement? Look at Jesus. Before men, HE was brave. Before God, there were loud cries and tears; He even admitted He was so weak He wished He wouldn’t need to meet the cross. The book of Hebrews says that He was heard because of His godly fear. Before God, let us be genuine, and He will give us our reward. 
+A contrite heart and humble spirit was portrayed in the tax collector. Though God introduced Himself here as high and mighty, He will still look upon us though we have sinned. What we need is a contrite heart and a humble spirit. Then, not only will He look at us with mercy, but He will dwell with us; “I will dwell with him who has a contrite and humble spirit.” When He says “contrite heart”, it means that this person has sinned and hence has a need for contrition. God chooses to be with someone who knows he has sinned and is contrite instead of with someone who deems himself high and mighty. The best reward for us is to have God with us and be spiritually revived. “to revive the spirit of the humble, and to revive the heart of the contrite ones”. Why is there such a requirement? Look at Jesus. Before men, HE was brave. Before God, there were loud cries and tears; He even admitted He was so weak He wished He wouldn’t need to meet the cross. The book of Hebrews says that He was heard because of His godly fear. Before God, let us be genuine, and He will give us our reward. 
 
-##2. Prayer is a private matter between you and God. 
+## 2. Prayer is a private matter between you and God. 
 
 Read Matthew 6:6;  
 
 *But you, when you pray, go into your room, and when you have shut your door, pray to your Father who is in the secret place; and your Father who sees in secret will reward you openly.*
 
 
-Prayer is not just a matter of privacy, humility, but a matter of deep communion with God. Here it says to go to your secret place and shut your door. When you shut everything, you shut the outside and focus on your communion with God. This reminds of a song someone taught the speaker that goes like this:
+Prayer is not just a matter of privacy and humility, but a matter of deep communion with God. Here it says to go to your secret place and shut your door. When you shut everything, you shut the outside and focus on your communion with God. This reminds the speaker of a song someone taught him that goes like this:
 
 I know a place no one ever goes  
-There is peace and quiet, beauty and repose   
-Hidden in the valley, beside a mountain stream  
-I only think of beauty to the eyes   
-Snow peaked mountains towering in the sky   
-Now I know that God made this world for me, for me, and for me. 
+There's peace and quiet, beauty and repose   
+It's hidden in the valley, beside a mountain stream  
+And lying there beside the stream I find that I can dream  
+Only of things of beauty to the eyes   
+Snow peaked mountains towering to the skies    
+Now I know that God made this world for me, for me, for me, for me and for you. 
 
 I know a fount where sins are washed away  
 I know a place where night is turned to day  
-Under its shadow, the safest place i know  
-All that I am, to be, I gladly serve  
+Under its shadow, the safest place I know  
+All that I am, to be, I gladly serve Him now  
 Only one life will soon be passed away  
-Only one chance i must not grow away  
-Now I know I must give this life to Him, to Him, and to Him  
+Only one chance I must not grow away  
+Now I know I must give this life to Him, to Him, to Him, to Him and to Him  
 
-There is a fount where sins are washed away  
-There’s a place that is under the shadow, the safest place I know  
+There is a fount where sins are washed away"  
+There is a place that is under the shadow, the safest place I know  
 
 This reminds the speaker of 2 passages in the Bible; he suspects the lyric writer took the concept from these 2. Read Psalm 91:1-2;   
 
