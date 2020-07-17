@@ -2,12 +2,12 @@
 layout: post
 title: Who is Knocking?
 category: spiritualmeeting2020singapore
-tags: [reflection]
+tags: [prayer,door,knock,heart,david]
 hymns: [437]
 speaker: prchinaunquek
 ---
 Summary:  
-Jesus said, “Knock and it will be opened.” Sometimes we grow disheartened because we feel we have been knocking for a long time. But do we realise that God is knocking on the door of our hearts too? He’s been waiting for a long while. When will we be willing to open it?
+Jesus said, “Knock and it will be opened to you.” Sometimes we grow disheartened because we feel we have been knocking on the Lord’s door for a long time. But do we realise that God has been knocking on the door of our hearts too? He’s been waiting for a long time. When will we be willing to open it?
 
 Hymn 437: Who at My Door Is Standing?
 
@@ -41,7 +41,7 @@ May this help us realise that just because we have been baptised doesn’t mean 
 
 We open the doors of our heart one by one to the people around us. But there’s a secret chamber whose door cannot be opened. Many sins and failures stem from this secret chamber. The Lord Jesus wants to enter that door. He wants to be with us and rule in the deepest recess of our hearts. Let us learn to be like David - open the door of the deepest recess of our hearts so God can search it; so God can help us; so He can lead us into the way everlasting. If we are willing to open this door up. God is also willing, through the Holy Spirit, to enter our hearts and cleanse it. Our Lord Jesus is still knocking outside our hearts. He’s not disappointed with us. He’s still looking forward to the time we open the door of our hearts. Because of this, let’s not be discouraged as we knock on the door of the Lord. We first need to open the door of our hearts. 
 
-Although we do not have the laying of hands in prayer now (as the service is livestreamed due to the COVID-19 situation). This is a good opportunity for us to learn to kneel before God with our whole heart. According to past experiences of laying hands, the speaker has observed people praying not so seriously. Then when a minister comes to lay hands on them, they become very serious and fervent. Then when the minister walks away, it is as if they have no strength anymore to pray. There will be no ministers laying hands but remember that the Jesus is before you. 
+Although we do not have the laying of hands in prayer now (as the service is livestreamed due to the COVID-19 situation), this is a good opportunity for us to learn to kneel before God with our whole heart. According to past experiences of laying hands, the speaker has observed people praying not so seriously. Then when a minister comes to lay hands on them, they become very serious and fervent. Then when the minister walks away, it is as if they have no strength anymore to pray. There will be no ministers laying hands but remember that the Lord Jesus is before you. 
 
 You knock on His door but He’s knocking at the door of your heart. He’s been waiting for a long while. When are we willing to open up? 
 
