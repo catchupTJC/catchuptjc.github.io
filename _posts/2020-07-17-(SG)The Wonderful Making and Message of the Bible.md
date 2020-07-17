@@ -7,7 +7,7 @@ hymns: [312,437]
 speaker: prchinaunquek
 ---
 Summary:  
-The words written in the Bible is inspired by God; it doesn’t come from the thoughts of men. It has withstood the questionings of men and the test of time, even though political leaders tried to destroy it. God is not only ready to preserve His word, He is ready to perform it. This is evidenced by the many prophecies that have been fulfilled, especially by Jesus. The last prophecy about the Lord Jesus is that He’s going to come again. Will we be ready?
+The words written in the Bible are inspired by God; it doesn’t come from the thoughts of men. It has withstood the questionings of men and the test of time, even though political leaders tried to destroy it. God is not only ready to preserve His word, He is ready to perform it. This is evidenced by the many prophecies that have been fulfilled, especially by Jesus. The last prophecy about the Lord Jesus is that He’s going to come again. Will we be ready?
 
 The theme of the Spiritual Meeting is ‘Loving the Bible’.
 
