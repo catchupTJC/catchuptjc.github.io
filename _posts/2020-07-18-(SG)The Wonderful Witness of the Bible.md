@@ -11,6 +11,8 @@ Summary:
 1. The Bible witnesses to itself
 2. The Bible witnesses to Jesus as the Christ
 3. The Bible witnesses that Christ is the foundation of the church
+
+
  
 Hymn 25 (God's Law is Perfect and Gives Life) is taken from Psalm 19. Psalm 19 tells us of the laws, the testimonies, the commandments, the judgements of God; in short, the Bible. The Chinese version of the hymn says, “It makes wise the simple.” The Holy Bible is not a book only for the highly educated. In fact, the Word of God is not for those who think that they are wise. The Bible says that if any man lacks wisdom, let him ask from God and He will give them wisdom. The Lord has the Bible to those who are not that wise but want to seek wisdom. We must love the Bible because it is a source of wisdom that comes from God.
 
