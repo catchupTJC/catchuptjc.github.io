@@ -1,3 +1,4 @@
+---
 layout: post
 title: The Wonderful Functions of the Bible
 category: spiritualmeeting2020singapore
@@ -5,6 +6,13 @@ tags: [reflection,bible,wordofgod,jesus,parableofthesower,heart]
 hymns: [469,256]
 speaker: prbarnabaschong
 ---
+
+Summary: 
+The Word of God is meant to help us in our daily lives so that we may be equipped for the good works. Indeed, some portions of the Bible seem mysterious, especially when it concerns things of the future. These things will slowly be revealed by God. But, the Bible focuses on a few points; teaches us how to be Son of God for us Christians who belong to Him. This sermon covers a few symbols in the Bible used to describe the Word of God: 
+
+1. The Word of God is like a light and lamp
+2. The Word of God is like a mirror
+3. The Word of God is like a seed 
 
 What does ‘wonderful functions’ mean? The theme for this SM is to encourage everyone to read the Bible and love the Bible more. When we talk about the Word of God, sometimes we may think that it is difficult to understand the Word of God because the Word of God may contain many deep teachings and concern things of the future. This is why many say that the Word of God is full of mysteries. Some non-Christians may even attempt to interpret the Bible with Bible-codes, “Since the Bible is the Word of God, it must contain many secrets and hidden meanings!” 
 
@@ -14,7 +22,7 @@ Read 2 Timothy 3:16-17;
 *16 'All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness, 
 17 that the man of God may be complete, thoroughly equipped for every good work.'*
 
-Here it says that all scripture is given by inspiration of God. Therefore, it is the Word of God; the oracles of God. This oracle of God is so deep, how can we understand them? Although it says that the Scripture is inspired by God, is it something that we truly cannot understand? Is it something meaningless to us? In fact, here it says that it is profitable for doctrine, for reproof, for correction, and for instruction in righteousness; these are practical uses of the Bible. V17 goes on to explain why the Bible was talked about like this. The purpose is that the purpose of God may be completely and thoroughly for every good work. The Word of God is meant to help us in our daily lives so that we may be equipped for the good works. Indeed, some portions of the Bible seem mysterious, especially when it concerns things of the future. These things will slowly be revealed by God. But, the Bible focuses on a few points; teaches us how to be Son of God for us Christians who belong to Him. There are a few symbols in the Bible used to describe the Word of God.
+Here it says that all scripture is given by inspiration of God. Therefore, it is the Word of God; the oracles of God. This oracle of God is so deep, how can we understand them? Although it says that the Scripture is inspired by God, is it something that we truly cannot understand? Is it something meaningless to us? In fact, here it says that it is profitable for doctrine, for reproof, for correction, and for instruction in righteousness; these are practical uses of the Bible. V17 goes on to explain why the Bible was talked about like this. The purpose is that God may be completely and thoroughly for every good work. The Word of God is meant to help us in our daily lives so that we may be equipped for the good works. Indeed, some portions of the Bible seem mysterious, especially when it concerns things of the future. These things will slowly be revealed by God. But, the Bible focuses on a few points; teaches us how to be Son of God for us Christians who belong to Him. There are a few symbols in the Bible used to describe the Word of God.
 
 What are the symbols?
 
@@ -54,9 +62,11 @@ Here, Paul tells us that in the past, we were in darkness but now we are in the 
 
 *15 See then that you walk circumspectly, not as fools but as wise, 
 16 redeeming the time, because the days are evil.'*
-Walk circumspectly not as fools but as the wise (v15)
+
+1. Walk circumspectly not as fools but as the wise (v15)
 Though we are weak, we must always be vigilant. We must be wise unlike the fools. The fool will tell himself that since he is weak, he shall just continue in his weaknesses; he walks on the border everyday. Once in a while, he slips on to the other side of the border. This is not the action of the wise because the wise will know that he needs to leave the border between light and darkness to be as far away as possible because occasionally, it is very possible to fall in his weakness to be on the other side of the border. At least, he is wise and stays far from the border so that it would be less likely for him to fall into darkness. We must be wise and vigilant. 
-Redeem the time because the days are evil (v16)
+
+2. Redeem the time because the days are evil (v16)
 Paul tells us that we must know the present circumstances. The society today is full of darkness and foolishness. Because we know that the present circumstances are as such, we must grab hold of the time to do good. Let us not waste our time to live in sin and follow the footsteps of the world for they don’t know that they’re walking towards destruction. In our current situation of the pandemic, we have a lot of time. Even if we work online from home, we have already saved on the time we usually spend to and fro the office. In fact, our current situation leaves us with a lot of extra time. How do we make good use of our time? We can use this time to draw near to God. Now, we have much reduced communication with the outside world and the world outside has less influence on us. We don’t have to live the ways of the outside and live our lives according to the manner of Christians and the way God teaches us. We must know how to treasure the time and live the life of a Christians. 
 
 The Word of God is a light and lamp and always shines at us so we may know the correct way. 
@@ -65,10 +75,10 @@ The Word of God is a light and lamp and always shines at us so we may know the c
 
 Turn to James 1:22-25;
 
-22 'But be doers of the word, and not hearers only, deceiving yourselves.
+*22 'But be doers of the word, and not hearers only, deceiving yourselves.
 23 For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror; 
 24 for he observes himself, goes away, and immediately forgets what kind of man he was. 
-25 But he who looks into the perfect law of liberty and continues in it, and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does.'
+25 But he who looks into the perfect law of liberty and continues in it, and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does.'*
 
 Here it tells us that the Word of God is like a mirror. What is the purpose of this mirror? The speaker is sure that we look into the mirror everyday and some even carry a pocket mirror. Though some don’t bring a mirror everywhere they go, they use their phones as a mirror. All of us may look at ourselves in the mirror. 
 
@@ -86,15 +96,16 @@ The final goal is for us to look and have nothing else to change, then, we’ve 
 James encourages us in v25; 
 
 *But he who looks into the perfect law of liberty and continues in it, and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does.'*
-Constantly look into the Word of God 
+
+1. Constantly look into the Word of God 
 We must constantly look into this mirror to inspect ourselves. Just as we constantly look into the mirror to ensure a tidy appearance. 
 
 If we do not constantly read the Bible, how will we know what the Bible is trying to tell us? Our church has a Bible reading schedule. If we follow the schedule, we'd read about 3 chapters in a week. Our church has many fellowships as well. We can no longer have our meal fellowships presently but we can have a different activity that we should have. Though this fellowship is online, it’s the best kind because they’re Bible studies. In a week, there are many opportunities for Bible studies. Now, we don’t even need to go to someone’s else for Bible studies and it’s so easy to go online to join a meeting. Have we thought about using this method to constantly study the Word of God? Here James makes it clear that we must constantly do this to change ourselves. 
 
-We must not forget 
+2. We must not forget 
 We cannot be a forgetful hearer. Sometimes when we hear the Word of God, we think that we may remember it but we later forget about it. At that point of time when you hear the Word of God, you are greatly moved but forget about it after some time. This is why James asks us to constantly read the Bible. When you constantly read, you will constantly remember it. When you remember it, it leads us to the third action. 
 
-Do the Word of God 
+3. Do the Word of God 
 When you constantly read the Word of God and remember it, you’ll be reminded to do it. If not, how will you do this Word of God? If we’re unable to do the Word of God, it is because we lack the first two actions. Thank God that we have the Holy Spirit and the Spirit of God will remind us of what we need to do. This means that we have to understand the Word of God so that the Holy Spirit can remind us of which Word of God to keep. If we have not even read this portion of the Bible before, how can God remind us? Of course, the Holy Spirit may move you to feel that you shouldn’t do this but the Word of God helps us to understand the reason. The Word of God is important and we must constantly look at it so as to bring it to remembrance and do it. The word of God is like a mirror to see the areas we need to change. 
 
 ## Symbol 3 — The Word of God is like a seed
@@ -134,8 +145,11 @@ Sometimes you may wonder why you have no faith; is your heart hard like the ways
 Here, there are other types of hearts as well. There is the stony ground and the ground with thorns. When the Word of God is sown in our hearts, does it encounter such grounds? Why is it so easy for us to give up Jesus (these 2 grounds both involve the person hearing it and then giving up on Jesus)? The first is unable to persevere in trials while the second is unable to give up the pleasures of this world. Though the Word of God has taken some root in his heart, and he has some faith, because of these 2 factors, these people gave up on the word easily. When the Word of God is sown in our hearts, do we encounter such decisions with these 2 struggles present? On one hand, we know that we shouldn’t do this, we shouldn’t lust after the world. 
 
 Possible train of thoughts
-“I know! When I talk to others, I even tell them to not spend so much time in the world. But I have such a good opportunity now, if I don’t cease it, I won’t make good money. I enjoy myself like this so that I may join more church services in the future. If I’m more free, I'm able to join more church activities. But now is not a good time, I know what I’m doing.” 
-“I know that I’m undergoing persecution. My parents are fierce. My spouse doesn’t allow me to come for service. It’s not that I don’t want to go to church, I want to. Thank God that it’s now online, I can attend services though I secretly watch them. This is good! Even if we can come back to church for service in the future, we should still stream online!” 
+
+1. “I know! When I talk to others, I even tell them to not spend so much time in the world. But I have such a good opportunity now, if I don’t cease it, I won’t make good money. I enjoy myself like this so that I may join more church services in the future. If I’m more free, I'm able to join more church activities. But now is not a good time, I know what I’m doing.” 
+
+2. “I know that I’m undergoing persecution. My parents are fierce. My spouse doesn’t allow me to come for service. It’s not that I don’t want to go to church, I want to. Thank God that it’s now online, I can attend services though I secretly watch them. This is good! Even if we can come back to church for service in the future, we should still stream online!” 
+
 Are we in such situations? If we have such a mindset, then the Word of God is sown on a stony or thorny ground. We should not say that God will understand and hence not make any changes. We must know that such a line of thinking is not right. Here, Jesus had already made it clear. Jesus said that your root is not deep enough and will be dried up when the sun comes up. For the thorny ground, the thorns will choke you; it will surely happen. If we have wisdom, we know that we have to remove the stones and thorns. The fact that you are struggling is good because you’ve grown some faith; let this faith allow you to make the wise decision. The best is that the seed is sown on good ground. Then, there is a hundred-fold, sixty-fold, or thirty-fold. This should be the final aim of our faith. 
 
 The Word of God is like a seed, it will slowly germinate and grow. Let us let this seed grow in our hearts. 
