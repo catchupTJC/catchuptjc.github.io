@@ -153,5 +153,6 @@ Possible train of thoughts
 Are we in such situations? If we have such a mindset, then the Word of God is sown on a stony or thorny ground. We should not say that God will understand and hence not make any changes. We must know that such a line of thinking is not right. Here, Jesus had already made it clear. Jesus said that your root is not deep enough and will be dried up when the sun comes up. For the thorny ground, the thorns will choke you; it will surely happen. If we have wisdom, we know that we have to remove the stones and thorns. The fact that you are struggling is good because you’ve grown some faith; let this faith allow you to make the wise decision. The best is that the seed is sown on good ground. Then, there is a hundred-fold, sixty-fold, or thirty-fold. This should be the final aim of our faith. 
 
 The Word of God is like a seed, it will slowly germinate and grow. Let us let this seed grow in our hearts. 
+
 ----
 ****
