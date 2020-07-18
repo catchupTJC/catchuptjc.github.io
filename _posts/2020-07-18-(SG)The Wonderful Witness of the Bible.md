@@ -10,10 +10,9 @@ speaker: prpetershee
 Summary:  
 1. The Bible witnesses to itself
 2. The Bible witnesses to Jesus as the Christ
-3. The Bible witnesses that Christ is the foundation of the church
+3. The Bible witnesses that Christ is the foundation of the church  
 
 
- 
 Hymn 25 (God's Law is Perfect and Gives Life) is taken from Psalm 19. Psalm 19 tells us of the laws, the testimonies, the commandments, the judgements of God; in short, the Bible. The Chinese version of the hymn says, “It makes wise the simple.” The Holy Bible is not a book only for the highly educated. In fact, the Word of God is not for those who think that they are wise. The Bible says that if any man lacks wisdom, let him ask from God and He will give them wisdom. The Lord has the Bible to those who are not that wise but want to seek wisdom. We must love the Bible because it is a source of wisdom that comes from God.
 
 Loving the truth and loving the Bible are closely related but are not the same things. Before a person becomes a Christian, he could be diligently seeking the truth because God has put this heart of seeking the truth in him. In his desire for the truth, he seeks out holy books and religious texts to read. Then, he discovers that the Bible stands out from among the rest. (Just as Pr Chin Aun Quek mentioned yesterday that the Holy Bible should be placed at the right and the rest at the left with a space between them.) When you read the Bible, you’ll discover that it is the ONLY book that qualifies as the source for spiritual truth. Then, the seeker of truth will realise that loving the Truth means loving the Bible. Truth is of course greater than the Bible, because truth is so vast; there’s so much truth in the mind of God, it’s practically infinite. You cannot understand all the Truth there is in the mind of God but the Bible is what God has revealed in the mind to us; the Bible is revealed truth. We turn to Deuteronomy 29:29;     
