@@ -8,6 +8,7 @@ speaker: prbarnabaschong
 ---
 
 Summary: 
+
 The Word of God is meant to help us in our daily lives so that we may be equipped for the good works. Indeed, some portions of the Bible seem mysterious, especially when it concerns things of the future. These things will slowly be revealed by God. But, the Bible focuses on a few points; teaches us how to be Son of God for us Christians who belong to Him. This sermon covers a few symbols in the Bible used to describe the Word of God: 
 
 1. The Word of God is like a light and lamp
