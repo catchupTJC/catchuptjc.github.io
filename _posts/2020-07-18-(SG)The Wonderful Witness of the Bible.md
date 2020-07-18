@@ -55,10 +55,8 @@ Read Hebrews 1:1-2;
 
 Here we see how the 66 books of the Bible were compiled and here it talked about 2 different inspirations: 
 
-When God spoke indirectly through the prophets  
-Spoke to us indirectly  
-When God speaks through Christ (through His Son)   
-Spoke to us directly   
+When God spoke indirectly through the prophets, He spoke to us indirectly.  
+When God speaks through Christ (through His Son), He spoke to us directly.    
 
 In the Last Days, He speaks directly to us because He says here that He speaks by His son. Jesus Christ is the Son of God and we know that He is God Himself incarnate. Hence, the description here of this Son is divine. He is the creator of the world. So Jesus Christ is God directly speaking to humanity and that is the New Testament period. 
 
@@ -167,7 +165,7 @@ Just as Pr CAQ mentioned, there are hundreds and hundreds of prophecies and we�
 
 This could be substantiated because Jesus came back to life, because He had no sin. We often explain that virgin birth means Jesus had no sin. Therefore, death couldn’t hold him back. Jesus overcoming death proves many things; that is EVERYTHING prophesied in the Old Testament. Because all the prophets point to Christ and Jesus fulfilled everything. Therefore, He is the Christ. This is 1 reason why Matthew keeps using the world “fulfilled”; because He fulfilled everything. 
 
-Look at 2 examples in Matthew 2. 
+Look at 2 examples in Matthew 2.   
 **1. Matthew 2:15;**  
 *and was there until the death of Herod, that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Out of Egypt I called My Son.”*
 “Out of Egypt I call My son”  
@@ -182,7 +180,6 @@ Rachel weeping for her children,
 Refusing to be comforted,
 Because they are no more.”*
 
-“It was fulfilled”   
 What was fulfilled? We know the infamous incident where Herod wanted to seek Jesus and hence killed all the baby boys aged 2 years and below. There was a voice crying in Ramah; Rachel weeping for her children. If we don’t look back to the Old Testament, we won’t understand what this means. Always remember that the Old Testament and New Testament corroborate and the New Testament explains the Old Testament. Look at the book of Jeremiah where this is found, Jeremiah mentioned this to Judah and said, “Don’t cry! Cry for what? Rachel crying for her children, cry for what! Now when Herod kills the baby boy, God is going to comfort you!”
 
 In the book of Jeremiah, he says, “You people going back to Babylonian captivity is the second captivity.”   
@@ -198,38 +195,40 @@ Paul also told Timothy, “From a child, you know that the holy scripture is abl
 
 ## 3. The wonderful foundation of the church; Christ is the foundation of the church
 The Holy Bible testifies that Jesus Christ is the one that will build the ultimate temple which is the church. From the Holy Bible, we can even see ourselves (TJC). Read Ephesians 2:19–22;
-*Now, therefore, you are no longer strangers and foreigners, but fellow citizens with the saints and members of the household of God, having been built on the foundation of the apostles and prophets, Jesus Christ Himself being the chief cornerstone, in whom the whole building, being fitted together, grows into a holy temple in the Lord, in whom you also are being built together for a dwelling place of God in the Spirit.*
+*Now, therefore, you are no longer strangers and foreigners, but fellow citizens with the saints and members of the household of God, having been built on the foundation of the apostles and prophets, Jesus Christ Himself being the chief cornerstone, in whom the whole building, being fitted together, grows into a holy temple in the Lord, in whom you also are being built together for a dwelling place of God in the Spirit.* 
+
+
 Here it says that we, the people of God, are founded on a foundation made up of the prophets and apostles, Jesus being our chief cornerstone. “We” refers to the house of God. The verses tell us to be built up to be a holy temple. When the bible mentions apostles and prophets, it refers to their teachings. This is the recorded truth in the Bible. The revealed truth of God is the foundation of the church. Ephesians 3:5-6;  
 
-which in other ages was not made known to the sons of men, as it has now been revealed by the Spirit to His holy apostles and prophets: that the Gentiles should be fellow heirs, of the same body, and partakers of His promise in Christ through the gospel,
+*which in other ages was not made known to the sons of men, as it has now been revealed by the Spirit to His holy apostles and prophets: that the Gentiles should be fellow heirs, of the same body, and partakers of His promise in Christ through the gospel,*
 
 
 
 Here, the body of Christ, church, will comprise not just Jews but also the Gentiles. This is a mystery once hidden now revealed to the apostles and prophets. What’s been revealed to them becomes the foundation of the church. The foundation is the New Testament understanding of the Old Testament. We are built up as a temple. The Old Testament uses the temple image to explain the church. Read Ephesians 3:21;  
 
-“to Him be glory in the church by Christ Jesus to all generations, forever and ever. Amen.”
+*“to Him be glory in the church by Christ Jesus to all generations, forever and ever. Amen.”*
 
 
 In the church is the glory of God. In the Old Testament, after the temple (or even the tabernacle in the wilderness) was dedicated, the glory of God filled it. Such that Moses, the priests, nobody, could enter. But what happened to this glory? It left the temple, as seen by Ezekiel. It was destroyed. But now Ephesians 3 says that there’ll be glory in the church and till he forever, it’ll never depart! Read Haggai 2:4-9;
 
-4 Yet now be strong, Zerubbabel,’ says the Lord; ‘and be strong, Joshua, son of Jehozadak, the high priest; and be strong, all you people of the land,’ says the Lord, ‘and work; for I am with you,’ says the Lord of hosts. 
+*4 Yet now be strong, Zerubbabel,’ says the Lord; ‘and be strong, Joshua, son of Jehozadak, the high priest; and be strong, all you people of the land,’ says the Lord, ‘and work; for I am with you,’ says the Lord of hosts. 
 5 ‘According to the word that I covenanted with you when you came out of Egypt, so My Spirit remains among you; do not fear!’
 6 “For thus says the Lord of hosts: Once more (it is a little while) I will shake heaven and earth, the sea and dry land; 
 7 and I will shake all nations, and they shall come to the Desire of All Nations, and I will fill this temple with glory,’ says the Lord of hosts. 
 8 ‘The silver is Mine, and the gold is Mine,’ says the Lord of hosts. 
-9 The glory of this latter temple shall be greater than the former,’ says the Lord of hosts. ‘And in this place I will give peace,’ says the Lord of hosts.”
+9 The glory of this latter temple shall be greater than the former,’ says the Lord of hosts. ‘And in this place I will give peace,’ says the Lord of hosts.”*
 
 
 The prophecy of God came upon Haggai. As Zerubbabel and Joshua led the people to rebuild the destroyed temple, the prophecy of God came upon Haggai, Peter said Haggai prophesied of the distant future. There will come a time God comes to shake all nations. This temple will be so much more glorious than its former glory. This is the church that’ll be even more glorious than the former temple. If the latter temple represents the church which is the spiritual temple which was led by Christ, then Zerubbabel and Joshua who led the rebuilding of the former temple are foreshadows of Christ.   
 Read Haggai 2:22-23;
 
-22 I will overthrow the throne of kingdoms;
+*22 I will overthrow the throne of kingdoms;
 I will destroy the strength of the Gentile kingdoms.
 I will overthrow the chariots
 And those who ride in them;
 The horses and their riders shall come down,
 Every one by the sword of his brother.
-23 ‘In that day,’ says the Lord of hosts, ‘I will take you, Zerubbabel My servant, the son of Shealtiel,’ says the Lord, and will make you like a signet ring; for I have chosen you,’ says the Lord of hosts.”
+23 ‘In that day,’ says the Lord of hosts, ‘I will take you, Zerubbabel My servant, the son of Shealtiel,’ says the Lord, and will make you like a signet ring; for I have chosen you,’ says the Lord of hosts.”*
 
 
 Zerubbabel will be made like a signet ring which represents kingship. Jesus who is king is hence foreshadowed by Zerubbabel. 
@@ -237,17 +236,17 @@ Zerubbabel will be made like a signet ring which represents kingship. Jesus who 
 How does Joshua foreshadow Christ? 
 Read Zechariah 6:11-13;  
 
-11 Take the silver and gold, make an elaborate crown, and set it on the head of Joshua the son of Jehozadak, the high priest. 
-12 Then speak to him, saying, ‘Thus says the Lord of hosts, saying:
+*11 Take the silver and gold, make an elaborate crown, and set it on the head of Joshua the son of Jehozadak, the high priest. 
+12 Then speak to him, saying, ‘Thus says the Lord of hosts, saying:*
 
-“Behold, the Man whose name is the BRANCH!
+*“Behold, the Man whose name is the BRANCH!
 From His place He shall branch out,
 And He shall build the temple of the Lord;
 13 Yes, He shall build the temple of the Lord.
 He shall bear the glory,
 And shall sit and rule on His throne;
 So He shall be a priest on His throne,
-And the counsel of peace shall be between them both.” ’
+And the counsel of peace shall be between them both.”*
 
 
 Joshua was not a son of David but was a High Priest. But God says to crown him and he will rule on his throne. This shows how Jesus is both High Priest and King. Jesus’ body is the temple, full of the glory of God and will never depart! Do we see TJC in the Bible then? Absolutely! At the time when Joshua and Zerubabbel led the ppl to rebuild the temple, the foundation had already laid but the work was halted for about 15-16 years. That was why Haggai and Zechariah had to come up with all these prophecies. Then the work resumed.   
@@ -257,7 +256,7 @@ The Bible was miraculously preserved. If the foundation is destroyed then there�
 
 Read Zechariah 4:6-9;
 
-6 So he answered and said to me:
+*6 So he answered and said to me:
 “This is the word of the Lord to Zerubbabel:
 Not by might nor by power, but by My Spirit,’
 Says the Lord of hosts.
@@ -270,18 +269,18 @@ With shouts of “Grace, grace to it!” ’ ”
 Have laid the foundation of this temple;
 His hands shall also finish it.
 Then you will know
-That the Lord of hosts has sent Me to you.
+That the Lord of hosts has sent Me to you.*
 
 
 Jesus laid the foundation during the apostolic time. Today, we’re the work of Jesus and we shall complete it. We must have the faith to believe that! Because our faith and doctrine is exactly the same as the apostolic time. Read 1 Thessalonians 2:13;  
 
-For this reason we also thank God without ceasing, because when you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God, which also effectively works in you who believe.
+*For this reason we also thank God without ceasing, because when you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God, which also effectively works in you who believe.*
 
 
 When Paul preached to the Thessalonians, their hearts were so ready to receive the preaching because they allowed God to work in their hearts.   
 In Acts 13:2-3;  
 
-As they ministered to the Lord and fasted, the Holy Spirit said, “Now separate to Me Barnabas and Saul for the work to which I have called them.” Then, having fasted and prayed, and laid hands on them, they sent them away.
+A*s they ministered to the Lord and fasted, the Holy Spirit said, “Now separate to Me Barnabas and Saul for the work to which I have called them.” Then, having fasted and prayed, and laid hands on them, they sent them away.*
 
 
 When they went to Thessalonians to preach in the synagogue, they used the Old Testament scriptures to prove that Jesus is the Christ. The Thessalonians didn’t believe the apostles merely without any basis. They realised that the apostles interpreted the Old Testament and applied it to Jesus in a very believable way. It allowed the Holy Spirit to make them see.
