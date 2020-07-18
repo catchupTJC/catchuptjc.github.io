@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sat Morning Prayer
+title: Praying Constantly
 category: spiritualmeeting2020singapore
 tags: [reflection,prayer,holyspirit,persistence,fruit,inheritance,joy,love,salvation]
 hymns: [411]
