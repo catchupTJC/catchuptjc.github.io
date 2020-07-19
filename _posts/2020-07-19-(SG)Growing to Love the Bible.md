@@ -7,7 +7,7 @@ hymns: [24,248]
 speaker: prelishashim
 ---
 Summary:  
-There are 3 phases to reading the Bible. (1) Medicinal: When we face problems, the word of God comforts our hearts. (2) Whole grains: We get ‘nutrients’ from the word, but we find it bland. If we are able to persevere, we would reach (3) Feast: Here, we find true satisfaction for our souls. It is important to meditate on the word of God. Meditate on it as a cow chews on cud, Think and rethink about the word we have read. How do we feel about a particular verse? Do we read it in context and think how we can apply it in our daily lives?
+There are 3 phases to reading the Bible. (1) Medicinal: When we face problems, the word of God comforts our hearts. (2) Whole grains: We get ‘nutrients’ from the word, but we find it bland. If we are able to persevere, we would reach (3) Feast: Here, we find true satisfaction for our souls. It is important to meditate on the word of God. Meditate on it as a cow chews on cud. Think and rethink about the word we have read. How do we feel about a particular verse? Do we read it in context and think how we can apply it in our daily lives?
 
 As Christians, the Bible is a book we would all read. It teaches us many things about life and gives us clear instructions about life and death. 
 
