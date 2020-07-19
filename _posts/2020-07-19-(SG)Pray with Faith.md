@@ -6,7 +6,8 @@ tags: [prayer,faith,canaanitewoman,centurion,humility,love]
 hymns: [341]
 speaker: dnchinchungling
 ---
-This exhortation will cover two examples of prayer. Although Jesus did not have direct contact with the recipients of healing, the prayers for these recipients were effective. Furthermore, they weren’t made by the chosen people or God, and yet they received mercy. 
+Summary:  
+This exhortation will cover two examples of prayer. Although Jesus did not have direct contact with the recipients of healing, the prayers for these recipients were effective. Furthermore, they weren’t made by the chosen people or God, and yet they received mercy. Let us learn from the attitude of the Canaanite woman. She **deemed herself unworthy** and accepted her status with humility; that was why she wasn’t discouraged by the words of the Lord Jesus. Let us also emulate the centurion’s attitude when praying. He was a man of authority but came before Jesus with **humility, love and faith**.
 
 ## Canaanite woman
 Matt 15:21-28  
