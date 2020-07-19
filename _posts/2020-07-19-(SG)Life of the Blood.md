@@ -19,10 +19,12 @@ Turn to 1 Corinthians 11:23-26;
 26 For as often as you eat this bread and drink this cup, you proclaim the Lord’s death till He comes.*
 
 
-There were 2 important reasons why the Lord Jesus personally instituted the Holy Communion:  
-For us to partake of His flesh and blood  
-To remember the Lord's death  
-Today, we cannot achieve the first aim of the Holy Communion because the Circuit Breaker has disabled us to gather in church for the Holy Communion. But we can achieve the second purpose; we can, each in our homes, remember the Lord’s death though we don’t partake of the Holy Communion. The death of our Lord accomplished 2 great things:  
+There were 2 important reasons why the Lord Jesus personally instituted the Holy Communion:   
+1. For us to partake of His flesh and blood   
+2. To remember the Lord's death   
+Today, we cannot achieve the first aim of the Holy Communion because the Circuit Breaker has disabled us to gather in church for the Holy Communion. But we can achieve the second purpose; we can, each in our homes, remember the Lord’s death though we don’t partake of the Holy Communion. 
+
+The death of our Lord accomplished 2 great things:  
 **1. Through His blood that was shed, He set the new covenant as the blood of the new covenant**  
 **2. By His blood, He has cleansed us our sin so that we may be saved. Through the blood He has shed, He gave us life; the life of the blood**  
 This is an everlasting life. Turn to John 6:53-54;  
