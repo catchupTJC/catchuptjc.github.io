@@ -2,7 +2,7 @@
 layout: post
 title: Growing to Love the Bible
 category: spiritualmeeting2020singapore
-tags: [reflection]
+tags: [bible,wordofgod,meditate,psalm,wisdom]
 hymns: [24,248]
 speaker: prelishashim
 ---
