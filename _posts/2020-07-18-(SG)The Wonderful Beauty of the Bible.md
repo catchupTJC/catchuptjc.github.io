@@ -94,9 +94,9 @@ We are unable to allow the Word of God to change our lives into a wonderful and 
 Thailand is a country that consists mostly of Buddhists. In the 19th century around 1830, there was a Thai prince who went to England to study. While studying abroad, he came into contact with Christianity. At that time, one of the Christian associates/Bible societies came to know about it. They then came to look for him because at that time, Christianity had yet to enter Thailand; there was also no Thai Bible yet. They then sought the help of this Thai prince to translate the Bible into Thai. At that time, there were Buddhist monks to serve the palace. There were also few in Thailand who knew English. The monks who served in the palace not only knew English but also graduated from universities; they had deep research studies into culture, etc. 
 
 When the monks heard of this, they thought that since they were Buddhists and the other Christians, they would not get along. However, since it’s the request of the prince, they reluctantly agreed when Bible societies came to talk to the Thai monks. However, there were 3 conditions:   
-If the monks find any contradictions in the Bible against Buddhism, they will stop the work   
-If the monks don’t feel good during the translation, they’ll stop   
-After finishing the translation, the monks are to be given some money so that they may offer it to the temple  
+1. If the monks find any contradictions in the Bible against Buddhism, they will stop the work   
+2. If the monks don’t feel good during the translation, they’ll stop   
+3. After finishing the translation, the monks are to be given some money so that they may offer it to the temple  
 Because they were in a rush, the Bible society agreed. During the process, there were many Bible scholars involved. There were also ups and downs because sometimes the monks didn’t feel good and hence went away. 
 
 Then, they finally came to the gospel according to Luke. When they read Luke 23 where Jesus was nailed to the cross, the monks started to weep deeply. They were shocked at the monk. They didn’t expect the monk to say this, “Lord, I’m a sinner!” Later, he accepted Christianity and translated the first Thai Bible. The edition is named, “The Monk Version”. The point is that the Bible was miraculously translated. The Word of God is beautiful and wonderful. For someone who totally didn’t believe in Jesus was changed completely. The Bible allowed him to see his own sin. 
