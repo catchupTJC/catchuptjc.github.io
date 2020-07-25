@@ -8,7 +8,7 @@ speaker: prchinaunquek
 ---
 
 Summary:  
-The speaker explains the True Jesus Church doctrine on baptism, that baptism is necessary for salvation, as well as describes the mode of baptism as recorded in the bible.   
+The speaker explains the True Jesus Church's doctrine on baptism and our belief that baptism is necessary for salvation. This sermon also describes the mode of baptism as recorded in the bible.   
 1. Baptism must be done in the name of Jesus  
 2. The baptismal candidate must be fully immersed    
 3. The baptismal candidate is to be lowered into the water with head bowed  
