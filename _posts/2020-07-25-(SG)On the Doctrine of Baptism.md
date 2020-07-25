@@ -7,6 +7,14 @@ hymns: [291,39]
 speaker: prchinaunquek
 ---
 
+Summary:  
+The speaker explains the True Jesus Church doctrine on baptism, that baptism is necessary for salvation, as well as describes the mode of baptism as recorded in the bible.   
+1. Baptism must be done in the name of Jesus  
+2. The baptismal candidate must be fully immersed    
+3. The baptismal candidate is to be lowered into the water with head bowed  
+4. The baptism must take place in living water
+
+
 Baptism is an important sacrament of the church because it pertains to salvation. But some Christians deem baptism as unimportant. They think salvation depends on our belief in Jesus, not baptism. They refer to Paul’s words in Rom 10:10.   
 *“For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.”*
 
