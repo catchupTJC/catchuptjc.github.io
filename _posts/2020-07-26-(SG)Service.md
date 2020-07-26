@@ -6,7 +6,7 @@ tags: [reflection,youth,service,worship,caring,evangelism,love,jesus]
 hymns: [497,282]
 speaker: prbarnabaschong
 ---
-We may have served in different aspects before; be it cleaning or interpreting work in church. Therefore, this topic is not a new one. The point is: have we done the work well? What does it mean to do the work well and what does it mean to not do well?
+We may have served in different aspects before; be it cleaning or interpreting work in church. Have we done the work well? What does it mean to do the work well and what does it mean to not do well?
 
 Why do we need to serve God?  
 Read 2 Corinthians 5:1-5; 
