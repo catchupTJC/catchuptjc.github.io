@@ -9,13 +9,9 @@ speaker: prbarnabaschong
 We may have served in different aspects before; be it cleaning or interpreting work in church. Have we done the work well? What does it mean to do the work well and what does it mean to not do well?
 
 Why do we need to serve God?  
-Read 2 Corinthians 5:1-5; 
+Read 2 Corinthians 5:15; 
 
-*1 'For we know that if our earthly house, this tent, is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.
-2 For in this we groan, earnestly desiring to be clothed with our habitation which is from heaven,
-3 if indeed, having been clothed, we shall not be found naked. 
-4 For we who are in this tent groan, being burdened, not because we want to be unclothed, but further clothed, that mortality may be swallowed up by life. 
-5 Now He who has prepared us for this very thing is God, who also has given us the Spirit as a guarantee.'*
+*'and He died for all, that those who live should live no longer for themselves, but for Him who died for them and rose again.'*
 
 Here, Paul told us this point: **Jesus died for all**
 
