@@ -52,14 +52,11 @@ After the child was taken up to God at His throne, the woman fled to the wildern
 After Jesus ascended to heaven, Mary, together with the rest of the disciples, gathered in the upper room to wait for the Holy Spirit to descend. Mary had no special status. 
 
 2. The 12 tribes of Israel  
-
 Some then viewed this woman as the 12 tribes of Israel. The 12 stars would refer to the 12 tribes. Jesus was born of the tribe of Judah. 
 
 But when Jesus was born, Israel was no longer a kingdom. The Israelites then did not believe that Jesus was the Messiah. In the upper room prayers were only about 120 waiting for the Holy Spirit after Jesus ascended to heaven. After Jesus ascended to heaven, Jerusalem was sacked and the Israelites fled to other land; this was the judgement of God because they did not believe in Jesus, they crucified Jesus and even said, “May this guilt be upon us and our descendants!” That flight out of the land of Israel cannot be described as the flight of the woman to the wilderness to the place prepared by God. 
 
-3. The Lord’s church  
-
-In Revelation 12:17;
+3. The Lord’s church  In Revelation 12:17;
 
 *'And the dragon was enraged with the woman, and he went to make war with the rest of her offspring, who keep the commandments of God and have the testimony of Jesus Christ.'*
 
@@ -155,11 +152,9 @@ Today we do see some people who give up on Christ for some reasons. Some behave 
 This woman had a garland of 12 stars on her hand. The 12 stars refer to the spiritual descendants of Abraham. Do we remember God saying to Abraham that his descendants would be like the sand of the sea and the stars of heaven? Abraham would have 2 kinds of descendants: 
 
 1. The sand of the sea  
-
 Physical descendants of the land, physical Israel
 
 2. The stars of the sky  
-
 The spiritual descendants, those who become his descendants through the faith of Jesus Christ. 
 
 ## Become victors and not be defeated
