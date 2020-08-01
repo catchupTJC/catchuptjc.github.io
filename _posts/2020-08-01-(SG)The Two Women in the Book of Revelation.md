@@ -5,7 +5,11 @@ category: sermon2020singapore
 tags: [reflection,revelation,victors,holyspirit,prepare,baptise,spiritualwarfare,church,childrenofgod,gospel]
 hymns: [167,244]
 speaker: prchinaunquek
+
 ---
+
+Summary:  
+Putting on Christ is not only at the point of our baptism but also a consistent effort throughout our lives. As we wait on the Lord to come, do we hold steadfast to our faith or have we decided to let go of Christ because we find this too tiring? Do we still believe in the promises of the Lord? In our pursuit of faith, have we left a foot-hole for the devil? This sermon covers 2 (woman with child and the great harlot) of the 4 women mentioned in the book of Revelation. As we read and study the representation of these 2 women, let us also reflect: have I really put on Christ? Do I truly believe in the power and authority of my Lord Jesus Christ?
 
 In the book of Revelation are 4 women. In Revelation 2:20, there is a woman named Jezebel who called herself a prophetess;
 
