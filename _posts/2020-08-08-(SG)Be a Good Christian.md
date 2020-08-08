@@ -22,7 +22,7 @@ Here, when Paul wrote the letter to the Romans, he said that they should be subj
 
 Sometimes we are afraid of being punished and hence do not do a certain thing but if no one sees, we may dare to do the wrong. We should not let men be the reason to stop us from doing wrong but the God in heaven who looks at what we do and thinks. Paul speaks of a few points of how we can keep the law of the country. 
 
-##1 Pay taxes when it is due  
+## 1. Pay taxes when it is due  
 Read Romans 13:6-7;
 
 *6 'For because of this you also pay taxes, for they are God’s ministers attending continually to this very thing. 
@@ -38,7 +38,8 @@ As a citizen of the country, we have to pay our taxes. The Lord Jesus spoke a co
 The people sent by the pharisees sought a loophole from the Lord Jesus. If the Lord Jesus said that the money should be given to God, they would accuse Jesus of not submitting to the Roman government. If Jesus said that they should pay Caesar, the ones who love the country would accuse Jesus of betraying Israel. But Jesus’ answer did not allow any room for accusation because He said render to Caesar the things that are Caesar’s and to God the things that are God’s. The Lord does not think that there is any conflict in giving things to Caesar. There are duties to God but we also have our responsibilities as citizens of a country and in this case is to pay taxes. 
 
 In the time of Jesus during the Roman Empire, they had a problem of corruption. Though the Roman emperor did not impose heavy taxes on them, the tax collectors were very corrupted and would take more than they should have. This is a reason why the people hated the tax collectors. The people may want to avoid taxes because once they pay taxes, they’d have to give a big portion to the tax collectors. If that’s the case, why did Paul and Jesus tell us that we have to perform our duties to pay taxes? Some citizens may question if they should pay taxes because the government did not make good use of the money to prosper the country. But our responsibility is not in overseeing what the government does with the tax money but to pay taxes because this is our duty. In our country, the taxes we pay is for the government to do the things they need to do for the society and financial growth of the country. As Christians, our duties are to pay taxes that the country requires us to pay. 
-##2 Males serving National Service at 18 years old
+
+## 2. Males serving National Service at 18 years old
 This is a law of the country and has to be performed whether you like it or not. Some Christian denominations say that they cannot do NS; they have biblical justifications as to why they cannot and one of which is Isaiah 2:4;
 
 *'He shall judge between the nations, And rebuke many people; They shall beat their swords into plowshares, And their spears into pruning hooks; Nation shall not lift up sword against nation, Neither shall they learn war anymore.'*
@@ -55,7 +56,8 @@ The message of John the Baptist to the soldiers was not to treat people with vio
 
 What should we not do?  
 We began by saying that we should not abide by the law just because we are afraid but rather not violate the laws because of our conscience. If one day we are persecuted because in abiding the law of the country we go against the law of God (for instance, in the example of Pliny, calling God as our Lord is against the law then), we must remember that the law of God is higher than the law of the countries. In the Bible, we read the example of Daniel and his 3 friends who did not worship and bow down to the golden image. When Peter was preaching, he also said to listen to God and not to men. If under such circumstances, we should know how to discern. Other than that, we should strive to not transgress against the law of the country. 
-##1 Do not slander authorities 
+
+## 1. Do not slander authorities 
 Read Jude 8;
 
 *'Likewise also these dreamers defile the flesh, reject authority, and speak evil of dignitaries. '*
@@ -71,7 +73,8 @@ Here, Jude says that Michael the archangel was contending with the devil.
 When Moses passed on, God buried him so that the Israelites would not know where he was. From this passage, it seems that the devil wanted to know where the body was, perhaps so that the Israelites would worship idols or Moses. When Michael the archangel contended with the devil, Michael dared not accuse him of something he did not do. We see that Michael was one submissive to authority because he was an angel and hence dared not bring against the devil a reviling accusation. The devil did not want to remain in his current situation and wanted to be as high as God. This reminds us that we should not slander our authorities because they have been given authority by God. 
 
 The current social media is very affluent and the opinion of others can be accessed easily. Some even scold the government while those who are wiser talks about what the government has done right apart from raising their opinions. Some who do not respect authorities even scold vulgarities. We have to be mindful that the authority has been given by God and when we revile our authorities, we are not respecting God. 
-##2 Rebel against our authorities 
+
+## 2. Rebel against our authorities 
 Read Proverbs 24:21-22;
 
 *21 'My son, fear the Lord and the king; Do not associate with those given to change; 
