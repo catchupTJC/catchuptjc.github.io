@@ -2,7 +2,7 @@
 layout: post
 title: 4 Types of Calling
 category: sermon2020singapore
-tags: [reflection]
+tags: [evangelism,preach,paul,agrippa,testify,gospel,salvation,time,opportunity,pray,conduct]
 hymns: [285,288]
 speaker: prsilaskong
 ---
