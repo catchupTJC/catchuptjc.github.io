@@ -6,6 +6,9 @@ tags: [reflection,kingdom,heaven,parables,labourers,service]
 hymns: [497,416]
 speaker: prpetershee
 ---
+Summary:  
+What can we learn from the parable of the workers in the vineyard? Do we see serving our Heavenly Master as a joy and honour? Have we become servant to all, just as Jesus was? And do we see the good He has given us in our lives? 
+
 
 In the book of Matthew, there is a series of parables that begin with, “The Kingdom of Heaven is like”. There are 10 of them in the gospel of Matthew. There are some who say there are 6, and others who say 7 of these are found in Matthew 13. 
 
@@ -108,14 +111,12 @@ How did Jesus serve? To the extreme. To the point of giving His life. If we want
 Matt 16:24-26  
 *‘Then Jesus said to His disciples, “If anyone desires to come after Me, let him deny himself, and take up his cross, and follow Me. For whoever desires to save his life will lose it, but whoever loses his life for My sake will find it. For what profit is it to a man if he gains the whole world, and loses his own soul? Or what will a man give in exchange for his soul?’*
 
-If you’re a follower of Jesus, follow His example of service. The Son of Man came not to be served but to serve and give up His life. 
-
+If you’re a follower of Jesus, follow His example of service. The Son of Man came not to be served but to serve and give up His life.   
 All Christians serve God in different ways but we must serve God with the same right attitude. Or we might be in danger of losing our place in the Kingdom of Heaven. 
 
-*Why do we serve?*   
+Why do we serve?   
 To be number 1 in reward? To be number 1 in recognition? 
-
-*To be number 1, we must be a servant of all.* 
+**To be number 1, we must be a servant of all.**
 
 Matt 20:16 warns us about wanting to be first. Many are called, but few chosen.
 
@@ -138,12 +139,10 @@ What does an evil eye mean? Jesus had explained earlier on.
 Matt 6:22-23  
 *‘The lamp of the body is the eye. If therefore your eye is good, your whole body will be full of light. But if your eye is bad, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is that darkness!’*
 
-If your eye is bad/evil, your whole body will be dark. An evil eye means you’re not able to see good. The landowner was so kind and gracious. But the eye of the workers just couldn’t see good, because it was evil. 
-
+If your eye is bad/evil, your whole body will be dark. An evil eye means you’re not able to see good. The landowner was so kind and gracious. But the eye of the workers just couldn’t see good, because it was evil.  
 People say beauty is in the eye of the beholder. But here, it says good is in the eye of the beholder. If we are not evil, our eye will not be evil. We will be able to see all the good in this world. 
 
-The landowner is so good. He gives us work and meaning in life; and he did not revoke our payment. Now, he graciously gives fellow labourers the same pay. But we don’t see his goodness. 
-
+The landowner is so good. He gives us work and meaning in life; and he did not revoke our payment. Now, he graciously gives fellow labourers the same pay. But we don’t see his goodness.   
 Later, Jesus heals 2 blind men to show He is the remedy to an evil eye. He gives us light to see good. The Pharisees were like the blind leading the blind. Only by following Jesus will our life be full of goodness. 
 
 Do we see good in God’s word? Do we see good in God’s workings? Do we see the good He has given us in our lives? ‘All things work for good to those who love Him, to those who are the called according to His purpose.’ You are called according to His purpose.
