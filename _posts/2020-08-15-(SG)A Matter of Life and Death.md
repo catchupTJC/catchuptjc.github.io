@@ -7,6 +7,9 @@ hymns: [397,341]
 speaker: dnphillipshee
 ---
 
+Summary: 
+There is no man who can live and not see death, this is a fact. There are many things in life we can hope for but cannot be sure of. Yes, we can put in a lot of effort for certain things. Oftentimes, we hope for certain outcomes but all these outcomes may not be sure. What is for sure is that there is no way we can live, and not see death — there’s nothing surer than that! That day WILL COME. Hence, to many, it’s a taboo and they don’t want to talk about death. But not talking about it doesn’t mean it won’t happen. We know that one day we live is also one day we’ve died. Why is it that life is also about death? Why do we live? Why do we die? What can we do about it?
+
 An English Novelist made this statement: nothing is a matter of life and death except life and death in itself. 
 
 Another famous person making this statement: if you treat every situation as a life and death matter, you will die many times. 
