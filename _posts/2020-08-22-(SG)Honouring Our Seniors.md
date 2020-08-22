@@ -7,6 +7,10 @@ hymns: [261,244]
 speaker: prelishashim
 ---
 
+Summary:  
+There is a classical saying, “Filial piety is the foremost of all virtues.”  
+Meaning to say, when a man is able to carry out filial piety, others will respect this man. Many opine filial piety as a Chinese tradition but this is not just inherent in Chinese cultures because this is also a commandment and teaching of God. This commandment carries along a promise as well! 
+
 The Senior Members’ Day (SMD) is conducted at our respective churches annually. As mentioned earlier, this year’s SMD is a special one because we are unable to physically hold our respective SMD in our local churches. What normally happens is that we gift our senior members presents during the SMD. This year, it is different. Our senior members would have already received their gifts by now. Due to the pandemic, opportunities were given to our EXCO members and ministers to personally deliver the gifts to our senior members. The speaker thanks God for this great opportunity to visit over 80 senior members over this period. This is a grace. The senior members would welcome them with a great smile at the doorstep. Just as when brother Joshua led the hymn earlier, “We thank God for guiding the footsteps of faith of our senior members. It is because God has preserved and guided them that they are here in their faith.” As we talk about honouring our seniors, let us also learn from their footsteps of faith. 
 
 There is a classical saying, “Filial piety is the foremost of all virtues.”  
