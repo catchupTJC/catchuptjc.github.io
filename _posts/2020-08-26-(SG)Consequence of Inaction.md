@@ -8,9 +8,9 @@ speaker: prpetershee
 ---
 Summary:  
 The three parables in Matthew 25 give us important lessons to think about in the last days.   
-Firstly, are we prepared to endure to the end and shine as light even in the darkest tribulation?   
-Secondly, are we fully utilising the time and abilities God has given us to serve Him?  
-And thirdly, are we being sincere in our service? Do we truly know what it means to serve the Lord?  
+1. Are we prepared to endure to the end and shine as light even in the darkest tribulation?   
+2. Are we fully utilising the time and abilities God has given us to serve Him?  
+3. Are we being sincere in our service? Do we truly know what it means to serve the Lord?  
 
 Matthew 24 and 25 talk about the second coming of Christ. It reminds us that as the day of His coming approaches, we need to be prepared so that when He comes, He finds us acceptable. Jesus once asked, “when the son of Man comes, will He find faith in the earth?” Usually Matthew 25 is summarised into these three themes.  
 1. Spiritual nurture (Christian conduct)  
