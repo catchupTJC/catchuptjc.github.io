@@ -13,11 +13,11 @@ The three parables in Matthew 25 give us important lessons to think about in the
 3. Are we being sincere in our service? Do we truly know what it means to serve the Lord?  
 
 Matthew 24 and 25 talk about the second coming of Christ. It reminds us that as the day of His coming approaches, we need to be prepared so that when He comes, He finds us acceptable. Jesus once asked, “when the son of Man comes, will He find faith in the earth?” Usually Matthew 25 is summarised into these three themes.  
-1. Spiritual nurture (Christian conduct)  
-2. Service to the Lord (Christian ministry)  
-3. Loving our fellow men (Christian love)  
-But there’s deeper insight. These three parables are put side by side because there are inter relationships. We must appreciate the full message they convey together. One thing that is common about the three parables is that they talk about failure to do what is necessary.  
+(1) Spiritual nurture (Christian conduct)  
+(2) Service to the Lord (Christian ministry)  
+(3) Loving our fellow men (Christian love)  
 
+But there’s deeper insight. These three parables are put side by side because there are inter relationships. We must appreciate the full message they convey together. One thing that is common about the three parables is that they talk about failure to do what is necessary.   
 **Parable of virgins: failure to be prepared to meet the groom**  
 **Parable of talents: failure to fully use the abilities given to us to serve Him**  
 **Parable of sheep & goats: failure to act kindly and lovingly to those in need**  
