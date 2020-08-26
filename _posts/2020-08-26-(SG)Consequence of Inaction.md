@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Matt 25: Consequence of Inaction
+title: Consequence of Inaction
 category: sermon2020singapore
 tags: [reflection,talents,Jesus,secondcoming,light,love,wedding,bridegroom,service]
 hymns: [214,396]
