@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being Knit Together in Love
-category: sermon2020singapore
+category: youthservice2020singapore
 tags: [love,paul,knit,colossians,corinthians,body,patience,truth]
 hymns: [500,122]
 speaker: dncaleblee
