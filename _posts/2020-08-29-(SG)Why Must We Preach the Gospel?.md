@@ -7,6 +7,13 @@ hymns: [277,288]
 speaker: prchinaunquek
 ---
 
+Summary:  
+Three important reasons why we must preach the gospel:  
+1. Preaching is returning your debt.  
+2. Preaching is a commission given by the Lord Jesus.  
+3. Preaching is the only way through which men can be saved. 
+
+
 The work of preaching the gospel is easy to talk about but difficult to do. To persevere in it is even harder. When we first believed in the Lord, we had the zeal to bring people to believe in the word. Those who really come to believe in the Lord are few; we meet with many difficulties bringing them. Our zeal to preach the gospel is splashed by cold water, that’s why some people lose their zeal to preach. Still, some persevere to preach the gospel in season and out of season. Why should we continue to preach the gospel no matter what situations we meet with? 
 
 ## 1. Because preaching the gospel is returning your debt. 
