@@ -141,6 +141,7 @@ We are NOW children of God. It is not something in the future. It is now.
 If we are children of God, we would keep ourselves pure, like God is pure. And we cannot sin. A person with a seared conscience will just go ahead to sin. A person with a weak conscience will not go and sin, but when faced with pressure, will go and sin. What kind of conscience do we have? If we were people with a strong conscience, we would not let ourselves sin. Some people don't know how to lie. Once they lie, people can tell.
 
 May we be changed, and so transparent, that we do not know how to sin. Let us be the real Barabbas, not just son of any father, but son of the Heavenly Father. Imagine you were Barabbas, waiting for someone to call you up from the prison, hoping the time doesn't come. Suddenly, someone calls you to get up. You think, 'is the time so soon?' But, his chains fell off. They released him. "Barabbas, you are free to go." This is the amazing love we sing about. "My chains fell off!" Amen.
+
 If the eye of Jesus could cause Peter to grieve, yet the warnings of Jesus could not cause Judas to repent, we see how different two different hearts can be. When we read something in the Bible, a message from Jesus, how do we feel? Do we fill our lives with the word of God? If so, what kind of conscience will we have? A conscience that will melt, like that of Peter? Or better still, a conscience that does not allow us to sin.
 
 ----
