@@ -44,7 +44,7 @@ How? By lowering ourselves.
 
 Why? Because we are self-centred.
 
-For example, it is raining today and we know some members have difficulty travelling to and from church. Perhaps we have space in our car. Would we offer to drive them home? Or would thoughts like: “I’m so tired and just want to go home. It’s not convenient because I’m going somewhere else.” When we meet with a situation that would inconvenience us, would we struggle to help others? What would our ultimate decision be?
+For example, it is raining today and we know some members have difficulty travelling to and from church. Perhaps we have space in our car. Would we offer to drive them home? Or would we have thoughts like: “I’m so tired and just want to go home. It’s not convenient because I’m going somewhere else.” When we meet with a situation that would inconvenience us, would we struggle to help others? What would our ultimate decision be?
 
 The Bible tells us to lay down our life for others. If we aren’t even willing to inconvenience ourselves for others, how can we lay down our lives for them?
 
