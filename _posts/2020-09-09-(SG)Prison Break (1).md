@@ -31,7 +31,7 @@ Our fists are tight and hearts closed up when we refuse to forgive. But when we 
 
 How?
 
-Col 3:13
+Col 3:13  
 *bearing with one another, and forgiving one another, if anyone has a complaint against another; even as Christ forgave you, so you also must do.*
 
 What has Christ forgiven us of? It’s like the astronomical debt the servant was forgiven of by the king. Christ has forgiven the astronomical debt of our sin that we can never repay. Since He has forgiven us of this, what more us to forgive others who have wronged us? We owed God 10,000 talents and were forgiven. People only owe us 100 denarii. 
