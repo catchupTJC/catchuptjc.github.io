@@ -7,6 +7,9 @@ hymns: [33,33]
 speaker: prchinaunquek
 ---
 
+Summary:  
+To complete a project, you need to have zeal in your heart to do so. If you have no fire burning in you, it is impossible for you to complete this work. Majority of people start off with fire in their hearts but this fire and intensity is limited. Shortly when he meets with a setback, the intensity diminishes. As a result, human zeal brings disappointment. But the zeal of God is always hot and the power is infinite. It is impossible for you to complete the work on human zeal. With the zeal of God, the work will be completed. As a church, we are still a work-in-progress. In this process, have we already started to lose hope in the promises of God? Have our zeal died down? Have our hearts turned dull?
+
 There are two cities recorded in Revelation - Babylon and the holy city, New Jerusalem. 
 
 Read Revelation 21:1-2;
