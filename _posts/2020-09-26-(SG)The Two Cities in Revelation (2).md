@@ -7,7 +7,9 @@ hymns: [359,358]
 speaker: prchinaunquek
 ---
 Summary:  
-Do we think it worthy to suffer for the glory of the holy city? Can we remain a victor over the temptations of the world? In our service, will we remain discouraged when attacked? Let us allow Christ to come into our hearts and remain living in our hearts, that we will be able to see eternal glory.
+Do we think it worthy to suffer for the glory of the holy city? Can we remain a victor over the temptations of the world? In our service, will we remain discouraged when attacked? Let us allow Christ to come into our hearts and remain living in our hearts, that we will be able to see eternal glory.  
+
+
 The Holy City is ready, it has descended from heaven from God. It will be seen from the high hill. And there is the glory of God in the holy city. Continuing on from the previous sermon in this series, what can we learn from the Holy City? 
 
 ## Rev 21:11 Seeing the glory of the Holy City
