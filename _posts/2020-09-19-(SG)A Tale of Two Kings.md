@@ -2,7 +2,7 @@
 layout: post
 title: A Tale of Two Kings
 category: sermon2020singapore
-tags: [reflection,david,saul,faith,obedience,humility,sin,repentance,God,priority]
+tags: [reflection,david,saul,faith,obedience,humility,sin,repentance,God,priority,pride]
 hymns: [452,224]
 speaker: dncaleblee
 ---
