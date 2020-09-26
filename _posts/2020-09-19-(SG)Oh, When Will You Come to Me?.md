@@ -69,7 +69,7 @@ Why did God give them this wisdom?
 Because they resolved like David to live in a perfect way. In Daniel 1, they were resolved to not eat the king’s delicacies. This wisdom is not just for them to get out of sticky situations. They were resolved to the extent that they were willing to lose their lives. We know that Daniel’s 3 friends were ready to be thrown into the fire. Daniel was resolved to pray even if he was to be thrown into the lion’s den. First, they were resolved to do what’s right. Then, God gave them the wisdom to do and say what's right. This is the wisdom we need to navigate in the world today. First, we need to resolve to walk in the perfect way. Then, God gives us the wisdom as well to do and say what is right. 
 
 Turn back to Psalm 101.   
-*What were some of the concrete things that David resolved to do?*
+**What were some of the concrete things that David resolved to do?**
 
 ## 1. Stay away from wickedness  
 Read Psalm 101:3-4;
