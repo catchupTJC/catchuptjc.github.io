@@ -37,13 +37,13 @@ We turn back to Psalm 101:2;
 
 *'I will behave wisely in a perfect way. Oh, when will You come to me? I will walk within my house with a perfect heart.'*
 
-##1. “Walk within my house with a perfect heart”
+## 1. “Walk within my house with a perfect heart”
 
 Why does it start with his house? This is because we reveal our true self at home. When we are out and there are other people, we usually tend to show the better side of ourselves; we tend to handle ourselves better, we tend to handle our temper better. This is because we do not want to embarrass ourselves in front of others. This does not only apply to adults, young children also do this. Sometimes when the speaker’s daughter is naughty at home and is about to be disciplined, she will be given one last chance, “Do you want to be a good and bad girl?” When there is no one around, only family members, she would then answer in defiance in a mix of Hakka and English, “I want bad girl!”, But sometimes their neighbour would walk past and hear her daughter throwing a tantrum. He would then say, “Girl, why are you crying?” Her tears would miraculously dry up. She wasn’t taught this but she also knows to want her face. This is generally true to most of us — we reveal our true self at home. The children at home also know when the parents are quarrelling. It is the siblings at home that know each other inside out. Very often, we are not so concerned about how our family views us, which is why we tend to reveal our true self at home. 
 
 Therefore, this is why David resolved to walk with a perfect heart at home first. If we strive to walk with a perfect heart at home, we will also do so outside. If we cannot do it at home, how can we do it outside? 
 
-##2. “I will behave wisely in a perfect way”
+## 2. “I will behave wisely in a perfect way”
 In other words, we need wisdom to behave perfectly. Why is wisdom so important? This is because we don’t like in a world that is very conducive for Christian living, we live in a world that is crooked and perverse. Present world that thinks what is right and wrong is different from the Bible’s. What the world thinks is important is different than that of the Bible. The Christian value system is different from that of the world. 
 
 Recently, the speaker was editing an article (not a part of his work) to be published. He had to refer to a baby. He didn’t know the pronoun of the baby. We were taught since young that if you don’t know the pronoun, just use ‘he’. However, he was told that this was wrong; not that it was grammatically wrong but that it was politically wrong. He was told that you should use ‘it’. He thought that it was dehumanising because the baby is human. Or, ‘they’ could be used. He thought that it was a singular baby, why was ‘they’ to be used? He found it alright as long as he doesn’t have to refer to God as a ‘she’. Presently, there are gender-inclusive Bibles that refer to God as a ‘she’. 
@@ -71,7 +71,7 @@ Because they resolved like David to live in a perfect way. In Daniel 1, they wer
 Turn back to Psalm 101.   
 *What were some of the concrete things that David resolved to do?*
 
-##1. Stay away from wickedness  
+## 1. Stay away from wickedness  
 Read Psalm 101:3-4;
 
 *3 'I will set nothing wicked before my eyes; I hate the work of those who fall away; It shall not cling to me. 
@@ -104,7 +104,7 @@ Some may say that David made such a strong resolve to not sin and hence is a hyp
 
 What other things did he set out to do? 
 
-##2. Do not slander, deceive, and lie
+## 2. Do not slander, deceive, and lie
 
 V5; 
 
