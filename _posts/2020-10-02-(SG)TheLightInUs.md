@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Temptation and Trial 22
+title: The Light In Us
 category: sermon2020singapore
-tags: [temptation,trial,test,eve,adam,serpent,job,jesus,choice,suffer]
-hymns: [177,371]
-speaker: prsilaskong
+tags: [discern,true,false,eve,adam,serpent,job,jesus,choice,suffer]
+hymns: [160,342]
+speaker: dnisaactan
 ---
 
 Summary:  
