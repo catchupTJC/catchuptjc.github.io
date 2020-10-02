@@ -1,11 +1,12 @@
 ---
 layout: post
-title: The Light In Us
+title: Temptation and Trial
 category: sermon2020singapore
-tags: [discern,true,false,devil,armour,light,life,grow]
-hymns: [160,342]
-speaker: dnisaactan
+tags: [temptation,trial,test,eve,adam,serpent,job,jesus,choice,suffer]
+hymns: [177,371]
+speaker: prsilaskong
 ---
+
 Summary:  
 Let us be mindful of the impact and influence we have on the people around us. We may think: "This is my life. I can do whatever I want. Don’t take away my freedom!” But there is a role in our lives to participate in the work of saving souls and strengthening the people around us. Some people may ask, “God is powerful. Why can’t He do it Himself?” It’s for our own good, so that as we partake in these things, we can grow as a Christian. Put on the armour of light to protect ourselves and to draw people who are true worshippers of God in.
 
