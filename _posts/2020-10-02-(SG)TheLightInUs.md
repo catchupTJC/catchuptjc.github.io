@@ -2,7 +2,7 @@
 layout: post
 title: The Light In Us
 category: sermon2020singapore
-tags: [true,false,devil,armour,light,life,grow]
+tags: [discern,devil,armour,light,life,grow]
 hymns: [160,342]
 speaker: dnisaactan
 ---
