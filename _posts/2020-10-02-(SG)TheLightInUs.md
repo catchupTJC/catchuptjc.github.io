@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temptation and Trial
+title: Temptation and Trial 22
 category: sermon2020singapore
 tags: [temptation,trial,test,eve,adam,serpent,job,jesus,choice,suffer]
 hymns: [177,371]
