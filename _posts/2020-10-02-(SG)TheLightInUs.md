@@ -2,7 +2,7 @@
 layout: post
 title: The Light In Us
 category: sermon2020singapore
-tags: [temptation,trial,test,eve,adam,serpent,job,jesus,choice,suffer]
+tags: [devil,armour,light,life,grow]
 hymns: [160,342]
 speaker: dnisaactan
 ---
