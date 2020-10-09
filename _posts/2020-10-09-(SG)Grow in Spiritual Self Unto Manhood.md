@@ -126,8 +126,7 @@ Grow in the love of Christ. Meditate on the love of God. Don’t just think abou
 ## 3. Abide in the Holy Spirit 
 Only then can we mortify the flesh. 
 
-We may say we already spend/devote
-But if we are a spiritual person, attending Sabbath service is not enough. We want to draw even nearer to Him. We are moved by the Holy Spirit. Serving God becomes so wonderful. Being able to pray to Him and be a member of His household is something very sweet to us. 
+We may say we already spend/devote a whole day of Sabbath to God. But if we are a spiritual person, attending Sabbath service will not feel enough for us. We want to draw even nearer to Him. We are moved by the Holy Spirit. Serving God becomes so wonderful. Being able to pray to Him and be a member of His household is something very sweet to us. 
 
 ## What are manifestations of a spiritual man?
 ## 1. Based on the love he shows 
