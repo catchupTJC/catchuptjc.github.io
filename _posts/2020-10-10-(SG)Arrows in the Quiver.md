@@ -138,7 +138,7 @@ Members have been encouraged to set up their family altar. This can be a startin
 
 For some RE classes, some teachers have organised Bible Reading over zoom. Thank God children join in. But we need parent support. Not many parents join in. There’s RE homework. Parents can help. That’s how we can fulfil the basic responsibility we have to teach our children; to complement the church initiatives. 
 
-**c. Bring our children to church; don't rob them of the opportunity to build their faith and make spiritual companions in Bible Camps*  
+**c. Bring our children to church; don't rob them of the opportunity to build their faith and make spiritual companions in Bible Camps**  
 Bring our children to church and make sure they zoom in to RE class. 
 
 Luke 2:41-48  
