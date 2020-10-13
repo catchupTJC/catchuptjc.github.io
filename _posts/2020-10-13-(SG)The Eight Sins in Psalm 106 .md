@@ -215,7 +215,7 @@ The Israelites sinned and refused to repent out of hard hearts and so God, out o
 
 The temple was destroyed and the people were taken captive to Babylon. This looked like a clear sign God had abandoned His people. God even allowed enemies to humiliate and destroy His temple! Wasn’t this a clear sign of His abandonment? But the fact was while they were in Babylon, we can see God was with them. 
 
-Throughout all this history, we can see while it seems God has abandoned them at face value, but He was always following them behind.
+Throughout all this history, we can see while it seems God has abandoned them at face value, He was always following them behind.
 
 This is the main point the psalmist wants to tell us is that the love God has for us is steadfastly loyal 不离不弃. Even when He seems to have left us, it’s only for a moment. 
 
