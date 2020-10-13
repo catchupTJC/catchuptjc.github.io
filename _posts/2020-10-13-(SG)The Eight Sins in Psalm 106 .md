@@ -265,7 +265,7 @@ We have committed iniquity,
 We have done wickedly.*
 
 v6 *We have sinned with our fathers*  
-The psalmist wasn’t self righteous to only accuse their fathers of sin. He says the sins were commit WITH their fathers. They may not have committed the same sin but since he had committed sin, he used ‘with'. This is because ALL need the forgiveness of God and His salvation. 
+The psalmist wasn’t self righteous to only accuse their fathers of sin. He says the sins were committed WITH their fathers. They may not have committed the same sin but since he had committed sin, he used ‘with'. This is because ALL need the forgiveness of God and His salvation. 
 
 v4 *Oh, visit me with Your salvation*
 
