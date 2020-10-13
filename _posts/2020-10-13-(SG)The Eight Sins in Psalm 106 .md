@@ -19,7 +19,7 @@ Psalm 106 talks about the 8 kinds of sins the Israelites committed for our refle
 
 The contents of Psalm 106 talks about the 8 kinds of sins the Israelites committed.
 
-v7-47 talks about the 8 kinds of sins the Israelites committed from since they left Egypt until they entered the land of Canaan.
+v7-47 talks about the 8 kinds of sins the Israelites committed since they left Egypt until they entered the land of Canaan.
 
 Of course it doesn’t mean the Israelites only committed these 8 sins when they left Egypt, but it highlights 8 kinds of sins for us to reflect on ourselves. 
 
