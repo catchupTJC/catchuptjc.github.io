@@ -217,7 +217,7 @@ The temple was destroyed and the people were taken captive to Babylon. This look
 
 Throughout all this history, we can see while it seems God has abandoned them at face value, He was always following them behind.
 
-This is the main point the psalmist wants to tell us is that the love God has for us is steadfastly loyal 不离不弃. Even when He seems to have left us, it’s only for a moment. 
+This is the main point the psalmist wants to tell us: The love God has for us is steadfastly loyal 不离不弃. Even when He seems to have left us, it’s only for a moment. 
 
 To see God is good, we must be able to see His mercies endure forever. Then we who have committed sins will have faith and boldness to come before God to ask for His mercy and salvation. 
 
