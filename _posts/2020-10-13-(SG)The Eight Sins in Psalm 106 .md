@@ -155,7 +155,7 @@ When God gives, we’d naturally praise the Lord. But when God takes away, will 
 
 But Job was one who had everything taken away from him and yet, he could still praise God. Why? Because He believed God is good. God will never do things that are not good. He believed the lovingkindness of God endures forever. God will never perform acts that are not love.
 
-Hence he understood: When God gives, that is how God loves and shows His care for me. But even when God takes away, that is another way God loves and shows His care for me. So when God gives or takes away, Job was similarly able to praise God. 
+Hence he understood: When God gives, that is how God loves and shows His care for me. But even when God takes away, that is **another way** God loves and shows His care for me. So when God gives or takes away, Job was similarly able to praise God. 
 
 The people of God should be like Job, to completely believe God is good; that His lovingkindness endures forever. Such a faith becomes a source of strength in our lives. It’ll enable us to pass through all kinds of trials and tribulations. The failure of many Christians is doubting God’s goodness and lovingkindness. This won’t edify but harm us. 
 
