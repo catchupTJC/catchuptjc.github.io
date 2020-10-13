@@ -253,7 +253,7 @@ This was the proclamation by God on mount Sinai when He revealed Himself.
 
 Moses prayed using the words of God, and so the Lord forgave the people according to these words, because God can’t go against His own words; His own goodness and mercy. The main point of prayers is to realise God is good and His mercies endure forever. We have many weaknesses and commit many sins. But as long as we are willing to repent according to the words God spoke, He will forgive us. 
 
-Psa 106
+Psa 106  
 v4-6  
 *Remember me, O Lord, with the favor You have toward Your people.
 Oh, visit me with Your salvation,
@@ -264,7 +264,7 @@ We have sinned with our fathers,
 We have committed iniquity,
 We have done wickedly.*
 
-v6 *We have sinned with our father*  
+v6 *We have sinned with our fathers*  
 The psalmist wasn’t self righteous to only accuse their fathers of sin. He says the sins were commit WITH their fathers. They may not have committed the same sin but since he had committed sin, he used ‘with'. This is because ALL need the forgiveness of God and His salvation. 
 
 v4 *Oh, visit me with Your salvation*
