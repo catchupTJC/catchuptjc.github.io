@@ -178,7 +178,7 @@ And relented according to the multitude of His mercies.
 He also made them to be pitied
 By all those who carried them away captive.*
 
-God handled them over to the hand of the Gentiles. They were oppressed by the enemies and subject to them. But when they called out to God for salvation, God heeded their prayers and saved them. 
+God handed them over to the hand of the Gentiles. They were oppressed by the enemies and subject to them. But when they called out to God for salvation, God heeded their prayers and saved them. 
 
 v43  
 *Many times He delivered them;
