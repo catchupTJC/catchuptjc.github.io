@@ -153,6 +153,6 @@ Eph 2:8
 *For by grace you have been saved through faith, and that not of yourselves; it is the gift of God*
 
 We are all saved through having faith with God. May God grant us all a simple and unwavering faith in Him. 
- 
+
 ----
 ****
