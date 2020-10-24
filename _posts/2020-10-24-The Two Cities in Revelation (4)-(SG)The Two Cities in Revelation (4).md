@@ -2,7 +2,7 @@
 layout: post
 title: The Two Cities in Revelation (4)
 category: sermon2020singapore
-tags: [revelation,holyspirit,babylon,word,children,perseverance]
+tags: [revelation,holyspirit,babylon,word,children,perseverance,abraham,lot,son,vigilant,strength]
 hymns: [83,87]
 speaker: prchinaunquek
 ---
