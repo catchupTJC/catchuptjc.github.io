@@ -8,10 +8,10 @@ speaker: prpetershee
 ---
 Summary:  
 From the epistle of Philemon, we learn from:  
-1. Paul: He interceded for Onesimus just like Jesus interceded for us. He didn’t try to escape from his sinful past; instead, he faced it squarely and worked hard to make up for it.  
-2. Onesimus: His name means ‘profitable’. He was far from that before accepting Christ. But after that lived up to his name.  
-3. Philemon: His name means ‘love’. Paul appealed to Philemon to accept Onesimus with love as a family member despite what he had done.  
-Let us endeavour to be Pauls, Onesimuses (profitable) and Philemons (loving).
+**1. Paul:** He interceded for Onesimus just like Jesus interceded for us. He didn’t try to escape from his sinful past; instead, he faced it squarely and worked hard to make up for it.  
+**2. Onesimus:** His name means ‘profitable’. He was far from that before accepting Christ. But after that lived up to his name.  
+**3. Philemon:** His name means ‘love’. Paul appealed to Philemon to accept Onesimus with love as a family member despite what he had done.  
+*Let us endeavour to be Pauls, Onesimuses (profitable) and Philemons (loving).*
 
 The epistle of Philemon is grouped under the prison epistles (consists of 4 epistles). It’s generally accepted Paul wrote these epistles while in Roman prison. Philippians, Ephesians and Colossians were written to churches, telling them about salvation, joy in Christ and holding on to their faith. But Philemon seems to be addressing a personal matter. How and why did it get into the Bible? Why should it be considered part of Scripture/God’s word to us?
 
