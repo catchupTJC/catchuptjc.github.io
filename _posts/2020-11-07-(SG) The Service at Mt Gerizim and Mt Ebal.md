@@ -8,7 +8,7 @@ speaker: dncaleblee
 ---
 Summary:  
 Lessons from the Service at Mt Gerizim and Ebal:  
-**1. Worship/service requires us to put in effort to be present:** The Israelites had to travel ~48km to the service. Are we willing to travel to church while we have the opportunity instead of just streaming in? Let us not forsake the assembling of ourselves together (Heb 10:25).   
+**1. Worship/service requires us to put in effort to be present:** The Israelites had to travel ~48km to the service. Are we willing to travel to church while we have the opportunity instead of just streaming in? Let us not forsake the assembling of ourselves together so we can stir up love and good works in each other! (Heb 10:24-25).   
 **2. Service should involve offerings from the members:** Not just $, but the offering of praise with our lips! Let us esteem prayer and hymn singing during service.  
 **3. Service must always be centred around the word of God:** In service, we must respond to the word of God; we cannot be passive or asleep. Listen to discern. Listen to accept. If it’s truly God’s word, we say ‘amen' and act it out in our lives.
 
