@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ten Behold in Revelation (2)
+title: Ten "Behold" in Revelation (2)
 category: sermon2020singapore
 tags: [reflection,priority,glory,lamb,suffering,endure,salvation,repentance,garments]
 hymns: [437,294]
