@@ -8,9 +8,9 @@ speaker: prchinaunquek
 ---
 Summary:  
 When the Lord says to ‘behold’, it’s important for us to pay attention.  
-1. *Behold I stand at the door and knock”: Do we allow God to be the head of our lives? Or is He outside knocking at the door of our hearts?   
-2. *Behold, the Lion of the tribe of Judah*: Suffering for the Lord is necessary as a Christian. But if we hold on to His nail-pierced hands, we will not fear.   
-3. *Behold, blessed is he who watches, and keeps his garments*: Have we kept our garments of salvation clean?  
+1. **Behold I stand at the door and knock”**: Do we allow God to be the head of our lives? Or is He outside knocking at the door of our hearts?   
+2. **Behold, the Lion of the tribe of Judah**: Suffering for the Lord is necessary as a Christian. But if we hold on to His nail-pierced hands, we will not fear.   
+3. **Behold, blessed is he who watches, and keeps his garments**: Have we kept our garments of salvation clean?  
 
 We have looked at 3 of the “Behold”s in the book of Revelation so far. 
 
