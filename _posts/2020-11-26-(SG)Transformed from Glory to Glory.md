@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transformed from Glory to Glory
-category: sermon2020singapore
+category: spiritualmeeting2020singapore
 tags: [reflection,glory,transformation,holyspirit,image]
 hymns: [496A,232]
 speaker: prchinaunquek
