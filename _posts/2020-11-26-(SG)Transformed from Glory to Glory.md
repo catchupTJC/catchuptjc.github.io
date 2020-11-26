@@ -33,6 +33,7 @@ Yet, this is a great pity. We have all believed in the Lord, and we are also wil
 *7 so that you come short in no gift, eagerly waiting for the revelation of our Lord Jesus Christ,*
 
 1 Cor 3:1-3
+
 *1 And I, brethren, could not speak to you as to spiritual people but as to carnal, as to babes in Christ.*  
 *2 I fed you with milk and not with solid food; for until now you were not able to receive it, and even now you are still not able;*  
 *3 for you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men?*
@@ -44,6 +45,7 @@ Why did they not reflect the glory of the Lord?
 Their spiritual eyes had been veiled. They were unable to see the glory of the Lord, and so could not reflect the glory of the Lord. Just like the Jews in that period of time - they saw the Lord but did not see His glory. They did not believe that the Lord is God in the flesh. Their spiritual eyes had been veiled. That veil can refer to their pride as well as self-righteousness. Though the Lord had risen from the dead, and the Lord had manifested His power to them, yet their hearts were still hardened and they refused to believe. They were unwilling to remove the veil that was covering their hearts.
 
 2 Cor 3:15-16
+
 *But even to this day, when Moses is read, a veil lies on their heart. Nevertheless when one turns to the Lord, the veil is taken away.*
 
 There were a number of Jews who had removed the veil on their hearts and turned to the Lord. But a majority of the Jews refused to remove this veil. In fact, the Lord clearly explained to them. "If you believe in Moses you ought to believe in me. Because Moses spoke about me."
