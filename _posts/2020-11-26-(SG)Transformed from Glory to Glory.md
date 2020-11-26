@@ -9,8 +9,9 @@ speaker: prchinaunquek
 
 Summary:  
 The Corinthian believers were rebuked to be carnal - they did not reflect the glory of the Lord. Why was this so? Their spiritual eyes had been veiled.   
-Is there a veil covering our hearts that we are unable to see the glory of the Lord? How can we see the glory of the Lord?   
-By truly turning our hearts to face the Lord. Let us consider if we have this desire to be transformed into the image of the Lord. 
+Is there a veil covering our hearts that we are unable to see the glory of the Lord?   
+How can we see the glory of the Lord? By truly turning our hearts to face the Lord.   
+Let us consider if we have this desire to be transformed into the image of the Lord. 
 
 
 The theme for this Spiritual Meeting is "Transformed from Glory to Glory". This verse is found in 2 Cor 3:18,  
