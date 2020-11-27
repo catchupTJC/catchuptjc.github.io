@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thursday Evening Prayer
+title: Thursday Evening Prayer for HS
 category: spiritualmeeting2020singapore
 tags: [prayer,holyspirit]
 hymns: [0,0]
