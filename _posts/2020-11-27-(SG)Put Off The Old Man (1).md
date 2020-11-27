@@ -2,7 +2,7 @@
 layout: post
 title: Put Off The Old Man (1)
 category: spiritualmeeting2020singapore
-tags: [reflection,glory,desires,renewal,faith,life,evil,heart]
+tags: [reflection,glory,desire,renewal,faith,life,evil,heart]
 hymns: [284,232]
 speaker: prelishashim
 ---
