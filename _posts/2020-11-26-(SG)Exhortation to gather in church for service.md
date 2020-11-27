@@ -3,7 +3,7 @@ layout: post
 title: Exhortation to gather in church for service
 category: spiritualmeeting2020singapore
 tags: [gather,church,worship,service,bookofremembrance]
-hymns: [,]
+hymns: [0,0]
 speaker: prchinaunquek
 ---
 Summary:  
