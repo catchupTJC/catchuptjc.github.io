@@ -8,7 +8,8 @@ speaker: prelishashim
 ---
 
 Summary:  
-
+What is this old man? Does this old man still remain in our lives? How do we get rid of this old man?  
+This sermon discusses the importance of constantly discarding our corrupt and deceitful old lifestyles. 
 
 We have been Christians for many years, but are we truly Christians? Does our faith have life? What is this old man? Where are our footsteps in this life of faith? Are we still an old man? Can we manifest the glory of the Lord?
 
