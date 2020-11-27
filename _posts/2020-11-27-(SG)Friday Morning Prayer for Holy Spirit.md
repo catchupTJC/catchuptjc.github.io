@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday Morning Prayer for HS
+title: Friday Morning Prayer for Holy Spirit
 category: spiritualmeeting2020singapore
 tags: [reflection,prayer,holyspirit,renewal,change,testimony,submissiveness]
 hymns: [232]
