@@ -3,7 +3,7 @@ layout: post
 title: Thursday Evening Prayer
 category: spiritualmeeting2020singapore
 tags: [prayer,holyspirit]
-hymns: [,]
+hymns: [0,0]
 speaker: prchinaunquek
 ---
 Summary:  
