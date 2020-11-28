@@ -2,7 +2,7 @@
 layout: post
 title: Partakers of His Divine Nature
 category: spiritualmeeting2020singapore
-tags: [reflection]
+tags: [reflection,fruit,faith,perseverance,godliness,love,image,spiritual,life,virtue,knowledge,change]
 hymns: [244,248]
 speaker: prchinaunquek
 ---
