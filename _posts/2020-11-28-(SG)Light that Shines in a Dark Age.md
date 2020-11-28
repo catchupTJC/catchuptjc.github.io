@@ -184,6 +184,8 @@ What are the reasons why the church chose this theme for this Spiritual Meeting?
 
 While we are conscious of our duty to shine for Christ, let us first ourselves be guided by the light of Christ.
 
+## Brighten The Corner Where You Are
+
 Lastly, let us brighten the corner where we are.
 
 There was a demoniac whose demons were driven out by Jesus. He asked Jesus, “Master,  can I follow you?” But Jesus told him no. Jesus told him to tell his own friends and relatives about Him. Brighten the corner where you are.
