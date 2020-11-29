@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunday Afternoon Prayer
+title: Sunday Morning Prayer for Holy Spirit
 category: spiritualmeeting2020singapore
 tags: [prayer,holyspirit,waiting,acts]
 hymns: [264,]
