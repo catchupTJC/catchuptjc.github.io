@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saturday Afternoon Prayer for Holy Spirit
+title: Saturday Evening Prayer for Holy Spirit
 category: spiritualmeeting2020singapore
 tags: [prayer,holyspirit,soul,determination]
 hymns: [272,]
