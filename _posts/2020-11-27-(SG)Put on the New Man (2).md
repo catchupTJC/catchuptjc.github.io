@@ -1,4 +1,3 @@
-2020-11-27-(SG)Put on the New Man (2).md
 ---
 layout: post
 title: Put on the New Man (2)
@@ -6,6 +5,7 @@ category: spiritualmeeting2020singapore
 tags: [reflection,newman,grace,salvation,baptism,newcreation,christlike,christian,death,home]
 hymns: [162,253]
 speaker: prsilaskong
+
 ---
 
 Today we are able to put on the new man because of God’s grace. The Bible says that it’s not because of our righteousness, but because men are evil and men cannot save themselves. We do not have the ability to save ourselves. Since we are sinners who cannot redeem ourselves, we need to learn to rely on Jesus to become a new man. 
@@ -24,12 +24,12 @@ In the New Testament, we obtain the pleasures of God through internal changes in
 
 To be a new creation, on one hand, this person relies on the grace of the Lord Jesus.  On the other hand, he responds to the grace of God and lives out His words. 
 
-In the Christendom are 2 extremes:
-##1. Emphasises grace 
+In the Christendom are 2 extremes:  
+## 1. Emphasises grace 
 Holds on to the belief of, “Once saved, always saved”.  
 No matter the sin, in the end, the Lord Jesus’ grace will be sufficient to save you. This is to say that your salvation is entirely achieved by the Lord Jesus and there’s nothing you can or cannot do. Even if you constantly give in to the flesh, you’ll still be saved. It is as though once you believe in Jesus, you are immune to judgement where there is not such a thing as sin unto death. No matter the sin you commit, you’ll never lose your salvation. This is a wrong teaching. 
 
-##2. You have you perform all the works of the Lord to achieve salvation 
+## 2. You have you perform all the works of the Lord to achieve salvation 
 You have to rely on your behaviour and work to achieve salvation. We understand that in our weaknesses, if not for the help of our Lord Jesus, it is very difficult for our lives to change. We are not subscribed to the idea of ‘once saved always saved’
 
 In the Old Testament, the Word of God was already told to the Israelites that their redemption and salvation was accredited to  Internal change. Turn to Jeremiah 4:4; 
