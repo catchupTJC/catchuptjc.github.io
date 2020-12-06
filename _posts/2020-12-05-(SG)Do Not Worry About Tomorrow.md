@@ -5,6 +5,7 @@ category: sermon2020singapore
 tags: [reflection,worries,promise,kingdom,righteousness,ezra,david,jews,temple,rebuilding,work,church,offer,love,jesus]
 hymns: [367,122]
 speaker: dncaleblee
+
 ---
 
 Speaker’s thoughts on the pre-hymnal:  
@@ -29,7 +30,7 @@ In this passage, Jesus reminds us to not worry about our lives. He reminds us th
 
 Jesus promises us that our needs will be added unto us but it’s contingent of whether we seek first the kingdom of God and His righteousness. The key to a worry-free life is to seek after His righteousness. Then all these needs will be satisfied. 
 
-## Seek God’s kingdom and His righteousness first
+## 1. Seek God’s kingdom and His righteousness first
 Have we really been seeking the kingdom of God and His righteousness first? Are God’s kingdom and principles the foremost in our thoughts? Let us refer to a negative example in Haggai 1:2-6; 
 
 *2 '“Thus speaks the Lord of hosts, saying: ‘This people says, “The time has not come, the time that the Lord ’s house should be built.” ’ ” 
@@ -71,7 +72,7 @@ Are we more like David or are we more like the people during the time of Haggai?
 
 If we do not place God’s kingdom and His righteousness first, can we really live a worry-free life? 
 
-## While we’re seeking God’s kingdom and righteousness, we must be prepared for obstructions.
+## 2. While we’re seeking God’s kingdom and righteousness, we must be prepared for obstructions.
 Sometimes when we start, we genuinely want to place God’s kingdom and His righteousness first. But with the passage of time and life experiences (especially when faced with adversities and trials), we may start to forget the original intent to fulfil God’s will first. In fact, if we think a little deeper of the Jews during Haggai’s time, they weren’t always in that state as in Haggai 1. When they first started, what happened was that when Cyrus first released the verdict that the Jews could return to Jerusalem to build the temple for God, the reality is that not many Jews responded to this call. In fact, by that time, many Jews were already scattered throughout the Persian empire and doing fairly well in society. Turn to Ezra 1:5-6; 
 
 *5 'Then the heads of the fathers’ houses of Judah and Benjamin, and the priests and the Levites, with all whose spirits God had moved, arose to go up and build the house of the Lord which is in Jerusalem. 
@@ -111,7 +112,7 @@ If at this moment of time, we have not succumbed and are still struggling becaus
 
 If we want to not worry about tomorrow, we must ask ourselves if we’ve truly sought the kingdom of God and His righteousness FIRST. Have we really placed God’s kingdom, the people of God, the welfare and needs of the church first? While we’re doing this, there’ll always be obstacles we’ll need to prepare for. Whether it’s the call for us to compromise in our principles or a direct attack, we must continue to hold fast. If we do so, then we can truly trust in Jesus’ promise to not worry about tomorrow because all these things will be added unto us. All these things can come to us as perhaps in the means of a miracle (but not always). For example, we want to find a job but we also want to keep the Sabbath. With such a condition, will it be harder to find a job? If we seek God’s kingdom and His righteousness first, we believe God will open a way for us. God works through His people to help us with our needs. 🥺
 
-## The means which God adds all these things to us - the church is a means by which God supplies the needs of His people 
+## 3. The means which God adds all these things to us - the church is a means by which God supplies the needs of His people 
 God works through miracles but also through the church as a means to dispense His people. Turn to 1 Timothy 5:3-8;
 
 *3 'Honor widows who are really widows.
