@@ -2,7 +2,7 @@
 layout: post
 title: Prayer for a United and Loving Youth Body
 category: youthservice2020singapore
-tags: [reflection]
+tags: [prayer,unity,body,different,role,members,suffer,rejoice,corinthians]
 hymns: [122,]
 speaker: dnjoshuachong
 ---
