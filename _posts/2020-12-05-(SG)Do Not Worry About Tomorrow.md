@@ -8,7 +8,7 @@ speaker: dncaleblee
 
 ---
 
-Summary: 
+Summary:  
 Many things about tomorrow, we don't seem to understand. But we know who holds tomorrow, and we know who holds our hand. 
 
 Speaker’s thoughts on the pre-hymnal:  
