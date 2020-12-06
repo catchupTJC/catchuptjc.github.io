@@ -8,6 +8,9 @@ speaker: dncaleblee
 
 ---
 
+Summary: 
+Many things about tomorrow, we don't seem to understand. But we know who holds tomorrow, and we know who holds our hand. 
+
 Speaker’s thoughts on the pre-hymnal:  
 This is My Father’s World: On the Sabbath Day, it’s good to remember God has made the entire world and universe. 
 
@@ -79,8 +82,8 @@ Sometimes when we start, we genuinely want to place God’s kingdom and His righ
 6 And all those who were around them encouraged them with articles of silver and gold, with goods and livestock, and with precious things, besides all that was willingly offered.'*
 
 There were 2 groups:  
-Those who were moved and really wanted to go back to the temple 
-Those who weren’t willing to go back but were willing to offer some of their goods so that those who returned had some materials 
+1. Those who were moved and really wanted to go back to the temple 
+2. Those who weren’t willing to go back but were willing to offer some of their goods so that those who returned had some materials 
 
 It was only for the 42,360 who were moved and willing to return. The others didn’t return and preferred to offer their goods. These 42,360 sought the kingdom of God and His righteousness. Hence, they returned to Jerusalem to help in the rebuilding. 
 
@@ -97,11 +100,11 @@ Read Ezra 4:1-5;
 
 The adversaries appeared and they opposed the people who went back to fulfil God’s kingdom. There were 2 practical ways obstructions came about then:
 
-Indirect opposition  
+1. Indirect opposition  
 When the enemies said, “Can we build the temple together to worship God?” 
 If Zerubbabel and Joshua compromised, it would be troublesome because then it’d be hard to just worship God. This sort of compromise would lead to people giving up on fulfilling God’s principles. 
 
-Direct opposition  
+2. Direct opposition  
 This is the people coming by force to harass the builders. The opposition even went to the political powers to try to get the Persian rulers to stop the work. 
 
 The Jews were strong enough to get past the first obstruction. But with continued harassment, they succumbed to the second obstruction. Perhaps in the beginning, the Jews felt that they could continue to rebuild the temple. But when there was a clampdown by the officials, overtime, they also didn’t continue the work. 
@@ -125,7 +128,7 @@ God works through miracles but also through the church as a means to dispense Hi
 Paul was writing some instructions to Timothy about how the church should treat real widows. Real widows as stated in v5 are those who are truly alone (have no family to depend on yet truly trust in God and continue in supplications night and day). These true widows are ones who seek God’s kingdom and His righteousness but the means by which they receive these things can come through the church. The church, while its primary function is to spread the gospel to save souls, is also an organisation meant to distribute and supply the physical needs of some members so that these members who are truly seeking God’s kingdom and righteousness, while in dire situations, can still survive and continue to pray for the salvation of others. 
 
 What implication does this have on members, that the church is the means by which God supplies the needs to some members? 
-Offer  
+1. Offer  
 To those who are not doing so badly presently, the call for us to us to continually offer to God through the church. Then, the church can administer the help to these people. In 2 Corinthians 8:13-14;
 
 *13 'For I do not mean that others should be eased and you burdened; 
@@ -133,7 +136,7 @@ To those who are not doing so badly presently, the call for us to us to continua
 
 Ultimately, if we have and can help, let us offer. COVID-19 has hit all nations in the world. Some nations have suffered more than others. Perhaps Singapore is less affected (note that it differs for individuals). Some members within Singapore may be more affected than others as well. Those who are less affected should continue to be steadfast to offer to God so that the needs of the saints can be met. 
 
-For those who’re in trouble to not feel so ashamed to not seek help from the church 
+2. For those who’re in trouble to not feel so ashamed to not seek help from the church 
 There’s a difference between having dignity and pride (dignity vs pride). Sometimes we may feel ashamed to let others know that we’re in a bad situation but this shame comes from a place where we’re proud and don’t want others to know of our state. God’s church is a means through which the needs of the saints can be met on. Let us not be too ashamed to seek help and let others know of our situations, especially if we’re going through a difficult time. Give the church the opportunity to manifest both love and faith. When we talk about love, 1 John 3:17 tells us; 
 
 *'But whoever has this world’s goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?'*
@@ -150,13 +153,13 @@ At the same time, let us not misunderstand that the church is a welfare organisa
 
 In summary, to lead a worry-free life: 
 
-You must seek God’s kingdom FIRST.  
+1. You must seek God’s kingdom FIRST.  
 Put Him as your priority. God and the people in church must be top of your minds. 
 
-Remember that while we’re doing (1), there will always be obstructions - prepare for them.  
+2. Remember that while we’re doing (1), there will always be obstructions - prepare for them.  
 We must stand firm. If we’ve fallen, let us hear the call of Haggai and Zechariah to rebuild. 
 
-The church is one of the ways which God can supply the needs for those who seek God first and His righteousness.  
+3. The church is one of the ways which God can supply the needs for those who seek God first and His righteousness.  
 If we can offer, let us offer right now when we have the worldly goods. For those who really need help, let us not be ashamed to reach out to the church. Read out to the EXCO to let them know your situation. 
 
 ----
