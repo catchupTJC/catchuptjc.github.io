@@ -7,12 +7,11 @@ hymns: [21,364]
 speaker: prsilaskong
 ---
 Summary:  
-The Ethiopian eunuch loved the temple of God and the word of God.  
+Let us emulate the Ethiopian eunuch in loving both the temple of God and the word of God. 
 -  
 **Loved temple of God:** He willingly made the time and effort to travel ~100km to Jerusalem! As pandemic restrictions ease, will we make the journey to worship in church? We give many reasons e.g. can’t sing hymns. But a person who truly loves God would know worshipping in church is different from worshipping at home - the environment helps to prepare our hearts, we’re able to worship alongside fellow brethren, we can get laid hands upon!  
 -  
 **Loved word of God:** After worshipping in Jerusalem, he spent his journey back reading the Scriptures! How many of us would read the Bible on the way/at home after church service? Some people love the temple of God but don’t love the word of God. They love to come to church for service but don’t love to listen to the word of God. Some people love the word of God but don’t love the temple of God. They read the Bible at home daily but don’t want to go to church.  
-Let us emulate the Ethiopian eunuch in loving both the temple of God and the word of God.
 
 Previous sermons talked about the incorrect zealous heart Saul/Paul had and the impure heart Simon the sorcerer had. This sermon will talk about the heart God loves. 
 
