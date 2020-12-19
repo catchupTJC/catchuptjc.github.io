@@ -7,7 +7,7 @@ hymns: [86,418]
 speaker: dnjoshuachong
 ---
 Summary:  
-Jude 11 pronounces woe on three ungodly men, the first of which is expounded on in this sermon. Three main characteristics of an ungodly man, taken from the example of Cain:   
+Jude 11 pronounces woe on three ungodly men, the first of whom is expounded on in this sermon. Three main characteristics of an ungodly man, taken from the example of Cain:   
 (1) Having merely an appearance of godliness   
 (2) Serving oneself, not serving God   
 (3) He insists on walking in his own lusts
