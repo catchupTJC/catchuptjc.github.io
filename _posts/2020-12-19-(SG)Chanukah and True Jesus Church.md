@@ -7,7 +7,14 @@ hymns: [313,54]
 speaker: prpetershee
 ---
 Summary:  
-Chanukah is a Jewish festival which commemorates the Jews’ triumph over the pagans who defiled the temple. It is about the (1) rededication of the temple, and (2) rekindling of the lampstand. Today, let us learn from the spirit of Chanukah. Don’t be afraid to fight against evil. Revive the rebuilding of the spiritual house of God. Rekindle the lamps to be kept burning in public view. "*But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God.*” (John 3:21)
+Chanukah is a Jewish festival which commemorates the Jews’ triumph over the pagans who defiled the temple. It is about the (1) rededication of the temple, and (2) rekindling of the lampstand. Today, let us learn from the spirit of Chanukah.  
+-
+Don’t be afraid to fight against evil.  
+-
+Revive the rebuilding of the spiritual house of God.  
+-
+Rekindle the lamps to be kept burning in public view.  
+"*But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God.*” (John 3:21)
 
 Chanukah is an 8 day festival which ended yesterday (18 Dec 2020). The significance of Chanukah to the Jewish mind and how it relates to us is useful for our understanding.
 
