@@ -114,12 +114,10 @@ God wants to become our father and God loves and dwells among us. The question i
 
 John tells us that in order to know whether this is the church of God, there are two important considerations.
 
-1. Does it keep the commandments of God?
-
+1. Does it keep the commandments of God?  
 This doesn’t mean keeping the commandments partially, but to keep all His commandments in full. Just like the apostolic church who kept the full commandments of God and preached the full gospel of salvation. Does the church that you are in now teach the same as that of the apostolic church?
 
-2. Is there the abidance of the Holy Spirit of God?
-
+2. Is there the abidance of the Holy Spirit of God?  
 This is not the usual working or moving of the Holy Spirit. We can see the works of the Holy Spirit and the moving of God even in other churches. How they submit to God and complete the work which God wants them to do. But this doesn’t mean that they have received the Holy Spirit of God and that they are children of the Lord. This Holy Spirit refers to the promised Holy Spirit of the Lord. And this is the Spirit of the Son. And this is the Holy Spirit that they received on the day of Pentecost, evidenced by tongue speaking. But it is a pity that not every one who claims to obey the word of the Lord will pray for the Holy Spirit. We know that we abide in him because he has given us the Holy Spirit.
 
 Therefore the true church has the abidance of the Holy Spirit and keeps the commandments in full. 
