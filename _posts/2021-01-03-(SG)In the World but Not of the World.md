@@ -8,7 +8,7 @@ speaker: prbarnabaschong
 ---
 Summary:  
 We are not of the world, yet, we are left to remain in the world. Why?  
-**1. To save others**: We cannot be content with our own salvation!
+**1. To save others**: We cannot be content with our own salvation!  
 **2. To save ourselves**: There are still many impurities that need to be purged from us so we are fit for heaven above.  
 We get a really sweet deal. By just living for Christ for 80 short years, He gives us blissful eternity in return. Life is short, live it for Christ.
 
