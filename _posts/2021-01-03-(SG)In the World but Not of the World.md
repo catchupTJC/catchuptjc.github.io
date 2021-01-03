@@ -2,7 +2,7 @@
 layout: post
 title: In the World but Not of the World
 category: youthservice2021singapore
-tags: [gather,church,worship,service,bookofremembrance]
+tags: [world,salt,light,lot,abraham,job,save]
 hymns: [380,398]
 speaker: prbarnabaschong
 ---
