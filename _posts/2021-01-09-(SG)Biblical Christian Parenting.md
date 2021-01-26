@@ -7,9 +7,9 @@ hymns: [26,67]
 speaker: prsimonchin
 ---
 Summary:  
-1. 
-2. 
-3. 
+1. Why must we have Christian parenting?
+2. What do we hope to achieve in Christians parenting?
+3. How should we parents conduct ourselves if we want successful Christian parenting?
 
 Different people have different ways of parenting their children. Different races of people have different principles of parenting. The westerners have their ways which are peculiar to the orientals. The speaker’s son’s family lives in Australia. He has to bring his grandson to school and observe peculiar actions. For example on a rainy day, parents allow children to play inside the water and get totally wet. The oriental would say, “Be careful. Be careful. Don’t step into the puddle!” But western parents are very joyful for their children to play in the puddle.  
 
@@ -22,7 +22,7 @@ Verses 1-3 talks about the duty of children towards their parents. Children must
 
 Verse 4 talks about parenting. Parenting is the responsibility of those who are fathers. This is quite contrary to what’s been done in society. Fathers would leave this responsibility to the mothers. If parenting is not done well, the wife would be blamed. But this verse says it is the responsibility of the fathers because children are from God. As the head of the family, he has the duty to parent his children according to the teachings of the holy Bible. That’s why those who are husbands have to work closely with their wives. They must have one heart. Even though they gave differences, these differences should not be magnified. They ought to work together to bring the children up according to the teachings of the holy Bible.  
 
-Why must we have Christian parenting?  
+# Why must we have Christian parenting?  
 
 ## 1. Children are a heritage from the Lord  
 Children are an inheritance from God. To have children is a blessing. And Christian children come from Christian parents. If parents are not true Christians - going to church but not practising Christian principles doesn’t count, then you cannot give Christian parenting to your children. Recognise it’s God who gives us children. It’s our duty as believers of Christ to bring up our children as Christians, so that the blessings of God will come down on them as on us. If we do not bring up children as Christians and they don’t know God, sometimes they not only lose the grace of God, but the wrath of God also comes upon them.  
@@ -60,7 +60,7 @@ What did Timothy learn from his mother and grandmother? The Word of God. This al
 
 Last Chinese New Year, the speaker received many messages. One especially touched him. It included a picture of that member’s family service. They had a family service after the reunion dinner. This was a tradition of the family for many generations. The one who sent him the photo had never spoken a sermon on the pulpit, but he is a good member of the church. He was a third or fourth generation believer. He passed on this tradition, which perhaps is repeated year after year. It’s a reminder to their children that if there was no salvation grace in the family, they would have nothing. Their lives would be without hope. Because of the grace of salvation, we are so blessed. We have the grace of salvation. We have hope. 
 
-What do we hope to achieve in Christians parenting?
+# What do we hope to achieve in Christians parenting?
 
 ## 1. Cultivation of Christian concepts or values
 This is most important. What’s most important in our lives today? For most of us is education. “You better go and study hard! Later you become street sweepers!” We want our children to have worldly concepts. This is the general trend amongst parents. 
@@ -96,7 +96,7 @@ When the speaker’s oldest 2 grandchildren were in Singapore, they’d study un
 
 Acts 10 talks about Cornelius. He worshiped God. And prayed to God always with his family. An elderly deacon from KL said to the speaker, “Family prayers are very important.” At that time he didn’t understand as he was a very young preacher. But now he understands. Preachers are seldom at home. When preachers are at home, they probably want to take a rest or watch tv which they seldom do, or just do some house activities. But do we pray with our family? Do we still go to church during 4 days of leave a month? This is a cultivation of service and is important in the last days. 
 
-How should we parents conduct ourselves if we want successful Christian parenting?
+# How should we parents conduct ourselves if we want successful Christian parenting?
 
 ## 1. Walk with integrity in our household 
 Psa 101:2  
