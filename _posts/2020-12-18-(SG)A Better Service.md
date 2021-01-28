@@ -37,7 +37,7 @@ And he who splits wood may be endangered by it.
 If the ax is dull,  
 And one does not sharpen the edge,  
 Then he must use more strength;  
-But wisdom brings success.  *
+But wisdom brings success.*
 
 
 Here is a simple life lesson that explains the importance of sharpening one’s tool, or one must use more strength than before. If we read verse 9 in context then it suggests that we might end up hurting ourselves if we have not used our tools for a long time, or have not exercised those physical or mental muscles.
@@ -53,7 +53,7 @@ I think this is a good analogy for us to consider if we might need to sharpen ou
 Exodus 4:1, 10, 13  
 *Then Moses answered and said, “But suppose they will not believe me or listen to my voice; suppose they say, ‘The LORD has not appeared to you.’ ”  
 Then Moses said to the LORD, “O my Lord, I am not eloquent, neither before nor since You have spoken to Your servant; but I am slow of speech and slow of tongue.”  
-But he said, “O my Lord, please send by the hand of whomever else You may send.”  *
+But he said, “O my Lord, please send by the hand of whomever else You may send.”*
 
 From these passages, we see he is reluctant to return to the work because he fears the people will not take him seriously, and that he is not eloquent or good enough for the work. He asked for God to send someone else because he feels others are more qualified. Now God was angry with his reluctance to serve Him, but at the same time God was gracious to him and assured him with signs and gave him a companion. So this is comfort to us too because we can turn to God for help if we ever feel inadequate or insufficient, or have doubts about restarting our service to Him in our ministries. We are asking according to the will of God and He will hear and strengthen us.
 
@@ -128,7 +128,7 @@ Jeremiah 6:16
 And ask for the old paths, where the good way is,  
 And walk in it;  
 Then you will find rest for your souls.  
-But they said, ‘We will not walk in it.’ * 
+But they said, ‘We will not walk in it.’* 
 
 Over here the Lord encourages us to actually look back because that might be where the good way is for us today. And we should remember the good way that we were once walking on. That good way (whether it was pre-COVID or years ago) whereby we loved the Lord and our spiritual family, and our faith was accompanied with zealous actions. Let’s use that as a positive reference for the way forward, to have a better service to the Lord in this new and better normal.
 
