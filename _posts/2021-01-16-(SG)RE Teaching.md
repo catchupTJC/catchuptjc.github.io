@@ -27,9 +27,9 @@ Jas 3:1
 
 Teachers are subject to stricter judgement. It’s the same for religious education teachers as you’re teaching young children the word of God. Being subject to a stricter judgement means to be strict with ourselves, even before being strict with the children. 
 
-## 3 Biblical points that RE teachers should demand of themselves. 
+# 3 Biblical points that RE teachers should demand of themselves. 
 
-### 1. We need to be properly taught 
+## 1. We need to be properly taught 
 Isa 50:4   
 *“The Lord GOD has given Me  
 The tongue of the learned,  
@@ -90,7 +90,7 @@ A scribe of the heavenly kingdom has a treasury and is able to bring out old and
 
 Jesus uses the word ‘scribe’, which means a learner or scholar. Someone who is knowledgeable and consulted; i.e. he teaches. As RE teachers, don’t miss available courses that you’re able to attend. More importantly, as a scribe of the kingdom, you must be continually self learning. There’s a lot of books in the library and internet resources from our own True Jesus Church websites. 
 
-### 2. We need to be like Jesus - the model teacher 
+## 2. We need to be like Jesus - the model teacher 
 Not only do we have to demand of ourselves to be properly taught, we also have to demand of ourselves to be like Jesus who is our model teacher. 
 
 John 13:13-17  
@@ -144,7 +144,7 @@ What do you want? Shall I come to you with a rod, or in love and a spirit of gen
 
 He said he was their instructor but also their father. As their father, he had authority over them. But what he really means is that he’s a loving father. As RE teachers, we must look at ourselves as loving parents to our charges. Our authority over them is because of our loving imparting of the word of God to them; our loving nurturing of them as our children in the Word of God. 
 
-### 3. 
+## 3. Don't be their limiting factor
 Luke 6:39-40  
 *And He spoke a parable to them: “Can the blind lead the blind? Will they not both fall into the ditch? A disciple is not above his teacher, but everyone who is perfectly trained will be like his teacher.*
 
