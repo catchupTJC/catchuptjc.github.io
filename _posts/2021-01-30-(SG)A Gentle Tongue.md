@@ -7,7 +7,7 @@ hymns: [382,387]
 speaker: dntimothyhsieh
 ---
 Summary:  
-The world may view gentleness as a weakness, but in church, it is a virtue. We learn the following from three Bible characters:  
+The world may view gentleness as a weakness, but in church, it is a virtue. We learn the following from four Bible characters:  
 **1. Moses:** The most humble man on earth still spoke rashly and sinned. The next time we’re angry, hold our tongues and don’t speak, lest we sin. Even a fool who holds his tongue will be considered wise.  
 **2. Michal:** She spoke sarcastically and despised David in her heart. Often, the people who get hurt verbally the most are those close to us. After living with our spouse for some time, differences become evident. Let us endeavour to continue accommodating each other, working through things and loving one another.  
 **3. Mary:** She only found missing Jesus after 3 days; how worried she must have been! But notice her first words to Him was a question to understand why He had done this. Often, we skip the step of fact finding and go straight to executing judgement. Let us take time to understand our children.  
