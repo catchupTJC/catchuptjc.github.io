@@ -116,3 +116,7 @@ How can we strengthen our faith? We think back about the grace of God and count 
 When we believe in God, we won’t be hasty. We have to be patient to wait for God’s time and for His will. Just like the hymn: in some way or other, the Lord will provide. Or another hymn: I don’t know about tomorrow, but I know who holds my hand. The speaker would have chosen hymn 485, but since this sermon is streamed, he cannot choose hymns beyond hymn 469.
 
 60: Let Him Lead
+
+
+----
+****
