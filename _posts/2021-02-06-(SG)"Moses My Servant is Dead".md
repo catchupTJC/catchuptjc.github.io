@@ -7,6 +7,8 @@ hymns: [196,333]
 speaker: prpetershee
 ---
 Summary:
+The book of Joshua begins by saying in v1 - “After the death of Moses the servant of the Lord”. The first message from this book is the death of Moses. When God opened His mouth, He started by saying, “Moses, My servant is dead.” What is the significance of the death of Moses?
+Moses was one whom God spoke to face to face. He was different from all the other prophets. How was Joshua supposed to succeed Moses and lead the Israelites in their conquest of Canaan?
 
 196: Dwelling in Beulah Land
 
