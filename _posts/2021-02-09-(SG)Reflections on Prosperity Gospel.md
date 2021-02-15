@@ -186,3 +186,6 @@ The blessing of the LORD can make one rich, and He adds no sorrow to it. If we g
 It is very easy for those who are rich, to become haughty in an unknowing manner. Those who are very successful in investing, who made money in a quick way, are in danger. They enter into a deception of their invincibility. The speaker hopes none of us are in this state. If we think we are very smart and can always catch the market at the right time, we are in danger. Recently, there was the whole incident with GameStop, where the stock price rose to $300+, before crashing 80%. If we think we are smart and can always catch the market, be careful. This is not the will of God.
 
 256: There Shall Be Showers of Blessing
+
+----
+****
