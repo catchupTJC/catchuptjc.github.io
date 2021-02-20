@@ -7,6 +7,7 @@ category: sermon2021singapore
 tags: [reflection,lost,jesuschrist,love,sheep,shepherd,parable,evangelistic,sacrifice]
 hymns: [31,34]
 speaker: dnisaactan
+
 ---
 Summary: 
 Have you ever experienced the loss of something precious to you? How did you feel? And when you are able to find that which is dear to you, how great a joy and relief you must have felt. Our heavenly Father and Creator, since time immemorial, has been seeking after His children.  Will you be found by Him to complete His joy?    
