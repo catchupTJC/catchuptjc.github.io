@@ -1,5 +1,3 @@
-2021-02-20-(SG)Lost And Found.md
-
 ---
 layout: post
 title: Lost? and Found
