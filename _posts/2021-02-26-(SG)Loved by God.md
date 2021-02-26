@@ -7,7 +7,7 @@ hymns: [439,420]
 speaker: brotayengguan
 ---
 Summary:  
-This sermon on God’s love is addressed to little children, old men and young men, each with a different message.  
+This sermon on being loved by God is addressed to little children, old men and young men, each with a different message.  
 **Little children:** Be thankful to our Father and realise how great His love for us is  
 **Old men:** Reminisce on the love of God through our lives and look forward to meeting Him! We still have skills; try to help the young people where we can.  
 **Young men:** Believe in the strength of the compelling love of God. This helps us to be strong, and makes the church strong. This enables us to help young people outside who are sad.  
