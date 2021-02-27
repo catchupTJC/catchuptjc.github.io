@@ -7,7 +7,7 @@ hymns: [439,420]
 speaker: brotayengguan
 ---
 Summary:  
-This sermon on being loved by God is addressed to little children, old men and young men, each with a different message.  
+This sermon on being loved by God is addressed to little children (new believers), old men (older believers) and young men (youths), each with a different message.  
 **Little children:** Be thankful to our Father and realise how great His love for us is  
 **Old men:** Reminisce on the love of God through our lives and look forward to meeting Him! We still have skills; try to help the young people where we can.  
 **Young men:** Believe in the strength of the compelling love of God. This helps us to be strong, and makes the church strong. This enables us to help young people outside who are sad.  
@@ -15,7 +15,11 @@ This sermon on being loved by God is addressed to little children, old men and y
 
 God loves His people. It is explicitly stated in the Bible. 
 
-For example, we turn to John 11:3-5. 
+For example, we turn to John 11:3-5.  
+*Therefore the sisters sent to Him, saying, “Lord, behold, he whom You love is sick.”
+When Jesus heard that, He said, “This sickness is not unto death, but for the glory of God, that the Son of God may be glorified through it.”
+Now Jesus loved Martha and her sister and Lazarus.*
+
 These 2 sisters and brother were ordinary people, just like us. But Jesus loved them. It says Lazarus is the one Jesus loved. In other parts of the Bible, it’s recorded that Jesus loved John. Jesus loved all the apostles, including Judas Iscariot who was to betray Him. Jesus loved the rich ruler. In the famous verse John 3:16, Jesus loves the whole world. 
 
 Dan 9:23  
@@ -162,7 +166,7 @@ An older colleague (80 years old) of the speaker used to say, “Don’t simply 
 
 We adjust our bodies to fit our age. Because God has been feeding us all our life. When we realise that, we learn to share the experiences of the love of God with those who are younger. There are a few kinds of old people. There’s some stereotypes - the crabby old man, the forgetful old man, the sloppy old man, the worst is the dirty old man. 
 
-We should be the cheerful, kindly old person. The old uncle or Aunty everyone loves. Because we realise that God has found us precious, and has kept us in His love. And He is going to receive us to glory. And He’s waiting because the death of the saints are precious. He’s waiting to take back His jewel. So death is not to be feared. We live what’s left of our lives cheerfully. 
+We should be the cheerful, kindly old person. The old uncle or aunty everyone loves. Because we realise that God has found us precious, and has kept us in His love. And He is going to receive us to glory. And He’s waiting because the death of the saints are precious. He’s waiting to take back His jewel. So death is not to be feared. We live what’s left of our lives cheerfully. 
 
 Many of us have skills which are undimmed. We’re still capable. We can help out in church. We can help the young people. Sometimes the young parents need to do church work but the small little things are running around. We can help them. We can teach the younger kids. Because we still have talent. We can talk about the miracles and experiences of God we have. Of course, we wish to all be like Caleb, to be able to fight the battles of the Lord at 85. 
 
