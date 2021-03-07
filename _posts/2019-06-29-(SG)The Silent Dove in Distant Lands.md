@@ -87,13 +87,7 @@ Very often when we meet with problems with life, our first response is to seek f
 
 Take a look at a child. A child is completely helpless. There’re very few animals as helpless as the human being. He is totally dependent on his parents for everything. Of course this is the natural order God has ordained. Naturally, his parents is his everything. Very often children think their parents are superman. Young children often like to gather to compare. Compare what? Their parents. What their parents have. 
 
-A long time ago, there were a few kids during YS comparing their parents’ car. They were very young kids. They were tapping and saying, “My car.” The speaker thought it was very funny “wah they nothing better to do”. The speaker went to the kids and said, “
-
-My car is very big one. Can sit 60 people one. Sometimes Mercedes sometimes Volvo. Someone even drives me. 
-
-The kids eyes were so wide and wahhh
-
-“I take a bus” LOL
+A long time ago, there were a few kids during YS comparing their parents’ car. They were very young kids. They were tapping and saying, “My car.” The speaker thought it was very funny “wah they nothing better to do”. The speaker went to the kids and said, “My car is very big too. Can sit 60 people! Sometimes Mercedes sometimes Volvo. Someone even drives me. The kids eyes were so wide. He proceeded to say “I take a bus”! 
 
 Young children like to compare parents. When they grow up they realise their parents aren’t that great. They start to say “my teacher said this”. When they’re older they say “my friend said this”. When they grow up in society, people tend to put their trust in people in power because they think these people can help them. 
 
@@ -109,7 +103,7 @@ v5 Whoever puts his trust in God is blessed.
 Initially David put his trust in men, Thad why he ran first. “Maybe my wife can save me” “maybe the man of God can save me”
 
 Sidetrack:  
-A Christian’s friends would often tease him for his faith. During WW2 when the bombs started to drop, he realised once the siren went off, all his friends gathered around him. They try to squeeze close to him because maybe they think he’s a holy man who can save them HAHA
+A Christian’s friends would often tease him for his faith. During WW2 when the bombs started to drop, he realised once the siren went off, all his friends gathered around him. They tried to squeeze close to him because maybe they think he’s a holy man who can save them. 
 
 Perhaps David ran to Samuel because of that. 
 
@@ -124,7 +118,7 @@ That’s why David keeps repeating “in God I will praise His word”. Because 
 
 It makes no difference who is against him. No man can kill him because God can overcome all opposition. 
 
-This is like a cassette recorder he uses to remind himself: God promised I would be king. I will trust in His word
+This is like a cassette recorder he uses to remind himself: God promised I would be king. I will trust in His word.
 
 If we put our trust in God, we will have no fear. 
 
@@ -182,7 +176,7 @@ Before we start saying this prayer regarding our enemies, there’re 4 things we
 Psa 56:8  
 Whenever we feel our suffering are senseless (David would’ve felt his sufferings were senseless), “You number my wandering, put my tears into Your bottle, are they not in Your book?”
 
-A German philosopher Lichee(?) said, “What really raises one’s indignation against suffering isn’t suffering intrinsically. It’s actually because people feel it’s senseless.” This was because he didn’t believe in God. 
+A German philosopher Nietzsche said, “What really raises one’s indignation against suffering isn’t suffering intrinsically. It’s actually because people feel it’s senseless.” This was because he didn’t believe in God. 
 
 But we who believe in God. We like David know our sufferings are never in vain. David says, “He has numbered my wandering.” God knows every time he has to run and run and run away. 
 
