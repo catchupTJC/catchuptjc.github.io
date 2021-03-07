@@ -169,9 +169,9 @@ Sometimes we think they’re contradictory but love and justice are BOTH attribu
 
 Before we start saying this prayer regarding our enemies, there’re 4 things we need to take note:  
 1. Are we really as innocent as David? Did we hurt the opposite party?  
-2. Are those who hurt us really God’s enemies? Is it just a normal conflict that’s ineviay Le, that just happened. Both of you are children of God, nor enemies  
+2. Are those who hurt us really God’s enemies? Is it just a normal conflict that’s inevitable, that just happened. Both of you are children of God, not enemies  
 3. We should treat even the enemies of God with grace like David. Throughout his life, David didn’t take matters in his own hands  
-4. This prayer must be anchored on the justice of God. Most importantly, the prayer is to entrust everything to God and is a reminder that God will mete our His justice, nor ours 
+4. This prayer must be anchored on the justice of God. Most importantly, the prayer is to entrust everything to God and is a reminder that God will mete out His justice, nor ours 
 
 Psa 56:8  
 Whenever we feel our suffering are senseless (David would’ve felt his sufferings were senseless), “You number my wandering, put my tears into Your bottle, are they not in Your book?”
