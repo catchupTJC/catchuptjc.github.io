@@ -16,7 +16,7 @@ However, is it true that God does not exist? Is it a matter of God not helping m
 
 Moreover, the sufferings in the world are not created by God! When Adam and Eve sinned, sin entered the world. Everyone in this world hence will commit sin. Man has fallen short of God’s glory. Before man can accuse God of not being just, is man able to humbly reflect on themselves? Has man never done anything wrong before? 
 
-##First kind of suffering - Death
+## First kind of suffering - Death
 
 Death came into the world because of sin. Sin happened because man caused himself to sin, not because of God.
 
@@ -48,7 +48,7 @@ He flees like a shadow and does not continue.*
 
 We are all born of woman. Our days are few and full of trouble. Like a shadow that disappears quickly and will not last. Because of sin, we will face sufferings. However, because Christians have a true God who has come down to save man, we will have a new body created for us. Only once Jesus comes again, then we will not need to face death again.
 
-##Second kind of suffering - General sufferings
+## Second kind of suffering - General sufferings
 1 Peter 4:15-16  
 *But let none of you suffer as a murderer, a thief, an evildoer, or as a busybody in other people’s matters. Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.*
 
@@ -64,10 +64,10 @@ Nevertheless, we have the responsibility to take care of our bodies since it is 
 
 Many different kinds of sufferings. But we shouldn’t cause ourselves to suffer. Let us not go and look for those sufferings.
 
-##Third kind of suffering - From the devil
+## Third kind of suffering - From the devil
 The purpose of this suffering is to cause us to lose faith in God. These kinds of sufferings may not necessarily appear as pain. When the evil one tempts us, it may not be just from a physical suffering. Instead, we might feel like we are enjoying many pleasures in life, but we are facing a disaster in our spiritual life. All these pleasures are sinful and when we indulge in them, we are unable to save our souls. In the future, we will suffer in the lake of fire.
 
-##Fourth kind of suffering - For our faith
+## Fourth kind of suffering - For our faith
 On the other hand, some sufferings might indeed be painful, but these sufferings may not be bad for us. In the short-term, we might think it is a painful thing, but what it brings in the end is a better ending. We will find that we can grow more. We are able to gain more development. This is mentioned a lot in 1 Peter. 
 
 However, these kinds of suffering is something that we often do not want to face. To us, suffering is a bad thing. When we see someone suffering, we may wrongly think that their faith in God is not strong, God is not blessing them, etc. Vice versa with someone whose life is smooth-sailing. But is this really the case?
