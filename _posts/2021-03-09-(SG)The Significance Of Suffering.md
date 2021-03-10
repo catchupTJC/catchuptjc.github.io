@@ -35,16 +35,16 @@ When the first man sinned against God, suffering and sorrow came into the world.
 
 When we want to think about the meaning of suffering, the first time suffering happens is because of sin. Man must therefore endure toil and labour in their lives. 
 
-> And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.
+> And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised.  
 > Ecclesiastes 1:13  
 
 
 Suffering is something everyone in this world will face. It is inevitable. This is why we fall ill and die one day. This is a truth that we cannot escape from.
 
->*“Man who is born of woman  
+>“Man who is born of woman  
 >Is of few days and full of trouble.  
 >He comes forth like a flower and fades away;  
->He flees like a shadow and does not continue.*
+>He flees like a shadow and does not continue.  
 >Job 14:1-2  
 
 We are all born of woman. Our days are few and full of trouble. Like a shadow that disappears quickly and will not last. Because of sin, we will face sufferings. However, because Christians have a true God who has come down to save man, we will have a new body created for us. Only once Jesus comes again, then we will not need to face death again.
