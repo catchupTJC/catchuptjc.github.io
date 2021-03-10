@@ -20,7 +20,7 @@ Moreover, the sufferings in the world are not created by God! When Adam and Eve 
 
 Death came into the world because of sin. Sin happened because man caused himself to sin, not because of God.
 
-> *To the woman He said:  
+> _To the woman He said:  
 > “I will greatly multiply your sorrow and your conception;  
 > In pain you shall bring forth children;  
 > Your desire shall be for your husband,  
@@ -28,7 +28,7 @@ Death came into the world because of sin. Sin happened because man caused himsel
 > Then to Adam He said, “Because you have heeded the voice of your wife, and have eaten from the tree of which I commanded you, saying, ‘You shall not eat of it’:  
 > “Cursed is the ground for your sake;    
 > In toil you shall eat of it   
-> All the days of your life.*
+> All the days of your life._
 > Genesis 3:16-17  
 
 When the first man sinned against God, suffering and sorrow came into the world. Woman will bring forth children in pain, man shall toil all the days of his life (only then can he eat of the ground). In verse 19, God says in the end, man will return to dust as well, i.e. man will die!
@@ -139,12 +139,12 @@ The suffering which the Lord Jesus went through is not something that we can go 
 
 When we go through our sufferings, we have to ask God for wisdom. James tells us that if we are lacking in wisdom, we can ask for wisdom. When we receive wisdom from God, we will be able to understand our suffering and endure it. We also need to see the love of God behind this.
 
-> *And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.*
+> *And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.*  
 > Romans 5:3-5
 
 Tribulation produces perseverance. These tribulations refer to those as a result of our faith, not those we experience as a result of our sin. Perseverance produces character, which produces hope. With this hope, even when we suffer, we will be able to endure. Moreover, when we suffer, the love of God is poured into our hearts by the Holy Spirit. God is with us! Jesus says we will have sufferings in the world, but we will have peace in our hearts. Jesus was telling the disciples that they were to suffer for the gospel.
 
-> *Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin, that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.*
+> *Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin, that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.*   
 > 1 Peter 4:1
 
 He who has suffered in the flesh has ceased from sin. Will no longer live life in the flesh fulfilling lusts, but will live for the will of God. Regardless of whether we have sufferings or trials in our flesh, we see Jesus as our example, who has overcome all these things. He Himself was tempted, He also went through tribulations. However, He still overcame all these things.
