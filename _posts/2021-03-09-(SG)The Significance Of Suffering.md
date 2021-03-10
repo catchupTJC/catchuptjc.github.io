@@ -50,8 +50,9 @@ Suffering is something everyone in this world will face. It is inevitable. This 
 We are all born of woman. Our days are few and full of trouble. Like a shadow that disappears quickly and will not last. Because of sin, we will face sufferings. However, because Christians have a true God who has come down to save man, we will have a new body created for us. Only once Jesus comes again, then we will not need to face death again.
 
 ## Second kind of suffering - General sufferings
-1 Peter 4:15-16  
-*But let none of you suffer as a murderer, a thief, an evildoer, or as a busybody in other people’s matters. Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.*
+>*But let none of you suffer as a murderer, a thief, an evildoer, or as a busybody in other people’s matters. Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.*. 
+>1 Peter 4:15-16  
+
 
 Some sufferings happen because of what man has done i.e. not from God. If we do wrong and break the law, we will have to face the punishment from the law. These are sufferings that we bring upon ourselves. 
 
@@ -77,8 +78,8 @@ Job distanced himself from evil and feared God. However, God allowed him to go t
 
 Even today, we may have this mindset that if we are blessed, then we are someone who fears God. If we are suffering, then we are not blessed. If we believe in God and we hence suffer, some might say this is a shameful thing.
 
-1 Peter 4:16  
-*Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.*
+> *Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.*   
+> 1 Peter 4:16  
 
 However, Peter says to not be ashamed if you suffer as a Christian! Christians may face persecutions etc. because of their faith. Why do we need to suffer if we believe in Jesus? Sometimes, God allows us to experience these things.
 
@@ -86,17 +87,17 @@ Nevertheless, since it comes from God, we know that it is not with bad intention
 
 Man is weak and imperfect. Sufferings are able to bring out better qualities in someone that they will not be able to attain otherwise. The sufferings that Job face were indeed great. Although Job was not able to understand, how did the NT describe Job’s sufferings?
 
-James 5:11   
-*Indeed we count them blessed who endure. You have heard of the perseverance of Job and seen the end intended by the Lord—that the Lord is very compassionate and merciful.*
+> *Indeed we count them blessed who endure. You have heard of the perseverance of Job and seen the end intended by the Lord—that the Lord is very compassionate and merciful.*     
+> James 5:11   
 
 Author regards Job as one who is blessed. Calls God very compassionate and merciful that He lets Job go through such a suffering. Here, we can see something very clearly. Author believes that the end result is very important. Of course, in the process, Job suffered. But in the end, the blessings were much greater. This blessing does not only refer to physical/material blessings, but Job has reached a new level in his faith in God. He said that now he has seen God!
 
 But wasn’t Job full of unhappiness and had many questions for God to answer? Job could not understand why he had to suffer though he had no sins. God did not answer him. Nevertheless, Job accepts that this was all God’s will. 
 
-Job 42:1-2  
-*Then Job answered the LORD and said:   
-“I know that You can do everything,   
-And that no purpose of Yours can be withheld from You.*
+> *Then Job answered the LORD and said:   
+> “I know that You can do everything,   
+> And that no purpose of Yours can be withheld from You.*   
+> Job 42:1-2
 
 In the end, God asked Job many questions he was unable to answer. This made Job realise that he was a very limited person. First thing Job said to God was “I know that You can do everything, and that no purpose of Yours can be withheld from You”. Many things which God can do and Job had no control of. 
 
@@ -106,17 +107,17 @@ Second thing that Job knew/learnt about God is that the will of God cannot be st
 
 Through Job’s experiences, he got to understand God better. Able to rely on God more. When we say that Job was a perfect man, let us not compare that to God’s absolute perfection. I.e. Job’s spirituality still had to keep improving. God wanted Job to go through all these things, that he might understand God better. 
 
-Job 42:5-6   
-*“I have heard of You by the hearing of the ear,   
-But now my eye sees You.   
-Therefore I abhor myself,    
-And repent in dust and ashes.”*
+> *“I have heard of You by the hearing of the ear,   
+> But now my eye sees You.   
+> Therefore I abhor myself,    
+> And repent in dust and ashes.”*   
+> Job 42:5-6
 
 Can see how Job got to know God better. What did Job have to repent over?
 
-Job 40:8   
-*“Would you indeed annul My judgment?  
-Would you condemn Me that you may be justified?*
+> *“Would you indeed annul My judgment?  
+> Would you condemn Me that you may be justified?*  
+> Job 40:8
 
 This was what God said about Job. 
 
@@ -138,13 +139,13 @@ The suffering which the Lord Jesus went through is not something that we can go 
 
 When we go through our sufferings, we have to ask God for wisdom. James tells us that if we are lacking in wisdom, we can ask for wisdom. When we receive wisdom from God, we will be able to understand our suffering and endure it. We also need to see the love of God behind this.
 
-Romans 5:3-5  
-*And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.*
+> *And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.*
+> Romans 5:3-5
 
 Tribulation produces perseverance. These tribulations refer to those as a result of our faith, not those we experience as a result of our sin. Perseverance produces character, which produces hope. With this hope, even when we suffer, we will be able to endure. Moreover, when we suffer, the love of God is poured into our hearts by the Holy Spirit. God is with us! Jesus says we will have sufferings in the world, but we will have peace in our hearts. Jesus was telling the disciples that they were to suffer for the gospel.
 
-1 Peter 4:1  
-*Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin, that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.*
+> *Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind, for he who has suffered in the flesh has ceased from sin, that he no longer should live the rest of his time in the flesh for the lusts of men, but for the will of God.*
+> 1 Peter 4:1
 
 He who has suffered in the flesh has ceased from sin. Will no longer live life in the flesh fulfilling lusts, but will live for the will of God. Regardless of whether we have sufferings or trials in our flesh, we see Jesus as our example, who has overcome all these things. He Himself was tempted, He also went through tribulations. However, He still overcame all these things.
 
