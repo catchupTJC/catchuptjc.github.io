@@ -20,16 +20,16 @@ Moreover, the sufferings in the world are not created by God! When Adam and Eve 
 
 Death came into the world because of sin. Sin happened because man caused himself to sin, not because of God.
 
-Genesis 3:16-17  
-*To the woman He said:  
-“I will greatly multiply your sorrow and your conception;  
-In pain you shall bring forth children;  
-Your desire shall be for your husband,  
-And he shall rule over you.”  
-Then to Adam He said, “Because you have heeded the voice of your wife, and have eaten from the tree of which I commanded you, saying, ‘You shall not eat of it’:  
-“Cursed is the ground for your sake;    
-In toil you shall eat of it   
-All the days of your life.*
+>*To the woman He said:  
+>“I will greatly multiply your sorrow and your conception;  
+>In pain you shall bring forth children;  
+>Your desire shall be for your husband,  
+>And he shall rule over you.”  
+>Then to Adam He said, “Because you have heeded the voice of your wife, and have eaten from the tree of which I commanded you, saying, ‘You shall not eat of it’:  
+>“Cursed is the ground for your sake;    
+>In toil you shall eat of it   
+>All the days of your life.*
+>Genesis 3:16-17  
 
 When the first man sinned against God, suffering and sorrow came into the world. Woman will bring forth children in pain, man shall toil all the days of his life (only then can he eat of the ground). In verse 19, God says in the end, man will return to dust as well, i.e. man will die!
 
@@ -41,11 +41,11 @@ When we want to think about the meaning of suffering, the first time suffering h
 
 Suffering is something everyone in this world will face. It is inevitable. This is why we fall ill and die one day. This is a truth that we cannot escape from.
 
-Job 14:1-2  
-*“Man who is born of woman  
-Is of few days and full of trouble.  
-He comes forth like a flower and fades away;  
-He flees like a shadow and does not continue.*
+>*“Man who is born of woman  
+>Is of few days and full of trouble.  
+>He comes forth like a flower and fades away;  
+>He flees like a shadow and does not continue.*
+>Job 14:1-2  
 
 We are all born of woman. Our days are few and full of trouble. Like a shadow that disappears quickly and will not last. Because of sin, we will face sufferings. However, because Christians have a true God who has come down to save man, we will have a new body created for us. Only once Jesus comes again, then we will not need to face death again.
 
