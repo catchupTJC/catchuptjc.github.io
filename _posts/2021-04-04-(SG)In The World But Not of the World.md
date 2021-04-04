@@ -10,7 +10,7 @@ Summary:
 What does it mean to be of the world?  
 **1. Outer appearance:** Do we dress in a particular way to bring attention to ourselves?  
 **2. Our view of life:** There is a new religion - humanism - and social media is its temple. Read more below.  
-**3. Our actions and walk of life:** Matt 5 and Rom 12 are two chapters we should read repeatedly. One is an outlook of life; second is how we are going to act in life.
+**3. Our actions and walk of life:** Matt 5 and Rom 12 are two chapters we should read repeatedly. One is an outlook of life; second is how we are going to act in life.  
 **4. Friends:** To avoid being of the world, keep our most important relationships in the church.
 
 Today’s passage is what Jesus prayed aloud to the Father. The purpose is for us to be able to listen. 
@@ -96,11 +96,11 @@ This sermon is just the theme sermon for this quarter and the theme is just part
 Let’s contrast the Beatitudes with the addition of woes in Luke 6:24-26. 
 
 > But woe to you who are rich,
-> For you have received your consolation.
+> For you have received your consolation.  
 > Woe to you who are full,
-> For you shall hunger.
+> For you shall hunger.  
 > Woe to you who laugh now,
-> For you shall mourn and weep.
+> For you shall mourn and weep.  
 > Woe to you when all men speak well of you,
 > For so did their fathers to the false prophets.
 
