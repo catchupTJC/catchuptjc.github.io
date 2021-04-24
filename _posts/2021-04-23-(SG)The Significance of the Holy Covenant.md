@@ -175,3 +175,6 @@ Today, we know that God has established the _church_, and that our bodies have b
 Let us not forget the salvation that God has given to us. Let us be reminded about the significance and meaning of this holy covenant.
 
 Hymn 345: O the Deep, Deep Love of Jesus
+
+----
+****
