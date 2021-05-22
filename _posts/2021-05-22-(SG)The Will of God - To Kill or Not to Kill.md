@@ -9,7 +9,7 @@ speaker: dnjoshuachong
 
 Summary:  
 In 1 Sam 24-26, David was presented with three opportunities to kill.   
-Even when it seemed that God had given him the opportunity to kill Saul, David still was committed to doing the will of God, even when it seemed unfavourable to him. Let us learn from David who always sought to bring honour to God in everything he did. 
+Even when it seemed that God had given him the opportunity to kill Saul, David still was committed to doing the will of God, though it seemed unfavourable to him. Let us learn from David who always sought to bring honour to God in everything he did. 
 
 This sermon will be on understanding the will of God based on 3 stories of David. 
 
