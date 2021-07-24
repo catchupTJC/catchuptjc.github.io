@@ -161,7 +161,5 @@ In the work of God, do we rise up early in the morning to do it? Or is our react
 
 But all three stories tell us that God’s matters may not be easy. Are we as anxious to make matters right before God? When doing the work of God is unpleasant, have we still risen up early in the morning, to carry it out? Do we put the matters of God first in our life? Do we arise up early in the morning to do it?
 
-
 ----
 ****
-
