@@ -1,10 +1,10 @@
 ---
 layout: post
-title: To Rebuild Our Church (5)
+title: The Will of God - To Kill or Not to Kill
 category: sermon2021singapore
-tags: [reflection,scams,deceive,vigilant,faith,Jeroboam,false]
-hymns: [23,25]
-speaker: dncaleblee
+tags: [reflection,david,will,honour,faith,glory]
+hymns: [380,226]
+speaker: dnjoshuachong
 ---
 
 Summary:  
