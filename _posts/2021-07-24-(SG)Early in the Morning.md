@@ -8,190 +8,158 @@ speaker: dnjoshuachong
 ---
 
 Summary:  
-In 1 Sam 24-26, David was presented with three opportunities to kill.   
-Even when it seemed that God had given him the opportunity to kill Saul, David still was committed to doing the will of God, though it seemed unfavourable to him. Let us learn from David who always sought to bring honour to God in everything he did. 
+There are many instances where men of faith woke up early in the morning.  
+1. Jesus woke up early to pray  
+2. Job arose early to intercede for his children  
+3. Abraham rose early to carry out the matters of God  
+Do we put the matters of God first in our life? Are we willing to arise early in the morning to seek God?
 
-This sermon will be on understanding the will of God based on 3 stories of David. 
 
-Rom 12:2 
+Psa 119:147  
+*I rise before the dawning of the morning, And cry for help; I hope in Your word.*
 
-*And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.*
-Paul contrasts obeying the will of God with conforming to the world. Conforming to the world is effortless. Because it’s in our own nature; it’s in us! On the other hand, obeying the will of God requires effort. This verse says it requires transformation by the renewing of the mind. And it’s not always obvious what the will of God is. It’s less obvious that the will of God is good, acceptable and perfect. We know it’s theoretically true. But when applied to our lives, we aren’t able to see. Instead we see what the world offers us as good and perfect. We may even mistake what the world gives us as perfect. We think the will of God is not good to us. We find the will of God is unacceptable. Sometimes we even wonder how the will of God can be perfect. And precisely because it’s not obvious to us, Paul tells us we need to prove it. The Chinese translates it as “test” “discern” which is the same as English to “prove”. What is obvious does not need to be proven. 
+We know that people in the past used to wake up at daybreak to start the day. The psalmist wakes up before daybreak.
 
-This sermon takes a look at a practical application of this verse by looking at 3 stories of David. Each time, he’s presented with the opportunity to kill or not to kill. How did David prove what was the good, acceptable and perfect will of God?
+Why does he wake up so early?
 
-## 1st incident
+To cry out to God for help, to hope in God’s word.
 
-1 Sam 24
+How many of us wake up before the breaking of the dawn? Not many of us, unless it is absolutely necessary. The invention of the lightbulb allowed us to sleep later than before. The smartphone revolution caused us to sleep even later.
 
-Saul chose 3000 men to go after David’s life. Coincidentally, Saul entered the same cave David and his men were hiding. An opportunity has presented itself. What is the will of God? To kill, or not to kill? What would you have done?
+Today, many of us wake up just in time. For students, we wake up just in time to get ready for school. The speaker had to leave the house at 6.20 in order to reach school on time. So he woke up at 6.10. For those working, we wake up just in time to get to work.
 
-Let’s take a look at what the men of David wanted to do. 
+Interestingly, there are many instances where men of faith, like the psalmist here, woke up early in the morning. It was not because everyone else also woke up earlier to start the day. These men of faith didn’t just wake up just in time to go about the day’s business. They woke up earlier than necessary. What did they wake up early in the morning to do?
 
-1 Sam 24:4
+Let’s take a look at a few characters to see what we may learn from them rising early.
 
-*Then the men of David said to him, “This is the day of which the LORD said to you, ‘Behold, I will deliver your enemy into your hand, that you may do to him as it seems good to you.’ ”* *And David arose and secretly cut off a corner of Saul’s robe.*
+## 1. Example of Jesus
 
-Without a shadow of doubt, killing Saul was the will of God for David. To them, they had very valid reasons. Because Saul was the source of all their troubles. He has relentlessly gone after their lives. 
+Jesus also woke up before the dawning of the morning.
 
-They told David in 1 Sam 23:3,  
-*“Look, we are afraid here in Judah. How much more then if we go to Keilah against the armies of the Philistines?”*
+Mk 1:35  
+*Now in the morning, having risen a long while before daylight, He went out and departed to a solitary place; and there He prayed.*
 
-They were in constant fear of their lives because of this man Saul. 
+To be precise, Jesus didn’t just wake up early in the morning to pray. The word used in English is “he rose a long while before daylight”. In other words, he woke up SUPER early in the morning. In Israel, day breaks between 5 or 6, depending on the time of the year. But whatever the time of the year this was, Jesus woke up before 5 to pray, because it was a long while before daybreak.
 
-And if we read 1 Sam 23:26, they were almost caught by Saul. The Bible describes them as escaping by “a hair’s breadth”. So killing Saul would help them solve all problems.
+Why did he wake up so early to pray? If we had done what Jesus had done the previous day, we would all have been fast asleep. What had Jesus been doing the previous day?
 
-Is this how we determine what the will of God is? “If the outcome is favourable to me, it’s the will of God. If it’s not, it’s not the will of God.”
+If we take a look at the earlier passage, the previous day had been the sabbath day. He went into the synagogue and taught. Anyone who is a teacher or who has spoken a sermon knows that it takes a lot of energy. In v23, we read that He also heals a man with an unclean spirit in the synagogue. But his work was not merely restricted to the synagogue. Jesus also went visiting - He entered the house of Peter’s mother in law and healed her. 
 
-Secondly, it was very clear God had given them this opportunity. 
+Then, the Sabbath ended. Did his work end? No. The city brought all the sick for Him to heal them. It was the Sabbath day but Jesus did not have a good rest.
 
-1 Sam 24:4   
-*“This is the day of which the Lord said to you”*
+If we were in Jesus' shoes, we would tell ourselves we need a good rest. We would most likely be fast asleep in the morning. Yet, here tells us that Jesus rose up a long while before daybreak to pray. And Jesus didn’t have the luxury to go back to sleep after prayer.
 
-Of all the caves in this region (there were many in En Gedi), why did Saul choose this one to answer the call for nature? And God is the Lord of all nature. It was very clear to them that it was the hand of God. Not just to them, to everyone in this story!
+V38,  
+*But He said to them, “Let us go into the next towns, that I may preach there also, because for this purpose I have come forth.”*
 
-V10  
-*Look, this day your eyes have seen that the LORD delivered you today into my hand in the cave, and someone urged me to kill you. But my eye spared you, and I said, ‘I will not stretch out my hand against my lord, for he is the LORD’s anointed.’*
+There was more travelling, more work for Jesus to do. The more divine work that Jesus did, the more time He put in prayers.
 
-It was very very clear to David that it was the Lord who delivered Saul to his hand. 
+The opposite is sometimes true for us. We have the misunderstanding that prayer is passive - we often think the effort should be in the work itself. But prayer is NOT passive! It is active. **Work before prayer emphasises what WE are doing. Prayer before work emphasises what God can do.** That’s why we see Jesus ALWAYS made time to pray.
 
-V18  
-*And you have shown this day how you have dealt well with me; for when the LORD delivered me into your hand, you did not kill me.*
+Mk 6:46  
+*And when He had sent them away, He departed to the mountain to pray.*
 
-It was clear, even to Saul, that it was the hand of God. 
+There were times Jesus sent away the masses. Jesus was not always available at all times in the flesh, because Jesus knew he had to spend time connecting with God.
 
-So if God has given us this opportunity, isn’t it the will of God? “Why should I not take it?” 
+Today, many of us have many things to do as well. We find it difficult to cultivate a habit of having long prayers in the morning.
 
-Furthermore the men of David really thought they were fulfilling the will of God (v4). God had already rejected King Saul and promised David would be king. What was wrong with actualising the promise of God? If not, how will our master David become the king of Israel? Furthermore, it’s done in self defence! We’re not murdering Saul, he’s coming after our lives! Even Saul said he would have done the same (v19). To Saul, it was only reasonable to have been killed when having fallen into their hands. 
+Therefore to help us cultivate this habit of praying in the morning, the SCB is organising morning prayers on Zoom starting from 2 August. It is not an early morning prayer at 6.30AM. It will be from 7.30-8.15AM. The first 15 min will be Bible reading and we will be following the CDBD schedule. This will be followed by a prayer from 7.45-8.15.
 
-What about David? What did he think the will of God was?
+We all have different schedules. But as long as your schedule allows for this, we urge you to join us. It’s much easier to sustain a daily prayer when there are other people praying with us.
 
-V6-7  
-*And he said to his men, “The LORD forbid that I should do this thing to my master, the LORD’s anointed, to stretch out my hand against him, seeing he is the anointed of the LORD.” So David restrained his servants with these words, and did not allow them to rise against Saul. And Saul got up from the cave and went on his way.*
+In Acts 3, we also see Peter and John going to the temple to pray together.
 
-David comes to an entirely different conclusion from his men. He concludes that killing Saul is not the will of God. Because David knew that whether an outcome is favourable does NOT determine the will of God. 
+When the speaker was 15 years old, his mother said to him, we’ve not been praying together for a long time. Starting from today, we will start praying for 30min. It became like clockwork. Even after his eldest brother went overseas. Someone will definitely remind you if you’ve not prayed for the day. Even if it’s past midnight. Or if someone is already fast asleep.
 
-There was once a man who came to church. He asked if adultery was a sin because he had fallen in love with a married woman. The relevant verses were shown to him. But he was not convinced. “I need to go home and pray about it.” He came back. He concluded that based on his prayer and communication with God, this was not a mortal sin, or a sin at all. 
+Ecclesiastes says that a threefold cord is not easily broken. We know that doing it is difficult. And so we hope that doing this together as a church can help us cultivate this good habit of praying in the morning.
 
-Was he trying to find the will of God? Of course not. He only wanted the outcome to be favourable to Himself. 
+Isa 50:4  
+*“The Lord GOD has given Me The tongue of the learned, That I should know how to speak A word in season to him who is weary. He awakens Me morning by morning, He awakens My ear To hear as the learned.*
 
-Here, we see the outcome would be totally unfavourable to David. But David spared the life of Saul. David also knew that a God given opportunity does not mean that it is the will of God. We might ask, “Why did God give me this opportunity, if God does not want me to take this opportunity?” We have to be a bit careful. Because not all opportunities come from God. Some opportunities come knocking because we go and look for them. We go looking for the opportunities despite the command of God forbidding us. Of course there will be opportunities for us to sin. 
+Sometimes we complain that we simply don’t have enough time. There are so many things we need to do in life. Whether it’s work, family or church. And we think that our lack of time is the cause for our lack of prayer.
 
-In fact, this story tells us that even if the opportunity is from God, God might have presented it to us, not so we can act on it, but to see whether we would honour Him and not act on it.
+**Have we ever thought that it might be the other way round?  
+It is the lack of prayer that causes the lack of time.**
 
-What was David’s criteria to determine the will of God? His one and only criteria was whether the **action would give God the greatest honour**. And in this case, it meant that since God had anointed Saul, then Saul can only be removed by God.
+If we pray every morning to start the day, as the latter portion of v4 tells us, He awakens me morning by morning, He awakens my ear to hear as the learned. Do you not think we would be able to make the best use of time that God has given us? Because like Jesus, we are seeking to do the things of God first thing in the morning. Prayer must always be the first movement. Because prayer was Jesus’ first movement.
 
-We can see David had a high regard for the anointed of the Lord. He felt guilty even for cutting the corner of Saul’s robe. Why?
+We hope that everyone, if it is possible, do join us for the morning prayer starting 2 August.
 
-The speaker was trying to think of an equivalent in today’s terms. Here is an example. He has a long time friend of his; who used to stay in the hostel 30 years ago. The hostel master somehow didn’t like him and always picked on him. There was once the hostel master made his friend wash the drain outside the hostel. The hostel was large and the drain was long. His friend got angry. He said it was so long, he spent so much time and he was so angry. So when he had the opportunity he did something. He thought no one was looking. He secretly released the air from the tires of the hostel master. He turned around and the hostel master was just right there staring at him. 
+## 2. The example of Job
 
-In a similar way, cutting off the corner of Saul’s robe may seem insignificant to us. But to David, it was going against the interest of Saul. To David, what did it actually mean to honour the anointed of the Lord? It meant that he had to honour Saul as his master. Immediately after his conscience struck him, he refers to Saul as his master in v6. And then v7 he restrains all his servants from harming Saul. He could’ve just allowed his men to do the dirty work for him. He could have said, “I didn’t do it! My men wanted to do it!”
+Job 1:5  
+*So it was, when the days of feasting had run their course, that Job would send and sanctify them, and he would rise early in the morning and offer burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned and cursed God in their hearts.” Thus Job did regularly.*
 
-Would you still seek the best interest of a man who wanted to kill you?
+The custom of Job. His seven sons would feast and invite their sisters. And when the feasting ended, Job would send for his children early in the morning to sanctify them. He offered burnt offerings individually for all of his children. Can you imagine how much time it would take? 10 burnt offerings, each for his children.
 
-But David knew he had to work for the best interests of Saul. David honoured Saul not because Saul was a great or good man, but because he had to give the greatest honour to his God.
+Why did he do such a thing? Just in case they had sinned and cursed God in their hearts.
 
-In the end, David proved what is the good, acceptable and perfect will of God. Even Saul acknowledged that David was a righteous man. 
+There is a modern equivalent. Imagine your children going out to play. “Eh son, come here. Kneel down and pray.” “Why?” “Just in case you played too much and forgot about God.” This was really the practice of Job.
 
-What about us? Who do we give the greatest honour to?
+Job didn’t know whether his children had sinned. He hadn’t seen his children sin. But Job would rather err on the side of caution. He was willing to go to these great lengths in order to protect his children.
 
-## 2nd incident
+Today, parents also go to great lengths to protect their children. There’s this parent at the childcare centre. The first thing she does when she picks up her child is to take off his mask, put some vaporub, and spray some nasal spray. She would rather err on the side of caution.
 
-1 Sam 25. 
-We just read that David refused to take vengeance for himself. But here there’s a complete flip of the script. David wants to take vengeance for himself. What happened? Because David’s men had protected Nabal’s flock while they were in Carmel. Some have asked whether David was acting like a gangster asking for protection money. What David did probably reflected the practice at that time. The danger of raiders was very real. In fact, later on David was raided as well. His own city Ziglag was raided by Amalekites. Even Nabal’s men acknowledged that David’s men gave them very good protection. It was not an imagined scenario. And David is not asking for a monthly fixed amount. He sent his men on one feast day and asked Nabal to give something.
+The possibility that Job’s children had sinned was sufficient justification for Job. He didn’t wait for the afternoon to wait for them to get up from their sleep. He could have allowed them to sleep more. But Job would get up early in the morning. And he did this regularly! His children’s spiritual state was of paramount importance to Job. Are we like Job? Do we place paramount importance on the spiritual state of our children?
 
-How did Nabal respond? Actually, Nabal had a few options. He could have given a great generous gift to David. Or, he could have given a less generous gift. David had said anything was fine. Or thirdly, Nabal could have apologised and not given a gift. He could have said, “I need to leave what I have for my shepherds and shearers.” And he could have apologised. But he took the last option, which shows that he was really a scoundrel. He decided not to give and even added insult. 
+Psa 127:3  
+*Behold, children are a heritage from the LORD, The fruit of the womb is a reward.*
 
-“Who is David?”
+Job really understood what it meant that children were a heritage from God. As parents we are not only meant to give them food and educate them. But also to nurture them and bring them up in the Lord. We are not trying to disparage secular education. Secular education is also important, because you need to be literate to read the Bible.
 
-Of course Nabal knew who David was. In fact, he says “Who is the son of Jesse?” David was well known in Israel. But Nabal just refused to acknowledge David.
+Sometimes when the speaker reads the Bible to her daughter, she says stop and tries to read. She’ll try for a moment, then she’ll look at him in defeat. “I cannot read.” “Then you said you wanted to read?”
 
-How did David respond? To kill or not to kill? 
+We need education to read the Bible. We need to be fluent in languages to be able to interpret. Secular education is also a necessary part of our children’s growth in the Lord.
 
-V13  
-*Then David said to his men, “Every man gird on his sword.” So every man girded on his sword, and David also girded on his sword. And about four hundred men went with David, and two hundred stayed with the supplies.*
+But the question is really one of emphasis. 
 
-David’s action is expected. In the world, the thinking is, “If you don’t treat me well even though I treat you well, I will take vengeance.”
+We take interest in so many other things in our children’s lives. **Do we also take charge of our children’s spiritual life?** Or do we leave them to make their own independent decisions about their faith? Oh, we’ll leave them to make their own decisions about faith when they grow up. But if we think about it, we don’t let them make their own decisions whether to go to school or not. How will the child know? A child doesn’t know any better.
 
-The servants knew what was coming. 
+Job also didn’t leave it to his children’s own independent choices. His children were most likely young adults. He didn’t leave them to wake up on their own accord to sacrifice for themselves. But he took a personal interest in this matter. He took the lead in this matter.
 
-V17  
-*Now therefore, know and consider what you will do, for harm is determined against our master and against all his household. For he is such a scoundrel that one cannot speak to him.”*
+What about us? Do we take an interest? Do we take the lead in the spiritual lives of our children? If they’ve not received the Holy Spirit, do we care? Or do we think it’s the work of the preachers and counsellors to motivate them to pray during Theolo? Of course they need to establish their own personal relationship with God. And they need to pray very hard for the Holy Spirit themselves. But this really is a matter of life and death. Will we just leave our children to their own devices?
 
-We know David doesn’t use the ways of the world. But why did David take this action? He refused to take the life of Saul but now wanted to slaughter the whole house of Nabal. 
+We know the famous story of Abraham pleading for sodom and Gomorrah. We know he was really pleading for the life of Lot. Have we interceded for our children as Abraham interceded for Lot? Abraham could have given up on Lot. Because Lot had made a stupid choice. Abraham had even saved him from being a prisoner. But Lot went straight back to Sodom. If we were in Abraham’s shoes, we might give up on him. But we see that Abraham interceded for Lot again and again. His concern for Lot is not just shown in his intercession, but what he did the next morning.
 
-Saul was his superior. The anointed of the Lord. The king. Of course Saul had his men too. But now Nabal was insulting him. 
+Gen 19:27-29  
+*27 And Abraham went early in the morning to the place where he had stood before the LORD.*   
+*28 Then he looked toward Sodom and Gomorrah, and toward all the land of the plain; and he saw, and behold, the smoke of the land which went up like the smoke of a furnace.*
+*29 And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when He overthrew the cities in which Lot had dwelt.*
 
-If we think about it, Nabal was really a fool. If David could protect him from the raiders, wouldn’t David be able to raid him?
+Abraham was so concerned about what had happened that he arose early in the morning to the same place where he had interceded with God, to take a look at what had happened. Of course sodom and Gomorrah had been destroyed.
 
-Nabal asked, “Who is David?”
+From Abraham’s perspective, it seemed that his prayer had gone up in smoke. But v29 tells us that it was not for nothing. God remembered Abraham and sent Lot out of the midst of the overthrow. This is something Abraham would not have known when he took a look at sodom and Gomorrah. But God had remembered Abraham.
 
-But in reality, who was Nabal to insult David?
+Sometimes we may not see results. But let us not be discouraged. Our concern and earnest intercession will be remembered by God. The more important question is whether we have placed paramount importance on the spiritual state of our children, like Job. Are we as anxious for their spiritual life, as Abraham was for the life of Lot?
 
-There is a Chinese saying, “人善被人欺，马善被人骑”, meaning, a weak person is liable to be bullied, a weak horse is likely to be ridden. 
+Both Abraham and Job rose early in the morning to show concern for their loved ones. What have we risen up early for?
 
-David was going to show Nabal. 
+Finally, in matters concerning God, we must rise up early. We will look at three stories briefly. These stories are in Genesis 20-22. From Genesis 19-22, someone always woke up early in the morning.
 
-V22  
-*May God do so, and more also, to the enemies of David, if I leave one male of all who belong to him by morning light.”*
+Gen 20:8  
+*So Abimelech rose early in the morning, called all his servants, and told all these things in their hearing; and the men were very much afraid.*
 
-But was this the will of God? Obviously not. 
- 
-V31  
-*that this will be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. But when the LORD has dealt well with my lord, then remember your maidservant.”*
+Why did Abimelech rise up early in the morning?
 
-If David had killed Nabal, he would have shed blood without cause. He wasn’t killing Nabal out of self defence. Being insulted doesn’t mean you can kill a person. Abigail said that doing this was taking vengeance for himself. The right response is to commit it to God. Just like what Paul said in Romans not to repay evil for evil. Do not take vengeance for ourselves. 
+Because God had appeared to him in a dream to warn him, because he had taken Sarah. And God told him, if you don’t restore Sarah, you and your household will be destroyed. Of course we know this was not his fault. Abraham had said that she was his sister. Abimelech had done it in the integrity of his heart. Still he wakes up early in the morning because it is a matter of life and death. Now he knew, he had to make it right before God. So he rose up early in the morning, to quickly settle this matter before God.
 
-We may also act like David when our emotions get the better of us. If we are humiliated. If the person insulting us is someone lower than us. All the more we find it harder to swallow. Let’s not talk about doing the will of God. It’s the last thing on our minds. We just want to defend our pride/honour. Is this not the action of the people of the world?
+In spiritual matters of life and death, do we also rise up early in the morning to make matters right before God? If we have not received the Holy Spirit, is this matter at the top of our mind? Are we as anxious as Abimelech to make matters right before God?
 
-For David, his reaction is out of character. But it was really a moment of rashness. He was angered by the harsh words of Nabal. Words can really insult someone and cause someone to do something foolish. But he was also quickly appeased by the wide words of Abigail. 
+Gen 21:14  
+*So Abraham rose early in the morning, and took bread and a skin of water; and putting it on her shoulder, he gave it and the boy to Hagar, and sent her away. Then she departed and wandered in the Wilderness of Beersheba.*
 
-V33  
-*And blessed is your advice and blessed are you, because you have kept me this day from coming to bloodshed and from avenging myself with my own hand.*
+We see Abraham rising up early to send Hagar and Ishmael away. We know that Abraham was a man who esteemed kinship. Which is why he would go to great lengths to save Lot. Sarah wanted to throw out Hagar and Ishmael, but Abraham was disturbed by this request. He could not bring himself to do this. Ishmael was still his flesh and blood. But in v12, once God tells Abraham to listen to sarah, (if we read Galatians we know that this was the will of God, to throw out Ishmael and Hagar), though Abraham was unwilling, how does he respond? He wasted absolutely no time. He rose up early in the morning and sent them away. In matters relating to God, no matter how unpleasant it may be, we must rise up early in the morning to do it.
 
-Previously we saw David discerning that the voice of his men wasn’t the will of God. Here, David shows that he’s not a person that does not listen to others. He discerned that Abigail’s voice of reason was actually the will of God. He recognised it was God who sent Abigail to hold him back. So he turned course. He acknowledged that he was wrong and he wasn’t supposed to take revenge for himself. He should commit it to the will of God. Again David proved what is the good, acceptable and perfect will of God. Because God repaid Nabal for all he had done. God struck Nabal dead. Only God can take vengeance because vengeance is the Lord’s. 
+Gen 22:3  
+*So Abraham rose early in the morning and saddled his donkey, and took two of his young men with him, and Isaac his son; and he split the wood for the burnt offering, and arose and went to the place of which God had told him.*
 
-How about us? When God sends a voice of reason to hold us back, do we still insist on taking matters into our own hands? Or do we overcome our emotions like David and submit to the will of God?
+We know this famous story. This was the greatest test of his faith. He could have waited till noon time before setting off. He could have delayed and delayed and put it off till the next day. Often when we have work to do, we often delay and procrastinate. But Abraham did not delay even the slightest. Once God told him, he rose up early in the morning to complete it. In matters relating to God, no matter how difficult it may be, we must rise up early in the morning to accomplish it.
 
-## 3rd incident
-1 Sam 26
+What about us?
 
-This is almost a repeat of chapter 24. Everything said earlier can be applied here. In this chapter, again Saul changes his mind and wants to pursue David. Again an opportunity presents itself. 
+In the work of God, do we rise up early in the morning to do it? Or is our reaction to push it away if possible? Or is it to delay doing the work of God? Doing the work of God is not always pleasant. Abraham had to send his own son away. There is pressure and challenges in doing the work of God. You would feel stressed sometimes. Sometimes it is very difficult. Abraham even had to offer his own son. As human beings, none of us like to be stressed. We would like to lead a good and easy life. We think, “if it is the work of God, it must be easy.”
 
-V12  
-*So David took the spear and the jug of water by Saul’s head, and they got away; and no man saw or knew it or awoke. For they were all asleep, because a deep sleep from the LORD had fallen on them.*
-
-Previously, there was still a chance it was a coincidence that Saul entered the cave. But now the deep sleep came from the Lord. Everything is also laid out nicely for him. 
-
-v7   
-*there Saul lay sleeping within the camp, with his spear stuck in the ground by his head*
-
-The spear was just next to Saul’s head. Most likely this is the same spear Saul tried to spear David with. 
-
-Again, what is the will of God? To kill or not to kill?
-
-v8 Abishai and the men who followed David say it’s the will of God to kill Saul. “Maybe you didn’t do the will of God the other time. God is giving you a second chance to do His will!”
-
-Likely this was a test of David’s endurance. Saul had changed his mind. Would David also change his mind?
-
-The first time David committed to do the will of God, God provided a way out for him. What happens when things become unfavourable again? Would we stick to our commitment? “What if Saul keeps changing his mind? What if he keeps coming after me? Maybe God is really giving me an opportunity here to finish him off.” Sometimes we make a commitment and also change our minds. 
-
-Saul was someone who constantly flip flops. Previously he said he had sinned! Then he comes after David again. We know that Saul had removed all the mediums from the land of Israel. But when his own life was in danger, he went looking for a medium himself. He was a man who did not hold on to his commitment to the very end. 
-
-Are we like Saul or like David? Many of us made commitments when we received the Holy Spirit. “I must live for God. I am going to attend more services. I will read the Bible and pray everyday.” 
-
-Are we still committed today? Or have we changed our commitments already?
-
-
-In conclusion, let’s read  
-Heb 10:36  
-*For you have need of endurance, so that after you have done the will of God, you may receive the promise:*
-
-Time is the greatest challenge to our faith. Endurance is most necessary to do the will of God. Doing the will of God for a moment is easy. But doing the will of God for a lifetime is difficult. Doing the will of God when it is favourable is easy. Doing the will of God when things turn unfavourable is very very hard. 
-
-And in all three stories we see that David was committed to doing the will of God, even when the situation was unfavourable. Even when he was insulted and had to swallow his pride. He was committed to the very end. 
-
-And eventually we know that David proved the good, acceptable and perfect will of God throughout his life. Will we also prove the good, acceptable and perfect will of God throughout our life? Are we committed to the will of God to the very end?
+But all three stories tell us that God’s matters may not be easy. Are we as anxious to make matters right before God? When doing the work of God is unpleasant, have we still risen up early in the morning, to carry it out? Do we put the matters of God first in our life? Do we arise up early in the morning to do it?
 
 
 ----
