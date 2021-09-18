@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scams (2)
+title: To Rebuild Our Church (5)
 category: sermon2021singapore
 tags: [reflection,scams,deceive,vigilant,faith,Jeroboam,false]
 hymns: [23,25]
