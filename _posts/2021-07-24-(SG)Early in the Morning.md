@@ -2,8 +2,8 @@
 layout: post
 title: Early in the Morning
 category: sermon2021singapore
-tags: [reflection,david,will,honour,faith,glory]
-hymns: [380,226]
+tags: [reflection,early,Abraham,Job,Jesus,work]
+hymns: [466,405]
 speaker: dnjoshuachong
 ---
 
